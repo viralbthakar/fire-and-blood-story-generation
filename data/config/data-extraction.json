@@ -1,0 +1,223 @@
+{
+    "house-of-dragons": {
+        "episodes": [
+            {
+                "id": 1,
+                "title": "The Heirs of the Dragon",
+                "url": "https://gameofthrones.fandom.com/wiki/The_Heirs_of_the_Dragon",
+                "headers": [
+                    "Synopsis"
+                ]
+            },
+            {
+                "id": 2,
+                "title": "The Rogue Prince",
+                "url": "https://gameofthrones.fandom.com/wiki/The_Rogue_Prince",
+                "headers": [
+                    "Synopsis"
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Second of His Name",
+                "url": "https://gameofthrones.fandom.com/wiki/Second_of_His_Name",
+                "headers": [
+                    "Synopsis"
+                ]
+            },
+            {
+                "id": 4,
+                "title": "King of the Narrow Sea",
+                "url": "https://gameofthrones.fandom.com/wiki/King_of_the_Narrow_Sea_(episode)",
+                "headers": [
+                    "Synopsis"
+                ]
+            },
+            {
+                "id": 5,
+                "title": "We Light the Way",
+                "url": "https://gameofthrones.fandom.com/wiki/We_Light_the_Way",
+                "headers": [
+                    "Synopsis"
+                ]
+            },
+            {
+                "id": 6,
+                "title": "The Princess and the Queen",
+                "url": "https://gameofthrones.fandom.com/wiki/The_Princess_and_the_Queen",
+                "headers": [
+                    "Synopsis"
+                ]
+            },
+            {
+                "id": 7,
+                "title": "Driftmark",
+                "url": "https://gameofthrones.fandom.com/wiki/Driftmark_(episode)",
+                "headers": [
+                    "Synopsis"
+                ]
+            },
+            {
+                "id": 8,
+                "title": "The Lord of the Tides",
+                "url": "https://gameofthrones.fandom.com/wiki/The_Lord_of_the_Tides",
+                "headers": [
+                    "Synopsis"
+                ]
+            },
+            {
+                "id": 9,
+                "title": "The Green Council",
+                "url": "https://gameofthrones.fandom.com/wiki/The_Green_Council",
+                "headers": [
+                    "Synopsis"
+                ]
+            },
+            {
+                "id": 10,
+                "title": "The Black Queen",
+                "url": "https://gameofthrones.fandom.com/wiki/The_Black_Queen",
+                "headers": [
+                    "Synopsis"
+                ]
+            }
+        ],
+        "differences": [
+            {
+                "id": 1,
+                "title": "Differences in adaptation",
+                "url": "https://gameofthrones.fandom.com/wiki/Differences_in_adaptation/House_of_the_Dragon:_Season_1",
+                "headers": [
+                    "General differences",
+                    "Differences by episode"
+                ]
+            }
+        ],
+        "characters": [
+            {
+                "id": 1,
+                "title": "Viserys I Targaryen",
+                "url": "https://gameofthrones.fandom.com/wiki/Viserys_I_Targaryen",
+                "headers": [
+                    "Biography",
+                    "Personality"
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Daemon Targaryen",
+                "url": "https://gameofthrones.fandom.com/wiki/Daemon_Targaryen",
+                "headers": [
+                    "Biography",
+                    "Personality"
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Rhaenyra Targaryen",
+                "url": "https://gameofthrones.fandom.com/wiki/Rhaenyra_Targaryen",
+                "headers": [
+                    "Biography",
+                    "Personality"
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Alicent Hightower",
+                "url": "https://gameofthrones.fandom.com/wiki/Alicent_Hightower",
+                "headers": [
+                    "Biography",
+                    "Personality"
+                ]
+            },
+            {
+                "id": 5,
+                "title": "Otto Hightower",
+                "url": "https://gameofthrones.fandom.com/wiki/Otto_Hightower",
+                "headers": [
+                    "Biography",
+                    "Personality"
+                ]
+            },
+            {
+                "id": 6,
+                "title": "Corlys Velaryon",
+                "url": "https://gameofthrones.fandom.com/wiki/Corlys_Velaryon",
+                "headers": [
+                    "Biography",
+                    "Personality"
+                ]
+            },
+            {
+                "id": 7,
+                "title": "Rhaenys Targaryen",
+                "url": "https://gameofthrones.fandom.com/wiki/Rhaenys_Targaryen",
+                "headers": [
+                    "Biography",
+                    "Personality"
+                ]
+            },
+            {
+                "id": 8,
+                "title": "Mysaria",
+                "url": "https://gameofthrones.fandom.com/wiki/Mysaria",
+                "headers": [
+                    "Biography",
+                    "Personality"
+                ]
+            },
+            {
+                "id": 9,
+                "title": "Criston Cole",
+                "url": "https://gameofthrones.fandom.com/wiki/Criston_Cole",
+                "headers": [
+                    "Biography",
+                    "Personality"
+                ]
+            },
+            {
+                "id": 10,
+                "title": "Harrold Westerling",
+                "url": "https://gameofthrones.fandom.com/wiki/Harrold_Westerling",
+                "headers": [
+                    "Biography",
+                    "Personality"
+                ]
+            }
+        ],
+        "dragons": [
+            {
+                "id": 1,
+                "title": "Vhagar",
+                "url": "https://gameofthrones.fandom.com/wiki/Vhagar",
+                "headers": [
+                    "Biography"
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Caraxes",
+                "url": "https://gameofthrones.fandom.com/wiki/Caraxes",
+                "headers": [
+                    "Biography"
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Syrax",
+                "url": "https://gameofthrones.fandom.com/wiki/Syrax",
+                "headers": [
+                    "Biography"
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Meleys",
+                "url": "https://gameofthrones.fandom.com/wiki/Meleys",
+                "headers": [
+                    "Biography"
+                ]
+            }
+        ]
+    }
+}
