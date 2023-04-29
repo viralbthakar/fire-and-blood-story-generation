@@ -1,0 +1,15 @@
+ipykernel
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+joblib
+lightgbm
+xgboost
+tensorflow
+tqdm
+holidays
+statsmodels
+pyarrow
+streamlit
