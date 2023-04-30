@@ -1,0 +1,954 @@
+{
+    "03-Three Heads Had the Dragon Governance Under King Aegon I": [
+        {
+            "paragraph_id": 0,
+            "paragraph": "Aegon I Targaryen was a warrior of renown, the greatest Conqueror in the history of Westeros, yet many believe his most significant accomplishments came during times of peace. The Iron Throne was forged with fire and steel and terror, it is said, but once the throne had cooled, it became the seat of justice for all Westeros.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon I Targaryen"
+            ],
+            "places": [
+                "Westeros",
+                "Iron Throne"
+            ],
+            "events": [],
+            "verbs": [
+                "forged",
+                "cooled"
+            ],
+            "adjectives": [
+                "renown",
+                "greatest",
+                "significant",
+                "fire",
+                "steel",
+                "terror"
+            ],
+            "chatgpt_paragraph": "\n\nWhen Aegon I Targaryen, the first ruler of Westeros and forgeger of the Iron Throne descended upon Westeros for the first time, he brought with him a renown unlike any other. Bearing to his new realm a great weapon forged from fire and steel, Aegon used terror as his greatest tool in unifying what was once seven divided kingdoms. In almost every corner of the realm, stories were circulated about the Dragon King and eventually people began to look towards House Targaryen as their greatest hope - this marked one of the most significant turning points in history."
+        },
+        {
+            "paragraph_id": 1,
+            "paragraph": "The reconciliation of the Seven Kingdoms to Targaryen rule was the keystone of Aegon I\u2019s policies as king. To this end, he made great efforts to include men (and even a few women) from every part of the realm in his court and councils. His former foes were encouraged to send their children (chiefly younger sons and daughters, as most great lords desired to keep their heirs close to home) to court, where the boys served as pages, cupbearers, and squires, the girls as handmaidens and companions to Aegon\u2019s queens. In King\u2019s Landing, they witnessed the king\u2019s justice at first hand, and were urged to think of themselves as leal subjects of one great realm, not as westermen or stormlanders or northmen.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon I"
+            ],
+            "places": [
+                "Seven Kingdoms",
+                "King's Landing"
+            ],
+            "events": [
+                "reconciliation of the Seven Kingdoms to Targaryen rule"
+            ],
+            "verbs": [
+                "made great efforts",
+                "were encouraged",
+                "served",
+                "witnessed",
+                "urged"
+            ],
+            "adjectives": [
+                "great",
+                "former",
+                "leal"
+            ],
+            "chatgpt_paragraph": "\n\nAegon I Targaryen had made great efforts in his battle to reconcile the Seven Kingdoms to Targaryen rule. Aegon I's success was greatly encouraged by different characters near and far, including liege lords, septons and maesters who served as witnesses or were urged to join his cause. The greatest of these former adversaries that Aegon named gracious supporters was Lord Edmyn Tully of Riverrun. During this time, hundreds of people from every corner of the realm from Oldtown to the Free Cities witnessed as Addison Hill, Heir Of Westeros, sat on the Iron Throne for a significant ceremony marking peace. Fire and steel had done their terror under Aegon; yet it was cooled with words of great understanding that eventually formed seven kingdoms one kingdom serving under the rules set by Aegon I Targaryen - King Of The Andals & The First Men!"
+        },
+        {
+            "paragraph_id": 2,
+            "paragraph": "The Targaryens also brokered many marriages between noble houses from the far ends of the realm, in hopes that such alliances would help tie the conquered lands together and make the seven kingdoms one. Aegon\u2019s queens, Visenya and Rhaenys, took a special delight in arranging these matches. Through their efforts, young Ronnel Arryn, Lord of the Eyrie, took a daughter of Torrhen Stark of Winterfell to wed, whilst Loren Lannister\u2019s eldest son, heir to Casterly Rock, married a Redwyne girl from the Arbor. When three girls, triplets, were born to the Evenstar of Tarth, Queen Rhaenys arranged betrothals for them with House Corbray, House Hightower, and House Harlaw. Queen Visenya brokered a double wedding between House Blackwood and House Bracken, rivals whose history of enmity went back centuries, matching a son of each house with a daughter of the other to seal a peace between them. And when a Rowan girl in Rhaenys\u2019s service found herself with child by a scullion, the queen found a knight to marry her in White Harbor, and another in Lannisport who was willing to take on her bastard as a fosterling.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon",
+                "Visenya",
+                "Rhaenys",
+                "Ronnel Arryn",
+                "Torrhen Stark",
+                "Loren Lannister's eldest son",
+                "Redwyne girl",
+                "Evenstar of Tarth",
+                "House Corbray ",
+                "House Hightower",
+                "House Harlaw",
+                " House Blackwood ",
+                "House Bracken ",
+                "Rowan girl"
+            ],
+            "places": [
+                "far ends of the realm",
+                "seven kingdoms one",
+                "Winterfell",
+                "The Arbor",
+                "The Eyrie",
+                "Casterly Rock",
+                "Tarth,",
+                "White Harbor",
+                "Lannisport"
+            ],
+            "events": [
+                "queens took a special delight in arranging matches-marriage between noble houses - double wedding between house blackwood and bracken. rowan girl found with child by scullion"
+            ],
+            "verbs": [
+                "brokered",
+                "arranging",
+                "matches",
+                "took",
+                "delight",
+                "sealed",
+                "matched",
+                "found",
+                "brokered",
+                "took",
+                "Arranged",
+                "betrothals",
+                "took",
+                "bastard",
+                "fosterling"
+            ],
+            "adjectives": [
+                "noble",
+                "far",
+                "conquered",
+                "young",
+                "triplets",
+                "rivaled",
+                "centuries",
+                "enmity"
+            ],
+            "chatgpt_paragraph": "\n\nAegon and his sisters, Visenya and Rhaenys, made great efforts in their endeavors to mend the former enmity that had divided the Seven Kingdoms. They were encouraged by noblemen such as Ronnel Arryn of The Eyrie, Torrhen Stark of Winterfell and Loren Lannister's eldest son from Casterly Rock. With the aid of these men they served to witness many agreements between rival houses being sealed by marriage matches-brokered by both Queens- that took a special delight from Queen Visenya to arrange. Among them included a double wedding between House Blackwood and Bracken with one Redwyne girl matched to Evenstar of Tarth from House Corbray, and another Rowan girl who was soon found with child by her fosterling scullion. Urged on with great magnanimity Aegon I Targaryen also conquered even more far reaches of the seven kingdoms in order for these betrothals taking place at castles from White Harbor\u2019s Lannisport, all the way down through Tarth up until The Eyrie while making sure those allied remained leal to him or suffer a similar fate as their vanquished kin fallen before them."
+        },
+        {
+            "paragraph_id": 3,
+            "paragraph": "Though none doubted that Aegon Targaryen was the final authority in all matters relating to the governance of the realm, his sisters Visenya and Rhaenys remained his partners in power throughout his reign. Save perhaps for Good Queen Alysanne, the wife of King Jaehaerys I, no other queen in the history of the Seven Kingdoms ever exercised as much influence over policy as the Dragon\u2019s sisters. It was the king\u2019s custom to bring one of his queens with him wherever he traveled, whilst the other remained at Dragonstone or King\u2019s Landing, oft as not seated on the Iron Throne, ruling on whatever matters came before her.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon Targaryen",
+                "Visenya",
+                "Rhaenys",
+                "Good Queen Alysanne",
+                "King Jaehaerys"
+            ],
+            "places": [
+                "Seven Kingdoms",
+                "Dragonstone",
+                "King's Landing"
+            ],
+            "events": [],
+            "verbs": [
+                "doubted",
+                "exercised",
+                "traveled",
+                "ruling"
+            ],
+            "adjectives": [
+                "final",
+                "much",
+                "custom"
+            ],
+            "chatgpt_paragraph": " \n\nKing Jaehaerys the Conciliator was determined to undo centuries of enmity between the seven kingdoms one by one and he greatly exercised his power over arranged matches between noble houses. Visenya, Rhaenys and Aegon Targaryen had famously brokered a double wedding in the far ends of the realm between House Blackwood and House Bracken, sealed with a betrothal to Ronnel Arryn of The Eyrie and Torrhen Stark, Lord of Winterfell respectively. An Evenstar from Tarth was matched to Loren Lannister's eldest son in White Harbor while a Redwyne girl found an unexpected new home at Casterly Rock after she was taken in as fosterling for a bastard born in her father's castle. Good Queen Alysanne continued much of this work even after King Jaehaerys's final ruling days were done traveling widely through the Seven Kingdoms, taking delight in matching children from rival houses and ensuring peace for all time."
+        },
+        {
+            "paragraph_id": 4,
+            "paragraph": "Though Aegon had designated King\u2019s Landing as his royal seat and installed the Iron Throne in the Aegonfort\u2019s smoky longhall, he spent no more than a quarter of his time there. Full as many of his days and nights were spent on Dragonstone, the island citadel of his forebears. The castle below the Dragonmont had ten times the room of the Aegonfort, with considerably more comfort, safety, and history. The Conqueror was once heard to say that he even loved the scent of Dragonstone, where the salt air always smelled of smoke and brimstone. Aegon spent roughly half the year at his two seats, dividing his time between them.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon"
+            ],
+            "places": [
+                "King's Landing",
+                "Aegonfort",
+                "Dragonstone",
+                "Dragonmont"
+            ],
+            "events": [],
+            "verbs": [
+                "designated",
+                "installed",
+                "spent",
+                "were spent",
+                "had",
+                "love"
+            ],
+            "adjectives": [
+                "royal",
+                "smoky",
+                "ten times",
+                "comfortable ",
+                "safe ",
+                "historical",
+                "salt",
+                "smokey",
+                "brimstone"
+            ],
+            "chatgpt_paragraph": "\n\nAegon traveled to King's Landing and built Aegonfort, a castle designed for the comfort of his royal family. Every corner of the Seven Kingdoms was fortunate that their king had exercised so much love in ruling them. Dragonstone, perched atop Dragonmont with its smoky brimstone scent, was ten times as safe and comfortable due to its historical affiliation with House Targaryen. It was also said that Aegon spent much of his time there, where he installed many faithful advisers and were spent amongst enemies who had doubted him in the past. Thus began a final era for Westoros as Good Queen Alysanne herself had much custom for this new house."
+        },
+        {
+            "paragraph_id": 5,
+            "paragraph": "The other half he devoted to an endless royal progress, taking his court from one castle to another, guesting with each of his great lords in turn. Gulltown and the Eyrie, Harrenhal, Riverrun, Lannisport and Casterly Rock, Crakehall, Old Oak, Highgarden, Oldtown, the Arbor, Horn Hill, Ashford, Storm\u2019s End, and Evenfall Hall had the honor of hosting His Grace many times, but Aegon could and would turn up almost anywhere, sometimes with as many as a thousand knights and lords and ladies in his train. He journeyed thrice to the Iron Islands (twice to Pyke and once to Great Wyk), spent a fortnight at Sisterton in 19 AC, and visited the North six times, holding court thrice in White Harbor, twice at Barrowton, and once at Winterfell on his very last royal progress in 33 AC.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon"
+            ],
+            "places": [
+                "Gulltown",
+                "The Eyrie",
+                "Harrenhal",
+                "Riverrun",
+                "Lannisport",
+                "Casterly Rock",
+                "Crakehall",
+                "Old Oak",
+                "Highgarden",
+                "Oldtown",
+                "The Arbor",
+                "Horn Hill",
+                "Ashford",
+                "Storm's End",
+                "Evenfall Hall",
+                "Pyke",
+                "Great Wyk",
+                "Sisterton",
+                "White Harbor",
+                "Barrowton",
+                "Winterfell"
+            ],
+            "events": [
+                "An endless royal progress"
+            ],
+            "verbs": [
+                "devoted to ",
+                "taking his court from one castle to another",
+                "guesting with each of his great lords in turn."
+            ],
+            "adjectives": [
+                "endless"
+            ],
+            "chatgpt_paragraph": "\n\nKing Aegon spent nearly a year devoted to an endless royal progress, taking his court from one castle to another, guesting with each of his great lords in turn. He and Queen Visenya visited the Eyrie and Harrenhal and Riverrun, Lannisport and Casterly Rock, Crakehall and Old Oak, Highgarden and Oldtown. At the Arbor he even made a brief visit to Evenfall Hall for a festival held at Lord Monkeyface's estate. Everywhere Aegon went he was welcomed heartily as King of Westeros with banners flying from every castle across the Seven Kingdoms (save in Dorne).\n \nDuring his travels Aegon also had time for other pursuits: exploring Tall Trees Town off the coast of Duskendale; hunting stags amidst Griffith Goode\u2019s woods near White Harbor; or visiting some of the older sites where House Targaryen had their roots such as Dragonstone or old smokey Dragonmont atop its mountain home high above Gulltown. His visits often brimmed with drama as royals flocked to pay tribute; Addison Hill arrived making memories by hosting him at White Harbor while Sons Meraxes at Horn Hill gave him such comfort that it was said ten times more comfortable than any night he'd ever spent in King's Landing \u2013 despite being called home sweet home - though it is disputed how much love there was between them both! Historical sights like The Starry Sept were visited too \u2013 narrowly avoiding murder when a Dornish cutthroat seeking vengeance on Queen Rhaenys came too close for comfort! It certainly wasn't safe but many say it deepened ties between people scattered throughout every corner of the realm."
+        },
+        {
+            "paragraph_id": 6,
+            "paragraph": "\u201cIt is better to forestall rebellions than to put them down,\u201d Aegon famously said, when asked the reason for his journeys. A glimpse of the king in all his power, mounted on Balerion the Black Dread and attended by hundreds of knights glittering in silk and steel, did much to instill loyalty in restless lords. The smallfolk needed to see their kings and queens from time to time as well, the king added, and know that they might have the chance to lay their grievances and concerns before him.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon"
+            ],
+            "places": [],
+            "events": [],
+            "verbs": [
+                "forestall",
+                "put",
+                "mounted",
+                "attended",
+                "instill",
+                "needed"
+            ],
+            "adjectives": [
+                "rebellions",
+                "power",
+                "knights",
+                "glittering",
+                "silk",
+                "steel",
+                "smallfolk"
+            ],
+            "chatgpt_paragraph": "\n\nAegon, determined to forestall any further rebellions, mounted his dragon Meraxes and attended by a glittering procession of knights clad in silk and steel, he set off on an endless royal progress taking his court from one castle to another, guesting with each of his great lords in turn. This instilled the needed power within Aegon\u2019s realm as smallfolk throughout Seven Kingdoms (save in Dorne) watched the Evenstar  of Tarth fly overhead with awe and reverence for the Targaryens. As Aegon moved from Old Oak to Highgarden and from The Eyrie to Harrenhal he was greeted by cheering crowds at every corner of the realm including White Harbor, Gulltown, Lannisport Casterly Rock and even The Arbor."
+        },
+        {
+            "paragraph_id": 7,
+            "paragraph": "And so they did. Much of every royal progress was given over to feasts and balls and hunts and hawking, as every lord attempted to outdo the others in splendor and hospitality, but Aegon also made a point of holding court wherever he might travel, whether from a dais in some great lord\u2019s castle or a mossy stone in a farmer\u2019s field. Six maesters traveled with him, to answer any questions he might have on local law, customs, and history, and to make note of such decrees and judgments as His Grace might hand down. A lord should know the land he rules, the Conqueror later told his son Aenys, and through his travels Aegon learned much and more about the Seven Kingdoms and its peoples.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon",
+                "Aenys"
+            ],
+            "places": [
+                "castle",
+                "farmer's field"
+            ],
+            "events": [
+                "royal progress",
+                "feasts and balls and hunts and hawking"
+            ],
+            "verbs": [
+                "traveled",
+                "hold court",
+                "make note",
+                "learned"
+            ],
+            "adjectives": [
+                "great",
+                "splendor",
+                "hospitality"
+            ],
+            "chatgpt_paragraph": "\n\nAegon and Aenys, his eldest son, traveled far and wide throughout their realm. During their royal progress they held court in great splendour wherever they went; feasts and balls and hunts and hawking were all part of the show while Aegon made note of what he learned form every corner of his kingdom. Everywhere they went, hospitality was warmly extended to them by both lords and smallfolk alike with glittering steel armor adorning knights on Mounted horses as expressions of homage. As a result Aegon was able to instill loyalty in his kingship across the seven kingdoms one day, ending rebellions that threatened to put a premature end to the reign of power that needed no forestalling."
+        },
+        {
+            "paragraph_id": 8,
+            "paragraph": "Each of the conquered kingdoms had its own laws and traditions. King Aegon did little to interfere with those. He allowed his lords to continue to rule much as they always had, with all the same powers and prerogatives. The laws of inheritance and succession remained unchanged, the existing feudal structures were confirmed, lords both great and small retained the power of pit and gallows on their own land, and the privilege of the first night wherever that custom had formerly prevailed.",
+            "valid": 1.0,
+            "characters": [
+                "King Aegon"
+            ],
+            "places": [],
+            "events": [],
+            "verbs": [
+                "conquered",
+                "allowed",
+                "continue",
+                "remained",
+                "confirmed",
+                "retained"
+            ],
+            "adjectives": [
+                "conquered",
+                "existing",
+                "great",
+                "small"
+            ],
+            "chatgpt_paragraph": "\n\n\nKing Aegon, having traveled throughout the realm and holding court at every castle and village, made note of the great splendor and hospitality that he encountered. He had conquered much land and allowed his people to continue as they had remained before him with their existing roles confirmed; all kingsgreat and small were retained as conquerors in his Seven Kingdoms (save in Dorne). As he continued his royal progress feasting, dancing, hunting, hawking, even travelling to the far ends of the realm for council with Grand Maesters and Lords alike, King Aegon confirmed one thing; ever house and person must remain loyal to him."
+        },
+        {
+            "paragraph_id": 9,
+            "paragraph": "Aegon\u2019s chief concern was peace. Before the Conquest, wars between the realms of Westeros were common. Hardly a year passed without someone fighting someone somewhere. Even in those kingdoms said to be at peace, neighboring lords oft settled their disputes at swordpoint. Aegon\u2019s accession put an end to much of that. Petty lords and landed knights were now expected to take their disputes to their liege lords and abide by their judgments. Arguments between the great houses of the realm were adjudicated by the Crown. \u201cThe first law of the land shall be the King\u2019s Peace,\u201d King Aegon decreed, \u201cand any lord who goes to war without my leave shall be considered a rebel and an enemy of the Iron Throne.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Aegon"
+            ],
+            "places": [
+                "Westeros"
+            ],
+            "events": [
+                "Conquest"
+            ],
+            "verbs": [
+                "fighting",
+                "settled",
+                "expected",
+                "adjudicated",
+                "decreed",
+                "goes"
+            ],
+            "adjectives": [
+                "chief",
+                "common",
+                "petty",
+                "great"
+            ],
+            "chatgpt_paragraph": "\n\nWith the Conquests of Westeros, King Aegon had allowed life to continue in many of the existing kingdoms, confirming their previous rights and titles, while also conquering more land. His great-grandson, Aegon continued this fight and settled even more grievances that had been expected for centuries. With a decree from the chief septon of Westeros and common consensus among both petty lords and great kings alike, it was clear that he would go down as one of the greatest conquers in history. He extended his rule across every corner of the Seven Kingdoms (save in Dorne) and adjudicated any dispute quickly but thoughtfully with fairness to all sides involved."
+        },
+        {
+            "paragraph_id": 10,
+            "paragraph": "King Aegon also issued decrees regularizing customs, duties, and taxes throughout the realm, whereas previously every port and every petty lord had been free to exact however much they could from tenants, smallfolk, and merchants. He also proclaimed that the holy men and women of the Faith, and all their lands and possessions, were to be exempt from taxation, and affirmed the right of the Faith\u2019s own courts to try and sentence any septon, Sworn Brother, or holy sister accused of malfeasance. Though not himself a godly man, the first Targaryen king always took care to court the support of the Faith and the High Septon of Oldtown.",
+            "valid": 1.0,
+            "characters": [
+                "King Aegon"
+            ],
+            "places": [],
+            "events": [],
+            "verbs": [
+                "regularizing",
+                "exact",
+                "proclaimed",
+                "affirmed",
+                "court"
+            ],
+            "adjectives": [
+                "holy",
+                "godly"
+            ],
+            "chatgpt_paragraph": "\n\nKing Aegon reveled in his success, having conquered Westeros and brought the seven Kingdoms under one Reign. He quickly set about regularizing the exact titles and boundaries that were proclaimed and affirmed in court by both secular and holy orders alike. In order to demonstrate his power, he decreed all common petty rebellion be adjudicated without fail, no matter how far and wide it had spread across the kingdom. The proclamation of King Aegon's decisive action echoed through distant corners of Westeros - from the riverlands in Casterly Rock to the Free Cities across havens such as Gulltown. This godly expectation was extended even into the Summer Isles far off at sea, where all heard what came to pass through tales carried on swift boats or via eye-witness accounts passed down by traders who crossed paths with Kingsguard assigned away from King\u2019s Landing out on various postings throughout lands unseen before."
+        },
+        {
+            "paragraph_id": 11,
+            "paragraph": "King\u2019s Landing grew up around Aegon and his court, on and about the three great hills that stood near the mouth of the Blackwater Rush. The highest of those hills had become known as Aegon\u2019s High Hill, and soon enough the lesser hills were being called Visenya\u2019s Hill and the Hill of Rhaenys, their former names forgotten. The crude motte-and- bailey fort that Aegon had thrown up so quickly was neither large enough nor grand enough to house the king and his court, and had begun to expand even before the Conquest was complete. A new keep was erected, all of logs and fifty feet high, with a cavernous longhall beneath it, and a kitchen, made of stone and roofed with slate in case of fire, across the bailey. Stables appeared, then a granary. A new watchtower was raised, twice as tall as the older one. Soon the Aegonfort was threatening to burst out of its walls, so a new palisade was raised, enclosing more of the hilltop, creating space enough for a barracks, an armory, a sept, and a drum tower.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon",
+                "Visenya",
+                "Rhaenys"
+            ],
+            "places": [
+                "King\u2019s Landing",
+                "Aegon's High Hill",
+                "Visenya's Hill",
+                "Hill of Rhaenys"
+            ],
+            "events": [
+                "Conquest"
+            ],
+            "verbs": [
+                "grew",
+                "had thrown up",
+                "was erected",
+                "appeared",
+                "was raised",
+                "was raised",
+                "burst out of its walls"
+            ],
+            "adjectives": [
+                "great hills near mouth Blackwater Rush",
+                "crude motte-and-bailey fort,",
+                "fifty feet high,",
+                "cavernous longhall beneath it,",
+                "roofed with slate in case of fire"
+            ],
+            "chatgpt_paragraph": "\n\nAegon, Visenya and Rhaenys led their army of dragons on the legendary Conquest to unite the Seven Kingdoms as one. Everywhere they went, new cities sprang up around them; wherever King Aegon and his sisters had passed through grew in prosperity and splendor. At King\u2019s Landing had been merely a humble village before the Targaryens came, but when the three siblings flew off from Aegon's High Hill, Visenya's Hill and Hill of Rhaenys it was already becoming something grand. The crude motte-and-bailey fort that had thrown up at its centre nearing fifty feet high was soon replaced by seven great hills near the mouth of Blackwater Rush - all joined together with wide walls that seemed to burst out of its foundations. With every passing week a new building or street appeared; underground caves connected what had once been disparate entries into a single city larger than any other in Westeros. A cavernous longhall beneath it was roofed with slate in case of fire, making it clear even to those far beyond these gates that this was where power lay now - not at the Starry Sept or some other bastion deemed holy by men claiming to speak for godly authority."
+        },
+        {
+            "paragraph_id": 12,
+            "paragraph": "Below the hills, wharves and storehouses were rising along the riverbanks, and merchants from Oldtown and the Free Cities were tying up beside the longships of the Velaryons and Celtigars, where only a few fishing boats had previously been seen. Much of the trade that had gone through Maidenpool and Duskendale was now coming to King\u2019s Landing. A fish market sprung up along the riverside, a cloth market between the hills. A customs house appeared. A modest sept opened on the Blackwater, in the hull of an old cog, followed by a stouter one of daub-and-wattle on the shore. Then a second sept, twice as large and thrice as grand, was built atop Visenya\u2019s Hill, with coin sent by the High Septon. Shops and homes sprouted like mushrooms after a rain. Wealthy men raised walled manses on the hillsides, whilst the poor gathered in squalid hovels of mud and straw in the low places between.",
+            "valid": 1.0,
+            "characters": [],
+            "places": [
+                "Oldtown",
+                "the Free Cities",
+                "Maidenpool",
+                "Duskendale",
+                "King's Landing"
+            ],
+            "events": [
+                "a fish market sprung up along the riverside, a cloth market between the hills.",
+                "A customs house appeared.",
+                " A modest sept opened on the Blackwater."
+            ],
+            "verbs": [
+                "tying up",
+                "spring up",
+                "built",
+                "raised",
+                "gathered"
+            ],
+            "adjectives": [
+                "walled",
+                "wealthy",
+                "poor",
+                "squalid"
+            ],
+            "chatgpt_paragraph": "\n\nThe bustle of King's Landing continued to grow and expand as more and more people from across the Seven Kingdoms arrived to make a better life for themselves. Wealthy merchants gathered in Maidenpool while the poor moved into squalid quarters near Duskendale, the great fish market along the riverside providing sustenance for both rich and poor alike. Amongst this new crowd were characters like Addison Hill, a hedge knight; Griffith Goode, Lord Edmyn Tully\u2019s son; Evenstar of Tarth, an old Targaryen knight; Humfrey the Mummer, a fair Dornish cut-throat; Young Robin Darklyn, Robert Baratheon\u2019s illegitimate son; and many others. Citizens also built markets between Visenya's Hill and Rhaenys' Hill where nearly anything could be had if you knew where to look. A customs house was erected by Queen Visenya at what would soon become Oldtown. Then finally Cleos Septon raised The Starry Sept at King Aegon's High Hill near its entrance for all those looking to worship in peace. With so many large cities tying up between them -- Oldtown, The Free Cities among them -- wealth flowed through King's Landing like never before powered by its bustling people and strong economy that had sprung up around it!"
+        },
+        {
+            "paragraph_id": 13,
+            "paragraph": "No one planned King\u2019s Landing. It simply grew\u2026but it grew quickly. At Aegon\u2019s first coronation, it was still a village squatting beneath a motte-and-bailey castle. By his second, it was already a thriving town of several thousand souls. By 10 AC, it was a true city, almost as large as Gulltown or White Harbor. By 25 AC, it had outgrown both to become the third most populous city in the realm, surpassed only by Lannisport and Oldtown.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon"
+            ],
+            "places": [
+                "King's Landing",
+                "Gulltown",
+                "White Harbor",
+                "Lannisport",
+                "Oldtown"
+            ],
+            "events": [
+                "coronation"
+            ],
+            "verbs": [
+                "planned",
+                "grew",
+                "outgrown"
+            ],
+            "adjectives": [
+                "thriving",
+                "true"
+            ],
+            "chatgpt_paragraph": "\n\nKing Aegon Targaryen had long planned his coronation. In preparation, the city of King's Landing grew and outgrown its old walls as it flourished and prospered. With the wealth flowing in from loyalists, merchants, traders and craftsmen coming to pay their respects, the city of true thorns was truly coming of age. Wealthy lords set up homes on Aegon's High Hill while pockets of squalor still gathered along the riverside where Oldtown stretched towards Gulltown, White Harbor and Lannisport far to the west. Everywhere people bustled around talking of his coronation that was taking place at last after so many years. All around were throngs of folk from all quarters; tall men from The Arbor, dark Dornish cutthroats from withning Marches, slavers sworn to Yunkai or some other Free City rulers; even a fair hedge knight could be seen to be tying up his horse near a seedy tavern in Oldtown close by Starry Sept. Everywhere one looked there existed an atmosphere thick with anticipation for the crowning of their new king."
+        },
+        {
+            "paragraph_id": 14,
+            "paragraph": "Unlike its rivals, however, King\u2019s Landing had no walls. It needed none, some of its residents were known to say; no enemy would ever dare attack the city so long as it was defended by the Targaryens and their dragons. The king himself might have shared these views originally, but the death of his sister Rhaenys and her dragon, Meraxes, in 10 AC and the attacks upon his own person undoubtedly gave him cause And in the 19th year After the Conquest, word reached Westeros of a daring raid in the Summer Isles, where a pirate fleet had sacked Tall Trees Town and carried off a thousand women and children as slaves, along with a fortune in plunder. The accounts of the raid greatly troubled the king, who realized that King\u2019s Landing would be similarly vulnerable to any enemy shrewd enough to fall upon the city when he and Visenya were elsewhere. Accordingly, His Grace ordered the construction of a ring of walls about King\u2019s Landing, as high and strong as those that protected Oldtown and Lannisport. The task of building them was conferred upon Grand Maester Gawen and Ser Osmund Strong, the Hand of the King. To honor the Seven, Aegon decreed that the city would have seven gates, each defended by a massive gatehouse and defensive towers. Work on the walls began the next year and continued until 26 AC.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon",
+                "Rhaenys",
+                "Meraxes"
+            ],
+            "places": [
+                "King\u2019s Landing",
+                "Westeros",
+                "Summer Isles",
+                "Tall Trees Town",
+                "Oldtown",
+                "Lannisport"
+            ],
+            "events": [
+                "raid in the Summer Isles"
+            ],
+            "verbs": [
+                "would say",
+                "gave",
+                "reached",
+                "sacked",
+                "carried off",
+                "plunderd",
+                "ordered the construction of a ring of walls,",
+                "defended by a massive gatehouse and defensive towers."
+            ],
+            "adjectives": [],
+            "chatgpt_paragraph": "\n\nKing Aegon I Targaryen, along with his wife and sister Rhaenys and Visenya, ventured out on a raid in the Summer Isles to prove his might as king. After conquering the locals and carrying off their plunder, he ordered the construction of a ring of walls around King's Landing which would be defended by a massive gatehouse and defensive towers. On their return to Westeros they visited Lannisport, Oldtown and even Tall Trees Town where they met the Lord Monkeyface and Queen Evenstar of Tarth amidst throngs of small folk who claimed that Aegon truly was 'The Dragon'. With word spreading across all seven kingdoms about this great new leader plans for an official coronation soon grew until it had far outgrown King's Landing. Thus Aegon I decided to move it to a small farmer's field outside Gulltown which later became known as \"Aegon's High Hill.\""
+        },
+        {
+            "paragraph_id": 15,
+            "paragraph": "Ser Osmund was the king\u2019s fourth Hand. His first had been Lord Orys Baratheon, his bastard half-brother and companion of his youth, but Lord Orys was taken captive during the Dornish War and suffered the loss of his sword hand. When ransomed back, his lordship asked the king to be relieved of his duties. \u201cThe King\u2019s Hand should have a hand,\u201d he said. \u201cI will not have men speaking of the King\u2019s Stump.\u201d Aegon next called on Edmyn Tully, Lord of Riverrun, to take up the Handship. Lord Edmyn served from 7\u20139 AC, but when his wife died in childbed, he decided that his children had more need of him than the realm, and begged leave to return to the riverlands. Alton Celtigar, Lord of Claw Isle, replaced Tully, serving ably as Hand until his death from natural causes in 17 AC, after which the king named Ser Osmund Strong.",
+            "valid": 1.0,
+            "characters": [
+                "Ser Osmund",
+                "Lord Orys Baratheon",
+                "Lord Edmyn Tully",
+                "Alton Celtigar"
+            ],
+            "places": [
+                "Dornish War",
+                "Riverrun",
+                "Claw Isle"
+            ],
+            "events": [
+                "loss of his sword hand",
+                "the Kings Hand should have a hand"
+            ],
+            "verbs": [
+                "relieved",
+                "returned",
+                "named"
+            ],
+            "adjectives": [
+                "fourth Hand",
+                "bastard half-brother",
+                "first",
+                " natural causes"
+            ],
+            "chatgpt_paragraph": "\n\nSer Osmund had just relieved Lord Orys Baratheon from the Dornish War and returned to Riverrun, having almost lost his sword hand during the war. Lord Edmyn Tully praised Ser Osmund's bravery in battle, and named him fourth Hand of the King - a role which should have been given to his bastard half-brother Addison Hill who was born to Aegon I Targaryen but acknowledged by none. Alton Celtigar made sure that Lords across Westeros knew, for he wanted everyone to know that even without an heir, The Kings Hand should have a hand befitting their station: stout, strong and loyal. And so it was; Ser Osmund won fame in the past great raid in the Summer Isles with Rhaenys and Meraxes Evenstar of Tarth then appointed Grand Maester Gawen as High Septon of Oldtown and commanded them all home. He gave Casterly Rock back its wealth plundered by Dornish cutthroats, pushed back Robert Goode's armies out of Tall Trees Town, ordered the construction of a ring defensive walls around Claw Isle defended by a massive gatehouse and defensive towers - all before succumbing to first natural causes at The Starry Sept on Visenya Targaryen's short seven kingdoms one night fair evening surrounded by Queens Rhaenys and Visenya good Queen Alysanne house Hightower King Jaehaerys her brothers King Aegon Rowan girl Aege Sixteen Targaryens dark Aeney Humfrey monsieur maesters Kingsguard Torrhen Stark old Redwyne girl tall Robin Darklyn man woman son Aegon I Nine Anns Griffith Gooe Loren Lannister eldest Conclave Masters coin etc etc."
+        },
+        {
+            "paragraph_id": 16,
+            "paragraph": "Grand Maester Gawen was the third in that office. Aegon Targaryen had always kept a maester on Dragonstone, as his father and father\u2019s father had before him. All the great lords of Westeros, and many lesser lords and landed knights, relied upon maesters trained in the Citadel of Oldtown to serve their households as healers, scribes, and counselors, to breed and train the ravens who carried their messages (and write and read those messages for lords who lacked those skills), help their stewards with the household accounts, and teach their children. During the Conquest, Aegon and his sisters each had a maester serving them, and afterward the king sometimes employed as many as half a dozen to deal with all the matters brought before him.",
+            "valid": 1.0,
+            "characters": [
+                "Grand Maester Gawen",
+                "Aegon Targaryen"
+            ],
+            "places": [
+                "Dragonstone",
+                "Oldtown"
+            ],
+            "events": [
+                "Conquest"
+            ],
+            "verbs": [
+                "keep",
+                "rely upon",
+                "breed",
+                "train",
+                "carry",
+                "write",
+                "read",
+                "employ"
+            ],
+            "adjectives": [
+                "great",
+                "lesser",
+                "landed"
+            ],
+            "chatgpt_paragraph": "\n\nGrand Maester Gawen had been in service to King Aegon since his Conquest, relying upon him to not only keep the realm in one piece but also to help breed and train dragons, as well as read and write for the great and lesser landed alike. It was on Dragonstone that he acquainted himself with Aegon Targaryen; it wasn't until Oldtown arrived at the Conclave when he truly began to understand why the King employed him so heavily. In fact, Grand Maester Gawen thanked whatever gods his predecessor prayed too - Lord Orys Baratheon had lost his sword hand during the Dornish War while Lord Edmyn Tully had recently passed of natural causes - that gave Aegon four Hands instead of three as decreed by a bastard half-brother of Robert's named Alton Celtigar who first assumed the fourth Hand would be Sir Osmund."
+        },
+        {
+            "paragraph_id": 17,
+            "paragraph": "But the wisest and most learned men in the Seven Kingdoms were the archmaesters of the Citadel, each of them the supreme authority in one of the great disciplines. In 5 AC, King Aegon, feeling that the realm might benefit from such wisdom, asked the Conclave to send him one of their own number to advise and consult with him on all matters relating to the governance of the realm. Thus was the office of Grand Maester created, at King Aegon\u2019s request.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon",
+                "Conclave"
+            ],
+            "places": [
+                "Seven Kingdoms",
+                "Citadel"
+            ],
+            "events": [
+                "Grand Maester created"
+            ],
+            "verbs": [
+                "were",
+                "asked",
+                "create"
+            ],
+            "adjectives": [
+                "wisest",
+                "most learned"
+            ],
+            "chatgpt_paragraph": "\n\nAegon and his sister-queen Visenya Targaryen were asked by the Conclave, an assembly of wise old Grand Maesters created after the Conquest, to create a court of the wisest and most learned in all of Seven Kingdoms. Aegon and Visenya assembled Addison Hill from Winterfell, Meraxes from Old Oak, Evenstar of Tarth from Starry Sept, Griffith Goode from House Hightower, Lord Edmyn Tully from Highgarden to keep their counsels on the matters that they should rely upon. They bred dragon into adulthood to carry out their wishes; employed maester who could write, read and understand songs deep meaning with both great and lesser landed brothers alike in every corner of the realm."
+        },
+        {
+            "paragraph_id": 18,
+            "paragraph": "The first man to serve in that capacity was Archmaester Ollidar, keeper of histories, whose ring and rod and mask were bronze. Though exceptionally learned, Ollidar was also exceptionally old, and he passed from this world less than a year after taking up the mantle of Grand Maester. To fill his place, the Conclave selected Archmaester Lyonce, whose ring and rod and mask were yellow gold. He proved more robust than his predecessor, serving the realm until 12 AC, when he slipped in the mud, broke his hip, and died soon thereafter, whereupon Grand Maester Gawen was elevated.",
+            "valid": 1.0,
+            "characters": [
+                "Archmaester Ollidar",
+                "Archmaester Lyonce",
+                "Grand Maester Gawen"
+            ],
+            "places": [],
+            "events": [
+                "slipped in the mud"
+            ],
+            "verbs": [
+                "serve",
+                "selected",
+                "elevated"
+            ],
+            "adjectives": [
+                "exceptionaly",
+                "old",
+                "robust"
+            ],
+            "chatgpt_paragraph": "\n\nArchmaesters Ollidar and Lyonce had slipped in the mud just as Grand Maester Gawen had been elevated by the Conclave to serve as their wisest and most learned leader. He, who was selected for his exceptionaly old age and robust knowledge, was tasked with helping bring stability back to the Seven Kingdoms. Addison Hill, heir of House Goode and Lord Monkeyface of Old Oak, had recently been asked to assist him in this endeavor. With assistance from Grand Maesters, lords across Westeros even at its far ends of the realm amongst others such as Evenstar of Tarth, High Septon of Oldtown or Griffint Goode (the short fair man) things seemed destined to turn around faster than anticipated."
+        },
+        {
+            "paragraph_id": 19,
+            "paragraph": "The institution of the king\u2019s small council did not come into its full bloom until the reign of King Jaehaerys the Conciliator, but that is not to suggest that Aegon I ruled without the benefit of counsel. He is known to have consulted often with his various Grand Maesters, and his own household maesters as well. On matters relating to taxation, debts, and incomes, he sought the advice of his masters of coin. Though he kept one septon at King\u2019s Landing and another at Dragonstone, the king more oft wrote to the High Septon of Oldtown on religious issues, and always made a point of visiting the Starry Sept during his yearly circuit. More than any of these, King Aegon relied upon the King\u2019s Hand, and of course upon his sisters, the Queens Rhaenys and Visenya.",
+            "valid": 1.0,
+            "characters": [
+                "King Jaehaerys the Conciliator",
+                "Aegon I",
+                "Grand Maesters",
+                "masters of coin",
+                "High Septon of Oldtown",
+                "Starry Sept",
+                "King's Hand",
+                "Queens Rhaenys and Visenya"
+            ],
+            "places": [
+                "King's Landing",
+                "Dragonstone",
+                "Oldtown"
+            ],
+            "events": [
+                "institution of the king\u2019s small council"
+            ],
+            "verbs": [
+                "consulted",
+                "sought",
+                "wrote",
+                "visiting"
+            ],
+            "adjectives": [
+                "full bloom",
+                "yearly"
+            ],
+            "chatgpt_paragraph": "\n\nAt the ascension of King Jaehaerys the Conciliator to the Iron Throne, Aegon I Targaryen consulted with his two Queens Rhaenys and Visenya along with Grand Maesters, masters of coin and the High Septon of Oldtown for restructuring the kingdom. It was at that time when he instituted the king\u2019s small council which had him visiting Castle Dragonstone every year in full bloom. Even Queen Visenya's Hill became a representation of this tradition with her statue placed there, allowing people from every corner of the realm to come seek her advise or pay their respect to their beloved queen. People in Westeros have been retelling these stories since then as they travel between Aerion's High Hill and Starry Sept where many could be seen celebrating during those days over exotic food atop a farmer's field."
+        },
+        {
+            "paragraph_id": 20,
+            "paragraph": "Queen Rhaenys was a great patron to the bards and singers of the Seven Kingdoms, showering gold and gifts on those who pleased her. Though Queen Visenya thought her sister frivolous, there was a wisdom in this that went beyond a simple love of music. For the singers of the realm, in their eagerness to win the favor of the queen, composed many a song in praise of House Targaryen and King Aegon, and then went forth and sang those songs in every keep and castle and village green from the Dornish Marches to the Wall. Thus was the Conquest made glorious to the simple people, whilst Aegon the Dragon himself became a hero king.",
+            "valid": 1.0,
+            "characters": [
+                "Queen Rhaenys",
+                "Queen Visenya",
+                "King Aegon"
+            ],
+            "places": [
+                "Seven Kingdoms",
+                "Dornish Marches",
+                "Wall"
+            ],
+            "events": [
+                "Conquest"
+            ],
+            "verbs": [
+                "showering",
+                "composed",
+                "sang",
+                "became"
+            ],
+            "adjectives": [
+                "frivolous",
+                "glorious"
+            ],
+            "chatgpt_paragraph": "\n\nQueen Rhaenys, Queen Visenya and King Aegon I set about the conquest of the Seven Kingdoms with vigour. Rhaenys rode her dragon Meraxes across the Dornish Marches showering fiery devastation as she flew; Visenya composed emotive songs to stir action in even the most passive of hearts, and King Aegon became a glorious figure for all in Westeros as he strode amongst his Sixteen Targaryens. With their armies full at bloom they marched on up to The Wall and beyond, conquering nearly every corner of their realm within one spectacular year. At each kingdom they visited they consulted with local Kings and sought advice from Lords and Ladies; wrote decrees; held High Septons in respect and honored Him at Starry Septs. They forged friendships with such families like House Hightower and Tully who welcomed them into their castles along the way or else like Lord Monkeyface met them in battle during the Dornish War. At Oldtown they even managed to be joyuous despite losses- songs were sung, wine tasted- it truly was becoming a frivolous entity before turning into something so grand that it would echo throughout history for centuries afterward!"
+        },
+        {
+            "paragraph_id": 21,
+            "paragraph": "Queen Rhaenys also took a great interest in the smallfolk, and had a special love for women and children. Once, when she was holding court in the Aegonfort, a man was brought before her for beating his wife to death. The woman\u2019s brothers wanted him punished, but the husband argued that he was within his lawful rights, since he had found his wife abed with another man. The right of a husband to chastise an erring wife was well established throughout the Seven Kingdoms (save in Dorne). The husband further pointed out that the rod he had used to beat his wife was no thicker than his thumb, and even produced the rod in evidence. When the queen asked him how many times he had struck his wife, however, the husband could not answer, but the dead woman\u2019s brothers insisted there had been a hundred blows.",
+            "valid": 1.0,
+            "characters": [
+                "Queen Rhaenys",
+                "the man",
+                "the woman",
+                "her brothers"
+            ],
+            "places": [
+                "Aegonfort",
+                "Seven Kingdoms (save in Dorne)"
+            ],
+            "events": [
+                "holding court"
+            ],
+            "verbs": [
+                "chastise",
+                "struck",
+                "produced"
+            ],
+            "adjectives": [
+                "smallfolk",
+                "special love",
+                "lawful rights"
+            ],
+            "chatgpt_paragraph": "\n\nQueen Rhaenys stood tall in Aegonfort as she held court over the Seven Kingdoms (save in Dorne). She saw a man and woman argue their lawful rights and struck them both, chastising them for not giving her smallfolk all the respect they deserved. But her special love was reserved for her brothers, who were accompanying her to ensure that justice prevailed everywhere. As Queen Rhaenys spoke of this truth, she became composed yet frivolous with a showering of glorious words. Addison Hill and Meraxes stood by Queen Visenya's side while the Evenstar of Tarth sang King Aegon's praises from Starry Sept"
+        },
+        {
+            "paragraph_id": 22,
+            "paragraph": "Queen Rhaenys consulted with her maesters and septons, then rendered her decision. An adulterous wife gave offense to the Seven, who had created women to be faithful and obedient to their husbands, and therefore must be chastised. As god has but seven faces, however, the punishment should consist of only six blows (for the seventh blow would be for the Stranger, and the Stranger is the face of death). Thus the first six blows the man had struck had been lawfu but the remaining ninety-four had been an offense against gods and men, and must be punished in kind. From that day forth, the \u201crule of six\u201d became a part of the common law, along with the \u201crule of thumb.\u201d (The husband was taken to the foot of the Hill of Rhaenys, where he was given ninety-four blows by the dead woman\u2019s brothers, using rods of lawful size.)",
+            "valid": 1.0,
+            "characters": [
+                "Queen Rhaenys",
+                "maesters",
+                "septons"
+            ],
+            "places": [
+                "Hill of Rhaenys"
+            ],
+            "events": [],
+            "verbs": [
+                "consulted",
+                "rendered",
+                "chastised",
+                "taken",
+                "given"
+            ],
+            "adjectives": [
+                "adulterous",
+                "faithful",
+                "obedient",
+                "lawful"
+            ],
+            "chatgpt_paragraph": "\n\nQueen Rhaenys had opened her court at the Hill of Rhaenys and consulted with maesters, septons, and other wise men from all over the Seven Kingdoms (save in Dorne). She rendered justice when necessary, but often chose to chastise instead of punish. For example, if she found a man or woman had been unfaithful to their partner, she would take away some of their lawful rights rather than striking them with a harsher punishment. In this manner, the queen showed her special love for the smallfolk, believing that they deserved justice just like everyone else."
+        },
+        {
+            "paragraph_id": 23,
+            "paragraph": "Queen Visenya did not share her sister\u2019s love of music and song. She was not without humor, however, and for many years kept her own fool, a hirsute hunchback called Lord Monkeyface whose antics amused her greatly. When he choked to death on a peach pit, the queen acquired an ape and dressed it in Lord Monkeyface\u2019s clothing. \u201cThe new one is cleverer,\u201d she was wont to say.",
+            "valid": 1.0,
+            "characters": [
+                "Queen Visenya",
+                "Lord Monkeyface"
+            ],
+            "places": [],
+            "events": [
+                "kept her own fool",
+                "choked to death on a peach pit",
+                "acquired an ape"
+            ],
+            "verbs": [
+                "share",
+                "love",
+                "amused",
+                "dressed"
+            ],
+            "adjectives": [
+                "hirsute",
+                "hunchback",
+                "cleverer"
+            ],
+            "chatgpt_paragraph": "\n\nQueen Visenya Targaryen was a force to be reckoned with. Unlike her sister Queen Rhaenys who consulted with maesters and septons before taking any action, Visenya favoured brute strength as a means to an end. While ruling from the Hill of Rhaenys near King's Landing, she kept her own fool for amusement and even acquired an ape named Lord Monkeyface that she took great joy in dressing up in hirsute clothing. Her cleverness often left those around her amused and awestruck, but not all were enthralled - one famous Dornish cutthroat found his fate when he tried to take advantage of the Queen; choking to death on a peach pit after attempting to kill her whilst she sunbathed on Visenya's Hill. The love Visenya shared with Lord Monkeyface was so strong that many claimed it was no different than the faithful obedience given by Aegon I Targaryen\u2019s husband-to-be Sixteen years earlier when he had sworn fealty at Aegonfort after the adulterous Robert Baratheon had been taken away by Humfreyhte Mummer. Despite this admiration however, few offered praise due to House Targaryens lawfulness being rendered unimportant across Westeros."
+        },
+        {
+            "paragraph_id": 24,
+            "paragraph": "Yet there was darkness in Visenya Targaryen. To most of the world, she presented the grim face of a warrior, stern and unforgiving. Even her beauty had an edge to it, her admirers said. The oldest of the three heads of the dragon, Visenya was to outlive both of her siblings, and it was rumored that in her later years, when she could no longer wield a sword, she delved into the dark arts, mixing poisons and casting malign spells. Some even suggest that she might have been a kinslayer and a kingslayer, though no proof has ever been offered to support such calumnies.",
+            "valid": 1.0,
+            "characters": [
+                "Visenya Targaryen"
+            ],
+            "places": [],
+            "events": [],
+            "verbs": [
+                "wield",
+                "delved",
+                "mixing",
+                "casting"
+            ],
+            "adjectives": [
+                "grim",
+                "unforgiving",
+                "beauty",
+                "stern"
+            ],
+            "chatgpt_paragraph": "\n\nQueen Visenya Targaryen had not been content to remain in King's Landing, instead, she often sought out adventure. Her dedication to her passions led her far and wide throughout the Seven Kingdoms (save in Dorne). She delved into mysteries of Old Oak and Dragonmont, mixing grim black magic with her skill at controlling dragons. Evenstar of Tarth said it was this combination of Viserys' fiery temper and dark sorceries that made Visenya one of the most unforgiving yet beautiful leaders Westeros had ever seen. She wielded power over Griffon Goode and House Hightower like a stern commander casting curses on anyone who opposed her rule; though some still claim that Lord Monkeyface became infatuated after she kept her own fool when his hirsute hunchback cousin proved cleverer than him."
+        },
+        {
+            "paragraph_id": 25,
+            "paragraph": "It would be a cruel irony if true, for in her youth no one did more to protect the king. Visenya twice wielded Dark Sister in Aegon\u2019s defense when he was set upon by Dornish cutthroats. Suspicious and ferocious by turns, she trusted no one but her brother. During the Dornish War, she took to wearing a shirt of mail night and day, even under her court clothes, and urged the king to do the same. When Aegon refused, Visenya grew furious. \u201cEven with Blackfyre in your hand, you are only one man,\u201d she told him, \u201cand I cannot always be with you.\u201d When the king pointed out that he had guardsmen around him, Visenya drew Dark Sister and slashed him across the cheek so quickly the guards had no time to react. \u201cYour guards are slow and lazy,\u201d she said. \u201cI could have killed you as easily as I cut you. You require better protection.\u201d King Aegon, bleeding, had no choice but to agree.",
+            "valid": 1.0,
+            "characters": [
+                "Visenya",
+                "Aegon",
+                "Dornish cutthroat"
+            ],
+            "places": [
+                "Dornish War"
+            ],
+            "events": [
+                "protect the king"
+            ],
+            "verbs": [
+                "wielded",
+                "urged",
+                "refused",
+                "told",
+                "slashed"
+            ],
+            "adjectives": [
+                "cruel",
+                "suspicious",
+                "ferocious"
+            ],
+            "chatgpt_paragraph": "\n\nVisenya Targaryen's presence was a sight to behold at the Dornish War. Her skill with a sword was unmatched as she wielded it with ferocity, urging all of those around her to protect the king from any harm that may come his way. Unfortunately, not everyone listened; a cruel and suspicious Dornish cutthroat refused her orders and slashed at her without warning. Visenya quickly deflected the blows but could not convince him to stand down. When Aegon arrived on scene, he urged Visenya to take a step back as he fiercely confronted the man who had threatened them both; eventually convincing him to leave by imposing his stern beauty and unforgiving character."
+        },
+        {
+            "paragraph_id": 26,
+            "paragraph": "Many kings had champions to defend them. Aegon was the Lord of the Seven Kingdoms; therefore, he should have seven champions, Queen Visenya decided. Thus did the Kingsguard come into being; a brotherhood of seven knights, the finest in the realm, cloaked and armored all in purest white, with no purpose but to defend the king, giving up their own lives for his if need be. Visenya modeled their vows on those of the Night\u2019s Watch; like the black-cloaked crows of the Wall, the White Swords served for life, surrendering all their lands, titles, and worldly goods to live a life of chastity and obedience, with no reward but honor.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon",
+                "Visenya",
+                "Kingsguard"
+            ],
+            "places": [
+                "Seven Kingdoms"
+            ],
+            "events": [
+                "formation of Kingsguard"
+            ],
+            "verbs": [
+                "defend",
+                "surrendering",
+                "served",
+                "live"
+            ],
+            "adjectives": [
+                "purest white",
+                " finest",
+                "chastity",
+                "obedience",
+                "honor"
+            ],
+            "chatgpt_paragraph": "\n\nAegon and Visenya took to the Seven Kingdoms in an effort to defend and take control as a unified force. They knew that if they were able to form the Kingsguard, not only would it send a powerful message of loyalty, but it would also keep the realm safe from outside aggressors. Aegon urged his sister Visenya to join him in surrendering their lives for the protection of the King- no matter the cost. As her heart raced with pride and fear, she refused even when he said he could face death alone; instead offering her own life as well so they may live together in purest white representing both nobility and finest knightly honor. Together they formed a group of 16 Targaryens who pledged themselves through chastity, obedience, courage and service until death- living out each day honoring these qualities with ferocity equally as cruel as their suspicious foes had ever seen them wield before in battle at Dornish War."
+        },
+        {
+            "paragraph_id": 27,
+            "paragraph": "So many knights came forward to offer themselves as candidates for the Kingsguard that King Aegon considered holding a great tourney to determine which of them was the most worthy. Visenya would not hear of it, however. To be a Kingsguard knight required more than just skill at arms, she pointed out. She would not risk placing men of uncertain loyalty about the king, regardless of how well they performed in a melee. She would choose the knights herself.",
+            "valid": 1.0,
+            "characters": [
+                "King Aegon",
+                "Visenya"
+            ],
+            "places": [],
+            "events": [
+                "tourney",
+                "melee"
+            ],
+            "verbs": [
+                "came forward",
+                "holding",
+                "required",
+                "risk",
+                "choose"
+            ],
+            "adjectives": [
+                "great",
+                "worthy",
+                "skillful"
+            ],
+            "chatgpt_paragraph": "\n\nKing Aegon, the rightful ruler of the Seven Kingdoms and his chosen heir Visenya both came forward to the great tourney, holding different parts of the required risk: skillful martial displays, bravery and chivalry. The tournament served as a symbol of a unified realm under their rule; people from every corner of the realm gathered to cheer on their champions and watch as King Aegon knighted seven skilled warriors who would come together as one unit and defend them all, by choosing honor over surrendering. It was Visenya who decided that these men should serve him in purest white cloaks with finest standard of chastity, obedience and honor - thus forming those noble knights known today as Kingsguard."
+        },
+        {
+            "paragraph_id": 28,
+            "paragraph": "The champions she selected were young and old, tall and short, dark and fair. They came from every corner of the realm. Some were younger sons, others the heirs of ancient houses who gave up their inheritances to serve the king. One was a hedge knight, another bastard born. All of them were quick, strong, observant, skilled with sword and shield, and devoted to the king.",
+            "valid": 1.0,
+            "characters": [
+                "young",
+                "old",
+                "tall",
+                "short",
+                "dark",
+                "fair",
+                "son",
+                "heir",
+                "hedge knight",
+                "bastard born"
+            ],
+            "places": [
+                "every corner of the realm"
+            ],
+            "events": [],
+            "verbs": [
+                "selected",
+                "give up",
+                "serve"
+            ],
+            "adjectives": [
+                "quick",
+                "strong",
+                "observant",
+                "skilled"
+            ],
+            "chatgpt_paragraph": "\n\nKing Aegon, Visenya and the royal court had just finished hosting a tourney and melee at King\u2019s Landing. The best fighters from every corner of the realm were selected to give up their names, serve in the tournament and risk their life for glory in hopes of winning great rewards from the crown. From tall young sons to short old knights, fair bastards born to dark hedge knights \u2013 those worthy of competing were quick and strong, observant and skilled - stood boldly forward to choose who would be deemed worthy enough in this great challenge. Addison Hill, Evenstar of Tarth, Griffith Goode and Meraxes are amongst many others chosen by King Aegon himself. Many have gathered far ends of the continuum seeking fortune on a chance while gathering more knowledge than they could ever wish for.."
+        },
+        {
+            "paragraph_id": 29,
+            "paragraph": "These are the names of Aegon\u2019s Seven, as written in the White Book of the Kingsguard: Ser Richard Roote; Ser Addison Hill, Bastard of Cornfield; Ser Gregor Goode; Ser Griffith Goode, his brother; Ser Humfrey the Mummer; Ser Robin Darklyn, called Darkrobin; and Ser Corlys Velaryon, Lord Commander. History has confirmed that Visenya Targaryen chose well. Two of her original seven would die protecting the king, and all would serve with valor to the end of their lives. Many brave men have followed in their footsteps since, writing their names in the White Book and donning the white cloak. The Kingsguard remains a synonym for honor to this day.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon",
+                "Richard Roote",
+                "Addison Hill",
+                "Gregor Goode",
+                "Griffith Goode",
+                "Humfrey the Mummer",
+                "Robin Darklyn",
+                "Corlys Velaryon",
+                "Visenya Targaryen"
+            ],
+            "places": [],
+            "events": [
+                "Serving with Valor"
+            ],
+            "verbs": [
+                "Donning"
+            ],
+            "adjectives": [
+                "Brave",
+                "Honorable"
+            ],
+            "chatgpt_paragraph": "\n\nDonning brave, honorable colors, a band of valiant knights called the \u201cServing with Valor\u201d soon set off to every corner of the realm. Led by Aegon Targaryen, Richard Roote and Addison Hill, they roved from King\u2019s Landing to Pyke, White Harbor to Highgarden and even beyond the Free Cities. Along their journey they were joined by many notable figures like Gregor Goode and Griffth Goode as well as Humfrey the Mummer and Robin Darklyn. Meanwhile Corlys Velaryon already began stirring trouble in Dornish Marches while Visenya Targaryen stayed vigilant in The Eyrie. With a wide variety of characters from various Houses gathering around him, it seemed that King Aegon was about to make his move for ruling the Seven Kingdoms one day!"
+        },
+        {
+            "paragraph_id": 30,
+            "paragraph": "Sixteen Targaryens followed Aegon the Dragon to the Iron Throne, before the dynasty was at last toppled in Robert\u2019s Rebellion. They numbered amongst them wise men and foolish, cruel men and kind, good men and evil. Yet if the dragon kings are considered solely on the basis of their legacies, the laws and institutions and improvements they left behind, the name of King Aegon I belongs near the top of the list, in peace as well as war.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon the Dragon",
+                "Robert",
+                "Sixteen Targaryens"
+            ],
+            "places": [
+                "Iron Throne"
+            ],
+            "events": [
+                "Robert\u2019s Rebellion"
+            ],
+            "verbs": [
+                "followed",
+                "toppled",
+                "considered",
+                "belongs"
+            ],
+            "adjectives": [
+                "wise",
+                "foolish",
+                "cruel",
+                "kind",
+                "good",
+                "evil"
+            ],
+            "chatgpt_paragraph": "\n\nAegon the Dragon stood tall and proud atop the Iron Throne, a symbol of Robert's victorious Rebellion that had toppled Sixteen Targaryens from their rightful place. It was a decision considered wise by some and foolish by others; cruel to some, kind to others \u2013 good or evil, no one could decide for certain. Following his brave donning of heavy armor in service with Valor came more honorable  occurrences such as Queen Rhaenys touring every corner of Seven Kingdoms (save for Dorne) alongside her brothers serving justice as she deemed fit - from Highgarden to White Harbor and The Eyrie to Oldtown - upholding order and kindness wherever she went."
+        }
+    ]
+}

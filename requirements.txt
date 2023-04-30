@@ -13,3 +13,4 @@ holidays
 statsmodels
 pyarrow
 streamlit
+openai
