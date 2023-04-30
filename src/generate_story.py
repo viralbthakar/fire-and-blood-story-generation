@@ -23,7 +23,7 @@ if __name__ == "__main__":
         with open(chapter) as chapter_file:
             parsed_json = json.load(chapter_file)
         paragraphs_context = parsed_json[f"{os.path.splitext(os.path.basename(chapter))[0]}.txt"]
-        gen_data_dict = get_generated_paragraphs(paragraphs_context, api_key)
+        gen_data_dict = get_generated_paragraphs(paragraphs_context, api_key, parakey='test-model')
         
         data_dict[os.path.splitext(os.path.basename(chapter))[0]] = gen_data_dict
         with open(os.path.join(args.output_dir, f"{os.path.splitext(os.path.basename(chapter))[0]}.json"), 'w') as fp:

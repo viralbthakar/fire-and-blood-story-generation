@@ -21,6 +21,14 @@ def styled_print(text, header=False):
     else:
         print(f'    › {text}')
 
+def upload_file(file_path, api_key):
+    openai.api_key = api_key
+    response = openai.File.create(
+        file=open(file_path, "rb"),
+        purpose='fine-tune'
+    )
+    return response["id"]
+
 def get_context_data(paragraph, api_key):
     openai.api_key = api_key
     prompt_prefix = 'Extract characters, places, events, verbs and adjectives from the give text below. Return valid json following format {"characters":[], "places":[], "events":[], "verbs":[], "adjectives":[]}. Do not escape the double quotes in the output:'
@@ -43,7 +51,7 @@ def get_written_paragraph(prompt_json, api_key):
     prompt_prefix = "Pretend you are writing a fictional novel. Write one paragraph of the novel using following JSON data. Use `current_paragraph` to create characters, places, events and keywords for the writing. Use `previous_paragraph` to get the context of the previous paragraph. Creatively add new characters and places in the story by choosing them from `global_context`."
     prompt_ip = prompt_prefix + f"\n\n{prompt_json}"
     response = openai.Completion.create(
-        model="text-davinci-003",
+        model="ft-TPdkJrRYBQYp5AyYeEsaAg2v",
         prompt=prompt_ip,
         max_tokens=2048,
         top_p=1.0,
@@ -51,6 +59,17 @@ def get_written_paragraph(prompt_json, api_key):
         presence_penalty=0.8
     )
     return response["choices"][0]["text"]
+
+def finetune_gpt_model(train_id, validation_id, api_key, suffix='fire-and-blood', model='text-davinci-003', n_epochs=4):
+    openai.api_key = api_key
+    response = openai.FineTune.create(
+        training_file=train_id,
+        validation_file=validation_id,
+        model=model,
+        n_epochs=n_epochs,
+        suffix=suffix
+    )
+    return response
 
 def extract_context_for_file(file, api_key):
     data_dict = []
@@ -80,35 +99,50 @@ def get_global_context(paragraphs_context):
     global_context['places'] = list(set(global_context["places"]))
     return global_context
 
-def get_generated_paragraphs(paragraphs_context, api_key):
+def get_prompt_json(global_context, paragraphs_context, paragraph_dict, id):
+    prompt_json = {}
+    if id == 0:
+        prompt_json["previous_paragraph"] = {}
+    else:
+        prompt_json["previous_paragraph"] = {
+            "characters": paragraphs_context[id-1]["characters"],
+            "places": paragraphs_context[id-1]["places"],
+            "events": paragraphs_context[id-1]["events"],
+            "keywords": paragraphs_context[id-1]["verbs"] + paragraphs_context[id-1]['adjectives']
+        }
+    prompt_json["current_paragraph"] = {
+            "characters": paragraph_dict["characters"],
+            "places": paragraph_dict["places"],
+            "events": paragraph_dict["events"],
+            "keywords": paragraph_dict["verbs"] + paragraph_dict['adjectives']
+    }
+    prompt_json["global_context"] = {
+        "characters": global_context["characters"],
+        "places": global_context["places"]
+    }
+    return prompt_json
+
+
+def get_generated_paragraphs(paragraphs_context, api_key, parakey="chatgpt_paragraph"):
     data_dict = []
     global_context = get_global_context(paragraphs_context)
     for i, paragraph_dict in enumerate(paragraphs_context):
         styled_print(f"Extracting Context for Paragraph {paragraph_dict['paragraph_id']}")
-        prompt_json = {}
-        if i == 0:
-            prompt_json["previous_paragraph"] = {}
-        else:
-            prompt_json["previous_paragraph"] = {
-                "characters": paragraphs_context[i-1]["characters"],
-                "places": paragraphs_context[i-1]["places"],
-                "events": paragraphs_context[i-1]["events"],
-                "keywords": paragraphs_context[i-1]["verbs"] + paragraphs_context[i-1]['adjectives']
-
-            }
-        prompt_json["current_paragraph"] = {
-                "characters": paragraph_dict["characters"],
-                "places": paragraph_dict["places"],
-                "events": paragraph_dict["events"],
-                "keywords": paragraph_dict["verbs"] + paragraph_dict['adjectives']
-        }
-        prompt_json["global_context"] = {
-            "characters": global_context["characters"],
-            "places": global_context["places"]
-        }
+        prompt_json = get_prompt_json(global_context, paragraphs_context, paragraph_dict, i)
         generated_paragraph = get_written_paragraph(prompt_json, api_key)
-        paragraph_dict["chatgpt_paragraph"] = generated_paragraph
+        paragraph_dict[parakey] = generated_paragraph
         data_dict.append(paragraph_dict)
     return data_dict
     
-
+def create_prompt_completion_data(paragraphs_context):
+    prompt_comp_data = []
+    global_context = get_global_context(paragraphs_context)
+    for i, paragraph_dict in enumerate(paragraphs_context):
+        styled_print(f"Extracting Context for Paragraph {paragraph_dict['paragraph_id']}")
+        prompt_json = get_prompt_json(global_context, paragraphs_context, paragraph_dict, i)
+        prompt_prefix = "Pretend you are writing a fictional novel. Write one paragraph of the novel using following JSON data. Use `current_paragraph` to create characters, places, events and keywords for the writing. Use `previous_paragraph` to get the context of the previous paragraph. Creatively add new characters and places in the story by choosing them from `global_context`."
+        prompt_ip = prompt_prefix + f"\n\n{prompt_json}"
+        completion = paragraph_dict['paragraph']
+        d = {"prompt": prompt_ip, "completion":completion}
+        prompt_comp_data.append(d)
+    return prompt_comp_data
