@@ -1,0 +1,3074 @@
+{
+    "09-Birth, Death, and Betrayal Under King Jaehaerys I.txt": [
+        {
+            "paragraph_id": 0,
+            "paragraph": "Jaehaerys I Targaryen would prove to be as restless a king as ever sat the Iron Throne. Aegon the Conqueror had famously said that the smallfolk needed to see their kings and queens from time to time, so they might lay their griefs and grievances before them. \u201cI mean for them to see me,\u201d Jaehaerys declared, when announcing his first royal progress late in 51 AC. Many more were to follow in the years and decades to come. During the course of his long reign, Jaehaerys would spend more days and nights guesting with one lord or another, or holding audience in some market town or village, than at Dragonstone and the Red Keep combined. And oft as not, Alysanne was with him, her silvery dragon soaring beside his great beast of burnished bronze.",
+            "valid": 1.0,
+            "characters": [
+                "Jaehaerys I Targaryen",
+                "Aegon the Conqueror"
+            ],
+            "places": [
+                "Iron Throne",
+                "Dragonstone",
+                "Red Keep"
+            ],
+            "events": [
+                "First royal progress"
+            ],
+            "verbs": [
+                "prove",
+                "seen",
+                "announcing",
+                "following",
+                "spend",
+                "guesting",
+                "holding audience"
+            ],
+            "adjectives": [
+                "restless",
+                "smallfolk",
+                "long",
+                "silvery"
+            ]
+        },
+        {
+            "paragraph_id": 1,
+            "paragraph": "Aegon the Conqueror had been accustomed to taking as many as a thousand knights, men-at-arms, grooms, cooks, and other servants with him on the road. Whilst undeniably grand to behold, such processions created many difficulties for the lords honored by royal visits. So many men were difficult to house and feed, and if the king wished to go hunting, nearby woods would be overrun. Even the richest lord would oft find himself impoverished by the time the king departed, his cellars drunk dry of wine, his larders empty, and half his maidservants with bastards in their bellies.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon the Conqueror"
+            ],
+            "places": [],
+            "events": [
+                "royal visits"
+            ],
+            "verbs": [
+                "taking",
+                "behold",
+                "house",
+                "feed",
+                "go hunting",
+                "find himself impoverished"
+            ],
+            "adjectives": [
+                "grand",
+                "rich",
+                "drunk dry of wine"
+            ]
+        },
+        {
+            "paragraph_id": 2,
+            "paragraph": "Jaehaerys was resolved to do things differently. No more than one hundred men would accompany him on any progress; twenty knights, the rest men-at-arms and servants. \u201cI do not need to ring myself about with swords so long as I ride Vermithor,\u201d he said. Smaller numbers also allowed him to visit smaller lords, those whose castles had never been large enough to host Aegon. His intent was to see and be seen at more places, but stay at each a shorter time, so as never to become an unwelcome guest.",
+            "valid": 1.0,
+            "characters": [
+                "Jaehaerys"
+            ],
+            "places": [],
+            "events": [
+                "progress"
+            ],
+            "verbs": [
+                "accompany",
+                "ring",
+                "ride",
+                "visit"
+            ],
+            "adjectives": [
+                "smaller",
+                "larger",
+                "shorter"
+            ]
+        },
+        {
+            "paragraph_id": 3,
+            "paragraph": "The king\u2019s first progress was meant to be a modest one, commencing with the crownlands north of King\u2019s Landing and proceeding only as far as the Vale of Arryn. Jaehaerys wanted Alysanne with him, but as Her Grace was with child, he was concerned that their journeys not be too taxing. They began with Stokeworth and Rosby, then moved north along the coast to Duskendale. There, whilst the king viewed Lord Darklyn\u2019s boatyards and enjoyed an afternoon of fishing, the queen held the first of her women\u2019s courts, which were to become an important part of every royal progress to come. Only women and girls were welcome at these audiences; highborn or low, they were encouraged to come forward and share their fears, concerns, and hopes with the young queen.",
+            "valid": 0.0,
+            "characters": [],
+            "places": [],
+            "events": [],
+            "verbs": [],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 4,
+            "paragraph": "The journey went without incident until the king and queen reached Maidenpool, where they were to be the guests of Lord and Lady Mooton for a fortnight before sailing across the Bay of Crabs to Wickenden, Gulltown, and the Vale. The town of Maidenpool was far famed for the sweetwater pool where legend had it that Florian the Fool had first glimpsed Jonquil bathing during the Age of Heroes. Like thousands of other women before her, Queen Alysanne wished to bathe in Jonquil\u2019s pool, whose waters were said to have amazing healing properties. The lords of Maidenpool had erected a great stone bathhouse around the pool many centuries before, and given it over to an order of holy sisters. No men were allowed to enter the premises, so when the queen slipped into the sacred waters, she was attended only by her ladies-in-waiting, maids, and septas (Edyth and Lyra, who had served beside Septa Ysabel as novices, had both recently sworn their vows to become septas, consecrated in the Faith and devoted to the queen).",
+            "valid": 0.0,
+            "characters": [],
+            "places": [],
+            "events": [],
+            "verbs": [],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 5,
+            "paragraph": "The goodness of the little queen, the silence of the Starry Sept, and the exhortations of the Seven Speakers had won over most of the Faithful for Jaehaerys and his Alysanne\u2026but there are always some who will not be moved, and amongst the sisters who tended Jonquil\u2019s Pool were three such women, whose hearts were hard with hate. They told one another that their holy waters would be polluted forever were the queen allowed to bathe in them whilst carrying the king\u2019s \u201cabomination\u201d in her belly. Queen Alysanne had only slipped out of her clothing when they fell upon her with daggers they had concealed within their robes.",
+            "valid": 1.0,
+            "characters": [
+                "Queen Alysanne",
+                "Jaehaerys",
+                "Jonquil"
+            ],
+            "places": [
+                "Starry Sept",
+                "Jonquil's Pool"
+            ],
+            "events": [
+                "won over most of the Faithful",
+                "hard with hate",
+                "fell upon her with daggers"
+            ],
+            "verbs": [
+                "winning",
+                "had won",
+                "told one another",
+                "would be polluted",
+                "slipped out of her clothing",
+                "concealed"
+            ],
+            "adjectives": [
+                "little queen",
+                "holy waters",
+                "hard hate"
+            ]
+        },
+        {
+            "paragraph_id": 6,
+            "paragraph": "Blessedly, the attackers were no warriors, and they had not taken the courage of the queen\u2019s companions into account. Naked and vulnerable, the Wise Women did not hesitate, but stepped between the attackers and their lady. Septa Edyth was slashed across the face, Prudence Celtigar stabbed through the shoulder, whilst Rosamund Ball took a dagger in the belly that, three days later, proved to be the death of her, but none of the murderous blades touched the queen. The shouts and screams of the struggle brought Alysanne\u2019s protectors running, for Ser Joffrey Doggett and Ser Gyles Morrigen had been guarding the entrance to the bathhouse, never dreaming that the danger lurked within.",
+            "valid": 1.0,
+            "characters": [
+                "Alysanne",
+                "Septa Edyth",
+                "Prudence Celtigar",
+                "Rosamund Ball",
+                "Ser Joffrey Doggett",
+                "Ser Gyles Morrigen"
+            ],
+            "places": [
+                "bathhouse"
+            ],
+            "events": [],
+            "verbs": [
+                "blessedly",
+                "taken",
+                "did not hesitate",
+                "slashed",
+                "stabbed",
+                "proved",
+                "brought"
+            ],
+            "adjectives": [
+                "wise",
+                "vulnerable"
+            ]
+        },
+        {
+            "paragraph_id": 7,
+            "paragraph": "The Kingsguard made short work of the attackers, slaying two out of hand whilst keeping the third alive for questioning. When encouraged, she revealed that half a dozen others of their order had helped plan the attack, whilst lacking the courage to wield a blade. Lord Mooton hanged the guilty, and might have hanged the innocent as well, save for Queen Alysanne\u2019s intervention.",
+            "valid": 1.0,
+            "characters": [
+                "Kingsguard",
+                "attackers",
+                "Lord Mooton",
+                "Queen Alysanne"
+            ],
+            "places": [],
+            "events": [
+                "slaying two out of hand",
+                "plan the attack",
+                "hanged the guilty"
+            ],
+            "verbs": [
+                "made short work of",
+                "revealed",
+                "intervention"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 8,
+            "paragraph": "Jaehaerys was furious. Their visit to the Vale was postponed; instead they returned to the safety of Maegor\u2019s Holdfast. Queen Alysanne would remain within until her child was born, but the experience had shaken her and set her to pondering. \u201cI need a protector of mine own,\u201d she told His Grace. \u201cYour Seven are leal men and valiant, but they are men, and there are places men cannot go.\u201d The king could not disagree. A raven flew to Duskendale that very night, commanding the new Lord Darklyn to send to court his bastard half-sister, Jonquil Darke, who had thrilled the smallfolk during the War for the White Cloaks as the mystery knight known as the Serpent in Scarlet. Still in scarlet, she arrived at King\u2019s Landing a few days later, and gladly accepted appointment as the queen\u2019s own sworn shield. In time, she would be known about the realm as the Scarlet Shadow, so closely did she guard her lady.",
+            "valid": 1.0,
+            "characters": [
+                "Jaehaerys",
+                "Queen Alysanne",
+                "His Grace",
+                "Lord Darklyn",
+                "Jonquil Darke",
+                "Serpent in Scarlet",
+                "Scarlet Shadow"
+            ],
+            "places": [
+                "Vale",
+                "Maegor's Holdfast",
+                "Duskendale",
+                "King's Landing"
+            ],
+            "events": [
+                "visit to the Vale was postponed"
+            ],
+            "verbs": [
+                "flying",
+                "arrived",
+                "accepted",
+                "guarded"
+            ],
+            "adjectives": [
+                "furious",
+                "leal",
+                "valiant"
+            ]
+        },
+        {
+            "paragraph_id": 9,
+            "paragraph": "Not long after Jaehaerys and Alysanne returned from Maidenpool and the queen took to her bedchamber, tidings of the most wondrous and unexpected sort came forth from Storm\u2019s End. Queen Alyssa was with child. At forty-four years of age, the Dowager Queen had been thought to be well beyond her childbearing years, so her pregnancy was received as a miracle. In Oldtown, the High Septon himself proclaimed it was a blessing from the gods, \u201ca gift from the Mother Above to a mother who had suffered much, and bravely.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Jaehaerys",
+                "Alysanne",
+                "Queen Alyssa"
+            ],
+            "places": [
+                "Maidenpool",
+                "Storm's End",
+                "Oldtown"
+            ],
+            "events": [
+                "pregnancy"
+            ],
+            "verbs": [
+                "returned",
+                "received",
+                "proclaimed"
+            ],
+            "adjectives": [
+                "wondrous",
+                "unexpected",
+                "forty-four years of age",
+                "well beyond her childbearing years",
+                "miracle"
+            ]
+        },
+        {
+            "paragraph_id": 10,
+            "paragraph": "Amidst the joy, there was concern as well. Alyssa was not as strong as she had been; her time as Queen Regent had taken a toll on her, and her second marriage had not brought her the happiness she had once hoped for. The prospect of a child warmed Lord Rogar\u2019s heart, however, and he cast off his anger and repented of his infidelities to stay by his wife\u2019s side. Alyssa herself was fearful, mindful of the last babe she had borne to King Aenys, the little girl Vaella who had died in the cradle. \u201cI cannot suffer that again,\u201d she told her lord husband. \u201cIt would rip my heart apart.\u201d But the child, when he came early the following year, would prove to be robust and healthy, a big red-faced boy born with a fuzz of jet-black hair and \u201ca squall that could be heard from Dorne to the Wall.\u201d Lord Rogar, who had long ago put aside any hopes of having children by Alyssa, named his son Boremund.",
+            "valid": 1.0,
+            "characters": [
+                "Alyssa",
+                "Lord Rogar",
+                "King Aenys",
+                "Vaella",
+                "Boremund"
+            ],
+            "places": [
+                "Dorne",
+                "The Wall"
+            ],
+            "events": [
+                "marriage",
+                "birth of a child"
+            ],
+            "verbs": [
+                "repented",
+                "suffered"
+            ],
+            "adjectives": [
+                "robust",
+                "healthy",
+                "jet-black"
+            ]
+        },
+        {
+            "paragraph_id": 11,
+            "paragraph": "The gods give grief as well as joy. Long before her mother was brought to term, Queen Alysanne was also delivered of a son, a boy she named Aegon, to honor both the Conqueror and her lost and much lamented brother, the uncrowned prince. All the realm gave thanks, and no one more so than Jaehaerys. But the young prince had come too early. Small and frail, he died three days after birth. So bereft was Queen Alysanne that the maesters feared for her life as well. Forever after, she blamed her son\u2019s death on the women who attacked her at Maidenpool. Had she been allowed to bathe in the healing waters of Jonquil\u2019s Pool, she would say, Prince Aegon would have lived.",
+            "valid": 1.0,
+            "characters": [
+                "Queen Alysanne",
+                "Aegon",
+                "Jaehaerys",
+                "Prince Aegon"
+            ],
+            "places": [
+                "Maidenpool",
+                "Jonquil's Pool"
+            ],
+            "events": [
+                "Prince Aegon's birth",
+                "Prince Aegon's death"
+            ],
+            "verbs": [
+                "give",
+                "delivered",
+                "thanked",
+                "blamed"
+            ],
+            "adjectives": [
+                "much lamented",
+                "frail"
+            ]
+        },
+        {
+            "paragraph_id": 12,
+            "paragraph": "Discontent lay heavy upon Dragonstone as well, where Rhaena Targaryen had established her own small court. As they had with Jaehaerys before her, neighboring lords began to seek her out, but the Queen in the East was not her brother. Many of her visitors were received coldly, others turned away without an audience.",
+            "valid": 1.0,
+            "characters": [
+                "Rhaena Targaryen",
+                "Jaehaerys"
+            ],
+            "places": [
+                "Dragonstone"
+            ],
+            "events": [],
+            "verbs": [
+                "lay",
+                "established",
+                "sought",
+                "received coldly",
+                "turned away"
+            ],
+            "adjectives": [
+                "heavy",
+                "small",
+                "neighboring"
+            ]
+        },
+        {
+            "paragraph_id": 13,
+            "paragraph": "Queen Rhaena\u2019s reunion with her daughter Aerea had not gone well, either. The princess had no memory of her mother, and the queen no knowledge of her child, nor any fondness for the children of others. Aerea had loved the excitement of the Red Keep, with lords and ladies and envoys from queer foreign lands coming and going, knights training in the yards every morning, singers and mummers and fools capering by night, and all the clangor and color and tumult of King\u2019s Landing just beyond the walls. She had loved the attention lavished on her as the heir to the Iron Throne as well. Great lords, gallant knights, bedmaids, washerwomen, and stableboys alike had praised her, loved her, and vied for her favor, and she had been the leader of a pack of young girls of both high and low birth who had terrorized the castle.",
+            "valid": 0.0,
+            "characters": [],
+            "places": [],
+            "events": [],
+            "verbs": [],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 14,
+            "paragraph": "All that had been taken from her when her mother carried her off to Dragonstone against her wishes. Compared to King\u2019s Landing, the island was a dull place, sleepy and quiet. There were no girls of her own age in the castle, and Aerea was not allowed to mingle with the daughters of the fisherfolk in the village beneath the walls. Her mother was a stranger to her, sometimes stern and sometimes shy, much given to brooding, and the women who surrounded her seemed to take little interest in Aerea. Of all of them, the only one the princess warmed to was Elissa Farman of Fair Isle, who told her tales of her adventures and promised to teach her how to sail. Lady Elissa was no happier on Dragonstone than Aerea herself, however; she missed her wide western seas and spoke often of returning to them. \u201cTake me with you,\u201d Princess Aerea would say when she did, and Elissa Farman would laugh.",
+            "valid": 1.0,
+            "characters": [
+                "Aerea",
+                "Elissa Farman"
+            ],
+            "places": [
+                "Dragonstone",
+                "King's Landing",
+                "Fair Isle"
+            ],
+            "events": [],
+            "verbs": [
+                "mingle",
+                "-brood",
+                "missed"
+            ],
+            "adjectives": [
+                "dull",
+                "sleepy",
+                "quiet",
+                "stern",
+                "shy"
+            ]
+        },
+        {
+            "paragraph_id": 15,
+            "paragraph": "Dragonstone did have one thing King\u2019s Landing largely lacked: dragons. In the great citadel under the shadow of the Dragonmont, more dragons were being born every time the moon turned, or so it seemed. The eggs that Dreamfyre had laid on Fair Isle had all hatched once on Dragonstone, and Rhaena Targaryen had made certain that her daughter made their acquaintance. \u201cChoose one and make him yours,\u201d the queen urged the princess, \u201cand one day you will fly.\u201d There were older dragons in the yards as well, and beyond the walls wild dragons that had escaped the castle made their lairs in hidden caves on the far side of the mountain. Princess Aerea had known Vermithor and Silverwing during her time at court, but she had never been allowed too close to them. Here she could visit with the dragons as often as she liked; the hatchlings, the young drakes, her mother\u2019s Dreamfyre\u2026and greatest of them all, Balerion and Vhagar, huge and ancient and sleepy, but still terrifying when they woke and stirred and spread their wings.",
+            "valid": 1.0,
+            "characters": [
+                "Dragonstone",
+                "King's Landing",
+                "Dreamfyre",
+                "Rhaena Targaryen",
+                "Princess Aerea",
+                "Vermithor",
+                "Silverwing",
+                "Balerion",
+                "Vhagar"
+            ],
+            "places": [
+                "great citadel",
+                "Dragonmont",
+                "Fair Isle",
+                "Dragonstone, yards ",
+                "hidden caves on the far side of the mountain"
+            ],
+            "events": [
+                "hatching of eggs that Dreamyfre had laid on Fair Isle"
+            ],
+            "verbs": [
+                "lacked",
+                "hatched",
+                "urged",
+                "visit"
+            ],
+            "adjectives": [
+                "great,",
+                "dangerous,",
+                "terrifying"
+            ]
+        },
+        {
+            "paragraph_id": 16,
+            "paragraph": "In the Red Keep, Aerea had loved her horse, her hounds, and her friends. On Dragonstone, the dragons became her friends\u2026her only friends, aside from Elissa Farman\u2026and she began to count the days until she could mount one and fly far, far away.",
+            "valid": 1.0,
+            "characters": [
+                "Aerea",
+                "Elissa Farman"
+            ],
+            "places": [
+                "Red Keep",
+                "Dragonstone"
+            ],
+            "events": [],
+            "verbs": [
+                "loved",
+                "became",
+                "mount",
+                "fly"
+            ],
+            "adjectives": [
+                "far"
+            ]
+        },
+        {
+            "paragraph_id": 17,
+            "paragraph": "King Jaehaerys finally made his progress through the Vale of Arryn in 52 AC, calling at Gulltown, Runestone, Redfort, Longbow Hall, Heart\u2019s Home, and the Gates of the Moon before flying Vermithor up the Giant\u2019s Lance to the Eyrie, as Queen Visenya had done during the Conquest. Queen Alysanne accompanied him for part of his travels, but not all; she had not yet recovered her full strength after childbirth, and the grief that followed. Still, by her good offices, the betrothal of Lady Prudence Celtigar to Lord Grafton of Gulltown was arranged. Her Grace also held a women\u2019s court at Gulltown, and a second at the Gates of the Moon; what she heard and learned would change the laws of the Seven Kingdoms.",
+            "valid": 1.0,
+            "characters": [
+                "King Jaehaerys",
+                "Queen Visenya",
+                "Queen Alysanne",
+                "Lady Prudence Celtigar",
+                "Lord Grafton"
+            ],
+            "places": [
+                "Vale of Arryn",
+                "Gulltown",
+                "Runestone",
+                "Redfort",
+                "Longbow Hall",
+                "Heart\u2019s Home, Gates of the Moon, Giant\u2019s Lance, Eyrie"
+            ],
+            "events": [
+                "Progress through the Vale of Arryn in 52 AC",
+                "Betrothal of Lady Prudence Celtigar to Lord Grafton of Gulltown was arranged.",
+                "Women's court at Gulltown and a second at the Gates of the Moon."
+            ],
+            "verbs": [
+                "made",
+                "calling",
+                "flying",
+                "accompanied",
+                "held",
+                "heard",
+                "learned"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 18,
+            "paragraph": "Men oft speak today of Queen Alysanne\u2019s laws, but this usage is sloppy and incorrect. Her Grace had no power to enact laws, issue decrees, make proclamations, or pass sentences. It is a mistake to speak of her as we might speak of the Conqueror\u2019s queens, Rhaenys and Visenya. The young queen did, however, wield enormous influence over King Jaehaerys, and when she spoke, he listened\u2026as he did upon their return from the Vale of Arryn.",
+            "valid": 1.0,
+            "characters": [
+                "Queen Alysanne",
+                "King Jaehaerys",
+                "Rhaenys",
+                "Visenya"
+            ],
+            "places": [
+                "Vale of Arryn"
+            ],
+            "events": [],
+            "verbs": [
+                "speak",
+                "enact",
+                "issue",
+                "make",
+                "pass"
+            ],
+            "adjectives": [
+                "sloppy",
+                "incorrect",
+                "young",
+                "enormous"
+            ]
+        },
+        {
+            "paragraph_id": 19,
+            "paragraph": "It was the plight of widows throughout the Seven Kingdoms that the women\u2019s courts had made Alysanne aware of. In times of peace especially, it was not uncommon for a man to outlive the wife of his youth, for young men most oft perish upon the battlefield, young women in the birthing bed. Be they of noble birth or humble, men left bereft suchwise would oft after a time take second wives, whose presence in the household was resented by the children of the first wife. Where no bonds of affection existed, upon the man\u2019s own death his heirs could and did expel the widow from the home, reducing her to penury; in the case of lords, the heirs might simply strip away the widow\u2019s prerogatives, incomes, and servants, reducing her to little more than a boarder.",
+            "valid": 1.0,
+            "characters": [
+                "Alysanne"
+            ],
+            "places": [
+                "Seven Kingdoms"
+            ],
+            "events": [
+                "man's death",
+                "heirs stripping away prerogatives",
+                "reducing widow to penury"
+            ],
+            "verbs": [
+                "had made aware",
+                "perish",
+                "after a time take second wives",
+                "resenting",
+                "expel",
+                "strip away",
+                "reducing her to little more than a boarder"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 20,
+            "paragraph": "To rectify these ills, King Jaehaerys in 52 AC promulgated the Widow\u2019s Law, reaffirming the right of the eldest son (or eldest daughter, where there was no son) to inherit, but requiring said heirs to maintain surviving widows in the same condition they had enjoyed before their husband\u2019s death. A lord\u2019s widow, be she a second, third, or later wife, could no longer be driven from his castle, nor deprived of her servants, clothing, and income. The same law, however, also forbade men from disinheriting their children by a first wife in order to bestow their lands, seat, or property upon a later wife or her own children.",
+            "valid": 1.0,
+            "characters": [
+                "King Jaehaerys"
+            ],
+            "places": [],
+            "events": [
+                "Widow's Law"
+            ],
+            "verbs": [
+                "promulgated",
+                "require",
+                "driven",
+                "deprived",
+                "disinheriting"
+            ],
+            "adjectives": [
+                "eldest",
+                "surviving"
+            ]
+        },
+        {
+            "paragraph_id": 21,
+            "paragraph": "Building was the king\u2019s other concern that year. Work continued on the Dragonpit, and Jaehaerys oft visited the site to see the progress with his own eyes. Whilst riding from Aegon\u2019s High Hill to the Hill of Rhaenys, however, His Grace took note of the most lamentable state of his city. King\u2019s Landing had grown too fast, with manses and shops and hovels and rat pits springing up like mushrooms after a hard rain. The streets were close and dark and filthy, with buildings so close to one another that men could clamber from one window to another. The wynds coiled about like drunken snakes. Mud, manure, and nightsoil were everywhere.",
+            "valid": 1.0,
+            "characters": [
+                "Jaehaerys"
+            ],
+            "places": [
+                "Dragonpit",
+                "Aegon's High Hill",
+                "Hill of Rhaenys",
+                "King's Landing"
+            ],
+            "events": [
+                "work continued on the Dragonpit",
+                "His Grace took note of the state of his city"
+            ],
+            "verbs": [
+                "continued",
+                "visited",
+                "took note",
+                "springing up"
+            ],
+            "adjectives": [
+                "lamentable",
+                "close",
+                "dark",
+                "filthy",
+                "coiled"
+            ]
+        },
+        {
+            "paragraph_id": 22,
+            "paragraph": "\u201cWould that I could empty the city, knock it down, and build it all anew,\u201d the king told his council. Lacking that power, and the coin such a massive undertaking would have required, Jaehaerys did what he could. Streets were widened, straightened, and cobbled where possible. The worst styes and hovels were torn down. A great central square was carved out and planted with trees, with markets and arcades beneath. From that hub, long wide streets sprung, straight as spears: the King\u2019s Way, the Gods\u2019 Way, the Street of the Sisters, Blackwater Way (or the Muddy Way, as the smallfolk soon renamed it). None of this could be accomplished in a night; work would continue for years, even decades, but it was the year 52 AC when it began, by the king\u2019s command.",
+            "valid": 0.0,
+            "characters": [],
+            "places": [],
+            "events": [],
+            "verbs": [],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 23,
+            "paragraph": "The cost of rebuilding the city was not inconsequential, and put further strain upon the Crown\u2019s treasury. Those difficulties were exacerbated by the growing unpopularity of the Lord of Air, Rego Draz. In a short time, the Pentoshi master of coin had become as widely loathed as his predecessor, though for different reasons. He was said to be corrupt, taking the king\u2019s gold to fatten his own purse, a charge Lord Rego treated with derision. \u201cWhy should I steal from the king? I am twice as rich as he is.\u201d He was said to be godless, for he did not worship the Seven. Many a queer god is worshipped in Pentos, but Draz was known to keep but one, a small household idol like unto a woman great with child, with swollen breasts and a bat\u2019s head. \u201cShe is all the god I need,\u201d was all he would say upon the matter. He was said to be a mongrel, an assertion he could not deny, for all Pentoshi are part Andal and part Valyrian, mixed with the stock of slaves and older peoples long forgotten. Most of all, he was resented for his wealth, which he did not deign to conceal but flaunted with his silken robes, ruby rings, and gilded palanquin.",
+            "valid": 1.0,
+            "characters": [
+                "Lord of Air Rego Draz",
+                "Pentoshi master of coin",
+                "king"
+            ],
+            "places": [
+                "Pentos"
+            ],
+            "events": [],
+            "verbs": [
+                "rebuilding",
+                "putting strain",
+                "growing unpopularity",
+                "taking king\u2019s gold",
+                "flaunted"
+            ],
+            "adjectives": [
+                "consequential",
+                "unpopularity",
+                "corrupt",
+                "godless",
+                "queer",
+                "great with child",
+                "swollen breasts",
+                "bat'shead",
+                "resented"
+            ]
+        },
+        {
+            "paragraph_id": 24,
+            "paragraph": "That Lord Rego Draz was an able master of coin even his enemies could not deny, but the challenge of paying for the completion of the Dragonpit and the rebuilding of King\u2019s Landing strained even his talents. The taxes on silk, spice, and crenellations alone could not answer, so Lord Rego reluctantly imposed a new levy: a gate fee, required of anyone entering or leaving the city, collected by the guards on the city\u2019s gates. Additional fees were assessed for horses, mules, donkeys, and oxen, and wagons and carts were taxed heaviest of all. Given the amount of traffic that came and went from King\u2019s Landing every day, the gate tax proved to be highly lucrative, bringing in more than enough coin to meet the need\u2026but at considerable cost to Rego Draz himself, as the grumbling against him increased tenfold.",
+            "valid": 1.0,
+            "characters": [
+                "Lord Rego Draz"
+            ],
+            "places": [
+                "Dragonpit",
+                "King's Landing"
+            ],
+            "events": [
+                "Rebuilding of King's Landing"
+            ],
+            "verbs": [
+                "impose",
+                "assessed",
+                "collect",
+                "brought",
+                "increased"
+            ],
+            "adjectives": [
+                "able",
+                "lackluster",
+                "strained",
+                "new",
+                "reluctantly",
+                "heavy"
+            ]
+        },
+        {
+            "paragraph_id": 25,
+            "paragraph": "A long summer, plentiful harvests, and peace and prosperity both at home and abroad helped to blunt the edge of the discontent, however, and as the year drew to a close, Queen Alysanne brought the king splendid news. Her Grace was once again with child. This time, she vowed, no enemies would come near her. Plans for a second royal progress had already been made and announced before the queen\u2019s condition became known. Though Jaehaerys decided at once that he would remain by his wife\u2019s side until the babe was born, Alysanne would not have it. He must go, she insisted.",
+            "valid": 1.0,
+            "characters": [
+                "Queen Alysanne",
+                "King Jaehaerys"
+            ],
+            "places": [],
+            "events": [
+                "royal progress",
+                "with child"
+            ],
+            "verbs": [
+                "blunt",
+                "drew",
+                "vowed",
+                "remain",
+                "decided",
+                "insisted"
+            ],
+            "adjectives": [
+                "long",
+                "plentiful",
+                "peaceful",
+                "prosperous"
+            ]
+        },
+        {
+            "paragraph_id": 26,
+            "paragraph": "And so he did. The coming of the new year saw the king taking to the sky again on Vermithor, this time for the riverlands. His progress began with a stay at Harrenhal as a guest of its new lord, the nine-year- old Maegor Towers. From there he and his retinue moved on to Riverrun, Acorn Hall, Pinkmaiden, Atranta, and Stoney Sept. At his queen\u2019s request, Lady Jennis Templeton traveled with the king to hold women\u2019s courts at Riverrun and Stoney Sept in her place. Alysanne remained in the Red Keep, presiding over council meetings in the king\u2019s absence, and holding audience from a velvet seat at the base of the Iron Throne.",
+            "valid": 1.0,
+            "characters": [
+                "king",
+                "Vermithor",
+                "Maegor Towers",
+                "Lady Jennis Templeton",
+                "Alysanne"
+            ],
+            "places": [
+                "Harrenhal",
+                "Riverrun",
+                "Acorn Hall",
+                "Pinkmaiden",
+                "Atranta",
+                "Stoney Sept"
+            ],
+            "events": [
+                "taking to the sky again on Vermithor"
+            ],
+            "verbs": [
+                "did",
+                "taking",
+                "began with a stay at Harrenhal as guest of its new lord,",
+                "moved on to Riverrun, Acorn Hall, Pinkmaiden, Atranta and Stoney Sept.",
+                "traveled with the king to hold women\u2019s courts in her place.",
+                "remained in the Red Keep, presiding over council meetings and holding audience from a velvet seat at base of Iron Throne."
+            ],
+            "adjectives": [
+                "new year",
+                "nine-year-old"
+            ]
+        },
+        {
+            "paragraph_id": 27,
+            "paragraph": "As Her Grace grew great with child, just across Blackwater Bay by the Gullet another woman was delivered of another child whose birth, whilst less noted, would in time be of great significance to the lands of Westeros and the seas that lay beyond. On the isle of Driftmark, Daemon Velaryon\u2019s eldest son became a father for the first time when his lady wife presented him with a handsome, healthy boy. The babe was named Corlys, after the great-great-uncle who had served so nobly as the Lord Commander of the first Kingsguard, but in the years to come the people of Westeros would come to know this new Corlys better as the Sea Snake.",
+            "valid": 1.0,
+            "characters": [
+                "Her Grace",
+                "Daemon Velaryon",
+                "Corlys"
+            ],
+            "places": [
+                "Blackwater Bay",
+                "Gullet",
+                "Driftmark"
+            ],
+            "events": [
+                "great with child",
+                "delivered of a child"
+            ],
+            "verbs": [
+                "grew great",
+                "presented",
+                "named"
+            ],
+            "adjectives": [
+                "nobly",
+                "handsome",
+                "healthy"
+            ]
+        },
+        {
+            "paragraph_id": 28,
+            "paragraph": "The queen\u2019s own child followed in due course. She was brought to bed during the seventh moon of 53 AC, and this time she gave birth to a strong and healthy child, a girl she named Daenerys. The king was at Stoney Sept when word reached him. He mounted Vermithor and flew back to King\u2019s Landing at once. Though Jaehaerys had hoped for another son to follow him upon the Iron Throne, it was plain that he doted on his daughter from the moment he first took her in his arms. The realm delighted in the little princess as well\u2026everywhere, that is, save on Dragonstone.",
+            "valid": 1.0,
+            "characters": [
+                "queen",
+                "Daenerys",
+                "king",
+                "Jaehaerys"
+            ],
+            "places": [
+                "Stoney Sept",
+                "King's Landing",
+                "Dragonstone"
+            ],
+            "events": [
+                "birth"
+            ],
+            "verbs": [
+                "followed",
+                "brought",
+                "mounted",
+                "flew",
+                "hoped",
+                "doted"
+            ],
+            "adjectives": [
+                "own",
+                "due",
+                "strong",
+                "healthy"
+            ]
+        },
+        {
+            "paragraph_id": 29,
+            "paragraph": "Aerea Targaryen, the daughter of Aegon the Uncrowned and his sister Rhaena, was eleven years of age, and had been heir to the Iron Throne for as long as she could remember (but for the three days that separated Prince Aegon\u2019s birth from his death). A strong-willed, bold- tongued, fiery young girl, Aerea delighted in the attention that came with being a queen-in-waiting, and was not pleased to find herself displaced by the newborn princess.",
+            "valid": 1.0,
+            "characters": [
+                "Aerea Targaryen",
+                "Aegon the Uncrowned",
+                "Rhaena",
+                "Prince Aegon"
+            ],
+            "places": [
+                "Iron Throne"
+            ],
+            "events": [
+                "birth of Princess"
+            ],
+            "verbs": [
+                "remember",
+                "displaced"
+            ],
+            "adjectives": [
+                "strong-willed",
+                "bold-tongued",
+                "fiery"
+            ]
+        },
+        {
+            "paragraph_id": 30,
+            "paragraph": "Her mother, Queen Rhaena, likely shared these feelings, but she held her tongue and spoke no word of it even to her closest confidants. She had trouble enough in her own hall at the time, for a rift had opened between her and her beloved Elissa Farman. Denied any part of the incomes of Fair Isle by her brother Lord Franklyn, Elissa asked the Dowager Queen for gold sufficient to build a new ship in the shipyards of Driftmark, a large, swift vessel meant to sail the Sunset Sea. Rhaena denied her request. \u201cI could not bear for you to leave me,\u201d she said, but Lady Elissa heard only, \u201cNo.\u201d",
+            "valid": 1.0,
+            "characters": [
+                " Queen Rhaena",
+                "Elissa Farman",
+                "Lord Franklyn"
+            ],
+            "places": [
+                "Fair Isle",
+                "Driftmark",
+                "Sunset Sea"
+            ],
+            "events": [
+                "rift opened between Elissa and Queen Rhaena",
+                "denied of incomes of Fair Isle by Lord Franklyn"
+            ],
+            "verbs": [
+                "shared",
+                "held",
+                "spoke ",
+                "asked",
+                "build",
+                "sail",
+                "denied"
+            ],
+            "adjectives": [
+                "closest",
+                "beloved"
+            ]
+        },
+        {
+            "paragraph_id": 31,
+            "paragraph": "With the hindsight of history to guide us, we can look back and see that all the portents were there, ominous signs of difficult days ahead, but even the archmaesters of the Conclave saw none of that as they reflected on the year about to end. Not one of them realized that the year ahead would be amongst the darkest in the long reign of Jaehaerys I Targaryen, a year so marked by death, division, and disaster that the maesters and smallfolk alike would come to call it the Year of the Stranger.",
+            "valid": 1.0,
+            "characters": [
+                "Jaehaerys I Targaryen"
+            ],
+            "places": [
+                "Conclave"
+            ],
+            "events": [
+                "hindsight of history",
+                "year of the stranger"
+            ],
+            "verbs": [
+                "look back",
+                "saw",
+                "realized",
+                "marked"
+            ],
+            "adjectives": [
+                "ominous",
+                "difficult",
+                "darkest",
+                "death, division, and disaster"
+            ]
+        },
+        {
+            "paragraph_id": 32,
+            "paragraph": "The first death of 54 AC came within days of the celebrations that marked the coming of the new year, as Septon Oswyck passed in his sleep. He was an old man and had been failing for some time, but his passing cast a pall over the court all the same. At a time when the Queen Regent, the King\u2019s Hand, and the Faith had all opposed the marriage of Jaehaerys and Alysanne, Oswyck had agreed to perform the rites for them, and his courage had not been forgotten. At the king\u2019s request, his remains were interred on Dragonstone, where he had served so long and so faithfully.",
+            "valid": 1.0,
+            "characters": [
+                "Septon Oswyck",
+                "Queen Regent",
+                "King's Hand",
+                "Jaehaerys",
+                "Alysanne"
+            ],
+            "places": [
+                "Dragonstone"
+            ],
+            "events": [],
+            "verbs": [
+                "passed",
+                "interred"
+            ],
+            "adjectives": [
+                "old",
+                "failing"
+            ]
+        },
+        {
+            "paragraph_id": 33,
+            "paragraph": "The Red Keep was still in mourning when the next blow fell, though at the time it seemed an occasion for joy. A raven from Storm\u2019s End delivered an astonishing message: Queen Alyssa was once again with child, at the age of forty-six. \u201cA second miracle,\u201d Grand Maester Benifer proclaimed when he told the king the news. Septon Barth, who had taken on Oswyck\u2019s duties after his death, was more doubtful. Her Grace had never completely recovered from the birth of her son Boremund, he cautioned; he questioned whether she still had strength enough to carry a child to term. Rogar Baratheon was elated at the prospect of another son, however, and foresaw no difficulties. His wife had given birth to seven children, he insisted. Why not an eighth?",
+            "valid": 1.0,
+            "characters": [
+                "Queen Alyssa",
+                "Grand Maester Benifer",
+                "Septon Barth",
+                "Oswyck",
+                "Boremund",
+                "Rogar Baratheon"
+            ],
+            "places": [
+                "Red Keep",
+                "Storm\u2019s End"
+            ],
+            "events": [
+                "mourning",
+                "proclamation of news from Storm\u2019s End"
+            ],
+            "verbs": [
+                "delivered",
+                "proclaimed",
+                "cautioned",
+                "questioned",
+                "insisted"
+            ],
+            "adjectives": [
+                "astonishing",
+                "second miracle,",
+                "elated"
+            ]
+        },
+        {
+            "paragraph_id": 34,
+            "paragraph": "On Dragonstone, problems of another sort were coming to a head. Lady Elissa Farman could suffer life upon the island no more. She had heard the sea calling, she told Queen Rhaena; it was time for her to take her leave. Never one to make a show of her emotions, the Queen in the East received the news stone-faced. \u201cI have asked you to stay,\u201d she said. \u201cI will not beg. If you would go, go.\u201d Princess Aerea had none of her mother\u2019s restraint. When Lady Elissa came to say her farewells, the princess wept and clung to her leg, pleading with her to stay, or failing that, to take her along. \u201cI want to be with you,\u201d Aerea said, \u201cI want to sail the seas and have adventures.\u201d Lady Elissa shed a tear as well, we are told, but she pushed the princess away gently and told her, \u201cNo, child. Your place is here.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Lady Elissa Farman",
+                "Queen Rhaena",
+                "Princess Aerea"
+            ],
+            "places": [
+                "Dragonstone"
+            ],
+            "events": [
+                "Lady Elissa coming to say farewells"
+            ],
+            "verbs": [
+                "suffering",
+                "calling",
+                "asking",
+                "receiving",
+                "weeping",
+                "clinging",
+                "pleading",
+                "shedding",
+                "pushing"
+            ],
+            "adjectives": [
+                "emotional",
+                "stone-faced",
+                "restrained",
+                "gentle"
+            ]
+        },
+        {
+            "paragraph_id": 35,
+            "paragraph": "Elissa Farman departed for Driftmark the next morning. From there she took ship across the narrow sea to Pentos. Thereafter she made her way overland to Braavos, whose shipwrights were far famed, but Rhaena Targaryen and Princess Aerea had no notion of her final destination. The queen believed she had gone no farther than Driftmark. Lady Elissa had good reason for wanting more distance between her and the queen, however. A fortnight after her departure, Ser Merrell Bullock, still commander of the castle garrison, brought three terrified grooms and the keeper of the dragon yard into Rhaena\u2019s presence. Three dragon eggs were missing, and days of searching had not turned them up. After questioning every man who had access to the dragons closely, Ser Merrell was convinced that Lady Elissa had made off with them.",
+            "valid": 1.0,
+            "characters": [
+                "Elissa Farman",
+                "Rhaena Targaryen",
+                "Princess Aerea",
+                "Ser Merrell Bullock"
+            ],
+            "places": [
+                "Driftmark",
+                "Pentos",
+                "Braavos"
+            ],
+            "events": [
+                "departed for Driftmark",
+                "Took ship across the narrow sea to Pentos",
+                "Made her way overland to Braavos",
+                "Three dragon eggs were missing"
+            ],
+            "verbs": [
+                "departed",
+                "took",
+                "made",
+                "missing"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 36,
+            "paragraph": "If this betrayal by one she had loved wounded Rhaena Targaryen she hid it well, but there was no hiding her fury. She commanded Ser Merrell to question the grooms and stableboys more sharply. When the questioning proved fruitless, she relieved him of his command and expelled him from Dragonstone, together with his son Ser Alyn, and a dozen other men she found suspicious. She even went so far as to summon her husband, Androw Farman, demanding to know if he had been complicit in his sister\u2019s crime. His denials only goaded her to more rage, until their shouts could be heard echoing through the halls of Dragonstone. She sent men to Driftmark, only to learn that Lady Elissa had sailed to Pentos. She sent men to Pentos, but there the trail went cold.",
+            "valid": 0.0,
+            "characters": [],
+            "places": [],
+            "events": [],
+            "verbs": [],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 37,
+            "paragraph": "Only then did Rhaena Targaryen mount Dreamfyre to fly to the Red Keep and inform her brother of what had transpired. \u201cElissa had no love for dragons,\u201d she told the king. \u201cIt was gold she wanted, gold to build a ship. She will sell the eggs. They are worth\u2014\u201d \u201c\u2014a fleet of ships.\u201d Jaehaerys had received his sister in his solar, with only Grand Maester Benifer present to bear witness to what was said. \u201cIf those eggs should hatch, there will be another dragonlord in the world, one not of our own house.\u201d \u201cThey may not hatch,\u201d Benifer said. \u201cNot away from Dragonstone. The heat\u2026it is known, some dragon eggs simply turn to stone.\u201d \u201cThen some spicemonger in Pentos will find himself possessed of three very costly stones,\u201d Jaehaerys said. \u201cElsewise\u2026the birth of three young dragons is not a thing that can easily be kept secret. Whoever has them will want to crow. We must have eyes and ears in Pentos, Tyrosh, Myr, all the Free Cities. Offer rewards for any word of dragons.\u201d \u201cWhat do you mean to do?\u201d his sister Rhaena asked him. \u201cWhat I must. What you must. Do not think to wash your hands of this, sweet sister. You wanted Dragonstone and I gave it to you, and you brought this woman there. This thief.\u201d The long reign of Jaehaerys I Targaryen was a peaceful one, for the most part; such wars as he fought were few and short. Let no man mistake Jaehaerys for his father, Aenys, however. There was nothing weak about him, nothing indecisive, as his sister Rhaena and Grand Maester Benifer witnessed then, when the king went on to say, \u201cShould the dragons turn up, anywhere from here to Yi Ti, we will demand their return. They were stolen from us, they are ours by right. If that demand should be denied, then we must needs go and get them. Take them back if we can, kill them if not. No hatchlings can hope to stand against Vermithor and Dreamfyre.\u201d",
+            "valid": 0.0,
+            "characters": [],
+            "places": [],
+            "events": [],
+            "verbs": [],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 38,
+            "paragraph": "\u201cAnd Silverwing?\u201d asked Rhaena. \u201cOur sister\u2014\u201d \u201c\u2014had no part in this. I will not put her at risk.\u201d The Queen in the East smiled then. \u201cShe is Rhaenys, and I am Visenya. I have never thought otherwise.\u201d Grand Maester Benifer said, \u201cYou are speaking of waging war across the narrow sea, Your Grace. The costs\u2014\u201d \u201c\u2014must needs be borne. I will not allow Valyria to rise again. Imagine what the triarchs of Volantis would do with dragons. Let us pray it never comes to that.\u201d With that His Grace ended the audience, cautioning the others not to speak of the missing eggs. \u201cNo one must know of this but we three.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Rhaena",
+                "Silverwing",
+                "Queen in the East",
+                "Visenya",
+                "Grand Maester Benifer"
+            ],
+            "places": [
+                "Narrow Sea",
+                "Valyria",
+                "Volantis"
+            ],
+            "events": [
+                "Waging War Across Narrow Sea"
+            ],
+            "verbs": [
+                "Pray",
+                "Borne",
+                "Ended",
+                "Cautioning",
+                "Know"
+            ],
+            "adjectives": [
+                "Missing"
+            ]
+        },
+        {
+            "paragraph_id": 39,
+            "paragraph": "It was too late for such cautions, though. On Dragonstone, the theft was common knowledge, even amongst the fisherfolk. And fisherfolk, as is known, sail to other islands, and thus the whispers spread. Benifer, acting through the Pentoshi master of coin, who had agents in every port, reached out across the narrow sea as the king had commanded\u2026\u201cpaying good coin to bad men\u201d (in the words of Rego Draz) for any news of dragon eggs, dragons, or Elissa Farman. A small host of whisperers, informers, courtiers, and courtesans produced hundreds of reports, a score of which proved to be of value to the Iron Throne for other reasons\u2026but every rumor of the dragon eggs proved worthless.",
+            "valid": 1.0,
+            "characters": [
+                "Benifer",
+                "Rego Draz"
+            ],
+            "places": [
+                "Dragonstone"
+            ],
+            "events": [],
+            "verbs": [
+                "theft",
+                "sail",
+                "spread",
+                "reaching",
+                "paying",
+                "produced",
+                "rumor"
+            ],
+            "adjectives": [
+                "common",
+                "known",
+                "narrow",
+                "small"
+            ]
+        },
+        {
+            "paragraph_id": 40,
+            "paragraph": "We know now that Lady Elissa made her way to Braavos after Pentos, though not before taking on a new name. Having been driven from Fair Isle and disowned by her brother Lord Franklyn, she took on a bastard name of her own devising, calling herself Alys Westhill. Under that name, she secured an audience with the Sealord of Braavos. The Sealord\u2019s menagerie was far famed, and he was glad to buy the dragon eggs. The gold she received in return she entrusted to the Iron Bank, and used it to finance the building of the Sun Chaser, the ship she had dreamed of for many a year.",
+            "valid": 1.0,
+            "characters": [
+                "Lady Elissa",
+                "Lord Franklyn",
+                "Alys Westhill",
+                "Sealord of Braavos"
+            ],
+            "places": [
+                "Braavos",
+                "Pentos",
+                "Fair Isle"
+            ],
+            "events": [
+                " taking on a new name",
+                "disowned by her brother Lord Franklyn",
+                "an audience with the Sealord of Braavos",
+                "buying the dragon eggs",
+                "building of the Sun Chaser"
+            ],
+            "verbs": [
+                "made her way",
+                "took on",
+                "secured",
+                "buy",
+                "received",
+                "entrusted",
+                "used finance"
+            ],
+            "adjectives": [
+                "new",
+                "glad"
+            ]
+        },
+        {
+            "paragraph_id": 41,
+            "paragraph": "None of this was known on Westeros at the time, however, and soon enough King Jaehaerys had a fresh concern. In the Starry Sept of Oldtown, the High Septon had collapsed whilst ascending a flight of steps to his bedchamber. He was dead before he reached the bottom. All across the realm, bells in every sept sang a dolorous song. The Father of the Faithful had gone to join the Seven.",
+            "valid": 1.0,
+            "characters": [
+                "King Jaehaerys",
+                "High Septon"
+            ],
+            "places": [
+                "Westeros",
+                "Starry Sept of Oldtown"
+            ],
+            "events": [
+                "collapsed",
+                "ascending a flight of steps to his bedchamber",
+                "dead before he reached the bottom",
+                "bells in every sept sang dolorous song",
+                "Father of the Faithful had gone to join the Seven"
+            ],
+            "verbs": [
+                "known",
+                "concern",
+                "collapsed",
+                "ascending",
+                "reached",
+                "sang"
+            ],
+            "adjectives": [
+                "fresh"
+            ]
+        },
+        {
+            "paragraph_id": 42,
+            "paragraph": "The king had no time for prayer or grieving, though. As soon as His Holiness was interred, the Most Devout would be assembling in the Starry Sept to choose his successor, and Jaehaerys knew that the peace of the realm depended on the new man continuing the policies of his predecessor. The king had his own candidate for the crystal crown: Septon Barth, who had come to oversee the Red Keep\u2019s library, only to become one of his most trusted advisors. It took half the night for Barth himself to persuade His Grace of the folly of his choice; he was too young, too little known, too unorthodox in his opinions, not even one of the Most Devout. He had no hope of being chosen. They would need another candidate, one more acceptable to his brothers of the Faith.",
+            "valid": 1.0,
+            "characters": [
+                "king",
+                "His Holiness",
+                "Most Devout",
+                "Jaehaerys",
+                "Septon Barth"
+            ],
+            "places": [
+                "Starry Sept",
+                "Red Keep's library"
+            ],
+            "events": [
+                "interred",
+                "choosing his successor"
+            ],
+            "verbs": [
+                "convince",
+                "persuade",
+                "be choosing"
+            ],
+            "adjectives": [
+                "devout",
+                "trusted",
+                "young",
+                "little known",
+                "unorthodox"
+            ]
+        },
+        {
+            "paragraph_id": 43,
+            "paragraph": "The king and the lords of the council were agreed on one thing, however; they must needs do all they could to make certain that Septon Mattheus was not chosen. His tenure in King\u2019s Landing had left a legacy of mistrust behind it, and Jaehaerys could neither forgive nor forget his words at the gates of Dragonstone.",
+            "valid": 1.0,
+            "characters": [
+                "king",
+                "lords of the council",
+                "Septon Mattheus",
+                "Jaehaerys"
+            ],
+            "places": [
+                "King's Landing",
+                "Dragonstone"
+            ],
+            "events": [
+                "chosen"
+            ],
+            "verbs": [
+                "agreeing",
+                "do",
+                "make certain",
+                "forgive",
+                "forget"
+            ],
+            "adjectives": [
+                "certain"
+            ]
+        },
+        {
+            "paragraph_id": 44,
+            "paragraph": "Rego Draz suggested that some well-placed bribes might produce the desired result. \u201cSpread enough gold amongst these Most Devout and they will choose me,\u201d he japed, \u201cthough I would not want the job.\u201d Daemon Velaryon and Qarl Corbray advocated a show of force, though Lord Daemon wished to send his fleet, whilst Lord Qarl offered to lead an army. Albin Massey, the bent-backed master of laws, wondered if Septon Mattheus might suffer the same fate as the High Septon who had made such trouble for Aenys and Maegor; a sudden, mysterious death. Septon Barth, Grand Maester Benifer, and Queen Alysanne were horrified by all these proposals, and the king rejected them out of hand. He and the queen would go to Oldtown at once, he decided instead. His High Holiness had been a leal servant to the gods and a staunch friend to the Iron Throne, it was only right that they be there to see him laid to rest. The only way to reach Oldtown in time was by dragon.",
+            "valid": 0.0,
+            "characters": [],
+            "places": [],
+            "events": [],
+            "verbs": [],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 45,
+            "paragraph": "All the lords of the council, even Septon Barth, were made uneasy by the thought of the king and queen alone in Oldtown. \u201cThere are still those amongst my brothers who do not love Your Grace,\u201d Barth pointed out. Lord Daemon agreed, and reminded Jaehaerys of what had befallen the queen at Maidenpool. When the king insisted that he would have the protection of the Hightower, uneasy glances were exchanged. \u201cLord Donnel is a schemer and a sulker,\u201d said Manfryd Redwyne. \u201cI do not trust him. Nor should you. He does what he thinks best for himself, his house, and Oldtown, and cares not a fig for anyone or anything else. Not even for his king.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "All",
+                "the lords of the council",
+                "Septon Barth ",
+                "Jaehaerys",
+                "Lord Daemon",
+                "Lord Donnel",
+                "Manfryd Redwyne"
+            ],
+            "places": [
+                "Oldtown",
+                "Maidenpool",
+                "Hightower"
+            ],
+            "events": [],
+            "verbs": [
+                "made uneasy",
+                "pointed out",
+                "reminded",
+                "insisted",
+                "exchanged"
+            ],
+            "adjectives": [
+                "eagerly",
+                "uneasy"
+            ]
+        },
+        {
+            "paragraph_id": 46,
+            "paragraph": "\u201cThen I must convince him that what is best for his king is what is best for himself, his house, and Oldtown,\u201d said Jaehaerys. \u201cI believe I can do that.\u201d So he ended the discussion and gave orders for their dragons to be brought forth.",
+            "valid": 1.0,
+            "characters": [
+                "Jaehaerys",
+                "his king"
+            ],
+            "places": [
+                "Oldtown"
+            ],
+            "events": [],
+            "verbs": [
+                "convinve",
+                "believe",
+                "give orders",
+                "bring forth"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 47,
+            "paragraph": "Even for a dragon, the flight from King\u2019s Landing to Oldtown is a long one. The king and queen stopped twice along the way, once at Bitterbridge and once at Highgarden, resting overnight and taking counsel with their lords. The lords of the council had insisted that they take some protection at the very least. Ser Joffrey Doggett flew with Alysanne, and the Scarlet Shadow, Jonquil Darke, with Jaehaerys, so as to balance the weight each dragon carried.",
+            "valid": 1.0,
+            "characters": [
+                "king",
+                "queen",
+                "Ser Joffrey Doggett",
+                "Alysanne",
+                "Scarlet Shadow",
+                "Jonquil Darke",
+                "Jaehaerys"
+            ],
+            "places": [
+                "King's Landing",
+                "Oldtown",
+                "Bitterbridge",
+                "Highgarden"
+            ],
+            "events": [
+                "flight",
+                "resting overnight"
+            ],
+            "verbs": [
+                "stopped",
+                "take",
+                "fly"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 48,
+            "paragraph": "The unexpected arrival of Vermithor and Silverwing at Oldtown brought thousands to the streets to point and stare. No word of their coming had been sent ahead, and there were many in the city who were frightened, wondering what this might portend\u2026none, mayhaps, more than Septon Mattheus, who turned pale when he was told. Jaehaerys brought down Vermithor on the wide marble plaza outside the Starry Sept, but it was his queen who made the city gasp when Silverwing alighted atop the Hightower itself, the beating of her wings fanning the flames of its famous beacon.",
+            "valid": 1.0,
+            "characters": [
+                "Vermithor",
+                "Silverwing",
+                "Jaehaerys",
+                "Septon Mattheus"
+            ],
+            "places": [
+                "Oldtown",
+                "Starry Sept",
+                "Hightower"
+            ],
+            "events": [
+                "arrival",
+                "landings"
+            ],
+            "verbs": [
+                "pointed",
+                "stare",
+                "sent ahead",
+                "made the city gasp",
+                "alighted atop",
+                "fanning the flames"
+            ],
+            "adjectives": [
+                "unexpected",
+                "frightened"
+            ]
+        },
+        {
+            "paragraph_id": 49,
+            "paragraph": "Though the High Septon\u2019s funeral rites were the purported reason for their visit, His High Holiness had already been interred in the crypts beneath the Starry Sept by the time the king and queen arrived. Jaehaerys gave a eulogy nonetheless, addressing a huge crowd of septons, maesters, and smallfolk in the plaza. At the end of his remarks, he announced that he and the queen would remain in Oldtown until the new High Septon had been chosen \u201cso we might ask for his blessing.\u201d As Archmaester Goodwyn wrote afterward, \u201cThe smallfolk cheered, the maesters nodded sagely, and the septons looked at one another and thought on dragons.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "High Septon",
+                "His High Holiness",
+                "Jaehaerys",
+                "queen",
+                "Archmaester Goodwyn"
+            ],
+            "places": [
+                "Oldtown",
+                "Starry Sept",
+                "crypts"
+            ],
+            "events": [
+                "funeral rites",
+                "eulogy"
+            ],
+            "verbs": [
+                "arrived",
+                "gave",
+                "remain",
+                "ask",
+                "cheered",
+                "nodded"
+            ],
+            "adjectives": [
+                "huge"
+            ]
+        },
+        {
+            "paragraph_id": 50,
+            "paragraph": "During their time in Oldtown, Jaehaerys and Alysanne slept in Lord Donnel\u2019s own apartments at the top of the Hightower, with all of Oldtown spread out below. We have no certain knowledge of what words passed between them and their host, for their discussions took place behind closed doors without even a maester present. Years later, however, King Jaehaerys told Septon Barth all that occurred, and Barth set down a summary for the sake of history.",
+            "valid": 1.0,
+            "characters": [
+                "Jaehaerys",
+                "Alysanne",
+                "Lord Donnel"
+            ],
+            "places": [
+                "Oldtown",
+                "Hightower"
+            ],
+            "events": [],
+            "verbs": [
+                "slept",
+                "passed",
+                "occurred"
+            ],
+            "adjectives": [
+                "own",
+                "closed",
+                "later"
+            ]
+        },
+        {
+            "paragraph_id": 51,
+            "paragraph": "The Hightowers of Oldtown were an ancient family, powerful, wealthy, proud\u2026and large. It had long been their custom for the younger sons, brothers, cousins, and bastards of the house to join the Faith, where many had risen high over the centuries. Lord Donnel Hightower had a younger brother, two nephews, and six cousins serving the Seven in 54 AC; the brother, one nephew, and two cousins wore the cloth-of-silver of the Most Devout. It was Lord Donnel\u2019s desire that one of them become High Septon.",
+            "valid": 1.0,
+            "characters": [
+                "Donnel Hightower",
+                "Brother",
+                "Nephew",
+                "Cousins"
+            ],
+            "places": [
+                "Oldtown"
+            ],
+            "events": [],
+            "verbs": [
+                "join",
+                "wear"
+            ],
+            "adjectives": [
+                "ancient",
+                "powerful",
+                "wealthy",
+                "proud"
+            ]
+        },
+        {
+            "paragraph_id": 52,
+            "paragraph": "King Jaehaerys did not care which house His High Holiness derived from, or whether he was of low or noble birth. His only concern was that the new High Septon be an Exceptionalist. The Targaryen tradition of sibling marriage must never again be questioned by the Starry Sept. He wanted the new Father of the Faithful to make Exceptionalism an official doctrine of the Faith. And though His Grace had no objection to Lord Donnel\u2019s brother, nor the rest of his ilk, none of them had yet spoken on the issue, so After hours of discussion, an understanding was reached, and sealed with a great feast wherein Lord Donnel praised the wisdom of the king, whilst making him acquainted with his brothers, uncles, nephews, nieces, and cousins. Across the city at the Starry Sept, the Most Devout convened to choose their new shepherd, with agents of Lord Hightower and the king amongst them, unbeknownst to most. Four ballots were required. Septon Mattheus led on the first, as anticipated, but lacked the votes necessary to secure the crystal crown. Thereafter his numbers dwindled on every ballot, whilst other men rose up.",
+            "valid": 1.0,
+            "characters": [
+                "King Jaehaerys",
+                "His High Holiness",
+                "Lord Donnel",
+                "Septon Mattheus",
+                " Lord Hightower"
+            ],
+            "places": [
+                "Starry Sept"
+            ],
+            "events": [
+                "sibling marriage must never again be questioned by the Starry Sept",
+                "Great feast",
+                "Four ballots were required"
+            ],
+            "verbs": [
+                "derived from",
+                "questioned",
+                "reached",
+                "praised"
+            ],
+            "adjectives": [
+                "low",
+                "noble",
+                "Exceptionalist"
+            ]
+        },
+        {
+            "paragraph_id": 53,
+            "paragraph": "On the fourth ballot, the Most Devout broke tradition, choosing a man who was not one of their own number. The laurel fell to the Septon Alfyn, who had crossed the Reach a dozen times in his litter on behalf of Jaehaerys and his queen. The Seven Kingdoms had no fiercer champion of Exceptionalism than Alfyn, but he was the oldest of the Seven Speakers, and legless besides; it seemed likely the Stranger would seek him out sooner rather than later. When that befell, his own successor would be a Hightower, the king assured Lord Donnel, provided his kin aligned themselves firmly with the Exceptionalists during Septon Alfyn\u2019s reign.",
+            "valid": 1.0,
+            "characters": [
+                "Alfyn",
+                "Jaehaerys",
+                "Queen",
+                "Stranger",
+                "Lord Donnel"
+            ],
+            "places": [
+                "Reach"
+            ],
+            "events": [
+                "fourth ballot"
+            ],
+            "verbs": [
+                "broke",
+                "fell",
+                "aligneD"
+            ],
+            "adjectives": [
+                "fiercer",
+                "oldest",
+                "sooner"
+            ]
+        },
+        {
+            "paragraph_id": 54,
+            "paragraph": "Thus was the bargain struck, if Septon Barth\u2019s account can be believed. Barth himself did not question it, though he rued the corruption that made the Most Devout so easy to manipulate. \u201cIt would be better if the Seven themselves would choose their Voice on earth, but when the gods are silent, lords and kings will make themselves heard,\u201d he wrote, and added that both Alfyn and Lord Donnel\u2019s brother, who succeeded him, were more worthy of the crystal crown than Septon Mattheus could ever have been.",
+            "valid": 1.0,
+            "characters": [
+                "Septon Barth",
+                "Alfyn",
+                "Lord Donnel's brother",
+                "Septon Mattheus"
+            ],
+            "places": [],
+            "events": [
+                "bargain struck"
+            ],
+            "verbs": [
+                "believed",
+                "questioned",
+                "rueded",
+                "wrote",
+                "succeeded"
+            ],
+            "adjectives": [
+                "corrupt",
+                "easy",
+                "silent",
+                "worthy"
+            ]
+        },
+        {
+            "paragraph_id": 55,
+            "paragraph": "No one was more astonished by the selection of Septon Alfyn than Septon Alfyn himself, who was at Ashford when word reached him. Traveling by litter, it took him more than a fortnight to reach Oldtown. Whilst awaiting his coming, Jaehaerys used the time to call at Bandallon, Three Towers, Uplands, and Honeyholt. He even flew Vermithor to the Arbor, where he sampled some of that island\u2019s choicest wines. Queen Alysanne remained in Oldtown. The silent sisters hosted her in their motherhouse for a day of prayer and contemplation. Another day she spent with the septas who cared for the city\u2019s sick and destitute. Amongst the novices she met was her niece Rhaella, whom Her Grace pronounced a learned and devout young woman \u201cthough much given to stammers and blushes.\u201d For three days she lost herself in the Citadel\u2019s great library, emerging only to attend lectures on the Valyrian dragon wars, leechcraft, and the gods of the Summer Isles.",
+            "valid": 0.0,
+            "characters": [],
+            "places": [],
+            "events": [],
+            "verbs": [],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 56,
+            "paragraph": "Afterward she feasted the assembled archmaesters in their own dining hall, and even presumed to lecture them. \u201cIf I had not become queen, I might have liked to be a maester,\u201d she told the Conclave. \u201cI read, I write, I think, I am not afraid of ravens\u2026or a bit of blood. There are other highborn girls who feel the same. Why not admit them to your Citadel? If they cannot keep up, send them home, the way you send home boys who are not clever enough. If you would give the girls a chance, you might be surprised by how many forge a chain.\u201d The archmaesters, loath to gainsay the queen, smiled at her words and bobbed their heads and assured Her Grace that they would consider her proposal.",
+            "valid": 1.0,
+            "characters": [
+                "Queen",
+                "Conclave",
+                "archmaesters"
+            ],
+            "places": [
+                "dining hall",
+                "Citadel"
+            ],
+            "events": [],
+            "verbs": [
+                "feasted",
+                "lecture",
+                "read",
+                "write",
+                "think",
+                "not afraid of ravens",
+                "send home boys",
+                "give girls a chance"
+            ],
+            "adjectives": [
+                "assembled",
+                "highborn"
+            ]
+        },
+        {
+            "paragraph_id": 57,
+            "paragraph": "Once the new High Septon reached Oldtown, stood his vigil in the Starry Sept, and had been duly anointed and consecrated to the Seven, forsaking his earthly name and all earthly ties, he blessed King Jaehaerys and Queen Alysanne at a solemn public ceremony. The Kingsguard and a company of retainers had joined the king and queen as well by that point, so His Grace decided to return by way of the Dornish Marches and the stormlands. Visits at Horn Hill, Nightsong, and Blackhaven followed.",
+            "valid": 1.0,
+            "characters": [
+                "High Septon",
+                "King Jaehaerys",
+                "Queen Alysanne",
+                "Kingsguard"
+            ],
+            "places": [
+                "Oldtown",
+                "Starry Sept",
+                "Dornish Marches",
+                "Stormlands",
+                "Horn Hill",
+                "Nightsong",
+                "Blackhaven"
+            ],
+            "events": [
+                "public ceremony"
+            ],
+            "verbs": [
+                "returned",
+                "joined",
+                "followed"
+            ],
+            "adjectives": [
+                "new",
+                "duely anointed and consecrated"
+            ]
+        },
+        {
+            "paragraph_id": 58,
+            "paragraph": "Queen Alysanne found the last especially congenial. Though his castle was small and modest compared to the great halls of the realm, Lord Dondarrion was a splendid host and his son Simon played the high harp as well as he jousted, and entertained the royal couple by night with sad songs of star-crossed lovers and the fall of kings. So taken with him was the queen that the party lingered longer at Blackhaven than they had intended. They were still there when a raven reached them from Storm\u2019s End with dire tidings; their mother, Queen Alyssa, was at the point of death.",
+            "valid": 1.0,
+            "characters": [
+                "Queen Alysanne",
+                "Lord Dondarrion",
+                "Simon",
+                "star-crossed lovers",
+                "kings",
+                "Queen Alyssa"
+            ],
+            "places": [
+                "Blackhaven",
+                "Storm's End"
+            ],
+            "events": [],
+            "verbs": [
+                "found",
+                "played",
+                "entertained",
+                "lingered"
+            ],
+            "adjectives": [
+                "especially congenial",
+                "small SModest",
+                "splendid host"
+            ]
+        },
+        {
+            "paragraph_id": 59,
+            "paragraph": "Once more Vermithor and Silverwing took to the skies, to bring the king and queen to their mother\u2019s side as quickly as possible. The remainder of the royal party would follow overland by way of Stonehelm, Crow\u2019s Nest, and Griffin\u2019s Roost, under the command of Ser Gyles Morrigen, Lord Commander of the Kingsguard.",
+            "valid": 1.0,
+            "characters": [
+                "Vermithor",
+                "Silverwing",
+                "king",
+                "queen",
+                "Ser Gyles Morrigen",
+                "Lord Commander"
+            ],
+            "places": [
+                "Stonehelm",
+                "Crow's Nest",
+                "Griffin's Roost"
+            ],
+            "events": [
+                "Bring the king and queen to their mother's side"
+            ],
+            "verbs": [
+                "took",
+                "follow"
+            ],
+            "adjectives": [
+                "quickly"
+            ]
+        },
+        {
+            "paragraph_id": 60,
+            "paragraph": "The great Baratheon stronghold of Storm\u2019s End has but a single tower, the massive drum tower raised by Durran Godsgrief during the Age of Heroes to stand against the wroth of the storm god. At the top of that tower, beneath only the maester\u2019s cell and the rookery, Alysanne and Jaehaerys found their mother asleep in a bed that stank of urine, drenched in sweat and gaunt as a crone, save for her swollen belly. A maester, a midwife, and three bedmaids were in attendance on her, each grimmer than the last. Jaehaerys discovered Lord Rogar seated outside the chamber door, drunk and despairing. When the king demanded to know why he was not with his wife, the Lord of Storm\u2019s End growled, \u201cThe Stranger\u2019s in that room. I can smell him.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Baratheon",
+                "Durran Godsgrief",
+                "Alysanne",
+                "Jaehaerys",
+                "Rogar"
+            ],
+            "places": [
+                "Storm\u2019s End",
+                "tower"
+            ],
+            "events": [],
+            "verbs": [
+                "raised",
+                "stand",
+                "found",
+                "discovered",
+                "demanded",
+                "growled"
+            ],
+            "adjectives": [
+                "great",
+                "massive",
+                "swollen"
+            ]
+        },
+        {
+            "paragraph_id": 61,
+            "paragraph": "A cup of wine tinged with sweetsleep was all that allowed Queen Alyssa even this brief respite, Maester Kyrie explained; Alyssa had been in agony for some hours before. \u201cShe was screaming so,\u201d one of the servants added. \u201cEvery bit o\u2019 food we give her comes back up, and she\u2019s having awful pain.\u201d \u201cShe was not due,\u201d Queen Alysanne said, in tears. \u201cNot yet.\u201d \u201cNot for a moon\u2019s turn,\u201d confirmed the midwife. \u201cThis is no labor, m\u2019lords. Something\u2019s tore inside her. Babe\u2019s dying, or will be dead soon. The mother\u2019s too old, she\u2019s no strength to push, and the babe\u2019s twisted around\u2026it\u2019s no good. They\u2019ll be gone by first light, both o\u2019 them. Begging your pardons.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Queen Alyssa",
+                "Maester Kyrie",
+                "Alysanne",
+                "midwife"
+            ],
+            "places": [],
+            "events": [
+                "labor"
+            ],
+            "verbs": [
+                "tinged",
+                "allowed",
+                "explained",
+                "added",
+                "said",
+                "confirmed",
+                "torn",
+                "dying"
+            ],
+            "adjectives": [
+                "brief",
+                "agony",
+                "screaming",
+                "every bit o\u2019 food we give her comes back up",
+                "due",
+                "'ad tears"
+            ]
+        },
+        {
+            "paragraph_id": 62,
+            "paragraph": "Maester Kyrie did not disagree. Milk of the poppy would relieve the queen\u2019s pain, he said, and he had a strong draught prepared\u2026but it could kill Her Grace as easily as help her, and would almost certainly kill the child inside her. When Jaehaerys asked what could be done, the maester said, \u201cFor the queen? Nothing. She is beyond my power to save. There is a chance, a slight chance, that I could save the child. To do so I would need to cut the mother open and remove the child from her womb. The babe might live, or not. The woman will die.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Maester Kyrie",
+                "Jaehaerys"
+            ],
+            "places": [],
+            "events": [
+                "remove the child from her womb"
+            ],
+            "verbs": [
+                "disagree",
+                "relieve",
+                "kill",
+                "save",
+                "cut",
+                "remove"
+            ],
+            "<adjectives>": [
+                "strong"
+            ]
+        },
+        {
+            "paragraph_id": 63,
+            "paragraph": "His words set Queen Alysanne to weeping. The king said only, \u201cThe woman is my mother, and a queen,\u201d in a heavy tone. He stepped outside again, pulled Rogar Baratheon to his feet, and dragged him back into the birthing chamber, where he bade the maester repeat what he had just said. \u201cShe is your wife,\u201d King Jaehaerys reminded Lord Rogar. \u201cIt is for you to say the words.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Queen Alysanne",
+                "King Jaehaerys",
+                "Lord Rogar",
+                "Maester"
+            ],
+            "places": [
+                "Birthing Chamber"
+            ],
+            "events": [],
+            "verbs": [
+                "weeping",
+                "said",
+                "bade",
+                "reminded",
+                "pulled",
+                "dragged",
+                "repeat"
+            ],
+            "adjectives": [
+                "heavy"
+            ]
+        },
+        {
+            "paragraph_id": 64,
+            "paragraph": "Lord Rogar, we are told, could not bear to look upon his wife. Nor could he find the words until the king took him roughly by the arm and shook him. \u201cSave my son,\u201d Rogar told the maester. Then he wrenched free and fled the room again. Maester Kyrie bowed his head and sent for his blades.",
+            "valid": 1.0,
+            "characters": [
+                "Lord Rogar",
+                "king",
+                "Maester Kyrie"
+            ],
+            "places": [],
+            "events": [
+                "Save my son"
+            ],
+            "verbs": [
+                "bear",
+                "find",
+                "took",
+                "shook",
+                "wrenched",
+                "fled",
+                "sent"
+            ],
+            "adjectives": [
+                "roughly"
+            ]
+        },
+        {
+            "paragraph_id": 65,
+            "paragraph": "In many of the accounts that have come down to us, we are told that Queen Alyssa woke from her sleep before the maester could begin. Though wracked by pain and violent convulsions, she cried tears of joy to see her children there. When Alysanne told her what was about to happen, Alyssa gave her assent. \u201cSave my babe,\u201d she whispered. \u201cI will go to see my boys again. The Crone will light my way.\u201d It is pleasant to believe these were the queen\u2019s last words. Sad to say, other accounts tell us that Her Grace died without waking when Maester Kyrie opened her belly. On one point all agree: Alysanne held her mother\u2019s hand in her own from start to finish, until the babe\u2019s first squall filled the room.",
+            "valid": 1.0,
+            "characters": [
+                "Queen Alyssa",
+                "Alysanne",
+                "Maester Kyrie"
+            ],
+            "places": [],
+            "events": [
+                "opening her belly"
+            ],
+            "verbs": [
+                "woke",
+                "cried",
+                "told",
+                "assent",
+                "save",
+                "go",
+                "hold"
+            ],
+            "adjectives": [
+                "many",
+                "wracked",
+                "violent",
+                "joyful",
+                "last"
+            ]
+        },
+        {
+            "paragraph_id": 66,
+            "paragraph": "Lord Rogar did not get the second son that he had prayed for. The child was a girl, born so small and weak that midwife and maester alike did not believe she would survive. She surprised them both, as she would surprise many others in her time. Days later, when he had finally recovered himself enough to consider the matter, Rogar Baratheon named his daughter Jocelyn.",
+            "valid": 1.0,
+            "characters": [
+                "Lord Rogar",
+                "Jocelyn"
+            ],
+            "places": [],
+            "events": [
+                "second son",
+                "the child was a girl born so small and weak that midwife and maester alike did not believe she would survive"
+            ],
+            "verbs": [
+                "get",
+                "prayed",
+                "named"
+            ],
+            "adjectives": [
+                "small",
+                "weak"
+            ]
+        },
+        {
+            "paragraph_id": 67,
+            "paragraph": "First, however, his lordship had to contend with a more contentious arrival. Dawn was breaking and Queen Alyssa\u2019s body was not yet cold when Vermithor raised his head from where he had been coiled sleeping in the yard, and gave out with a roar that woke half of Storm\u2019s End. He had scented the approach of another dragon. Moments later Dreamfyre descended, silver crests flashing along her back as her pale blue wings beat against the red dawn sky. Rhaena Targaryen had come to make amends to her mother.",
+            "valid": 1.0,
+            "characters": [
+                "Queen Alyssa",
+                "Vermithor",
+                "Rhaena Targaryen"
+            ],
+            "places": [
+                "Storm's End"
+            ],
+            "events": [
+                "arrival",
+                "descended"
+            ],
+            "verbs": [
+                "contend",
+                "raised",
+                "scented",
+                "beat"
+            ],
+            "adjectives": [
+                "contentious",
+                "silver",
+                "pale blue"
+            ]
+        },
+        {
+            "paragraph_id": 68,
+            "paragraph": "She came too late; Queen Alyssa was gone. Though the king told her she did not need to look upon their mother\u2019s mortal remains, Rhaena insisted, ripping away the bedclothes that covered her to gaze upon the maester\u2019s work. After a long time she turned away to kiss her brother on the cheek and embrace her younger sister. The two queens held each other for a long while, it is said, but when the midwife offered Rhaena the newborn babe to hold, she refused. \u201cWhere is Rogar?\u201d she asked.",
+            "valid": 1.0,
+            "characters": [
+                "Queen Alyssa",
+                "Rhaena",
+                "king",
+                "maester",
+                "Rhaena\u2019s brother",
+                "Rhaena\u2019s younger sister",
+                "midwife",
+                "Rogar"
+            ],
+            "places": [],
+            "events": [
+                "coming too late to find Queen Alissa gone"
+            ],
+            "verbs": [
+                "insisted",
+                "gaze",
+                "held",
+                "refused",
+                "asked"
+            ],
+            "adjectives": [
+                "long"
+            ]
+        },
+        {
+            "paragraph_id": 69,
+            "paragraph": "She found him below in his great hall with his young son, Boremund, in his lap, surrounded by his brothers and his knights. Rhaena Targaryen pushed through all of them to stand over him, and began to curse him to his face. \u201cHer blood is on your hands,\u201d she raged at him. \u201cHer blood is on your cock. May you die screaming.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "She",
+                "Him",
+                "Boremund",
+                "Rhaena Targaryen",
+                "Knights"
+            ],
+            "places": [
+                "Great Hall"
+            ],
+            "events": [],
+            "verbs": [
+                "found",
+                "push through",
+                "curse",
+                "rage at"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 70,
+            "paragraph": "Rogar Baratheon was outraged by her accusations. \u201cWhat are you saying, woman? This is the will of the gods. The Stranger comes for all of us. How could it be my doing? What did I do?\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Rogar Baratheon"
+            ],
+            "places": [],
+            "events": [],
+            "verbs": [
+                "outraged",
+                "saying",
+                "comes"
+            ],
+            "adjectives": [
+                "accusations"
+            ]
+        },
+        {
+            "paragraph_id": 71,
+            "paragraph": "\u201cYou put your cock in her. She gave you one son, that should have been enough. Save my wife, you should have said, but what are wives to men like you?\u201d Rhaena reached out and grabbed his beard and pulled his face to hers. \u201cHear this, my lord. Do not think to wed again. Take care of the whelps my mother gave you, my half-brother and half- sister. See that they want for nothing. Do that, and I will let you be. If I should hear even a whisper of your taking some other poor maid to wife, I will make another Harrenhal of Storm\u2019s End, with you and her inside it.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Rhaena",
+                "his lord"
+            ],
+            "places": [
+                "Harrenhal",
+                "Storm's End"
+            ],
+            "events": [],
+            "verbs": [
+                "put",
+                "gave",
+                "save",
+                "wed",
+                "take care",
+                "want for nothing",
+                "make",
+                "hear"
+            ],
+            "adjectives": [
+                "poor"
+            ]
+        },
+        {
+            "paragraph_id": 72,
+            "paragraph": "When she had stormed from the hall, back to her dragon in the yard, Lord Rogar and his brothers shared a laugh. \u201cShe is mad,\u201d he declared. \u201cDoes she think to frighten me? Me? I did not fear the wroth of Maegor the Cruel, should I fear hers?\u201d Thereafter he drank a cup of wine, summoned his steward to make arrangements for his wife\u2019s burial, and sent his brother Ser Garon to invite the king and queen to stay on for a feast in honor of his daughter.*",
+            "valid": 1.0,
+            "characters": [
+                "Lord Rogar",
+                "Maegor the Cruel",
+                "Ser Garon"
+            ],
+            "places": [
+                "hall",
+                "yard"
+            ],
+            "events": [
+                "stormed from the hall",
+                "drank a cup of wine",
+                "summoned his steward",
+                "invite the king and queen"
+            ],
+            "verbs": [
+                "frighten",
+                "drink",
+                "summoned",
+                "invoke"
+            ],
+            "adjectives": [
+                "mad",
+                "wroth"
+            ]
+        },
+        {
+            "paragraph_id": 73,
+            "paragraph": "It was a sadder king who returned to King\u2019s Landing from Storm\u2019s End. The Most Devout had given him the High Septon he desired, the Doctrine of Exceptionalism would be a tenet of the Faith, and he had reached an accord with the powerful Hightowers of Oldtown, but these victories had turned to ashes in his mouth with the death of his mother. Jaehaerys was not one to brood, however; as he would do so often during his long reign, the king shrugged off his sorrows and plunged himself into the ruling of his realm.",
+            "valid": 1.0,
+            "characters": [
+                "Jaehaerys",
+                "His mother"
+            ],
+            "places": [
+                "King's Landing",
+                "Storm's End",
+                "Oldtown"
+            ],
+            "events": [],
+            "verbs": [
+                "returned",
+                "given",
+                "reached",
+                "desired",
+                "would be",
+                "plunged"
+            ],
+            "adjectives": [
+                "sadder",
+                "devout",
+                "powerful",
+                "long"
+            ]
+        },
+        {
+            "paragraph_id": 74,
+            "paragraph": "Summer had given way to autumn and leaves were falling all across the Seven Kingdoms, a new Vulture King had emerged in the Red Mountains, the sweating sickness had broken out on the Three Sisters, and Tyrosh and Lys were edging toward a war that would almost certainly engulf the Stepstones and disrupt trade. All this must needs be dealt with, and deal with it he did.",
+            "valid": 1.0,
+            "characters": [
+                "Vulture King",
+                "Three Sisters"
+            ],
+            "places": [
+                "Seven Kingdoms",
+                "Red Mountains",
+                "Stepstones"
+            ],
+            "events": [
+                "Autumn",
+                "falling leaves"
+            ],
+            "verbs": [
+                "dealing with it"
+            ],
+            "adjectives": [
+                "sweating"
+            ]
+        },
+        {
+            "paragraph_id": 75,
+            "paragraph": "Queen Alysanne found a different answer. Having lost a mother, she found solace in a daughter. Though not quite a year and a half old, Princess Daenerys had been talking (after a fashion) since well before her first nameday, and had gone past crawling, lurching, and walking into running. \u201cShe is in a great hurry, this one,\u201d her wet nurse told the queen. The little princess was a happy child, endlessly curious and utterly fearless, a delight to all who knew her. She so enchanted Alysanne that for a time Her Grace even began to eschew council sessions, preferring to spend her days playing with her daughter and reading her the stories that her own mother had once read to her. \u201cShe is so clever, she will be reading to me before long,\u201d she told the king. \u201cShe is going to be a great queen, I know it.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Queen Alysanne",
+                "Princess Daenerys",
+                "Her Grace",
+                "King"
+            ],
+            "places": [],
+            "events": [
+                "lost a mother",
+                "talking since well before her first nameday"
+            ],
+            "verbs": [
+                "found solace",
+                "crawling",
+                "lurching",
+                "walking",
+                "running",
+                "told",
+                "reading stories",
+                "preferring to spend days playing with daughter,",
+                "reading to me before long"
+            ],
+            "adjectives": [
+                "different answer",
+                "happy child",
+                "endlessly curious",
+                "utterly fearless",
+                "delight to all who knew her,",
+                "enchanted Alysanne,",
+                "so clever,",
+                "going to be a great queen"
+            ]
+        },
+        {
+            "paragraph_id": 76,
+            "paragraph": "The Stranger was not yet done with House Targaryen in that cruel year of 54 AC, however. Across Blackwater Bay on Dragonstone, Rhaena Targaryen had found new griefs awaiting her when she returned from Storm\u2019s End. Far from being a joy and a comfort to her as Daenerys was to Alysanne, her own daughter Aerea had become a terror, a willful wild child who defied her septa, her mother, and her maesters alike, abused her servants, absented herself from prayers, lessons, and meals without leave, and addressed the men and women of Rhaena\u2019s court with such charming names as \u201cSer Stupid,\u201d \u201cLord Pigface,\u201d and \u201cLady Farts-a-Lot.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "The Stranger",
+                "Rhaena Targaryen",
+                "Alysanne",
+                "Daenerys",
+                "Aerea"
+            ],
+            "places": [
+                "House Targaryen",
+                "Blackwater Bay ",
+                "Dragonstone",
+                "Storm's End"
+            ],
+            "events": [
+                "find new griefs awaiting her"
+            ],
+            "verbs": [
+                "defied",
+                "abused",
+                "absented herself from prayers, lessons and meals without leave"
+            ],
+            "adjectives": [
+                "wilful wild child"
+            ]
+        },
+        {
+            "paragraph_id": 77,
+            "paragraph": "Her Grace\u2019s husband, Androw Farman, though less vocal and openly defiant, was no less angry. When word first reached Dragonstone that Queen Alyssa was failing, Androw had announced that he would accompany his wife to Storm\u2019s End. As her husband, he said, his place was at Rhaena\u2019s side, to give her comfort. The queen had refused him, however, and not gently. A loud argument had preceded her departure, and Her Grace was heard to say, \u201cThe wrong Farman ran away.\u201d Her marriage, never passionate, had become a mummer\u2019s farce by 54 AC. \u201cAnd not an entertaining one,\u201d Lady Alayne Royce observed.",
+            "valid": 1.0,
+            "characters": [
+                "Androw Farman",
+                "Queen Alyssa",
+                "Rhaena",
+                "Her Grace",
+                "Lady Alayne Royce"
+            ],
+            "places": [
+                "Dragonstone",
+                "Storm\u2019s End"
+            ],
+            "events": [
+                "Queen Alyssa was failing"
+            ],
+            "verbs": [
+                "accompany",
+                "refused",
+                "ran away",
+                "became"
+            ],
+            "adjectives": [
+                "vocal",
+                "openly defiant",
+                "angry",
+                "passionate"
+            ]
+        },
+        {
+            "paragraph_id": 78,
+            "paragraph": "Androw Farman was no longer the lad that Rhaena had married five years earlier on Fair Isle, when he was ten-and-seven. The comely stripling had become puffy-faced, round-shouldered, and fleshy. Never well regarded by other men, he had found himself forgotten and ignored by their lordly hosts during Rhaena\u2019s wanderings in the west. Dragonstone proved to be no better. His wife was still a queen, but no one mistook Androw for a king, or even a lord consort. Though he sat at Queen Rhaena\u2019s side during meals, he did not share her bed. That honor went to her friends and favorites. His own bedchamber was in an altogether different tower from hers. The gossips at court said the queen told him that it was better that they slept apart, so he need not be disturbed if he should find some pretty maid to warm his bed. There is no indication that he ever did.",
+            "valid": 1.0,
+            "characters": [
+                "Androw Farman",
+                "Rhaena"
+            ],
+            "places": [
+                "Fair Isle",
+                "Dragonstone"
+            ],
+            "events": [],
+            "verbs": [
+                "married",
+                "became",
+                "forgotten",
+                "ignored",
+                "sat at",
+                "shared",
+                "slept",
+                "said",
+                "did"
+            ],
+            "adjectives": [
+                "comely",
+                "puffy-faced,",
+                "round-shouldered,",
+                "fleshy,",
+                "lordly",
+                "better,",
+                "pretty"
+            ]
+        },
+        {
+            "paragraph_id": 79,
+            "paragraph": "His days were as empty as his nights. Though he had been born upon an island and now lived upon another, Androw did not sail or swim or fish. A failed squire, he had no skill with sword nor axe nor spear, so when the men of the castle garrison trained each morning in the yard, he kept to his bed. Thinking that he might be of a bookish disposition, Maester Culiper tried to interest him in the treasures of Dragonstone\u2019s library, the ponderous tomes and Old Valyrian scrolls that had fascinated King Jaehaerys, only to discover that the queen\u2019s husband could not read. Androw rode passably well, and from time to time would have a horse saddled so he might trot about the yard, but he never passed beyond the gates to explore the Dragonmont\u2019s rocky paths or the far side of the island, nor even the fishing village and docks beneath the castle.",
+            "valid": 1.0,
+            "characters": [
+                "Androw",
+                "Maester Culiper",
+                "King Jaehaerys"
+            ],
+            "places": [
+                "an island",
+                "Dragonstone's library",
+                "Dragonmont's rocky paths"
+            ],
+            "events": [],
+            "verbs": [
+                "sailed",
+                "swim",
+                "fish",
+                "trained",
+                "interested",
+                "read",
+                "rided"
+            ],
+            "adjectives": [
+                "empty",
+                "bookish",
+                "passably"
+            ]
+        },
+        {
+            "paragraph_id": 80,
+            "paragraph": "\u201cHe drinks a deal,\u201d Maester Culiper wrote to the Citadel, \u201cand has been known to spend entire days in the Chamber of the Painted Table, moving painted wooden soldiers about the map. Queen Rhaena\u2019s companions are wont to say he is planning his conquest of Westeros. They do not mock him to his face for her sake, but they titter at him behind his back. The knights and men-at-arms pay him no mind whatsoever, and the servants obey him or not, as they please, with no fear of his displeasure. The children are the cruelest, as children often are, and none half so cruel as the Princess Aerea. She once emptied a chamberpot upon his head, not for anything he did, but because she was wroth with her mother.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Maester Culiper",
+                "Queen Rhaena",
+                "Princess Aerea"
+            ],
+            "places": [
+                "Citadel",
+                "Chamber of the Painted Table"
+            ],
+            "events": [
+                "emptied a chamberpot upon his head"
+            ],
+            "verbs": [
+                "drinks",
+                "spend",
+                "planning",
+                "mock",
+                "titter",
+                "pay",
+                "obey",
+                "empty"
+            ],
+            "adjectives": [
+                "cruelest"
+            ]
+        },
+        {
+            "paragraph_id": 81,
+            "paragraph": "Androw Farman\u2019s discontent on Dragonstone only grew worse after his sister\u2019s departure. Lady Elissa had been his closest friend, mayhaps his only friend, Culiper observed, and despite his tearful denials, Rhaena found it hard to accept that he had played no role in the matter of her dragon eggs. When the queen dismissed Ser Merrell Bullock, Androw had asked her to appoint him commander of the castle garrison in Bullock\u2019s place. Her Grace had been breaking her fast with four of her ladies-in-waiting at the time. The women burst into laughter at his request, and after a moment the queen had laughed as well. When Rhaena flew to King\u2019s Landing to inform King Jaehaerys of the theft, Androw had offered to accompany her. His wife refused him scornfully. \u201cWhat would that serve? What could you possibly do but fall off the dragon?\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Androw Farman",
+                "Lady Elissa",
+                "Culiper",
+                "Rhaena",
+                "Ser Merrell Bullock",
+                "Her Grace",
+                "Jaehaerys"
+            ],
+            "places": [
+                "Dragonstone",
+                "King's Landing"
+            ],
+            "events": [
+                "theft of dragon eggs",
+                "Queen dismisses Ser Merrell Bullock",
+                "Androw offered to accompany Rhaena to King's Landing"
+            ],
+            "verbs": [
+                "Only grew worse",
+                "departure",
+                "observed",
+                "accepted",
+                "dismissed",
+                "asked",
+                "burst into laughter",
+                "laughed at request",
+                "offered"
+            ],
+            "adjectives": [
+                "closest friend, mayhaps only friend, tearful denials, scornfully"
+            ]
+        },
+        {
+            "paragraph_id": 82,
+            "paragraph": "Queen Rhaena\u2019s denial of his wish to go with her to Storm\u2019s End was but the latest and the last in a long string of humiliations for Androw Farman. By the time Rhaena returned from her mother\u2019s deathbed, he was well past any desire to comfort her. Sullen and cold, he sat silent at meals and avoided the queen\u2019s company elsewise. If Rhaena Targaryen was troubled by his sulks, she gave little sign of it. She found consolation in her ladies instead, in old friends like Samantha Stokeworth and Alayne Royce, and newer companions like her cousin Lianna Velaryon, Lord Staunton\u2019s pretty daughter Cassella, and young Septa Maryam.",
+            "valid": 1.0,
+            "characters": [
+                "Queen Rhaena",
+                "Androw Farman",
+                "Samantha Stokeworth",
+                "Alayne Royce",
+                "Lianna Velaryon",
+                "Lord Staunton",
+                "Cassella",
+                "Septa Maryam"
+            ],
+            "places": [
+                "Storm's End"
+            ],
+            "events": [],
+            "verbs": [
+                "denial",
+                "returned",
+                "sat silent"
+            ],
+            "adjectives": [
+                "sullen",
+                "cold",
+                "troubled",
+                "old",
+                "newer",
+                "pretty"
+            ]
+        },
+        {
+            "paragraph_id": 83,
+            "paragraph": "Whatever peace they helped her find proved short-lived. Autumn had come to Dragonstone, as to the rest of Westeros, and with it came cold winds from the north and storms from the south raging up the narrow sea. A darkness settled over the ancient fortress, a gloomy place even in summer; even the dragons seemed to feel the damp. And as the year waned, the sickness came to Dragonstone.",
+            "valid": 1.0,
+            "characters": [
+                "her"
+            ],
+            "places": [
+                "Dragonstone",
+                "Westeros",
+                "north",
+                "south",
+                "narrow sea"
+            ],
+            "events": [],
+            "verbs": [
+                "find",
+                "come",
+                "settled",
+                "seemed",
+                "feel",
+                "waned",
+                "came"
+            ],
+            "adjectives": [
+                "short-lived",
+                "cold",
+                "stormy",
+                "gloomy",
+                "damp"
+            ]
+        },
+        {
+            "paragraph_id": 84,
+            "paragraph": "It was not the sweating sickness, nor the shaking sickness, nor greyscale, Maester Culiper pronounced. The first sign was a bloody stool, followed by a terrible cramping in the gut. There were a number of diseases that could be the cause, he told the queen. Which of those might be to blame he never determined, for Culiper himself was the first to die, less than two days after he began to feel ill. Maester Anselm, who took his place, thought his age to blame. Culiper had been closer to ninety than to eighty, and not strong.",
+            "valid": 1.0,
+            "characters": [
+                "Maester Culiper",
+                "The Queen",
+                "Maester Anselm"
+            ],
+            "places": [],
+            "events": [
+                "sweating sickness",
+                "shaking sickness"
+            ],
+            "verbs": [
+                "pronounced",
+                "determined",
+                "blame"
+            ],
+            "adjectives": [
+                "terrible",
+                "bloody",
+                "strong"
+            ]
+        },
+        {
+            "paragraph_id": 85,
+            "paragraph": "Cassella Staunton was the next to succumb, however, and she was but four-and-ten. Then Septa Maryam sickened, and Alayne Royce, and even big, boisterous Sam Stokeworth, who liked to boast that she had never been sick a day in her life. All three died the same night, within hours of one another.",
+            "valid": 1.0,
+            "characters": [
+                "Cassella Staunton",
+                "Septa Maryam",
+                "Alayne Royce",
+                "Sam Stokeworth"
+            ],
+            "places": [],
+            "events": [
+                "succumb",
+                "sickened"
+            ],
+            "verbs": [
+                "boast"
+            ],
+            "adjectives": [
+                "four-and-ten",
+                "big",
+                "boisterous"
+            ]
+        },
+        {
+            "paragraph_id": 86,
+            "paragraph": "Rhaena Targaryen herself remained untouched, though her friends and dear companions were being felled one by one. It was her Valyrian blood that saved her, Maester Anselm suggested; ailments that carried off ordinary men in a matter of hours could not prevail against the blood of the dragon. Males also seemed largely immune to this queer plague. Aside from Maester Culiper, only women were struck down. The men of Dragonstone, be they knights, scullions, stableboys, or singers, remained healthy.",
+            "valid": 1.0,
+            "characters": [
+                "Rhaena Targaryen",
+                "Maester Anselm",
+                "Culiper"
+            ],
+            "places": [
+                "Dragonstone"
+            ],
+            "events": [],
+            "verbs": [
+                "felled",
+                "saved",
+                "prevailed"
+            ],
+            "adjectives": [
+                "unchanged",
+                "dear",
+                "healthy"
+            ]
+        },
+        {
+            "paragraph_id": 87,
+            "paragraph": "Queen Rhaena ordered the gates of Dragonstone closed and barred. As yet there was no sickness beyond her walls, and she meant for it to stay that way, to protect the smallfolk. When she sent word to King\u2019s Landing, Jaehaerys acted at once, commanding Lord Velaryon to send forth his galleys to make certain no one escaped to spread the pestilence beyond the island. The King\u2019s Hand did as commanded, though not without grief, for his own young niece was amongst the women still on Dragonstone.",
+            "valid": 1.0,
+            "characters": [
+                "Queen Rhaena",
+                "Jaehaerys",
+                "Lord Velaryon"
+            ],
+            "places": [
+                "Dragonstone",
+                "King's Landing"
+            ],
+            "events": [
+                "Queen Rhaena ordering the gates of Dragonstone closed and barred",
+                "Lord Velaryon sending forth his galleys to make certain no one escaped to spread the pestilence beyond the island"
+            ],
+            "verbs": [
+                "ordered",
+                "meant",
+                "sent ",
+                "acted ",
+                "commanded ",
+                "did"
+            ],
+            "adjectives": [
+                "smallfolk",
+                "grief"
+            ]
+        },
+        {
+            "paragraph_id": 88,
+            "paragraph": "Lianna Velaryon died even as her uncle\u2019s galleys were pushing off from Driftmark. Maester Anselm had purged her, bled her, and covered her with ice, all to no avail. She died in Rhaena Targaryen\u2019s arms, convulsing as the queen wept bitter tears.",
+            "valid": 1.0,
+            "characters": [
+                "Lianna Velaryon",
+                "Maester Anselm",
+                "Rhaena Targaryen"
+            ],
+            "places": [
+                "Driftmark"
+            ],
+            "events": [
+                "died"
+            ],
+            "verbs": [
+                "purged",
+                "bled",
+                "covered",
+                "convlusinig",
+                "wept"
+            ],
+            "adjectives": [
+                "bitter"
+            ]
+        },
+        {
+            "paragraph_id": 89,
+            "paragraph": "\u201cYou weep for her,\u201d Androw Farman said when he saw the tears on his wife\u2019s face, \u201cbut would you weep for me?\u201d His words woke a fury in the queen. Lashing him across the face, Rhaena commanded him to leave her, declaring that she wanted to be alone. \u201cYou shall be,\u201d Androw said. \u201cShe was the last of them.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Androw Farman",
+                "Rhaena"
+            ],
+            "places": [],
+            "events": [
+                "weep for her",
+                "lashing him across the face"
+            ],
+            "verbs": [
+                "weep",
+                "saw",
+                "commanded",
+                "leave",
+                "wanted",
+                "shall be"
+            ],
+            "adjectives": [
+                "last"
+            ]
+        },
+        {
+            "paragraph_id": 90,
+            "paragraph": "Even then, so lost was the queen in her grief that she did not realize what had happened. It was Rego Draz, the king\u2019s Pentoshi master of coin, who first gave voice to suspicion when Jaehaerys assembled his small council to discuss the deaths on Dragonstone. Reading over Maester Anselm\u2019s accounts, Lord Rego furrowed his brow and said, \u201cSickness? This is no sickness. A weasel in the guts, dead in a day\u2026this is the tears of Lys.\u201d \u201cPoison?\u201d King Jaehaerys said in shock. \u201cWe know more of such things in the Free Cities,\u201d Draz assured him. \u201cIt is the tears, never doubt it. The old maester would have seen it soon enough, so he had to die first. That is how I would do it. Not that I would. Poison is\u2026dishonorable.\u201d \u201cOnly women were struck down,\u201d objected Lord Velaryon. \u201cOnly women got the poison, then,\u201d said Rego Draz.",
+            "valid": 0.0,
+            "characters": [],
+            "places": [],
+            "events": [],
+            "verbs": [],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 91,
+            "paragraph": "When Septon Barth and Grand Maester Benifer concurred with Lord Rego\u2019s words, the king dispatched a raven to Dragonstone. Once Rhaena Targaryen read his words, she had no doubt. Summoning the captain of her guards, she commanded that her husband be found and brought to her.",
+            "valid": 1.0,
+            "characters": [
+                "Septon Barth",
+                "Grand Maester Benifer",
+                "Lord Rego",
+                "Rhaena Targaryen",
+                "Captain of her guards"
+            ],
+            "places": [
+                "Dragonstone"
+            ],
+            "events": [
+                "dispatched a raven to Dragonstone",
+                "Summoning the captain of her guards"
+            ],
+            "verbs": [
+                "concurred",
+                "dispatched",
+                "read",
+                "commanded",
+                "found",
+                "brought"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 92,
+            "paragraph": "Androw Farman was not to be found in his bedchamber nor the queen\u2019s, nor the great hall, nor the stables, nor the sept, nor Aegon\u2019s Garden. In Sea Dragon Tower, in the maester\u2019s chambers under the rookery, they discovered Maester Anselm dead, with a dagger between his shoulder blades. With the gates closed and barred, there was no way to leave the castle save by dragon. \u201cMy worm of a husband does not have the courage for that,\u201d Rhaena declared.",
+            "valid": 1.0,
+            "characters": [
+                "Androw Farman",
+                "Maester Anselm",
+                "Rhaena"
+            ],
+            "places": [
+                "bedchamber",
+                "great hall",
+                "stables",
+                "sept",
+                "Aegon's Garden",
+                "Sea Dragon Tower",
+                "rookery"
+            ],
+            "events": [
+                "discovered Maester Anselm dead"
+            ],
+            "verbs": [
+                "found",
+                "discovered"
+            ],
+            "adjectives": [
+                "dead"
+            ]
+        },
+        {
+            "paragraph_id": 93,
+            "paragraph": "Androw Farman was located at last in the Chamber of the Painted Table, a longsword clutched in his grasp. He made no attempt to deny the poisonings. Instead he boasted. \u201cI brought them cups of wine, and they drank. They thanked me, and they drank. Why not? A cupbearer, a serving man, that\u2019s how they saw me. Androw the sweet. Androw the jape. What could I do, but fall off the dragon? Well, I could have done a lot of things. I could have been a lord. I could have made laws and been wise and given you counsel. I could have killed your enemies, as easily as I killed your friends. I could have given you children.\u201d",
+            "valid": 0.0,
+            "characters": [],
+            "places": [],
+            "events": [],
+            "verbs": [],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 94,
+            "paragraph": "Rhaena Targaryen did not deign to reply to him. Instead she spoke to her guards, saying, \u201cTake him and geld him, but staunch the wound. I want his cock and balls fried up and fed to him. Do not let him die until he has eaten every bite.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Rhaena Targaryen"
+            ],
+            "places": [],
+            "events": [
+                "Take him and geld him",
+                "staunch the wound",
+                "Do not let him die until he has eaten every bite"
+            ],
+            "verbs": [
+                "deign",
+                "speak",
+                "take",
+                "geld",
+                "staunch",
+                "wound",
+                "fed",
+                "eaten"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 95,
+            "paragraph": "\u201cNo,\u201d Androw Farman said, as they moved around the Painted Table to grasp him. \u201cMy wife can fly, and so can I.\u201d And so saying, he slashed ineffectually at the nearest man, backed to the window behind him, and leapt out. His flight was a short one: downward, to his death. Afterward Rhaena Targaryen had his body hacked to pieces and fed to her dragons.",
+            "valid": 1.0,
+            "characters": [
+                "Androw Farman",
+                "Rhaena Targaryen"
+            ],
+            "places": [
+                "Painted Table"
+            ],
+            "events": [
+                "grasp",
+                "leapt out",
+                "fled downward",
+                "hacked to pieces and fed to her dragons"
+            ],
+            "verbs": [
+                "said",
+                "moved around",
+                "slashed",
+                "flew",
+                "leapt out",
+                "had his body hacked"
+            ],
+            "adjectives": [
+                "ineffectually"
+            ]
+        },
+        {
+            "paragraph_id": 96,
+            "paragraph": "His was the last notable death of 54 AC, but there was still more ill to come in that terrible Year of the Stranger. Just as a stone thrown into a pond will send out ripples in all directions, the evil that Androw Farman had wrought would spread across the land, touching and twisting the lives of others long after the dragons were done feasting on his blackened, smoking remains.",
+            "valid": 1.0,
+            "characters": [
+                "Androw Farman"
+            ],
+            "places": [],
+            "events": [
+                "Year of the Stranger"
+            ],
+            "verbs": [
+                "spread",
+                "feasting"
+            ],
+            "adjectives": [
+                "notable",
+                "terrible",
+                "twisting"
+            ]
+        },
+        {
+            "paragraph_id": 97,
+            "paragraph": "The first ripple was felt in the king\u2019s own small council, when Lord Daemon Velaryon announced his desire to step down as Hand of the King. Queen Alyssa, it will be recalled, had been Lord Daemon\u2019s sister, and his young niece Lianna had been amongst the women poisoned on Dragonstone. Some have suggested that rivalry with Lord Manfryd Redwyne, who had replaced him as lord admiral, played a part in Lord Daemon\u2019s decision, but this seems a petty aspersion to cast at a man who served so ably and so long. Let us rather take his lordship at his word and accept that his advancing age and a desire to spend his remaining days with his children and grandchildren on Driftmark were the cause of his departure.",
+            "valid": 0.0,
+            "characters": [],
+            "places": [],
+            "events": [],
+            "verbs": [],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 98,
+            "paragraph": "Jaehaerys\u2019s first thought was to look to the other members of his council for Lord Daemon\u2019s successor. Albin Massey, Rego Draz, and Septon Barth had all shown themselves to be men of great ability, earning the king\u2019s trust and gratitude. None, however, seemed wholly suitable. Septon Barth was suspected of having greater loyalty to the Starry Sept than to the Iron Throne. Moreover, he was of very low birth; the great lords of the realm would never allow the son of a blacksmith to speak with the king\u2019s voice. Lord Rego was a godless Pentoshi and an upjumped spicemonger, and his birth was, if anything, even lower than Septon Barth\u2019s. Lord Albin, with his limp and twisted back, would strike the ignorant as somehow sinister. \u201cThey look at me and see a villain,\u201d Massey himself told the king. \u201cI can serve you better from the shadows.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Jaehaerys",
+                "Albin Massey",
+                "Rego Draz",
+                "Septon Barth"
+            ],
+            "places": [
+                "Iron Throne"
+            ],
+            "events": [],
+            "verbs": [
+                "look",
+                "earning",
+                "allowed",
+                "would strike"
+            ],
+            "adjectives": [
+                "other",
+                "great",
+                "very low",
+                "low",
+                "sinister"
+            ]
+        },
+        {
+            "paragraph_id": 99,
+            "paragraph": "There could be no question of bringing back Rogar Baratheon nor any of King Maegor\u2019s surviving Hands. Lord Tully\u2019s term upon the council during the regency had been undistinguished. Rodrik Arryn, Lord of the Eyrie and Defender of the Vale, was a boy of ten, having come untimely into his lordship after the deaths of his uncle Lord Darnold and his sire Ser Rymond at the hands of the wildling raiders they had unwisely pursued into the Mountains of the Moon. Jaehaerys had but recently reached an understanding with Donnel Hightower, but still did not entirely trust the man, no more than he did Lyman Lannister. Bertrand Tyrell, the Lord of Highgarden, was known to be a drunkard, whose unruly bastard sons would bring disgrace down on the Crown if turned loose upon King\u2019s Landing. Alaric Stark was best left in Winterfell; a stubborn man by all reports, stern and hard- handed and unforgiving, he would make for an uncomfortable presence at the council table. It would be unthinkable to bring an ironman to King\u2019s Landing, of course.",
+            "valid": 1.0,
+            "characters": [
+                "Rogar Baratheon",
+                "King Maegor",
+                "Lord Tully",
+                "Rodrik Arryn",
+                "Lord Darnold",
+                "Ser Rymond",
+                "Jaehaerys",
+                "Donnel Hightower",
+                "Lyman Lannister",
+                "Bertrand Tyrell",
+                "Alaric Stark"
+            ],
+            "places": [
+                "The Vale",
+                "Eyrie",
+                "Highgarden",
+                "Winterfell",
+                "King's Landing"
+            ],
+            "events": [
+                "regency"
+            ],
+            "verbs": [
+                "bringing back",
+                "untimely ",
+                "pursued into"
+            ],
+            "adjectives": [
+                "surviving",
+                "undistinguished",
+                "wildling raiders"
+            ]
+        },
+        {
+            "paragraph_id": 100,
+            "paragraph": "With none of the great lords of the realm being found suitable, Jaehaerys next turned to their lords bannermen. It was thought desirable that the Hand be an older man, whose experience would balance the king\u2019s youth. As the council included several learned men of bookish inclination, a warrior was wanted as well, a man blooded and tested in battle whose martial reputation would dishearten the Crown\u2019s enemies. After a dozen names had been put forward and bandied about, the choice finally fell to Ser Myles Smallwood, Lord of Acorn Hall in the riverlands, who had fought for the king\u2019s brother, Aegon, beneath the Gods Eye, battled Wat the Hewer at Stonebridge, and ridden with the late Lord Stokeworth to bring Harren the Red to justice during the reign of King Aenys.",
+            "valid": 1.0,
+            "characters": [
+                "Jaehaerys",
+                "Ser Myles Smallwood",
+                "Aegon",
+                "Wat the Hewer",
+                "Lord Stokeworth",
+                "Harren the Red",
+                "King Aenys"
+            ],
+            "places": [
+                "Acorn Hall",
+                "Gods Eye",
+                "Stonebridge"
+            ],
+            "events": [
+                "Lord's bannermen turning to an older man"
+            ],
+            "verbs": [
+                "bandied",
+                "fall",
+                "fought",
+                "ridden"
+            ],
+            "adjectives": [
+                "great",
+                "suitable",
+                "experience",
+                "blooded",
+                "martial"
+            ]
+        },
+        {
+            "paragraph_id": 101,
+            "paragraph": "Justly famed for his courage, Lord Myles wore the scars of a dozen savage fights upon his face and body. Ser Willam the Wasp of the Kingsguard, who had served at Acorn Hall, swore there was no finer, fiercer, or more leal lord in all the Seven Kingdoms, and Prentys Tully and the redoubtable Lady Lucinda, his liege lords, had naught but praise for Smallwood as well. Thus persuaded, Jaehaerys gave his assent, a raven took wing, and within the fortnight, Lord Myles was on his way to King\u2019s Landing.",
+            "valid": 1.0,
+            "characters": [
+                "Lord Myles",
+                "Ser Willam",
+                "Prentys Tully",
+                "Lady Lucinda",
+                "Jaehaerys"
+            ],
+            "places": [
+                "Acorn Hall",
+                "King's Landing"
+            ],
+            "events": [
+                "savage fights"
+            ],
+            "verbs": [
+                "wore",
+                "persuaded",
+                "assent"
+            ],
+            "adjectives": [
+                "justly famed",
+                "finer",
+                "fiercer",
+                "leal"
+            ]
+        },
+        {
+            "paragraph_id": 102,
+            "paragraph": "Queen Alysanne played no part in the selection of the King\u2019s Hand. Whilst the king and council were deliberating, Her Grace was absent from King\u2019s Landing, having flown Silverwing to Dragonstone to be with her sister and comfort her in her grief.",
+            "valid": 1.0,
+            "characters": [
+                "Queen Alysanne",
+                "king",
+                "Her Grace"
+            ],
+            "places": [
+                "King's Landing",
+                "Dragonstone"
+            ],
+            "events": [
+                "selection of the King's Hand"
+            ],
+            "verbs": [
+                "deliberating",
+                "flying",
+                "comforting"
+            ],
+            "adjectives": [
+                "grief"
+            ]
+        },
+        {
+            "paragraph_id": 103,
+            "paragraph": "Rhaena Targaryen was not a woman easily comforted, however. The loss of so many of her dear friends and companions had plunged her into a black melancholy, and even the mention of Androw Farman\u2019s name provoked her to fits of rage. Far from welcoming her sister and whatever solace she might bring, Rhaena thrice tried to send her away, even going so far as to scream at Her Grace in view of half the castle. When the queen refused to go, Rhaena retreated to her own chambers and barred the doors, emerging only to eat\u2026and that less and less often.",
+            "valid": 1.0,
+            "characters": [
+                "Rhaena Targaryen",
+                "Her Grace",
+                "Androw Farman"
+            ],
+            "places": [
+                "castle"
+            ],
+            "events": [],
+            "verbs": [
+                "comforted",
+                "plunged,",
+                "welcoming",
+                "send her away",
+                "screamed",
+                "barred the doors",
+                "ate"
+            ],
+            "adjectives": [
+                "dear",
+                "black ",
+                "rage"
+            ]
+        },
+        {
+            "paragraph_id": 104,
+            "paragraph": "Left to her own devices, Alysanne Targaryen set about restoring a modicum of order to Dragonstone. A new maester was sent for and installed, a new captain appointed to take charge of the castle garrison. The queen\u2019s own beloved Septa Edyth arrived to assume the place of Rhaena\u2019s much lamented Septa Maryam.",
+            "valid": 1.0,
+            "characters": [
+                "Alysanne Targaryen",
+                "Maester",
+                "Captain",
+                "Septa Edyth",
+                "Rhaena"
+            ],
+            "places": [
+                "Dragonstone"
+            ],
+            "events": [
+                "restoring a modicum of order to Dragonstone",
+                "setting a new maester",
+                "installing a new captain",
+                "arriving of Septa Edyth"
+            ],
+            "verbs": [
+                "set",
+                "sent",
+                "appointed",
+                "assume"
+            ],
+            "adjectives": [
+                "beloved"
+            ]
+        },
+        {
+            "paragraph_id": 105,
+            "paragraph": "Shunned by her sister, Alysanne turned to her niece, but there too she encountered rage and rejection. \u201cWhy should I care if they\u2019re all dead? She\u2019ll find new ones; she always does,\u201d Princess Aerea told the queen. When Alysanne tried to share stories of her own girlhood, and told of how Rhaena had put a dragon\u2019s egg into her cradle and cuddled and cared for her \u201cas if she were my mother,\u201d Aerea said, \u201cShe never gave me an egg, she just gave me away and flew off to Fair Isle.\u201d Alysanne\u2019s love for her own daughter provoked the princess to anger as well. \u201cWhy should she be queen? I should be queen, not her.\u201d It was then that Aerea broke down into tears at last, pleading with Alysanne to take her back with her to King\u2019s Landing. \u201cLady Elissa said that she would take me, but she went away and forgot me. I want to come back to court, with the singers and the fools and all the lords and knights. Please take me with you.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Alysanne",
+                "Princess Aerea",
+                "Rhaena",
+                "Lady Elissa"
+            ],
+            "places": [
+                "Fair Isle",
+                "King's Landing"
+            ],
+            "events": [],
+            "verbs": [
+                "shunned",
+                "encountered",
+                "shared",
+                "put",
+                "cuddled",
+                "gave away",
+                "flew off",
+                "provoked",
+                "broke down",
+                "pleading ",
+                "forgot"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 106,
+            "paragraph": "Moved by the girl\u2019s tears, Queen Alysanne could do no more than promise to take the matter up with her mother. When Rhaena next emerged from her chambers to take a meal, however, she rejected the notion out of hand. \u201cYou have everything and I have nothing. Now you would take my daughter too. Well, you shall not have her. You have my throne, content yourself with that.\u201d That same night Rhaena summoned Princess Aerea to her chambers to berate her, and the sounds of mother and daughter shouting at one another rang through the Stone Drum. The princess refused to speak to Queen Alysanne after that. Stymied at every turn, Her Grace finally returned to King\u2019s Landing, to the arms of King Jaehaerys and the merry laughter of her own daughter, Princess Daenerys.",
+            "valid": 0.0,
+            "characters": [],
+            "places": [],
+            "events": [],
+            "verbs": [],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 107,
+            "paragraph": "As the Year of the Stranger neared its end, work on the Dragonpit was all but complete. The great dome in place at last, the massive bronze gates hung, the cavernous edifice dominated the city from the crown of Rhaenys\u2019s Hill, second only to the Red Keep upon Aegon\u2019s High Hill. To mark its completion and celebrate the arrival of the new Hand, Lord Redwyne proposed to the king that they stage a great tourney, the largest and grandest the realm had seen since the Golden Wedding. \u201cLet us put our sorrows behind us and begin the new year with pagaentry and celebration,\u201d Redwyne argued. The autumn harvests had been good, Lord Rego\u2019s taxes were bringing in a steady stream of coin, trade was on the increase; paying for the tourney would not be a concern, and the event would bring thousands of visitors, and their purses, to King\u2019s Landing. The rest of the council was all in favor of the proposal, and King Jaehaerys allowed that a tourney might indeed give the smallfolk something to cheer, \u201cand help us forget our woes.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Lord Redwyne",
+                "King Jaehaerys"
+            ],
+            "places": [
+                "Dragonpit",
+                "Rhaenys's Hill",
+                "Aegon's High Hill",
+                "King's Landing"
+            ],
+            "events": [
+                "Year of the Stranger end",
+                "the completion of the Dragonpit"
+            ],
+            "verbs": [
+                "complete",
+                "dominate",
+                "propose",
+                "stage",
+                "celebrate",
+                "argue",
+                "allow",
+                "forget"
+            ],
+            "adjectives": [
+                "great",
+                "massive",
+                "cavernous"
+            ]
+        },
+        {
+            "paragraph_id": 108,
+            "paragraph": "All such preparations were thrown into disarray by the sudden and unexpected arrival of Rhaena Targaryen from Dragonstone. \u201cIt may well be that dragons somehow sense, and echo, the moods of their riders,\u201d Septon Barth wrote, \u201cfor Dreamfyre came down out of the clouds like a raging storm that day, and Vermithor and Silverwing rose up and roared at her coming, suchwise that all of us who saw and heard were fearful that the dragons were about to fly at one another with flame and claw, and tear each other apart as Balerion once did to Quicksilver by the Gods Eye.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Rhaena Targaryen",
+                "Septon Barth"
+            ],
+            "places": [
+                "Dragonstone",
+                "Gods Eye"
+            ],
+            "events": [
+                "Vermithor and Silverwing roared"
+            ],
+            "verbs": [
+                "echo",
+                "came down",
+                "rose up",
+                "roared",
+                "tear apart"
+            ],
+            "adjectives": [
+                "sudden",
+                "unexpected",
+                "fearful"
+            ]
+        },
+        {
+            "paragraph_id": 109,
+            "paragraph": "The dragons did not, in the end, fight, though there was much hissing and snapping as Rhaena flung herself off Dreamfyre and stormed into Maegor\u2019s Holdfast, shouting for her brother and her sister. The source of her fury was soon known. Princess Aerea was gone. She had fled Dragonstone as dawn broke, stealing into the yards and claiming a dragon for her own. And not just any dragon.",
+            "valid": 1.0,
+            "characters": [
+                "Rhaena",
+                "Dreamfyre",
+                "Maegor",
+                "Aerea"
+            ],
+            "places": [
+                "Dragonstone",
+                "yards"
+            ],
+            "events": [
+                "fled Dragonstone"
+            ],
+            "verbs": [
+                "fight",
+                "hissing",
+                "snapping",
+                "flung",
+                "stormed",
+                "shouting",
+                "stealing",
+                "claiming"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 110,
+            "paragraph": "\u201cBalerion!\u201d Rhaena exclaimed. \u201cShe took Balerion, the mad child. No hatchling for her, no, not her, she had to have the Black Dread. Maegor\u2019s dragon, the beast that slew her father. Why him, if not to pain me? What did I give birth to? What kind of beast? I ask you, what did I give birth to?\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Rhaena",
+                "Maegor"
+            ],
+            "places": [],
+            "events": [
+                "took Balerion",
+                "had to have the Black Dread"
+            ],
+            "verbs": [
+                "exclaimed",
+                "took",
+                "had to have",
+                "slew",
+                "give birth to"
+            ],
+            "adjectives": [
+                "mad child",
+                "Black Dread",
+                "beast"
+            ]
+        },
+        {
+            "paragraph_id": 111,
+            "paragraph": "\u201cA little girl,\u201d Queen Alysanne said, \u201cshe is just an angry little girl.\u201d But Septon Barth and Grand Maester Benifer tell us that Rhaena did not seem to hear her. She was desperate to know where her \u201cmad child\u201d might have fled. Her first thought had been King\u2019s Landing, Aerea had been so eager to return to court\u2026but if she was not here, where?",
+            "valid": 1.0,
+            "characters": [
+                "Queen Alysanne",
+                "Septon Barth",
+                "Grand Maester Benifer",
+                "Rhaena",
+                "Aerea"
+            ],
+            "places": [
+                "King's Landing"
+            ],
+            "events": [],
+            "verbs": [
+                "fled"
+            ],
+            "adjectives": [
+                "little",
+                "angry",
+                "mad"
+            ]
+        },
+        {
+            "paragraph_id": 112,
+            "paragraph": "\u201cWe will learn that soon enough, I suspect,\u201d King Jaehaerys said, as calm as ever. \u201cBalerion is too big to hide or pass unnoticed. And he has a fearsome appetite.\u201d He turned to Grand Maester Benifer then, and commanded that ravens be sent forth to every castle in the Seven Kingdoms. \u201cIf any man in Westeros should so much as glimpse Balerion or my niece, I want to know at once.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "King Jaehaerys",
+                "Grand Maester Benifer"
+            ],
+            "places": [
+                "Westeros"
+            ],
+            "events": [],
+            "verbs": [
+                "learn",
+                "hide",
+                "pass",
+                "send"
+            ],
+            "adjectives": [
+                "calm",
+                "big",
+                "fearsome"
+            ]
+        },
+        {
+            "paragraph_id": 113,
+            "paragraph": "The ravens flew, but there was no word of Princess Aerea that day, or the day after, or the day after that. Rhaena remained at the Red Keep all the while, sometimes raging, sometimes shaking, drinking sweetwine to sleep. Princess Daenerys was so frightened by her aunt that she cried whenever she came into her presence. After seven days Rhaena declared that she could no longer sit here idle. \u201cI need to find her. If I cannot find her, at least I can look.\u201d So saying, she mounted Dreamfyre and was gone. Neither mother nor daughter was seen or heard from again during what little remained of that cruel year.",
+            "valid": 1.0,
+            "characters": [
+                "Princess Aerea",
+                "Rhaena",
+                "Princess Daenerys"
+            ],
+            "places": [
+                "Red Keep"
+            ],
+            "events": [
+                "flying",
+                "find her",
+                "look"
+            ],
+            "verbs": [
+                "flew",
+                "remained",
+                "declared",
+                "mounted"
+            ],
+            "adjectives": [
+                "idle",
+                "frightened",
+                "little",
+                "cruel"
+            ]
+        },
+        {
+            "paragraph_id": 114,
+            "paragraph": "* Rogar Baratheon never wed again.",
+            "valid": 1.0,
+            "characters": [
+                "Rogar Baratheon"
+            ],
+            "places": [],
+            "events": [],
+            "verbs": [
+                "wed"
+            ],
+            "adjectives": []
+        }
+    ]
+}
