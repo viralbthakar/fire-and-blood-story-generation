@@ -1,5 +1,5 @@
 {
-    "08-A Time of Testing The Realm Remade.txt": [
+    "08-A Time of Testing The Realm Remade": [
         {
             "paragraph_id": 0,
             "paragraph": "King Jaehaerys I Targaryen returned to King\u2019s Landing alone, on the wings of his dragon, Vermithor. Five knights of his Kingsguard had come before him, arriving three days earlier to ascertain that all was in readiness for the king\u2019s arrival. Queen Alysanne did not accompany him. Given the uncertainty that surrounded their marriage and the fraught nature of the king\u2019s relationship with his mother, Queen Alyssa, and the lords of the council, it was thought prudent that she remain on Dragonstone for a time, with her Wise Women and the rest of the Kingsguard.",
@@ -759,7 +759,7 @@
         {
             "paragraph_id": 26,
             "paragraph": "Lord Rego and his king both realized that the loans were a stopgap measure at best, however; they might slow the bleeding but they would not stanch the wound. Only taxes could accomplish that. Lord Celtigar\u2019s taxes would not serve; Jaehaerys had no interest in raising port fees or bleeding innkeeps. Nor would he simply demand gold from the lords of the realm, as Maegor had. Too much of that, and the lords would rise up. \u201cNothing is so costly as putting down rebellions,\u201d the king declared. The lords would pay, but of their own free will; he would tax the things they wanted, fine and costly things from across the sea. Silk would be taxed, and samite; cloth-of-gold and cloth-of-silver; gemstones; Myrish lace and Myrish tapestries; Dornish wines (but not wines from the Arbor); Dornish sand steeds; gilded helms and filigreed armor from the craftsmen of Tyrosh, Lys, and Pentos. Spices would be taxed heaviest of all; peppercorns, cloves, saffron, nutmeg, cinnamon, and all the other rare seasonings from beyond the Jade Gates, already more costly than gold, would become still costlier. \u201cWe are taxing all the things that made me rich,\u201d Lord Rego japed.",
-            "valid": 0.0,
+            "valid": 1.0,
             "characters": [
                 "Lord Rego",
                 "King",
@@ -1271,12 +1271,41 @@
         {
             "paragraph_id": 44,
             "paragraph": "Since taking her leave of Lyman Lannister and Casterly Rock, Rhaena Targaryen and her traveling court had made their own royal progress of sorts, visiting the Marbrands of Ashemark, the Reynes of Castamere, the Leffords at the Golden Tooth, the Vances at Wayfarer\u2019s Rest, and finally the Pipers of Pinkmaiden. No matter where she turned, the same problems arose. \u201cThey are all warm at first,\u201d she told her brother, when she met with him after his wedding, \u201cbut it does not last. Either I am unwelcome or too welcome. They murmur of the cost of keeping me and mine, but it is Dreamfyre who excites them. Some fear her, more want her, and it is those who trouble me most. They lust for dragons of their own. That I will not give them, but where am I to go?\u201d",
-            "valid": 0.0,
-            "characters": [],
-            "places": [],
-            "events": [],
-            "verbs": [],
-            "adjectives": []
+            "valid": 1.0,
+            "characters": [
+                "Rhaena Targaryen",
+                "Lyman Lannister",
+                "Casterly Rock",
+                "Marbrands of Ashemark",
+                "Reynes of Castamere",
+                "Leffords at the Golden Tooth",
+                "the Vances at Wayfarer’s Rest",
+                "Pipers of Pinkmaiden"
+            ],
+            "places": [
+                "Casterly Rock",
+                "Ashemark",
+                "Castamere",
+                "Golden Tooth,",
+                "Wayfarer’s Rest",
+                "Pinkmaiden"
+            ],
+            "events": [
+                "Royal Progress"
+            ],
+            "verbs": [
+                "taking her leave",
+                "made their own royal progress",
+                "visiting",
+                "murmur",
+                "excites them",
+                "lust for dragons",
+                "go"
+            ],
+            "adjectives": [
+                "warm",
+                "unwelcome too welcome"
+            ]
         },
         {
             "paragraph_id": 45,
@@ -1519,12 +1548,44 @@
         {
             "paragraph_id": 54,
             "paragraph": "* Ser Orryn Baratheon never did return to Westeros. Together with the men who had accompanied him to Oldtown, he crossed to the Free City of Tyrosh, where he took service with the Archon. A year later, he married the Archon\u2019s daughter, the very maid his brother Rogar had hoped to wed to King Jaehaerys as a means of securing an alliance between the Iron Throne and the Free City. A buxom maid with blue-green hair and a winsome manner, Ser Orryn\u2019s wife soon gave him a daughter, though there was some doubt whether the girl was truly his, for like many women of the Free Cities she was free with her favor. When her father\u2019s term as Archon ended, Ser Orryn lost his position as well and was forced to leave Tyrosh for Myr, where he joined the Maiden\u2019s Men, a free company with an especially unsavory reputation. He was killed soon afterward in the Disputed Lands, during a battle with the Men of Valor. We have no knowledge of the fate of his wife and daughter.",
-            "valid": 0.0,
-            "characters": [],
-            "places": [],
-            "events": [],
-            "verbs": [],
-            "adjectives": []
+            "valid": 1.0,
+            "characters": [
+                "Ser Orryn Baratheon",
+                "Rogar",
+                "King Jaehaerys",
+                "Ser Orryn's wife"
+            ],
+            "places": [
+                "Westeros",
+                "Oldtown",
+                "Tyrosh",
+                "Free City of Tyrosh",
+                "Myr",
+                "Disputed Lands"
+            ],
+            "events": [
+                "took service with the Archon",
+                "married the Archon’s daughter",
+                "Ser Orryn lost his position as well and was forced to leave Tyrosh for Myr ",
+                "joined the Maiden’s Men",
+                "a free company with an especially unsavory reputation."
+            ],
+            "verbs": [
+                "return",
+                "crossed",
+                "married",
+                "gave",
+                "lost",
+                "forced",
+                "leave joined killed"
+            ],
+            "adjectives": [
+                "free",
+                "buxom",
+                "blue-green hair,",
+                "winsome manner,",
+                "unsavory"
+            ]
         }
     ]
 }
