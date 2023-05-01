@@ -160,7 +160,7 @@ def get_generated_paragraphs(paragraphs_context, api_key, model="text-davinci-00
         styled_print(f"Extracting Context for Paragraph {paragraph_dict['paragraph_id']}")
         prompt_json = get_prompt_json(global_context, paragraphs_context, paragraph_dict, i)
         generated_paragraph = get_written_paragraph(prompt_json, api_key, model=model)
-        paragraph_dict['davinci:ft-personal:test-fire-and-blood'] = generated_paragraph
+        paragraph_dict[model] = generated_paragraph
         styled_print(generated_paragraph)
         data_dict.append(paragraph_dict)
     return data_dict
