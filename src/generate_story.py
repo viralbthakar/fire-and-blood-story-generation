@@ -13,6 +13,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Create Context Dataset')
     parser.add_argument('-cf', '--chapter-files', type=str, nargs='+', help="Path to JSON file")
     parser.add_argument('-o', '--output-dir', type=str, default="../data/processed-data/context-data", help="Path to Ouput directory")
+    parser.add_argument('-m', '--model', type=str, default='text-davinci-003', help='Model to use')
     args = parser.parse_args()
 
     os.makedirs(args.output_dir, exist_ok=True)
@@ -22,8 +23,8 @@ if __name__ == "__main__":
         styled_print(f"Processig File {os.path.basename(chapter)}", header=True)
         with open(chapter) as chapter_file:
             parsed_json = json.load(chapter_file)
-        paragraphs_context = parsed_json[f"{os.path.splitext(os.path.basename(chapter))[0]}.txt"]
-        gen_data_dict = get_generated_paragraphs(paragraphs_context, api_key, parakey='test-model')
+        paragraphs_context = parsed_json[os.path.splitext(os.path.basename(chapter))[0]]
+        gen_data_dict = get_generated_paragraphs(paragraphs_context, api_key, model=args.model)
         
         data_dict[os.path.splitext(os.path.basename(chapter))[0]] = gen_data_dict
         with open(os.path.join(args.output_dir, f"{os.path.splitext(os.path.basename(chapter))[0]}.json"), 'w') as fp:

@@ -29,7 +29,7 @@ if __name__ == "__main__":
     with jsonlines.open(os.path.join(args.output_dir, 'training.jsonl'), 'w') as train_file:
         for chapter in training_files:
             styled_print(f"Processig File {os.path.basename(chapter)}", header=True)
-            prompt_prefix = "Pretend you are writing a fictional novel. Write one paragraph of the novel using following JSON data. Use `current_paragraph` to create characters, places, events and keywords for the writing. Use `previous_paragraph` to get the context of the previous paragraph. Creatively add new characters and places in the story by choosing them from `global_context`."
+            prompt_prefix = ""
             with open(chapter) as chapter_file:
                 parsed_json = json.load(chapter_file)
             paragraphs_context = parsed_json[os.path.splitext(os.path.basename(chapter))[0]]
@@ -40,7 +40,7 @@ if __name__ == "__main__":
     with jsonlines.open(os.path.join(args.output_dir, 'validation.jsonl'), 'w') as validation_file:
         for chapter in validation_files:
             styled_print(f"Processig File {os.path.basename(chapter)}", header=True)
-            prompt_prefix = "Pretend you are writing a fictional novel. Write one paragraph of the novel using following JSON data. Use `current_paragraph` to create characters, places, events and keywords for the writing. Use `previous_paragraph` to get the context of the previous paragraph. Creatively add new characters and places in the story by choosing them from `global_context`."
+            prompt_prefix = ""
             with open(chapter) as chapter_file:
                 parsed_json = json.load(chapter_file)
             paragraphs_context = parsed_json[os.path.splitext(os.path.basename(chapter))[0]]
@@ -51,5 +51,5 @@ if __name__ == "__main__":
     training_file_id = upload_file(os.path.join(args.output_dir, 'training.jsonl'), api_key)
     validation_file_id = upload_file(os.path.join(args.output_dir, 'validation.jsonl'), api_key)
 
-    response = finetune_gpt_model(training_file_id, validation_file_id, api_key, suffix='01-02-03-fire-and-blood', model='davinci', n_epochs=4)
+    response = finetune_gpt_model(training_file_id, validation_file_id, api_key, suffix='test-fire-and-blood', model='davinci', n_epochs=4)
     print(response)
