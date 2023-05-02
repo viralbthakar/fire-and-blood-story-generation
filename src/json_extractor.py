@@ -39,6 +39,7 @@ def main(model_id):
     paragraph_extractor.loadJson()
     paragraph_extractor.extract_paragraphs(model_id)
 if __name__=="__main__":
+    #EXAMPLE USAGE: python json_extractor.py -c "chapter_file1" "chapter_file2" "chapter_filen" -m "text-davinci-003"
     parser = argparse.ArgumentParser(description='Create generated chapter files')
     parser.add_argument('-c', '--chapter-json-files', type=str, nargs='+', help="Path to chapter JSON file")
     parser.add_argument('-m', '--model-id', type=str)
@@ -53,7 +54,7 @@ if __name__=="__main__":
         paragraph_extractor = ParagraphExtractor(chapter_file, model_dir=f"data/processed-data/generated-chapters/{args.model_id}/")
         paragraph_extractor.loadJson()
         utils.styled_print(f"Extracted {args.model_id} generated data from {chapter_file}")
-        paragraph_extractor.extract_paragraphs(args.model_id)
+        paragraph_extractor.extract_write_paragraphs(args.model_id)
         utils.styled_print(f"Created {chapter_file}.txt file")
     utils.styled_print(F"Done extracting {args.model_id} generated data")
 
