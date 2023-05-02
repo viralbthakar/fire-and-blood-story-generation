@@ -21,6 +21,6 @@ if __name__ == "__main__":
     for chapter in args.chapter_files:
         styled_print(f"Processig File {os.path.basename(chapter)}", header=True)
         chapter_dict = extract_context_for_file(chapter, api_key)
-        data_dict[os.path.basename(chapter)] = chapter_dict
+        data_dict[os.path.splitext(os.path.basename(chapter))[0]] = chapter_dict
         with open(os.path.join(args.output_dir, f"{os.path.splitext(os.path.basename(chapter))[0]}.json"), 'w') as fp:
             json.dump(data_dict, fp, indent=4)
