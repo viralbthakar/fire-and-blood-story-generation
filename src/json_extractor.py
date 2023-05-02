@@ -45,13 +45,13 @@ if __name__=="__main__":
     parser.add_argument('-m', '--model-id', type=str)
     parser.add_argument('-o', '--output-dir', type=str, default="../data/processed-data/context-data", help="Path to Ouput directory")
     args = parser.parse_args()
-    parent_directory = f"data/processed-data/generated-chapters/{args.model_id}/"
+    parent_directory = f"..data/processed-data/generated-chapters/{args.model_id}/"
     
     utils.styled_print(f"Creating Generated Paragraph Files in {parent_directory}", header=True)
     os.makedirs(parent_directory, exist_ok=True)
 
     for chapter_file in args.chapter_json_files:
-        paragraph_extractor = ParagraphExtractor(chapter_file, model_dir=f"data/processed-data/generated-chapters/{args.model_id}/")
+        paragraph_extractor = ParagraphExtractor(chapter_file, model_dir=f"../data/processed-data/generated-chapters/{args.model_id}/")
         paragraph_extractor.loadJson()
         utils.styled_print(f"Extracted {args.model_id} generated data from {chapter_file}")
         paragraph_extractor.extract_write_paragraphs(args.model_id)
