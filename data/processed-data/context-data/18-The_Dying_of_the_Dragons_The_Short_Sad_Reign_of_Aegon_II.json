@@ -1,0 +1,2073 @@
+{
+    "18-The_Dying_of_the_Dragons_The_Short_Sad_Reign_of_Aegon_II": [
+        {
+            "paragraph_id": 0,
+            "paragraph": "The time for hiding is done,\u201d King Aegon II declared on Dragonstone, after Sunfyre had feasted on his sister. \u201cLet the ravens fly that the realm may know the pretender is dead, and their true king is coming home to reclaim his father\u2019s throne.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "King Aegon II",
+                "Sunfyre"
+            ],
+            "places": [
+                "Dragonstone"
+            ],
+            "events": [
+                "hiding",
+                "feasted on his sister",
+                "true king is coming home to reclaim his father's throne"
+            ],
+            "verbs": [
+                "declared",
+                "fly"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 1,
+            "paragraph": "Yet even true kings may find some things more easily proclaimed than accomplished. The moon would wax and wane and wax again before Aegon II took his leave of Dragonstone.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon II"
+            ],
+            "places": [
+                "Dragonstone"
+            ],
+            "events": [],
+            "verbs": [
+                "find",
+                "proclaimed",
+                "took"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 2,
+            "paragraph": "Between him and King\u2019s Landing lay the isle of Driftmark, the whole breadth of Blackwater Bay, and scores of prowling Velaryon warships. With the Sea Snake a \u201cguest\u201d of Trystane Truefyre in King\u2019s Landing and Ser Addam dead at Tumbleton, command of the Velaryon fleets now rested with Addam\u2019s brother, Alyn, the younger son of Mouse, the shipwright\u2019s daughter, a boy of fifteen\u2026but would he be friend or foe? His brother had died fighting for the queen, but that same queen had made their lord a captive and was herself dead. Ravens were dispatched to Driftmark offering House Velaryon pardon for all its past offenses if Alyn of Hull would present himself on Dragonstone and swear allegiance\u2026but until and unless an answer was received, it would be folly for Aegon II to try to cross the bay by ship and risk capture.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon II",
+                "Trystane Truefyre",
+                "Ser Addam",
+                "Mouse",
+                "Alyn of Hull"
+            ],
+            "places": [
+                "King's Landing",
+                "Driftmark",
+                "Blackwater Bay",
+                "Tumbleton",
+                "Dragonstone"
+            ],
+            "events": [
+                "Ravens were dispatched to Driftmark offering House Velaryon pardon for all its past offenses if Alyn of Hull would present himself on Dragonstone and swear allegiance"
+            ],
+            "verbs": [
+                "lay",
+                "prowling",
+                "rested",
+                "dispatched",
+                "offering",
+                "presenting",
+                "swear"
+            ],
+            "adjectives": [
+                "whole",
+                "scores"
+            ]
+        },
+        {
+            "paragraph_id": 3,
+            "paragraph": "Nor did His Grace wish to sail to King\u2019s Landing. In the days following his half-sister\u2019s death, the king still clung to the hope that Sunfyre might recover enough strength to fly again. Instead the dragon only seemed to weaken further, and soon the wounds in his neck began to stink. Even the smoke he exhaled had a foul smell to it, and toward the end he would no longer eat.",
+            "valid": 1.0,
+            "characters": [
+                "His Grace",
+                "King",
+                "Sunfyre"
+            ],
+            "places": [
+                "King's Landing"
+            ],
+            "events": [],
+            "verbs": [
+                "sail",
+                "clung",
+                "weaken",
+                "exhaled"
+            ],
+            "adjectives": [
+                "half-sister's",
+                "foul"
+            ]
+        },
+        {
+            "paragraph_id": 4,
+            "paragraph": "On the ninth day of the twelfth moon of 130 AC, the magnificent golden dragon that had been King Aegon\u2019s glory died in the outer yard of Dragonstone where he had fallen. His Grace wept, and gave orders that his cousin Lady Baela be brought up from the dungeons and put to death. Only when her head was on the block did he repent, when his maester reminded him that the girl\u2019s mother had been a Velaryon, the Sea Snake\u2019s own daughter. Another raven took wing for Driftmark, this time with a threat: unless Alyn of Hull presented himself within a fortnight to do homage to his rightful liege, his cousin the Lady Baela would lose her head.",
+            "valid": 1.0,
+            "characters": [
+                "King Aegon",
+                "Lady Baela",
+                "Alyn of Hull"
+            ],
+            "places": [
+                "Dragonstone",
+                "Driftmark"
+            ],
+            "events": [
+                "death of the golden dragon",
+                "put to death of Lady Baela"
+            ],
+            "verbs": [
+                "wept",
+                "reminded",
+                "took wing"
+            ],
+            "adjectives": [
+                "magnificent",
+                "golden"
+            ]
+        },
+        {
+            "paragraph_id": 5,
+            "paragraph": "On the western shores of Blackwater Bay, meanwhile, the Moon of the Three Kings came to a sudden end when an army appeared outside the walls of King\u2019s Landing. For more than half a year the city had lived in fear of Ormund Hightower\u2019s advancing host\u2026but when the assault came, it came not from Oldtown by way of Bitterbridge and Tumbleton, but up the kingsroad from Storm\u2019s End. Borros Baratheon, on hearing of the queen\u2019s death, had left his newly pregnant wife and four daughters to strike north through the kingswood with six hundred knights and four thousand foot.",
+            "valid": 1.0,
+            "characters": [
+                "Ormund Hightower",
+                "Borros Baratheon"
+            ],
+            "places": [
+                "Blackwater Bay",
+                "King's Landing",
+                "Oldtown",
+                "Bitterbridge",
+                "Tumbleton",
+                "Storm's End",
+                "kingswood"
+            ],
+            "events": [
+                "Moon of the Three Kings"
+            ],
+            "verbs": [
+                "appeared",
+                "lived",
+                "assaulted",
+                "left",
+                "strike"
+            ],
+            "adjectives": [
+                "western",
+                "sudden",
+                "advancing"
+            ]
+        },
+        {
+            "paragraph_id": 6,
+            "paragraph": "When the Baratheon vanguard was seen across the Blackwater Rush, the Shepherd commanded his followers to rush the river to keep Lord Borros from coming ashore. But only hundreds now came to listen to this beggar who\u2019d once preached to tens of thousands, and few obeyed. Atop Aegon\u2019s High Hill, the squire now calling himself King Trystane Truefyre stood on the battlements with Larys Strong and Ser Perkin the Flea, gazing at the swelling ranks of stormlanders. \u201cWe do not have the strength to oppose such a host, sire,\u201d Lord Larys told the boy, \u201cbut perhaps words can succeed where swords must fail. Send me to parley with them.\u201d And so the Clubfoot was dispatched across the river under a flag of truce, accompanied by Grand Maester Orwyle and the Dowager Queen Alicent.",
+            "valid": 1.0,
+            "characters": [
+                "Baratheon",
+                "Shepherd",
+                "Lord Borros",
+                "King Trystane Truefyre",
+                "Larys Strong",
+                "Ser Perkin the Flea",
+                "Lord Larys",
+                "Clubfoot",
+                "Grand Maester Orwyle",
+                "Dowager Queen Alicent"
+            ],
+            "places": [
+                "Blackwater Rush",
+                "Aegon's High Hill"
+            ],
+            "events": [
+                "rush the river"
+            ],
+            "verbs": [
+                "preached",
+                "obeyed",
+                "gazing",
+                "dispatched"
+            ],
+            "adjectives": [
+                "swelling"
+            ]
+        },
+        {
+            "paragraph_id": 7,
+            "paragraph": "The Lord of Storm\u2019s End received them in a pavilion on the edge of the kingswood, as his men felled trees to build rafts for the river crossing. There Queen Alicent received the glad news that her grandaughter Jaehaera, the only surviving child of her son Aegon and daughter Helaena, had been delivered safely to Storm\u2019s End by Ser Willis Fell of the Kingsguard. The Dowager Queen wept tears of joy.",
+            "valid": 1.0,
+            "characters": [
+                "Lord of Storm\u2019s End",
+                "Queen Alicent",
+                "Jaehaera",
+                "Aegon",
+                "Helaena",
+                "Ser Willis Fell"
+            ],
+            "places": [
+                "pavilion on the edge of the kingswood",
+                "Storm's End"
+            ],
+            "events": [
+                "felling trees to build rafts for river crossing",
+                "delivered safely to Storm's End by Ser Willis Fell"
+            ],
+            "verbs": [
+                "received",
+                "wept"
+            ],
+            "adjectives": [
+                "glad",
+                "joy"
+            ]
+        },
+        {
+            "paragraph_id": 8,
+            "paragraph": "Betrayals and betrothals followed, until an accord was reached between Lord Borros, Lord Larys, and Queen Alicent, with Grand Maester Orwyle as witness. The Clubfoot promised that Ser Perkin and his gutter knights would join the stormlanders in restoring King Aegon II to the Iron Throne, on the condition that all of them save the pretender Trystane would be pardoned for any and all offenses, including high treason, rebellion, robbery, murder, and rape. Queen Alicent agreed that her son King Aegon would make Lady Cassandra, Lord Borros\u2019s eldest daughter, his new queen. Lady Floris, another of his lordship\u2019s daughters, was to be betrothed to Larys Strong.",
+            "valid": 1.0,
+            "characters": [
+                "Lord Borros",
+                "Lord Larys",
+                "Queen Alicent",
+                "Grand Maester Orwyle",
+                "Ser Perkin",
+                "King Aegon II",
+                "Trystane",
+                "Lady Cassandra",
+                "Lady Floris"
+            ],
+            "places": [
+                "Iron Throne"
+            ],
+            "events": [
+                "Betrayals and betrothals"
+            ],
+            "verbs": [
+                "restoring",
+                "pardoned",
+                "agreed",
+                "betrothed"
+            ],
+            "adjectives": [
+                "gutter",
+                "eldest"
+            ]
+        },
+        {
+            "paragraph_id": 9,
+            "paragraph": "The problem posed by the Velaryon fleet was discussed at some length. \u201cWe must bring the Sea Snake into this,\u201d Lord Baratheon is reported to have said. \u201cPerhaps the old man would like a new young wife. I have two daughters not yet spoken for.\u201d \u201cHe is traitor thrice over,\u201d Queen Alicent said. \u201cRhaenyra could never have taken King\u2019s Landing but for him. His Grace my son will not have forgotten. I want him dead.\u201d \u201cHe will die soon enough in any case,\u201d replied Lord Larys Strong. \u201cLet us make our peace with him now, and make what use of him we can. Once all is safely settled, if we have no further need of House Velaryon, we can always lend the Stranger a hand.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Lord Baratheon",
+                "Queen Alicent",
+                "Lord Larys Strong"
+            ],
+            "places": [
+                "King's Landing"
+            ],
+            "events": [
+                "problem posed by the Velaryon fleet discussed"
+            ],
+            "verbs": [
+                "bring",
+                "said",
+                "have taken",
+                "will die soon enough",
+                "make our peace with him now, and make what use of him we can"
+            ],
+            "adjectives": [
+                "old man",
+                "new young wife",
+                "two daughters not yet spoken for",
+                "traitor thrice over"
+            ]
+        },
+        {
+            "paragraph_id": 10,
+            "paragraph": "And so it was agreed, most shamefully. The envoys returned to King\u2019s Landing, and the stormlanders soon followed, crossing the Blackwater Rush without incident. Lord Borros found the city walls unmanned, the gates undefended, the streets and squares empty save for corpses. As he climbed Aegon\u2019s High Hill with his banner-bearer and household shields, he saw the ragged banners of the squire Trystane hauled down from the gatehouse battlements, and the golden dragon banner of King Aegon II raised in their stead. Queen Alicent herself emerged from the Red Keep to bid him welcome, with Ser Perkin the Flea beside her. \u201cWhere is the pretender?\u201d Lord Borros asked, as he dismounted in the outer ward. \u201cTaken and in chains,\u201d replied Ser Perkin.",
+            "valid": 1.0,
+            "characters": [
+                "King\u2019s Landing",
+                "Lord Borros",
+                "Trystane",
+                "Aegon II",
+                "Queen Alicent",
+                "Ser Perkin the Flea"
+            ],
+            "places": [
+                "Blackwater Rush",
+                "Aegon's High Hill",
+                "Red Keep"
+            ],
+            "events": [
+                "crossing the Blackwater Rush without incident",
+                "hailing down of Trystane's banners from gatehouse battlements",
+                "raising of King Aegon II banner in their stead"
+            ],
+            "verbs": [
+                "agreed",
+                "returned",
+                "followed",
+                "found",
+                "climbed",
+                "hauled down",
+                "raised",
+                "dismounted"
+            ],
+            "adjectives": [
+                "shamefully",
+                "unmanned",
+                "undefended",
+                "empty"
+            ]
+        },
+        {
+            "paragraph_id": 11,
+            "paragraph": "Seasoned by countless border clashes with the Dornish and his recent victorious campaign against a new Vulture King, Lord Borros Baratheon wasted no time in restoring order to King\u2019s Landing. After a night of quiet celebration in the Red Keep, he rode forth the next day against Visenya\u2019s Hill and the \u201cCunny King,\u201d Gaemon Palehair. Columns of armored knights climbed the hill from three directions, riding down the street scum, sellswords, and drunkards who had gathered round the little king and putting them to rout. The young monarch, who had celebrated his fifth nameday only two days previous, was carried back to the Red Keep slung over the back of a horse, chained and weeping. His mother walked behind him, clutching the hand of the Dornishwoman Sylvenna Sand and leading a long column of whores, witch women, cutpurses, sneaks, and sots, the surviving remnants of the Palehair \u201ccourt.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Lord Borros Baratheon",
+                "Visenya's Hill",
+                "Gaemon Palehair",
+                "Cunny King",
+                "Sylvenna Sand"
+            ],
+            "places": [
+                "King's Landing",
+                "Red Keep"
+            ],
+            "events": [
+                "border clashes with the Dornish",
+                "victorious campaign against a new Vulture King",
+                "restoring order to King\u2019s Landing",
+                "climbed the hill from three directions"
+            ],
+            "verbs": [
+                "seasoned",
+                "celebration",
+                "rode",
+                "putting them to rout",
+                "carried back to the Red Keep slung over the back of a horse, chained and weeping.",
+                "walked behind him, clutching the hand of the Dornishwoman Sylvenna Sand and leading a long column of whores, witch women, cutpurses, sneaks, and sots"
+            ],
+            "adjectives": [
+                "countless",
+                "quiet",
+                "young"
+            ]
+        },
+        {
+            "paragraph_id": 12,
+            "paragraph": "The Shepherd\u2019s turn came the next night. Forewarned by the fate of the whores and their little king, the prophet had called upon his \u201cbarefoot army\u201d to assemble around the Dragonpit, and defend the Hill of Rhaenys \u201cwith blood and iron.\u201d But the Shepherd\u2019s star had fallen. Fewer than three hundred came in answer to his call, and many of those fled when the assault began. Lord Borros led his knights up the hill from the west, whilst Ser Perkin and his gutter knights climbed the steeper southern slope from Flea Bottom. Crashing through the thin ranks of defenders into the ruins of the Dragonpit, they found the prophet amongst the dragon heads (now far gone in rot), surrounded by a ring of torches, still preaching of doom and devastation. When he spied Lord Borros on his warhorse, the Shepherd pointed his stump at him and cursed him. \u201cWe shall meet in hell before this year is done,\u201d the begging brother proclaimed. Like Gaemon Palehair, he was taken alive and carried back to the Red Keep bound in chains.",
+            "valid": 1.0,
+            "characters": [
+                "The Shepherd",
+                "whores",
+                "their little king",
+                "prophet",
+                "Lord Borros",
+                "Ser Perkin",
+                "gutter knights",
+                "Gaemon Palehair"
+            ],
+            "places": [
+                "Dragonpit",
+                "Hill of Rhaenys",
+                "Flea Bottom",
+                "Red Keep"
+            ],
+            "events": [
+                "the assault began"
+            ],
+            "verbs": [
+                "call",
+                "assemble",
+                "defend",
+                "climbed",
+                "crashing through",
+                "found",
+                "spied",
+                "cursed"
+            ],
+            "adjectives": [
+                "barefoot army",
+                "fewer than three hundred"
+            ]
+        },
+        {
+            "paragraph_id": 13,
+            "paragraph": "Thus did peace return to King\u2019s Landing, after a fashion. In the name of her son, \u201cour true king, Aegon, Second of His Name,\u201d Queen Alicent proclaimed a curfew, making it unlawful to be on the city streets after dark. The City Watch was re-formed under the command of Ser Perkin the Flea to enforce the curfew, whilst Lord Borros and his stormlanders manned the city\u2019s gates and battlements. Pulled down from their three hills, the three false \u201ckings\u201d languished in the dungeons, awaiting the true king\u2019s return. That return hinged upon the Velaryons of Driftmark, however. Behind the walls of the Red Keep, the Dowager Queen Alicent and Lord Larys Strong had offered the Sea Snake his freedom, a full pardon for his treasons, and a place on the king\u2019s small council if he would bend his knee to Aegon II as his king and deliver them the swords and sails of Driftmark. The old man had proved to be surprisingly intractable, however. \u201cMy knees are old and stiff and do not bend easily,\u201d Lord Corlys responded, before setting forth terms of his own. He wanted pardons not only for himself, but for all those who had fought for Queen Rhaenyra, and demanded further that Aegon the Younger be given Princess Jaehaera\u2019s hand in marriage, so the two of them might jointly be proclaimed King Aegon\u2019s heirs. \u201cThe realm has been split asunder,\u201d he said. \u201cWe must needs join it back together.\u201d Lord Baratheon\u2019s daughters did not interest him, but he wanted Lady Baela freed at once.",
+            "valid": 1.0,
+            "characters": [
+                "Queen Alicent",
+                "Ser Perkin the Flea",
+                "Lord Borros",
+                "Aegon II",
+                "Sea Snake",
+                "Lord Larys Strong",
+                "Lord Corlys",
+                "Queen Rhaenyra",
+                "Princess Jaehaera",
+                "Lady Baela"
+            ],
+            "places": [
+                "King's Landing",
+                "Red Keep",
+                "Driftmark"
+            ],
+            "events": [
+                "curfew proclaimed"
+            ],
+            "verbs": [
+                "returned",
+                "enforce",
+                "manned",
+                "pulled down",
+                "languished",
+                "hinged upon",
+                "offered",
+                "bend his knee to Aegon II as his king and deliver them the swords and sails of Driftmark.",
+                "set forth terms of his own.",
+                "want pardons not only for himself, but for all those who had fought for Queen Rhaenyra.",
+                "join it back together."
+            ],
+            "adjectives": [
+                "true king's return"
+            ]
+        },
+        {
+            "paragraph_id": 14,
+            "paragraph": "Queen Alicent was outraged by Lord Velaryon\u2019s \u201carrogance,\u201d Munkun tells us, especially his demand that Queen Rhaenyra\u2019s Aegon be named as heir to her own Aegon. She had suffered the loss of two of her three sons and her only daughter during the Dance, and could not bear the thought that any of her rival\u2019s sons should live. Angrily, Her Grace reminded Lord Corlys that she had twice proposed terms of peace to Rhaenyra, only to have her overtures rejected with scorn. It fell to Lord Larys the Clubfoot to pour oil on the troubled waters, calming the queen with a quiet reminder of all they had discussed in Lord Baratheon\u2019s tent, and persuading her to consent to the Sea Snake\u2019s proposals.",
+            "valid": 1.0,
+            "characters": [
+                "Queen Alicent",
+                "Lord Velaryon",
+                "Queen Rhaenyra",
+                "Aegon",
+                "Munkun",
+                "Her Grace",
+                "Lord Corlys",
+                "Lord Larys the Clubfoot",
+                "Lord Baratheon"
+            ],
+            "places": [
+                "tent"
+            ],
+            "events": [
+                "Dance"
+            ],
+            "verbs": [
+                "outraged",
+                "demand",
+                "suffered",
+                "bear",
+                "reminded",
+                "persuading"
+            ],
+            "adjectives": [
+                "arrogance",
+                "angrily"
+            ]
+        },
+        {
+            "paragraph_id": 15,
+            "paragraph": "The next day Lord Corlys Velaryon, the Sea Snake, knelt before Queen Alicent as she sat upon the lower steps of the Iron Throne, as proxy for her son, and there pledged the king his loyalty and that of his house. Before the eyes of gods and men, the Queen Dowager granted him and his a royal pardon, and restored him to his old place on the small council, as admiral and master of ships. Ravens went forth to Driftmark and Dragonstone to announce the accord\u2026and not a day too soon, for they found young Alyn Velaryon gathering his ships for an attack on Dragonstone, and King Aegon II preparing once again to behead his cousin Baela.",
+            "valid": 1.0,
+            "characters": [
+                "Lord Corlys Velaryon",
+                "Queen Alicent",
+                "King Aegon II",
+                "Alyn Velaryon",
+                "Baela"
+            ],
+            "places": [
+                "Driftmark",
+                "Dragonstone"
+            ],
+            "events": [
+                "kneeling before Queen Alicent",
+                "pledging loyalty to the king",
+                "granting a royal pardon",
+                "sending ravens to Driftmark and Dragonstone",
+                "gathering ships for an attack on Dragonstone",
+                "preparing to behead cousin Baela"
+            ],
+            "verbs": [
+                "kneeled",
+                "pledged",
+                "granted",
+                "announced",
+                "found",
+                "gathering",
+                "preparing"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 16,
+            "paragraph": "In the waning days of 130 AC, King Aegon II returned at last to King\u2019s Landing, accompanied by Ser Marston Waters, Ser Alfred Broome, the Two Toms, and Lady Baela Targaryen (still in chains, for fear she might attack the king if freed). Escorted by twelve Velaryon war galleys, they sailed upon a battered old trading cog named Mouse, owned and captained by Marilda of Hull. If Mushroom may be trusted, the choice of vessel was deliberate. \u201cLord Alyn might have shipped the king home aboard Lord Aethan\u2019s Glory or Morning Tide or even Spicetown Girl, but he wanted him seen to be creeping into the city on a mouse,\u201d the dwarf says. \u201cLord Alyn was an insolent boy and did not love his king.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "King Aegon II",
+                "Ser Marston Waters",
+                "Ser Alfred Broome",
+                "The Two Toms",
+                "Lady Baela Targaryen",
+                "Marilda of Hull",
+                "Mushroom",
+                "Lord Alyn"
+            ],
+            "places": [
+                "King's Landing"
+            ],
+            "events": [
+                "returned at last to King\u2019s Landing"
+            ],
+            "verbs": [
+                "returned",
+                "sailed",
+                "owned",
+                "captained",
+                "wanted",
+                "creeping"
+            ],
+            "adjectives": [
+                "waning",
+                "battered",
+                "old"
+            ]
+        },
+        {
+            "paragraph_id": 17,
+            "paragraph": "The king\u2019s return was far from triumphant. Still unable to walk, His Grace was brought through the River Gate in a closed litter, and carried up Aegon\u2019s High Hill to the Red Keep through a silent city, past deserted streets, abandoned homes, and looted shops. The steep, narrow steps of the Iron Throne proved impossible for him as well; henceforth, the restored king must needs hold court from a carved, cushioned wooden seat at the base of the true throne, with a blanket across his twisted, shattered legs.",
+            "valid": 1.0,
+            "characters": [
+                "The king"
+            ],
+            "places": [
+                "River Gate",
+                "Aegon's High Hill",
+                "Red Keep"
+            ],
+            "events": [
+                "king's return"
+            ],
+            "verbs": [
+                "brought",
+                "carried",
+                "hold court"
+            ],
+            "adjectives": [
+                "triumphant",
+                "closed",
+                "silent",
+                "deserted",
+                "abandoned",
+                "looted",
+                "steep",
+                "narrow",
+                "twisted",
+                "shattered"
+            ]
+        },
+        {
+            "paragraph_id": 18,
+            "paragraph": "Though in great pain, the king did not retreat to his bedchamber again, nor avail himself of dreamwine or milk of the poppy, but immediately set to pronouncing judgment upon the three \u201cdayfly kings\u201d who had ruled King\u2019s Landing during the Moon of Madness. The squire was the first to face his wroth, and was sentenced to die for high treason. A brave boy, Trystane was at first defiant when dragged before the Iron Throne, until he saw Ser Perkin the Flea standing with the king. That took the heart from him, says Mushroom, but even then the youth did not plead his innocence nor beg for mercy, but asked only that he might be made a knight before he died. This boon King Aegon granted, whereupon Ser Marston Waters dubbed the lad (his fellow bastard) Ser Trystane Fyre (\u201cTruefyre,\u201d the name the boy had bestowed upon himself, being deemed presumptuous), and Ser Alfred Broome struck his head off with Blackfyre, the sword of Aegon the Conqueror.",
+            "valid": 1.0,
+            "characters": [
+                "king",
+                "squire",
+                "Trystane",
+                "Ser Perkin the Flea",
+                "Mushroom",
+                "Ser Marston Waters",
+                "Ser Alfred Broome"
+            ],
+            "places": [
+                "King's Landing"
+            ],
+            "events": [
+                "pronouncing judgment upon the three \u201cdayfly kings\u201d",
+                "sentenced to die for high treason",
+                "dubbed the lad (his fellow bastard) Ser Trystane Fyre (\u201cTruefyre,\u201d)",
+                "struck his head off with Blackfyre"
+            ],
+            "verbs": [
+                "retreat",
+                "avail himself of dreamwine or milk of the poppy",
+                "set to pronouncing judgment upon",
+                "dragged before",
+                "plead his innocence nor beg for mercy",
+                "asked only that he might be made a knight before he died.",
+                "granted",
+                "dubbed",
+                "struck"
+            ],
+            "adjectives": [
+                "great pain",
+                "high treason",
+                "defiant"
+            ]
+        },
+        {
+            "paragraph_id": 19,
+            "paragraph": "The fate of the Cunny King, Gaemon Palehair, was kinder. Having just turned five, the boy was spared on account of his youth and made a ward of the Crown. His mother, Essie, who had presumed to style herself Lady Esselyn during her son\u2019s brief reign, confessed under torture that Gaemon\u2019s father was not the king, as she had previously claimed, but rather a silver-haired oarsman off a trading galley from Lys. Being lowborn and unworthy of the sword, Essie and the Dornish whore Sylvenna Sand were hanged from the battlements of the Red Keep, together with twenty-seven other members of \u201cKing\u201d Gaemon\u2019s court, an ill-favored assortment of thieves, drunkards, mummers, beggars, whores, and panders.",
+            "valid": 1.0,
+            "characters": [
+                "Gaemon Palehair",
+                "Essie",
+                "Sylvenna Sand"
+            ],
+            "places": [
+                "Cunny King",
+                "Lys",
+                "Red Keep"
+            ],
+            "events": [
+                "ward of the Crown",
+                "hanged from the battlements"
+            ],
+            "verbs": [
+                "spared",
+                "confessed",
+                "claimed"
+            ],
+            "adjectives": [
+                "youth",
+                "lowborn",
+                "unworthy",
+                "ill-favored"
+            ]
+        },
+        {
+            "paragraph_id": 20,
+            "paragraph": "Lastly King Aegon II turned his attention to the Shepherd. When brought before the Iron Throne for judgment, the prophet refused to repent his crimes or admit to treason, but thrust the stump of his missing hand at the king and told His Grace, \u201cWe shall meet in hell before this year is done,\u201d the same words he had spoken to Borros Baratheon upon his capture. For that insolence, Aegon had the Shepherd\u2019s tongue torn out with hot pincers, then condemned him and his \u201ctreasonous followers\u201d to death by fire.",
+            "valid": 1.0,
+            "characters": [
+                "King Aegon II",
+                "Shepherd",
+                "Borros Baratheon"
+            ],
+            "places": [
+                "Iron Throne"
+            ],
+            "events": [
+                "judgment"
+            ],
+            "verbs": [
+                "repent",
+                "admit",
+                "thrust",
+                "torn out"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 21,
+            "paragraph": "On the last day of the year, two hundred forty-one \u201cbarefoot lambs,\u201d the Shepherd\u2019s most fervid and devoted followers, were covered with pitch and chained to poles along the broad cobbled thoroughfare that ran eastward from Cobbler\u2019s Square up to the Dragonpit. As the city\u2019s septs rang their bells to signal the end of the old year and the coming of the new, King Aegon II proceeded along the street (thereafter known as Shepherd\u2019s Way, rather than Hill Street as before) in his litter, whilst his knights rode to either side, setting their torches to the captive lambs to light his way. Thus did His Grace continue up the hill to the very top, where the Shepherd himself was bound amongst the heads of the five dragons. Supported by two of his Kingsguard, King Aegon rose from his cushions, tottered to the pole where the prophet had been chained, and set him aflame with his own hand.",
+            "valid": 1.0,
+            "characters": [
+                "King Aegon II",
+                "Shepherd",
+                "Kingsguard"
+            ],
+            "places": [
+                "Cobbler's Square",
+                "Dragonpit",
+                "Shepherd's Way"
+            ],
+            "events": [
+                "barefoot lambs chained to poles along the broad cobbled thoroughfare that ran eastward from Cobbler\u2019s Square up to the Dragonpit.",
+                "King Aegon proceeded along the street in his litter, whilst his knights rode to either side, setting their torches to the captive lambs to light his way.",
+                "King Aegon rose from his cushions, tottered to the pole where the prophet had been chained, and set him aflame with his own hand."
+            ],
+            "verbs": [
+                "covered",
+                "rang",
+                "proceeded",
+                "rode",
+                "set",
+                "rose",
+                "tottered"
+            ],
+            "adjectives": [
+                "last",
+                "fervid",
+                "devoted"
+            ]
+        },
+        {
+            "paragraph_id": 22,
+            "paragraph": "\u201cRhaenyra the Pretender was gone, her dragons dead, the mummer kings all fallen, and yet the realm knew not peace,\u201d Septon Eustace wrote soon after. With his half-sister slain and her only surviving son a captive at his own court, King Aegon II might reasonably have expected the remaining opposition to his rule to melt away\u2026and mayhaps it might have done so if His Grace had heeded Lord Velaryon\u2019s counsel and issued a general pardon for all those lords and knights who had espoused the queen\u2019s cause.",
+            "valid": 1.0,
+            "characters": [
+                "Rhaenyra",
+                "Septon Eustace",
+                "King Aegon II",
+                "Lord Velaryon"
+            ],
+            "places": [],
+            "events": [
+                "slain"
+            ],
+            "verbs": [
+                "heeded"
+            ],
+            "adjectives": [
+                "mummer",
+                "surviving"
+            ]
+        },
+        {
+            "paragraph_id": 23,
+            "paragraph": "Alas, the king was not of a forgiving mind. Urged on by his mother, the Queen Dowager Alicent, Aegon II was determined to exact vengeance upon those who had betrayed and deposed him. He started with the crownlands, sending forth his own men and the stormlanders of Borros Baratheon against Rosby, Stokeworth, and Duskendale and the surrounding keeps and villages. Though the lords thus accosted, through their stewards and castellans, were quick to lower Rhaenyra\u2019s quartered banner and raise Aegon\u2019s golden dragon in its stead, each in turn was brought in chains to King\u2019s Landing and forced to do obeisance before the king. Nor were they freed until they had agreed to pay a heavy ransom, and provide the Crown with suitable hostages.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon II",
+                "Queen Dowager Alicent",
+                "Borros Baratheon",
+                "Rosby",
+                "Stokeworth",
+                "Duskendale"
+            ],
+            "places": [
+                "King's Landing"
+            ],
+            "events": [
+                "exact vengeance"
+            ],
+            "verbs": [
+                "urged on",
+                "sending forth",
+                "lowering Rhaenyra's quartered banner and raising Aegon's golden dragon in its stead",
+                "brought in chains",
+                "forced to do obeisance",
+                "agreeing to pay a heavy ransom and provide the Crown with suitable hostages"
+            ],
+            "adjectives": [
+                "forgiving",
+                "heavy"
+            ]
+        },
+        {
+            "paragraph_id": 24,
+            "paragraph": "This campaign proved a grave mistake, for it only served to harden the hearts of the late queen\u2019s men against the king. Reports soon reached King\u2019s Landing of warriors gathering in great numbers at Winterfell, Barrowton, and White Harbor. In the riverlands, the aged and bedridden Lord Grover Tully had finally died (of apoplexy from having his house fight against the rightful king at Second Tumbleton, Mushroom says), and his grandson Elmo, now at last the Lord of Riverrun, had called the lords of the Trident to war once more, lest he suffer the same fate as Lords Rosby, Stokeworth, and Darklyn. To him gathered Benjicot Blackwood of Raventree, already a seasoned warrior at three-and-ten; his fierce young aunt, Black Aly, with three hundred bows; Lady Sabitha Frey, the merciless and grasping Lady of the Twins; Lord Hugo Vance of Wayfarer\u2019s Rest; Lord Jorah Mallister of Seagard; Lord Roland Darry of Darry; aye, and even Humfrey Bracken, Lord of Stone Hedge, whose house had hitherto supported King Aegon\u2019s cause.",
+            "valid": 0.0,
+            "characters": [],
+            "places": [],
+            "events": [],
+            "verbs": [],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 25,
+            "paragraph": "Even more grave were the tidings from the Vale, where Lady Jeyne Arryn had assembled fifteen hundred knights and eight thousand men- at-arms, and sent envoys to the Braavosi to arrange for ships to bring them down upon King\u2019s Landing. With them would come a dragon. Lady Rhaena of House Targaryen, brave Baela\u2019s twin, had brought a dragon\u2019s egg with her to the Vale\u2026an egg that had proved fertile, bringing forth a pale pink hatchling with black horns and crest. Rhaena named her Morning.",
+            "valid": 1.0,
+            "characters": [
+                "Lady Jeyne Arryn",
+                "Lady Rhaena of House Targaryen",
+                "Baela"
+            ],
+            "places": [
+                "Vale",
+                "King's Landing",
+                "Braavosi"
+            ],
+            "events": [
+                "assembling fifteen hundred knights and eight thousand men-at-arms",
+                "sending envoys to the Braavosi to arrange for ships",
+                "bringing forth a pale pink hatchling with black horns and crest"
+            ],
+            "verbs": [
+                "assembled",
+                "sent",
+                "arrange",
+                "brought forth"
+            ],
+            "adjectives": [
+                "grave",
+                "fertile"
+            ]
+        },
+        {
+            "paragraph_id": 26,
+            "paragraph": "Though years would need to pass before Morning grew large enough to be ridden to war, the news of her birth nonetheless was of great concern to the green council. If the rebels could flaunt a dragon and the loyalists could not, Queen Alicent pointed out, smallfolk might see their foes as more legitimate. \u201cI need a dragon,\u201d Aegon II said when he was told.",
+            "valid": 1.0,
+            "characters": [
+                "Morning",
+                "Queen Alicent",
+                "Aegon II"
+            ],
+            "places": [],
+            "events": [
+                "birth"
+            ],
+            "verbs": [
+                "pass",
+                "flaunt",
+                "grow",
+                "need"
+            ],
+            "adjectives": [
+                "large",
+                "great",
+                "legitimate"
+            ]
+        },
+        {
+            "paragraph_id": 27,
+            "paragraph": "Aside from Lady Rhaena\u2019s hatchling, only three living dragons remained in all of Westeros. Sheepstealer had vanished with the girl Nettles, but was thought to be somewhere in Crackclaw Point or the Mountains of the Moon. The Cannibal still haunted the eastern slopes of the Dragonmont. Silverwing at last report had departed the desolation at Tumbleton for the Reach, and was said to have made her lair on a small, stony isle in the middle of Red Lake.",
+            "valid": 1.0,
+            "characters": [
+                "Lady Rhaena",
+                "Sheepstealer",
+                "Nettles",
+                "The Cannibal"
+            ],
+            "places": [
+                "Crackclaw Point",
+                "Mountains of the Moon",
+                "Tumbleton",
+                "Reach",
+                "Red Lake"
+            ],
+            "events": [],
+            "verbs": [
+                "vanished",
+                "thought",
+                "haunted",
+                "departed"
+            ],
+            "adjectives": [
+                "living",
+                "small",
+                "stony"
+            ]
+        },
+        {
+            "paragraph_id": 28,
+            "paragraph": "Queen Alysanne\u2019s silvery she-dragon had accepted a second rider, Borros Baratheon pointed out. \u201cWhy not a third? Claim the dragon and your crown is secure.\u201d But Aegon II was as yet unable to walk or stand, much less mount and ride a dragon. Nor was His Grace strong enough for a long journey across the realm to Red Lake, through regions infested with traitors, rebels, and broken men.",
+            "valid": 1.0,
+            "characters": [
+                "Queen Alysanne",
+                "Borros Baratheon",
+                "Aegon II"
+            ],
+            "places": [
+                "Red Lake"
+            ],
+            "events": [],
+            "verbs": [
+                "accepted",
+                "mount",
+                "ride",
+                "journey"
+            ],
+            "adjectives": [
+                "silvery",
+                "secure"
+            ]
+        },
+        {
+            "paragraph_id": 29,
+            "paragraph": "That answer was no answer, plainly. \u201cNot Silverwing,\u201d His Grace declared. \u201cI will have a new Sunfyre, prouder and fiercer than the last.\u201d So ravens were sent to Dragonstone, where the eggs of the Targaryen dragons, some so old they had turned to stone, were kept under guard in undervaults and cellars. The maester there chose seven (in honor of the gods) that he deemed most promising, and sent them to King\u2019s Landing. King Aegon kept them in his own chambers, but none yielded a dragon. Mushroom tells us His Grace sat on a \u201clarge purple and gold egg\u201d for a day and a night, hoping to hatch it, \u201cbut it had as well been a purple and gold turd for all the good it did.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "His Grace",
+                "Aegon"
+            ],
+            "places": [
+                "Dragonstone",
+                "King's Landing"
+            ],
+            "events": [
+                "sent ravens to Dragonstone",
+                "maester chose seven eggs",
+                "sent them to King's Landing"
+            ],
+            "verbs": [
+                "declared",
+                "kept",
+                "yielded",
+                "sat"
+            ],
+            "adjectives": [
+                "prouder",
+                "fiercer",
+                "old",
+                "promising",
+                "large"
+            ]
+        },
+        {
+            "paragraph_id": 30,
+            "paragraph": "Grand Maester Orwyle, free of the dungeons and once more adorned with his chain of office, gives us a detailed look inside the restored green council during this troubled time, when fear and suspicion held sway even within the Red Keep. At the very time when unity was most desperately required, the lords around King Aegon II found themselves deeply divided, and unable to agree on how best to deal with the gathering storm.",
+            "valid": 1.0,
+            "characters": [
+                "Grand Maester Orwyle",
+                "King Aegon II"
+            ],
+            "places": [
+                "dungeons",
+                "Red Keep"
+            ],
+            "events": [
+                "restored green council"
+            ],
+            "verbs": [
+                "give",
+                "held sway",
+                "required",
+                "divided",
+                "deal"
+            ],
+            "adjectives": [
+                "free",
+                "detailed",
+                "troubled",
+                "fearful",
+                "suspicious",
+                "unity",
+                "desperately"
+            ]
+        },
+        {
+            "paragraph_id": 31,
+            "paragraph": "The Sea Snake favored reconciliation, pardon, and peace. Borros Baratheon scorned that course as weakness; he would defeat these traitors in the field, he declared to king and council. All he required was men; Casterly Rock and Oldtown should be commanded to raise fresh armies at once.",
+            "valid": 1.0,
+            "characters": [
+                "Borros Baratheon"
+            ],
+            "places": [
+                "Casterly Rock",
+                "Oldtown"
+            ],
+            "events": [
+                "reconciliation",
+                "pardon",
+                "peace"
+            ],
+            "verbs": [
+                "favored",
+                "scorned",
+                "declared",
+                "raise"
+            ],
+            "adjectives": [
+                "fresh"
+            ]
+        },
+        {
+            "paragraph_id": 32,
+            "paragraph": "Ser Tyland Lannister, the blind master of coin, proposed to sail to Lys or Tyrosh and engage one or more sellsword companies (Aegon II did not lack for coin, as Ser Tyland had placed three-quarters of the Crown\u2019s wealth safely in the hands of Casterly Rock, Oldtown, and the Iron Bank of Braavos before Queen Rhaenyra seized the city and the treasury).",
+            "valid": 1.0,
+            "characters": [
+                "Ser Tyland Lannister"
+            ],
+            "places": [
+                "Lys",
+                "Tyrosh",
+                "Casterly Rock",
+                "Oldtown",
+                "Braavos"
+            ],
+            "events": [
+                "sail to Lys or Tyrosh and engage one or more sellsword companies"
+            ],
+            "verbs": [
+                "propose",
+                "place"
+            ],
+            "adjectives": [
+                "blind",
+                "safely"
+            ]
+        },
+        {
+            "paragraph_id": 33,
+            "paragraph": "Lord Velaryon saw such efforts as futile. \u201cWe do not have the time. Children sit in the seats of power at Oldtown and Casterly Rock. We will find no more help there. The best free companies are bound by contract to Lys, Myr, or Tyrosh. Even if Ser Tyland could prise them loose, he could not bring them here in time. My ships can keep the Arryns from our door, but who will stop the northmen and the lords of the Trident? They are already on the march. We must make terms. His Grace should absolve them of all their crimes and treasons, proclaim Rhaenyra\u2019s Aegon his heir, and marry him at once to Princess Jaehaera. It is the only way.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Lord Velaryon",
+                "Ser Tyland",
+                "Rhaenyra's Aegon",
+                "Princess Jaehaera"
+            ],
+            "places": [
+                "Oldtown",
+                "Casterly Rock",
+                "Lys",
+                "Myr",
+                "Tyrosh"
+            ],
+            "events": [],
+            "verbs": [
+                "prise",
+                "keep",
+                "make terms",
+                "absolve",
+                "proclaim",
+                "marry"
+            ],
+            "adjectives": [
+                "futile"
+            ]
+        },
+        {
+            "paragraph_id": 34,
+            "paragraph": "The old man\u2019s words fell upon deaf ears, however. Queen Alicent had reluctantly agreed to the betrothal of her granddaughter to Rhaenyra\u2019s son, but she had done so without the king\u2019s consent. Aegon II had other ideas. He wished to marry Cassandra Baratheon at once, for \u201cshe will give me strong sons, worthy of the Iron Throne.\u201d Nor would he allow Prince Aegon to wed his daughter, and perhaps sire sons who might muddy the succession. \u201cHe can take the black and spend his days at the Wall,\u201d His Grace decreed, \u201cor else give up his manhood and serve me as a eunuch. The choice is his, but he shall have no children. My sister\u2019s line must end.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Queen Alicent",
+                "Rhaenyra",
+                "Aegon II",
+                "Cassandra Baratheon",
+                "Prince Aegon"
+            ],
+            "places": [
+                "Iron Throne",
+                "Wall"
+            ],
+            "events": [
+                "betrothal"
+            ],
+            "verbs": [
+                "fell",
+                "agreed",
+                "wish",
+                "allow",
+                "give",
+                "take",
+                "spend",
+                "serve"
+            ],
+            "adjectives": [
+                "old",
+                "reluctantly",
+                "strong"
+            ]
+        },
+        {
+            "paragraph_id": 35,
+            "paragraph": "Even that was thought to be too gentle a course by Ser Tyland Lannister, who argued for the immediate execution of Prince Aegon the Younger. \u201cThe boy will remain a threat so long as he draws breath,\u201d Lannister declared. \u201cRemove his head, and these traitors will be left with neither queen nor king nor prince. The sooner he is dead, the sooner this rebellion will end.\u201d His words, and those of the king, horrified Lord Velaryon. The aged Sea Snake, \u201cthunderous in his wroth,\u201d accused king and council of being \u201cfools, liars, and oathbreakers,\u201d and stormed from the chamber.",
+            "valid": 1.0,
+            "characters": [
+                "Ser Tyland Lannister",
+                "Prince Aegon the Younger",
+                "Lord Velaryon"
+            ],
+            "places": [],
+            "events": [
+                "execution of Prince Aegon the Younger"
+            ],
+            "verbs": [
+                "argued",
+                "declared",
+                "stormed"
+            ],
+            "adjectives": [
+                "gentle",
+                "immediate",
+                "thunderous"
+            ]
+        },
+        {
+            "paragraph_id": 36,
+            "paragraph": "Borros Baratheon then offered to bring the king the old man\u2019s head, and Aegon II was on the point of giving consent when Lord Larys Strong spoke up, reminding them that young Alyn Velaryon, the Sea Snake\u2019s heir, remained beyond their reach on Driftmark.",
+            "valid": 1.0,
+            "characters": [
+                "Borros Baratheon",
+                "Aegon II",
+                "Lord Larys Strong",
+                "Alyn Velaryon"
+            ],
+            "places": [
+                "Driftmark"
+            ],
+            "events": [],
+            "verbs": [
+                "offered",
+                "giving consent",
+                "remained"
+            ],
+            "adjectives": [
+                "old"
+            ]
+        },
+        {
+            "paragraph_id": 37,
+            "paragraph": "\u201cKill the old snake and we lose the young one,\u201d the Clubfoot said, \u201cand all those fine swift ships of theirs as well.\u201d Instead, he said, they must move at once to make amends with Lord Corlys, so as to keep House Velaryon on their side. \u201cGive him his betrothal, Your Grace,\u201d he urged the king. \u201cA betrothal is not a wedding. Name Young Aegon your heir. A prince is not a king. Look back at the history and count how many heirs never lived to sit the throne. Deal with Driftmark in due course, when your foes are vanquished and your tide is at the full. That day is not yet come. We must bide our time and speak to him gently.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Clubfoot",
+                "Lord Corlys",
+                "House Velaryon",
+                "Young Aegon",
+                "Driftmark"
+            ],
+            "places": [
+                "Driftmark"
+            ],
+            "events": [
+                "betrothal",
+                "wedding"
+            ],
+            "verbs": [
+                "kill",
+                "move",
+                "make amends",
+                "name",
+                "look back at the history",
+                "count",
+                "deal with",
+                "vanquished",
+                "bide time",
+                "speak gently"
+            ],
+            "adjectives": [
+                "old",
+                "young",
+                "swift",
+                "fine"
+            ]
+        },
+        {
+            "paragraph_id": 38,
+            "paragraph": "Or so his words have come down to us, from Orwyle by way of Munkun. Neither Septon Eustace nor the fool Mushroom was present at the council. Yet Mushroom speaks of it all the same, saying, \u201cWas there ever a man as devious as the Clubfoot? Oh, he would have made a splendid fool, that one. The words dripped from his lips like honey from a comb, and never did poison taste so sweet.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Orwyle",
+                "Septon Eustace",
+                "Mushroom",
+                "Clubfoot"
+            ],
+            "places": [],
+            "events": [
+                "council"
+            ],
+            "verbs": [
+                "come down",
+                "was present",
+                "speaks of it all the same",
+                "would have made a splendid fool",
+                "dripped from his lips"
+            ],
+            "adjectives": [
+                "devious",
+                "sweet"
+            ]
+        },
+        {
+            "paragraph_id": 39,
+            "paragraph": "The enigma that is Larys Strong the Clubfoot has vexed students of history for generations, and is not one we can hope to unravel here. Where did his true loyalty lie? What was he about? He wove his way all through the Dance of the Dragons, on this side and that side, vanishing and reappearing, yet somehow always surviving. How much of what he said and did was ruse, how much was real? Was he just a man who sailed with the prevailing wind, or did he know where he was bound when he set out? So may we ask, but none will answer. The last Strong keeps his secrets.",
+            "valid": 1.0,
+            "characters": [
+                "Larys Strong",
+                "Clubfoot"
+            ],
+            "places": [],
+            "events": [
+                "Dance of the Dragons"
+            ],
+            "verbs": [
+                "vexed",
+                "unravel",
+                "lie",
+                "wove",
+                "vanishing",
+                "reappearing",
+                "surviving",
+                "said",
+                "did",
+                "sailed"
+            ],
+            "adjectives": [
+                "enigma",
+                "true",
+                "real"
+            ]
+        },
+        {
+            "paragraph_id": 40,
+            "paragraph": "We do know that he was sly, secretive, yet plausible and pleasant when need be. His words swayed the king and council in their course. When Queen Alicent demured, wondering aloud how Lord Corlys could possibly be won back after all that had been said that day, Lord Strong replied, \u201cThat task you may leave to me, Your Grace. His lordship will listen to me, I daresay.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Queen Alicent",
+                "Lord Corlys",
+                "Lord Strong"
+            ],
+            "places": [],
+            "events": [],
+            "verbs": [
+                "demured",
+                "wondering",
+                "listen"
+            ],
+            "adjectives": [
+                "sly",
+                "secretive",
+                "plausible",
+                "pleasant"
+            ]
+        },
+        {
+            "paragraph_id": 41,
+            "paragraph": "And so he did. For though none knew it at the time, the Clubfoot went directly to Sea Snake when the council was dismissed, and told him of the king\u2019s intent to grant him all he had requested and murder him later, when the war was done. And when the old man would have stormed out sword in hand to exact a bloody vengeance, Lord Larys soothed him with soft words and smiles. \u201cThere is a better way,\u201d he said, counseling patience. And thus did he spin his webs of deceit and betrayal, setting each against the other.",
+            "valid": 1.0,
+            "characters": [
+                "Clubfoot",
+                "Sea Snake",
+                "king",
+                "Lord Larys"
+            ],
+            "places": [],
+            "events": [
+                "council was dismissed"
+            ],
+            "verbs": [
+                "knew",
+                "went",
+                "requested",
+                "stormed out",
+                "soothed",
+                "spin"
+            ],
+            "adjectives": [
+                "none",
+                "old",
+                "soft",
+                "better"
+            ]
+        },
+        {
+            "paragraph_id": 42,
+            "paragraph": "Whilst plots and counterplots swirled around him, and enemies closed in from every side, Aegon II remained oblivious. The king was not a well man. The burns he\u2019d suffered at Rook\u2019s Rest had left scars that covered half his body. Mushroom says they had rendered him impotent as well. Nor could he walk. His leap from Sunfyre\u2019s back at Dragonstone had broken his right leg in two places, and shattered the bones in his left. The right had healed well, Grand Maester Orwyle records; not so the left. The muscles of that leg had atrophied, the knee stiffening, the flesh melting away until only a withered stick remained, so twisted that Orwyle thought His Grace might do better were it cut away entirely. The king would not hear of it, however. Instead he was carried hither and yon by litter. Only toward the end did he regain the strength to walk with the aid of a crutch, dragging his bad leg behind him.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon II",
+                "Mushroom",
+                "Grand Maester Orwyle"
+            ],
+            "places": [
+                "Rook's Rest",
+                "Dragonstone"
+            ],
+            "events": [
+                "plots and counterplots swirled around him",
+                "enemies closed in from every side",
+                "king was not a well man",
+                "burns he\u2019d suffered at Rook\u2019s Rest had left scars that covered half his body.",
+                "leap from Sunfyre\u2019s back at Dragonstone had broken his right leg in two places, and shattered the bones in his left.",
+                "right had healed well, Grand Maester Orwyle records; not so the left.",
+                "muscles of that leg had atrophied, the knee stiffening, the flesh melting away until only a withered stick remained, so twisted that Orwyle thought His Grace might do better were it cut away entirely.",
+                "king would not hear of it, however. Instead he was carried hither and yon by litter.",
+                "Only toward the end did he regain the strength to walk with the aid of a crutch, dragging his bad leg behind him."
+            ],
+            "verbs": [
+                "swirled",
+                "closed",
+                "rendered",
+                "healed",
+                "atrophied",
+                "stiffening",
+                "melting",
+                "thought",
+                "cut away entirely.",
+                "carried hither and yon by litter.",
+                "regain"
+            ],
+            "adjectives": [
+                "oblivious",
+                "impotent",
+                "shattered"
+            ]
+        },
+        {
+            "paragraph_id": 43,
+            "paragraph": "In constant pain during the last half year of his life, Aegon seemed to take pleasure only in contemplating his forthcoming marriage. Even the capers of his fools never made him laugh, we are told by Mushroom, the foremost of those fools\u2026though \u201cHis Grace did smile from time to time at my sallies, and liked to keep me by his side to lighten his melancholy and help him dress.\u201d Though no longer himself capable of sexual congress due to his burns, according to the dwarf, Aegon still felt carnal urges, and would often watch from behind a curtain as one of his favorites coupled with a serving girl or lady of the court. Most often Tom Tangletongue performed this task for him, we are told; at other times certain knights of the household took the place of dishonor, and thrice Mushroom himself was pressed into service. After these sessions, the fool says, the king would weep for shame and summon Septon Eustace to grant him absolution. (Eustace says nothing of this in his own account of Aegon\u2019s final days.)",
+            "valid": 1.0,
+            "characters": [
+                "Aegon",
+                "Mushroom",
+                "Tom Tangletongue",
+                "Septon Eustace"
+            ],
+            "places": [],
+            "events": [
+                "marriage",
+                "coupling with a serving girl or lady of the court"
+            ],
+            "verbs": [
+                "contemplating",
+                "laugh",
+                "smile",
+                "couple"
+            ],
+            "adjectives": [
+                "constant pain",
+                "foremost",
+                "sallies",
+                "carnal urges",
+                "dishonor",
+                "shame"
+            ]
+        },
+        {
+            "paragraph_id": 44,
+            "paragraph": "During this time King Aegon II also commanded that the Dragonpit be restored and rebuilt, commissioned two huge statues of his brothers Aemond and Daeron (he decreed they should be larger than the Titan of Braavos, and covered in gold leaf), and held a public burning of all the decrees and proclamations issued by the \u201cdayfly kings\u201d Trystan Truefyre and Gaemon Palehair.",
+            "valid": 1.0,
+            "characters": [
+                "King Aegon II",
+                "Aemond",
+                "Daeron",
+                "Trystan Truefyre",
+                "Gaemon Palehair"
+            ],
+            "places": [
+                "Dragonpit",
+                "Braavos"
+            ],
+            "events": [
+                "restored and rebuilt Dragonpit",
+                "public burning of decrees and proclamations"
+            ],
+            "verbs": [
+                "commanded",
+                "commissioned",
+                "decreed",
+                "held"
+            ],
+            "adjectives": [
+                "huge",
+                "larger",
+                "covered",
+                "gold"
+            ]
+        },
+        {
+            "paragraph_id": 45,
+            "paragraph": "Meanwhile, his enemies were on the march. Down the Neck came Cregan Stark, Lord of Winterfell, with a great host at his back (Septon Eustace speaks of \u201ctwenty thousand howling savages in shaggy pelts,\u201d though Munkun lowers that to eight thousand in his True Telling), even as the Maiden of the Vale sent off her own army from Gulltown: ten thousand men, under the command of Lord Leowyn Corbray and his brother Ser Corwyn, who bore the famous Valyrian blade called Lady Forlorn.",
+            "valid": 1.0,
+            "characters": [
+                "Cregan Stark",
+                "Septon Eustace",
+                "Munkun",
+                "Lord Leowyn Corbray",
+                "Ser Corwyn"
+            ],
+            "places": [
+                "Winterfell",
+                "The Neck",
+                "Gulltown"
+            ],
+            "events": [
+                "march"
+            ],
+            "verbs": [
+                "came",
+                "speaks",
+                "lowers",
+                "sent off",
+                "bore"
+            ],
+            "adjectives": [
+                "great",
+                "shaggy",
+                "famous"
+            ]
+        },
+        {
+            "paragraph_id": 46,
+            "paragraph": "The most immediate threat, however, was that posed by the men of the Trident. Near six thousand of them had gathered at Riverrun when Elmo Tully called his banners. Sadly, Lord Elmo himself had expired on the march after drinking some bad water, after only nine-and-forty days as Lord of Riverrun, but the lordship had passed to his eldest son, Ser Kermit Tully, a wild and headstrong youth eager to prove himself as a warrior. They were six days\u2019 march from King\u2019s Landing, moving down the kingsroad, when Lord Borros Baratheon led his stormlanders forth to meet them, his strength bolstered by levies from Stokeworth, Rosby, Hayford, and Duskendale, along with two thousand men and boys from the stews of Flea Bottom, hastily armed with spears and iron pot helms.",
+            "valid": 1.0,
+            "characters": [
+                "Elmo Tully",
+                "Kermit Tully",
+                "Lord Borros Baratheon"
+            ],
+            "places": [
+                "Riverrun",
+                "King's Landing",
+                "Stokeworth",
+                "Rosby",
+                "Hayford",
+                "Duskendale",
+                "Flea Bottom"
+            ],
+            "events": [
+                "expired on the march"
+            ],
+            "verbs": [
+                "gathered",
+                "passed",
+                "led",
+                "bolstered",
+                "armed"
+            ],
+            "adjectives": [
+                "immediate",
+                "headstrong",
+                "wild"
+            ]
+        },
+        {
+            "paragraph_id": 47,
+            "paragraph": "The two armies came together two days from the city, at a place where the kingsroad passed between a wood and a low hill. It had been raining heavily for days, and the grass was wet, the ground soft and muddy. Lord Borros was confident of victory, for his scouts had told him that the rivermen were led by boys and women. It was nigh unto dusk when he spied the enemy, yet he ordered an immediate attack\u2026 though the road ahead was a solid wall of shields, and the hill to its right bristled with archers. Lord Borros led the charge himself, forming his knights into a wedge and thundered down the road at the heart of the foe, where the silver trout of Riverrun floated on its blue and red banner beside the quartered arms of the dead queen. His foot advanced behind them, beneath King Aegon\u2019s golden dragon.",
+            "valid": 1.0,
+            "characters": [
+                "Lord Borros",
+                "rivermen",
+                "boys",
+                "women",
+                "King Aegon"
+            ],
+            "places": [
+                "city",
+                "wood",
+                "low hill"
+            ],
+            "events": [
+                "attack"
+            ],
+            "verbs": [
+                "come together",
+                "raining heavily",
+                "spied",
+                "ordered",
+                "thundered down the road"
+            ],
+            "adjectives": [
+                "two days",
+                "heavy rain",
+                "wet grass",
+                "soft ground",
+                "muddy ground"
+            ]
+        },
+        {
+            "paragraph_id": 48,
+            "paragraph": "The  Citadel  names  the  clash  that  followed  the  Battle  of  the Kingsroad. The men who fought it named it the Muddy Mess. By any name, the last battle of the Dance of the Dragons would prove to be a one-sided affair. The longbows on the hill shot the horses out from under Lord Borros\u2019s knights as they charged, bringing down so many that less than half his riders ever reached the shield wall. Those that did found their ranks disordered, their wedge broken, their horses slipping and struggling in the soft mud. Though the stormlanders wreaked great havoc with lance and sword and longaxe, the riverlords held firm, as new men stepped up to fill the place of those who fell. When Lord Baratheon\u2019s foot came crashing into the fray, the shield wall swayed and staggered back, and seemed as if it might break\u2026until the wood to the left of the road erupted with shouts and screams, and hundreds more rivermen burst from the trees, led by that mad boy Benjicot Blackwood, who would this day earn the name Bloody Ben, by which he would be known for the rest of his long life.",
+            "valid": 1.0,
+            "characters": [
+                "Lord Borros",
+                "Lord Baratheon",
+                "Benjicot Blackwood"
+            ],
+            "places": [
+                "Citadel",
+                "Kingsroad",
+                "hill"
+            ],
+            "events": [
+                "Battle of the Kingsroad",
+                "Dance of the Dragons"
+            ],
+            "verbs": [
+                "shot",
+                "charged",
+                "reached",
+                "held firm",
+                "came crashing",
+                "burst"
+            ],
+            "adjectives": [
+                "one-sided",
+                "disordered",
+                "slipping",
+                "struggling",
+                "soft",
+                "great"
+            ]
+        },
+        {
+            "paragraph_id": 49,
+            "paragraph": "Lord Borros himself was still ahorse in the middle of the carnage. When he saw the battle slipping away, his lordship bade his squire sound his warhorn, signaling his reserve to advance. Upon hearing the horn, however, the men of Rosby, Stokeworth, and Hayford let fall the king\u2019s golden dragons and remained unmoving, the rabble from King\u2019s Landing scattered like geese, and the knights of Duskendale went over to the foe, attacking the stormlanders in the rear. Battle turned to rout in half a heartbeat, as King Aegon\u2019s last army shattered.",
+            "valid": 1.0,
+            "characters": [
+                "Lord Borros",
+                "his squire"
+            ],
+            "places": [
+                "Rosby",
+                "Stokeworth",
+                "Hayford",
+                "King's Landing",
+                "Duskendale"
+            ],
+            "events": [
+                "carnage",
+                "battle slipping away",
+                "signaling his reserve to advance",
+                "let fall the king\u2019s golden dragons",
+                "remained unmoving",
+                "scattered like geese",
+                "went over to the foe"
+            ],
+            "verbs": [
+                "ahorse",
+                "bade",
+                "sound",
+                "let fall",
+                "remained unmoving",
+                "scattered",
+                "attacking"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 50,
+            "paragraph": "Borros Baratheon perished fighting. Unhorsed when his destrier was felled by arrows from Black Aly and her bowmen, he battled on afoot, cutting down countless men-at-arms, a dozen knights, and the Lords Mallister and Darry. By the time Kermit Tully came upon him, Lord Borros was dead upon his feet, bareheaded (he had ripped off his dented helm), bleeding from a score of wounds, scarce able to stand. \u201cYield, ser,\u201d called the Lord of Riverrun to the Lord of Storm\u2019s End, \u201cthe day is ours.\u201d Lord Baratheon answered with a curse, saying, \u201cI\u2019d sooner dance in hell than wear your chains.\u201d Then he charged\u2026straight into the spiked iron ball at the end of Lord Kermit\u2019s morningstar, which took him full in the face in a grisly spray of blood and bone and brain. The Lord of Storm\u2019s End died in the mud along the kingsroad, his sword still in his hand.*",
+            "valid": 1.0,
+            "characters": [
+                "Borros Baratheon",
+                "Black Aly",
+                "Lords Mallister",
+                "Darry",
+                "Kermit Tully"
+            ],
+            "places": [
+                "Riverrun",
+                "Storm's End"
+            ],
+            "events": [
+                "perished fighting"
+            ],
+            "verbs": [
+                "felled",
+                "battled",
+                "yielded",
+                "cursed",
+                "charged",
+                "died"
+            ],
+            "adjectives": [
+                "unhorsed",
+                "afoot",
+                "bareheaded",
+                "score of wounds"
+            ]
+        },
+        {
+            "paragraph_id": 51,
+            "paragraph": "When the ravens brought word of the battle back to the Red Keep, the green council hurriedly convened. All of the Sea Snake\u2019s warnings had proved true. Casterly Rock, Highgarden, and Oldtown had been slow to reply to the king\u2019s demand for more armies. When they did, they offered excuses and prevarications in the place of promises. The Lannisters were embroiled in their war against the Red Kraken, the Hightowers had lost too many men and had no capable commanders, little Lord Tyrell\u2019s mother wrote to say that she had reason to doubt the loyalty of her son\u2019s bannermen, and \u201cbeing a mere woman, am not myself fit to lead a host to war.\u201d Ser Tyland Lannister, Ser Marston Waters, and Ser Julian Wormwood had been dispatched across the narrow sea to seek after sellswords in Pentos, Tyrosh, and Myr, but none had yet returned.",
+            "valid": 1.0,
+            "characters": [
+                "Ravens",
+                "Sea Snake",
+                "King",
+                "Lannisters",
+                "Red Kraken",
+                "Hightowers",
+                "Lord Tyrell's mother",
+                "Ser Tyland Lannister",
+                "Ser Marston Waters",
+                "Ser Julian Wormwood"
+            ],
+            "places": [
+                "Red Keep",
+                "Casterly Rock",
+                "Highgarden",
+                "Oldtown",
+                "Pentos",
+                "Tyrosh",
+                "Myr"
+            ],
+            "events": [
+                "convened battle back to the Red Keep"
+            ],
+            "verbs": [
+                "brought word of the battle back to the Red Keep, hurriedly convened, offered excuses and prevarications in the place of promises, had been dispatched across the narrow sea to seek after sellswords"
+            ],
+            "adjectives": [
+                "green council"
+            ]
+        },
+        {
+            "paragraph_id": 52,
+            "paragraph": "King Aegon II would soon stand naked before his enemies, all of the king\u2019s men knew. Bloody Ben Blackwood, Kermit Tully, Sabitha Frey, and their brothers-in-victory were preparing to resume their advance upon the city, and only a few days behind them came Lord Cregan Stark and his northmen. The Braavosi fleet carrying the Arryn host had departed Gulltown and was sailing toward the Gullet, where only young Alyn Velaryon stood in its way\u2026and the loyalty of Driftmark could not be relied upon.",
+            "valid": 1.0,
+            "characters": [
+                "King Aegon II",
+                "Bloody Ben Blackwood",
+                "Kermit Tully",
+                "Sabitha Frey",
+                "Lord Cregan Stark",
+                "Alyn Velaryon"
+            ],
+            "places": [
+                "Gulltown",
+                "The Gullet",
+                "Driftmark"
+            ],
+            "events": [
+                "stand naked before his enemies",
+                "resume their advance upon the city",
+                "departed Gulltown and was sailing toward the Gullet"
+            ],
+            "verbs": [
+                "knew",
+                "preparing",
+                "had departed"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 53,
+            "paragraph": "\u201cYour Grace,\u201d the Sea Snake said, when the rump of the once proud green council had assembled, \u201cyou must surrender. The city cannot endure another sack. Save your people and save yourself. If you abdicate in favor of Prince Aegon, he will allow you to take the black and live out your life with honor on the Wall.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Your Grace",
+                "Sea Snake",
+                "Prince Aegon"
+            ],
+            "places": [
+                "city"
+            ],
+            "events": [
+                "surrender",
+                "sack",
+                "abdicate"
+            ],
+            "verbs": [
+                "assemble",
+                "endure",
+                "allow",
+                "take",
+                "live"
+            ],
+            "adjectives": [
+                "proud",
+                "green",
+                "honor"
+            ]
+        },
+        {
+            "paragraph_id": 54,
+            "paragraph": "\u201cWill he?\u201d King Aegon said. Munkun tells us he sounded hopeful. His mother entertained no such hope. \u201cYou fed his mother to your dragon,\u201d she reminded her son. \u201cThe boy saw it all.\u201d The king turned to her desperately. \u201cWhat would you have me do?\u201d \u201cYou have hostages,\u201d the Queen Dowager replied. \u201cCut off one of the boy\u2019s ears and send it to Lord Tully. Warn them he will lose another part for every mile they advance.\u201d \u201cYes,\u201d Aegon II said. \u201cGood. It shall be done.\u201d He summoned Ser Alfred Broome, who had served him so well on Dragonstone. \u201cGo and see to it, ser.\u201d As the knight took his leave, the king turned to Corlys Velaryon. \u201cTell your bastard to fight bravely, my lord. If he fails me, if any of these Braavosi pass the Gullet, your precious Lady Baela shall lose some parts as well.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "King Aegon",
+                "Munkun",
+                "Queen Dowager",
+                "Lord Tully",
+                "Ser Alfred Broome",
+                "Corlys Velaryon",
+                "Lady Baela"
+            ],
+            "places": [
+                "Dragonstone",
+                "Gullet"
+            ],
+            "events": [],
+            "verbs": [
+                "tells",
+                "reminded",
+                "summoned",
+                "take",
+                "see to it",
+                "fight bravely"
+            ],
+            "adjectives": [
+                "hopeful"
+            ]
+        },
+        {
+            "paragraph_id": 55,
+            "paragraph": "The Sea Snake did not plead, or curse, or threaten. He nodded stiffly, rose, and took his leave. Mushroom says he exchanged a look with the Clubfoot as he went, but Mushroom was not present, and it seems most unlikely that a man as seasoned as Corlys Velaryon would act so clumsily at such a moment. For Aegon\u2019s day was done, though he had yet to grasp it. The turncloaks in his midst had put their plans in motion the moment they learned of Lord Baratheon\u2019s defeat upon the kingsroad. As Ser Alfred Broome crossed the drawbridge to Maegor\u2019s Holdfast, where Prince Aegon was being held, he found Ser Perkin the Flea and six of his gutter knights barring his way. \u201cMove aside, in the king\u2019s name,\u201d Broome demanded.",
+            "valid": 1.0,
+            "characters": [
+                "Sea Snake",
+                "Mushroom",
+                "Clubfoot",
+                "Corlys Velaryon",
+                "Aegon",
+                "Lord Baratheon",
+                "Ser Alfred Broome",
+                "Ser Perkin the Flea"
+            ],
+            "places": [
+                "Maegor's Holdfast"
+            ],
+            "events": [
+                "defeat upon the kingsroad"
+            ],
+            "verbs": [
+                "plead",
+                "curse",
+                "threaten",
+                "nodded",
+                "rose",
+                "took his leave",
+                "exchanged a look",
+                "put their plans in motion",
+                "crossed the drawbridge"
+            ],
+            "adjectives": [
+                "stiffly",
+                "clumsily"
+            ]
+        },
+        {
+            "paragraph_id": 56,
+            "paragraph": "\u201cWe have a new king now,\u201d answered Ser Perkin. He put a hand upon Ser Alfred\u2019s shoulder\u2026then shoved him hard, sending him staggering off the drawbridge onto the iron spikes below, where he writhed and twisted for two days as he died.",
+            "valid": 1.0,
+            "characters": [
+                "Ser Perkin",
+                "Ser Alfred"
+            ],
+            "places": [
+                "drawbridge"
+            ],
+            "events": [
+                "shoved him hard",
+                "writhed and twisted for two days as he died"
+            ],
+            "verbs": [
+                "have",
+                "answered",
+                "put",
+                "shoved",
+                "sent",
+                "writhing"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 57,
+            "paragraph": "In that same hour, Lady Baela Targaryen was being spirited away to safety by agents of Lord Larys the Clubfoot. Tom Tangletongue was surprised in the castle yards as he was leaving the stables, and beheaded forthwith. \u201cHe died as he had lived, stammering,\u201d says Mushroom. His father Tom Tanglebeard was absent from the castle, but they found him in a tavern on Eel Alley. When he protested that he was \u201cjust a simple fisherman, come to have an ale,\u201d his captors drowned him in a cask of same.",
+            "valid": 1.0,
+            "characters": [
+                "Lady Baela Targaryen",
+                "Lord Larys the Clubfoot",
+                "Tom Tangletongue",
+                "Tom Tanglebeard"
+            ],
+            "places": [
+                "castle yards",
+                "Eel Alley",
+                "tavern"
+            ],
+            "events": [
+                "spirited away to safety",
+                "beheaded forthwith",
+                "drowned in a cask of ale"
+            ],
+            "verbs": [
+                "stammering",
+                "protesting",
+                "drowned"
+            ],
+            "adjectives": [
+                "simple"
+            ]
+        },
+        {
+            "paragraph_id": 58,
+            "paragraph": "All this was done so neatly, swiftly, and quietly that the people of King\u2019s Landing had little or no inkling of what was happening behind the walls of the Red Keep. Even within the castle itself, no alarum went up. Those who had been marked down for death were killed, whilst the rest of the court went about their business, undisturbed and unawares. Septon Eustace tells us that twenty-four men were killed, whilst Munkun\u2019s True Telling says twenty-one. Mushroom claims to have witnessed the murder of the king\u2019s food taster, a grossly fat man named Ummet, and asserts that he was forced to hide in a barrel of flour to escape the same fate, emerging the next night \u201cfloured from head to heels, so white the first serving girl to see me took me for Mushroom\u2019s ghost.\u201d (This smells of story. Why would the plotters wish to kill a fool?)",
+            "valid": 1.0,
+            "characters": [
+                "King's Landing",
+                "Red Keep",
+                "Septon Eustace",
+                "Munkun's True Telling",
+                "Mushroom",
+                "Ummet"
+            ],
+            "places": [
+                "King's Landing",
+                "Red Keep"
+            ],
+            "events": [
+                "murder of the king\u2019s food taster"
+            ],
+            "verbs": [
+                "done",
+                "killed",
+                "went",
+                "tells",
+                "says",
+                "asserts",
+                "forced",
+                "hide",
+                "emerging"
+            ],
+            "adjectives": [
+                "neatly",
+                "swiftly",
+                "quietly",
+                "grossly fat"
+            ]
+        },
+        {
+            "paragraph_id": 59,
+            "paragraph": "Queen Alicent was arrested on the serpentine steps as she made her way back to her chambers. Her captors wore the seahorse of House Velaryon upon their doublets, and though they slew the two men guarding her, they did no harm to the Dowager Queen herself, nor to her ladies. The Queen in Chains was chained again and taken to the dungeons, there to await the pleasure of the new king. By then the last of her sons was already dead.",
+            "valid": 1.0,
+            "characters": [
+                "Queen Alicent",
+                "House Velaryon"
+            ],
+            "places": [
+                "serpentine steps",
+                "chambers",
+                "dungeons"
+            ],
+            "events": [
+                "Queen in Chains was chained again and taken to the dungeons"
+            ],
+            "verbs": [
+                "arrested",
+                "made",
+                "wore",
+                "slew",
+                "taken"
+            ],
+            "adjectives": [
+                "pleasure"
+            ]
+        },
+        {
+            "paragraph_id": 60,
+            "paragraph": "After the council meeting, King Aegon II was carried down to the yard by two strong squires. There he found his litter waiting, as was customary; his withered leg made steps too difficult for him, even with a crutch. Ser Gyles Belgrave, the Kingsguard knight commanding his escort, testified afterward that His Grace seemed unusually fatigued as he was helped into the litter, his face \u201cgrey and ashen, sagging,\u201d yet instead of asking to be carried back to his chambers, he told Ser Gyles to take him to the castle sept. \u201cPerhaps he sensed his end was near,\u201d Septon Eustace wrote, \u201cand wished to pray for forgiveness for his sins.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "King Aegon II",
+                "Ser Gyles Belgrave",
+                "Septon Eustace"
+            ],
+            "places": [
+                "yard",
+                "litter",
+                "castle sept"
+            ],
+            "events": [
+                "council meeting"
+            ],
+            "verbs": [
+                "carried",
+                "waiting",
+                "helped",
+                "sensed"
+            ],
+            "adjectives": [
+                "strong",
+                "customary",
+                "withered",
+                "unusually fatigued",
+                "grey",
+                "ashen",
+                "sagging"
+            ]
+        },
+        {
+            "paragraph_id": 61,
+            "paragraph": "A cold wind was blowing. As the litter set off, the king closed the curtains against the chill. Inside, as always, was a flagon of sweet Arbor red, Aegon\u2019s favorite wine. The king availed himself of a small cup as the litter crossed the yard.",
+            "valid": 1.0,
+            "characters": [
+                "king",
+                "Aegon"
+            ],
+            "places": [
+                "yard"
+            ],
+            "events": [
+                "set off"
+            ],
+            "verbs": [
+                "blowing",
+                "closed",
+                "availed himself of"
+            ],
+            "adjectives": [
+                "cold",
+                "sweet",
+                "small"
+            ]
+        },
+        {
+            "paragraph_id": 62,
+            "paragraph": "Ser Gyles and the litter bearers had no notion aught was amiss until they reached the sept, and the curtains did not open. \u201cWe are here, Your Grace,\u201d the knight said. No answer came, but only silence. When a second query and a third produced the same, Ser Gyles Belgrave threw back the curtains, and found the king dead upon his cushions. \u201cThere was blood upon his lips,\u201d the knight said. \u201cElsewise he might have been sleeping.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Ser Gyles",
+                "litter bearers",
+                "king"
+            ],
+            "places": [
+                "sept"
+            ],
+            "events": [
+                "reaching the sept",
+                "throwing back the curtains",
+                "finding the king dead"
+            ],
+            "verbs": [
+                "had no notion aught was amiss",
+                "said",
+                "produced"
+            ],
+            "adjectives": [
+                "amiss",
+                "silent"
+            ]
+        },
+        {
+            "paragraph_id": 63,
+            "paragraph": "Maesters and common men alike still debate which poison was used, and who might have put it in the king\u2019s wine. (Some argue that only Ser Gyles himself could have done so, but it would be unthinkable for a knight of the Kingsguard to take the life of the king he had sworn to protect. Ummet, the king\u2019s food taster whose murder Mushroom claims to have seen, seems a more likely candidate.) Yet whilst the hand that poisoned the Arbor red will never be known, we can have no doubt that it was done at the behest of Larys Strong.",
+            "valid": 1.0,
+            "characters": [
+                "Maesters",
+                "Ser Gyles",
+                "Ummet",
+                "Mushroom",
+                "Larys Strong"
+            ],
+            "places": [
+                "The Arbor"
+            ],
+            "events": [
+                "Murder of Ummet"
+            ],
+            "verbs": [
+                "debate",
+                "argue",
+                "put",
+                "sworn to protect",
+                "poisoned",
+                "done"
+            ],
+            "adjectives": [
+                "common",
+                "unthinkable"
+            ]
+        },
+        {
+            "paragraph_id": 64,
+            "paragraph": "Thus perished Aegon of House Targaryen, the Second of His Name, firstborn son of King Viserys I Targaryen and Queen Alicent of House Hightower, whose reign proved as brief as it was bitter. He had lived four-and-twenty years and reigned for two.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon",
+                "Viserys I Targaryen",
+                "Queen Alicent"
+            ],
+            "places": [],
+            "events": [
+                "perished"
+            ],
+            "verbs": [
+                "lived",
+                "reigned"
+            ],
+            "adjectives": [
+                "brief",
+                "bitter"
+            ]
+        },
+        {
+            "paragraph_id": 65,
+            "paragraph": "When the vanguard of Lord Tully\u2019s host appeared before the walls of King\u2019s Landing two days later, Corlys Velaryon rode out to greet them with Prince Aegon somber at his side. \u201cThe king is dead,\u201d the Sea Snake announced gravely, \u201clong live the king.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Lord Tully",
+                "Corlys Velaryon",
+                "Prince Aegon"
+            ],
+            "places": [
+                "King's Landing"
+            ],
+            "events": [
+                "king is dead"
+            ],
+            "verbs": [
+                "appeared",
+                "rode out",
+                "announced"
+            ],
+            "adjectives": [
+                "vanguard",
+                "somber",
+                "gravely"
+            ]
+        },
+        {
+            "paragraph_id": 66,
+            "paragraph": "And across Blackwater Bay, in the Gullet, Lord Leowyn Corbray stood at the prow of a Braavosi cog and watched a line of Velaryon warships haul down the golden dragon of the second Aegon and raise in its place the red dragon of the first, the banner that all the Targaryen kings had flown until the Dance began. The war was over (though the peace that followed would soon prove to be far from peaceful).",
+            "valid": 1.0,
+            "characters": [
+                "Lord Leowyn Corbray"
+            ],
+            "places": [
+                "Blackwater Bay",
+                "Gullet",
+                "Braavosi cog"
+            ],
+            "events": [
+                "haul down the golden dragon of the second Aegon and raise in its place the red dragon of the first"
+            ],
+            "verbs": [
+                "stood",
+                "haul down",
+                "raise"
+            ],
+            "adjectives": [
+                "Velaryon",
+                "golden",
+                "red"
+            ]
+        },
+        {
+            "paragraph_id": 67,
+            "paragraph": "On the seventh day of the seventh moon of the 131st year after Aegon\u2019s Conquest, a date deemed sacred to the gods, the High Septon of Oldtown pronounced the marriage vows as Prince Aegon the Younger, eldest son of Queen Rhaenrya by her uncle Prince Daemon, wed Princess Jaehaera, the daughter of Queen Helaena by her brother King Aegon II, thereby uniting the two rival branches of House Targaryen and ending two years of treachery and carnage.",
+            "valid": 1.0,
+            "characters": [
+                "Prince Aegon the Younger",
+                "Queen Rhaenrya",
+                "Prince Daemon",
+                "Princess Jaehaera",
+                "Queen Helaena",
+                "King Aegon II"
+            ],
+            "places": [
+                "Oldtown"
+            ],
+            "events": [
+                "marriage vows"
+            ],
+            "verbs": [
+                "pronounced",
+                "wed",
+                "uniting",
+                "ending"
+            ],
+            "adjectives": [
+                "sacred",
+                "rival"
+            ]
+        },
+        {
+            "paragraph_id": 68,
+            "paragraph": "The Dance of the Dragons was done, and the melancholy reign of King Aegon III Targaryen had begun.As the gods would have it, seven days later at Storm\u2019s End his lady wife gave birth to the son and heir that Lord Borros had so long desired. His lordship had left instructions that the babe was to be named Aegon if a boy, in honor of the king. But upon learning of her lord\u2019s death in battle, Lady Baratheon named the child Olyver, after her own father.",
+            "valid": 1.0,
+            "characters": [
+                "King Aegon III Targaryen",
+                "Lord Borros",
+                "Lady Baratheon",
+                "Olyver"
+            ],
+            "places": [
+                "Storm's End"
+            ],
+            "events": [
+                "The Dance of the Dragons"
+            ],
+            "verbs": [
+                "done",
+                "gave birth",
+                "left",
+                "named"
+            ],
+            "adjectives": [
+                "melancholy"
+            ]
+        }
+    ]
+}

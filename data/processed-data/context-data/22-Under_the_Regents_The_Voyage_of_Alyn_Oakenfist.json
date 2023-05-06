@@ -1,0 +1,1617 @@
+{
+    "22-Under_the_Regents_The_Voyage_of_Alyn_Oakenfist": [
+        {
+            "paragraph_id": 0,
+            "paragraph": "Let us leave King\u2019s Landing for a time, and turn back the calendar to speak of Lady Baela\u2019s lord husband Alyn Oakenfist on his epic voyage to the Sunset Sea. The trials and triumphs of the Velaryon fleet as it made its way around \u201cthe arse of Westeros\u201d (as Lord Alyn was wont to call it) could fill a mighty tome all by themselves. For those seeking the details of the voyage, Maester Bendamure\u2019s Six Times to Sea: Being an Account of the Great Voyages of Alyn Oakenfist remains the most complete and authoritative source, though the vulgar accounts of Lord Alyn\u2019s life called Hard as Oak and Bastard Born are colorful and engrossing in their ways, albeit unreliable. The former was written by Ser Russell Stillman, who squired for his lordship as a youth and was later knighted by him before losing a leg during Oakenfist\u2019s fifth voyage, the latter by a woman known only as Rue, who may or may not have been a septa, and may or may not have become one of his lordship\u2019s paramours. We shall not echo their work here, save in the broadest strokes.",
+            "valid": 1.0,
+            "characters": [
+                "Lady Baela",
+                "Alyn Oakenfist",
+                "Maester Bendamure",
+                "Ser Russell Stillman",
+                "Rue"
+            ],
+            "places": [
+                "King's Landing",
+                "Sunset Sea"
+            ],
+            "events": [
+                "epic voyage to the Sunset Sea"
+            ],
+            "verbs": [
+                "leave",
+                "fill",
+                "remains",
+                "written",
+                "squired",
+                "lost",
+                "echo"
+            ],
+            "adjectives": [
+                "mighty",
+                "complete",
+                "authoritative",
+                "vulgar",
+                "colorful",
+                "engrossing",
+                "unreliable"
+            ]
+        },
+        {
+            "paragraph_id": 1,
+            "paragraph": "Oakenfist displayed considerably more caution on his return to the Stepstones than he had on his previous visit. Wary of the ever-shifting alliances and studied treacheries of the Free Cities, he sent scouts ahead in the guise of fishing boats and merchantmen to discover what awaited him. They reported that the fighting on the islands had largely died away, with a resurgent Racallio Ryndoon holding Bloodstone and all the isles to the south, whilst Pentoshi sellswords in the hire of the Archon of Tyrosh controlled those rocks to the north and east. Many of the channels between the islands were closed by booms, or blocked by the hulks of ships sunk during Lord Alyn\u2019s attack. Such waterways as remained open were controlled by Ryndoon and his rogues. Lord Alyn was thus confronted with a simple choice; he must needs fight his way past \u201cQueen Racallio\u201d (as the Archon had named him) or treat with him.",
+            "valid": 1.0,
+            "characters": [
+                "Oakenfist",
+                "Racallio Ryndoon",
+                "Archon of Tyrosh",
+                "Lord Alyn"
+            ],
+            "places": [
+                "Stepstones",
+                "Free Cities",
+                "Bloodstone",
+                "Tyrosh"
+            ],
+            "events": [
+                "Lord Alyn's attack"
+            ],
+            "verbs": [
+                "displayed",
+                "sent",
+                "reported",
+                "died away",
+                "controlled",
+                "confronted",
+                "fight",
+                "treat"
+            ],
+            "adjectives": [
+                "caution",
+                "wary",
+                "ever-shifting",
+                "studied treacheries"
+            ]
+        },
+        {
+            "paragraph_id": 2,
+            "paragraph": "Little has been written in the Common Tongue about this strange and extraordinary adventurer, Racallio Ryndoon, but in the Free Cities his life has been the subject of two scholarly studies and uncounted numbers of songs, poems, and vulgar romances. In his native city, Tyrosh, his name remains anathema to men and women of good blood to this very day, whilst being revered by thieves, pirates, whores, drunkards, and their ilk.",
+            "valid": 1.0,
+            "characters": [
+                "Racallio Ryndoon"
+            ],
+            "places": [
+                "Common Tongue",
+                "Free Cities",
+                "Tyrosh"
+            ],
+            "events": [],
+            "verbs": [
+                "written",
+                "revered"
+            ],
+            "adjectives": [
+                "strange",
+                "extraordinary",
+                "good",
+                "anathema"
+            ]
+        },
+        {
+            "paragraph_id": 3,
+            "paragraph": "Surprisingly little is known of his youth, and much of what we believe we know is false or contradictory. He was six-and-a-half feet tall, supposedly, with one shoulder higher than another, giving him a stooped posture and a rolling gait. He spoke a dozen dialects of Valyrian, suggesting that he was highborn, but he was infamously foul- mouthed too, suggesting that he came from the gutters. In the fashion of many Tyroshi, he was wont to dye his hair and beard. Purple was his favorite color (hinting at the possibility of a tie to Braavos), and most accounts of him make mention of long curling purple hair, oft streaked with orange. He liked sweet scents and would bathe in lavender or rosewater.",
+            "valid": 1.0,
+            "characters": [
+                "He"
+            ],
+            "places": [
+                "Valyrian",
+                "Tyroshi",
+                "Braavos"
+            ],
+            "events": [],
+            "verbs": [
+                "was",
+                "spoke",
+                "dye",
+                "bathe"
+            ],
+            "adjectives": [
+                "little",
+                "tall",
+                "stooped",
+                "foul-mouthed",
+                "highborn",
+                "long",
+                "curling",
+                "purple",
+                "orange",
+                "sweet"
+            ]
+        },
+        {
+            "paragraph_id": 4,
+            "paragraph": "That he was a man of enormous ambition and enormous appetites seems clear. He was a glutton and a drunkard when at leisure, a demon when in battle. He could wield a sword with either hand, and sometimes fought with two at once. He honored the gods: all gods, everywhere. When battle threatened, he would throw the bones to choose which god to placate with a sacrifice. Though Tyrosh was a slave city, he hated slavery, suggesting that perhaps he himself had come from bondage. When wealthy (he gained and lost several fortures) he would buy any slave girl who caught his eye, kiss her, and set her free. He was open-handed with his men, claiming a share of plunder no greater than the least of them. In Tyrosh, he was known to toss gold coins to beggars. If a man admired something of his, be it a pair of boots, an emerald ring, or a wife, Racallio would press it on him as a gift.",
+            "valid": 1.0,
+            "characters": [
+                "Racallio"
+            ],
+            "places": [
+                "Tyrosh"
+            ],
+            "events": [],
+            "verbs": [
+                "wield",
+                "fought",
+                "honored",
+                "throw",
+                "gained",
+                "lost",
+                "buy",
+                "kiss",
+                "set free",
+                "toss"
+            ],
+            "adjectives": [
+                "enormous",
+                "glutton",
+                "drunkard",
+                "demonic",
+                "open-handed"
+            ]
+        },
+        {
+            "paragraph_id": 5,
+            "paragraph": "He had a dozen wives and never beat them, but would sometimes command them to beat him. He loved kittens and hated cats. He loved pregnant women, but loathed children. From time to time he would dress in women\u2019s clothes and play the whore, though his height and crooked back and purple beard made him more grotesque than female to the eye. Sometimes he would burst out laughing in the thick of battle. Sometimes he would sing bawdy songs instead.",
+            "valid": 1.0,
+            "characters": [
+                "He"
+            ],
+            "places": [],
+            "events": [
+                "beat them",
+                "command them to beat him",
+                "dress in women's clothes and play the whore",
+                "burst out laughing in the thick of battle",
+                "sing bawdy songs"
+            ],
+            "verbs": [
+                "had",
+                "beat",
+                "command",
+                "love",
+                "hate",
+                "loathe",
+                "dress",
+                "play",
+                "burst",
+                "laughing",
+                "sing"
+            ],
+            "adjectives": [
+                "dozen",
+                "crooked",
+                "purple"
+            ]
+        },
+        {
+            "paragraph_id": 6,
+            "paragraph": "Racallio Ryndoon was mad. Yet his men loved him, fought for him, died for him. And for a few short years, they made him a king. In 133 AC, in the Stepstones, \u201cQueen\u201d Racallio was at the height of his power. Alyn Velaryon could perhaps have brought him down, but it would have cost him half his strength, he feared, and he would have need of every man if he were to have any hope of defeating the Red Kraken. He therefore chose talk instead of battle. Detaching his Lady Baela from the fleet, he sailed her into Bloodstone beneath a parley flag, to try to arrange free passage for his ships through Ryndoon\u2019s waters.",
+            "valid": 1.0,
+            "characters": [
+                "Racallio Ryndoon",
+                "Alyn Velaryon",
+                "Lady Baela"
+            ],
+            "places": [
+                "Stepstones",
+                "Bloodstone"
+            ],
+            "events": [
+                "try to arrange free passage for his ships through Ryndoon's waters"
+            ],
+            "verbs": [
+                "mad",
+                "loved",
+                "fought",
+                "died",
+                "made",
+                "could have brought him down",
+                "chose talk instead of battle",
+                "sailed"
+            ],
+            "adjectives": [
+                "short"
+            ]
+        },
+        {
+            "paragraph_id": 7,
+            "paragraph": "Ultimately he succeeded, though Racallio kept him for more than a fortnight in his sprawling wooden fortress on Bloodstone. Whether Lord Alyn was a captive or a guest was never quite clear, even to his lordship himself, for his host was as changeable as the sea. One day he would hail Oakenfist as a friend and brother-in-arms, and urge him to join him in an attack on Tyrosh. The next he would throw the bones to see if he should put his guest to death. He insisted that Lord Alyn wrestle with him in a mud pit behind his fort, whilst hundreds of jeering pirates looked on. When he beheaded one of his own men accused of spying for the Tyroshi, Racallio presented Lord Alyn with the head as a token of their fellowship, but the very next day he accused his lordship of being in the Archon\u2019s hire himself. To prove his innocence, Lord Alyn was forced to kill three Tyroshi prisoners. When he did, the \u201cQueen\u201d was so delighted with him that he sent two of his wives to Oakenfist\u2019s bedchamber that night. \u201cGive them sons,\u201d Racallio commanded. \u201cI want sons as brave and strong as you.\u201d Our sources are at odds as to whether or not Lord Alyn did as he was bid.",
+            "valid": 1.0,
+            "characters": [
+                "Racallio",
+                "Lord Alyn",
+                "Oakenfist",
+                "Tyrosh",
+                "Archon"
+            ],
+            "places": [
+                "Bloodstone",
+                "Tyrosh"
+            ],
+            "events": [
+                "wrestle with him in a mud pit behind his fort",
+                "beheaded one of his own men accused of spying for the Tyroshi",
+                "kill three Tyroshi prisoners"
+            ],
+            "verbs": [
+                "succeeded",
+                "hail",
+                "throw",
+                "presented",
+                "urge",
+                "insisted",
+                "forced to kill",
+                "send"
+            ],
+            "adjectives": [
+                "changeable",
+                "sprawling wooden fortress"
+            ]
+        },
+        {
+            "paragraph_id": 8,
+            "paragraph": "In the end Ryndoon allowed that the Velaryon fleet might pass, for a price. He wanted three ships, an alliance writ on sheepskin and signed in blood, and a kiss. Oakenfist gave him the three least seaworthy ships in his fleet, an alliance writ on parchment and signed in maester\u2019s ink, and the promise of a kiss from Lady Baela, should the \u201cQueen\u201d visit them on Driftmark. That proved sufficient. The fleet sailed through the Stepstones.",
+            "valid": 1.0,
+            "characters": [
+                "Ryndoon",
+                "Oakenfist",
+                "Lady Baela"
+            ],
+            "places": [
+                "Driftmark",
+                "Stepstones"
+            ],
+            "events": [
+                "passing of the Velaryon fleet"
+            ],
+            "verbs": [
+                "allowed",
+                "wanted",
+                "gave",
+                "sailed"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 9,
+            "paragraph": "More trials awaited them, however. The next was Dorne. The Dornishmen were understandably alarmed with the sudden appearance of the large Velaryon fleet in the waters off Sunspear. Lacking any strength at sea themselves, however, they chose to regard Lord Alyn\u2019s coming as a visit rather than an attack. Aliandra Martell, Princess of Dorne, came out to meet with him, accompanied by a dozen of her current favorites and suitors. The \u201cnew Nymeria\u201d had just celebrated her eighteenth nameday, and was reportedly much taken with the young, handsome, dashing \u201cHero of the Stepstones,\u201d the bold admiral who had humbled the Braavosi. Lord Alyn required fresh water and provisions for his ships, whilst Princess Aliandra required services of a more intimate nature. Bastard Born would have us believe that he provided them, Hard as Oak that he did not. We do know that the attentions the flirtatious Dornish princess lavished upon him much displeased her own lords, and angered her younger siblings, Qyle and Coryanne. Nonetheless, Lord Oakenfist got fresh casks of water, enough food to see them through to Oldtown and the Arbor, and charts showing the deadly whirlpools that lurked along the southern coast of Dorne.",
+            "valid": 1.0,
+            "characters": [
+                "Lord Alyn",
+                "Aliandra Martell",
+                "Princess of Dorne",
+                "Nymeria",
+                "Hero of the Stepstones",
+                "Bastard Born",
+                "Hard as Oak",
+                "Qyle",
+                "Coryanne",
+                "Lord Oakenfist"
+            ],
+            "places": [
+                "Dorne",
+                "Sunspear",
+                "Oldtown",
+                "The Arbor"
+            ],
+            "events": [
+                "Trials",
+                "Appearance of Velaryon fleet in waters off Sunspear"
+            ],
+            "verbs": [
+                "awaited",
+                "regard",
+                "came out to meet with him",
+                "lavished upon him"
+            ],
+            "adjectives": [
+                "sudden",
+                "large",
+                "understandably alarmed",
+                "flirtatious"
+            ]
+        },
+        {
+            "paragraph_id": 10,
+            "paragraph": "Even so, it was in Dornish waters that Lord Velaryon suffered his first losses. A sudden storm blew up as the fleet was making its way past the drylands west of Salt Shore, scattering the ships and sinking two. Farther west, near the mouth of the Brimstone River, a damaged galley put in to take aboard fresh water and make certain repairs, and was attacked under the cover of darkness by bandits, who slaughtered her crew and looted her supplies.",
+            "valid": 1.0,
+            "characters": [
+                "Lord Velaryon"
+            ],
+            "places": [
+                "Dornish waters",
+                "Salt Shore",
+                "Brimstone River"
+            ],
+            "events": [
+                "sudden storm",
+                "attacked under the cover of darkness by bandits"
+            ],
+            "verbs": [
+                "suffered",
+                "scattering",
+                "sinking",
+                "put in",
+                "slaughtered",
+                "looted"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 11,
+            "paragraph": "Those losses were more than made good when Lord Oakenfist reached Oldtown, however. The great beacon atop the Hightower guided Lady Baela and the fleet up Whispering Sound to the harbor, where Lyonel Hightower himself came forth to meet them and welcome them to his city. The courtesy with which Lord Alyn treated Lady Sam warmed Lord Lyonel to him immediately, and the two youths struck up a fast friendship that did much to put all the old enmities between the blacks and greens to rest. Oldtown would provide twenty warships for the fleet, Hightower promised, and his good friend Lord Redwyne of the Arbor would send thirty. In a stroke, Lord Oakenfist\u2019s fleet had become considerably more formidable.",
+            "valid": 1.0,
+            "characters": [
+                "Lord Oakenfist",
+                "Lady Baela",
+                "Lyonel Hightower",
+                "Lord Alyn",
+                "Lady Sam",
+                "Lord Redwyne"
+            ],
+            "places": [
+                "Oldtown",
+                "Hightower",
+                "Whispering Sound",
+                "Arbor"
+            ],
+            "events": [
+                "reaching Oldtown",
+                "guiding Lady Baela and the fleet up Whispering Sound to the harbor",
+                "striking up a fast friendship"
+            ],
+            "verbs": [
+                "made good",
+                "guided",
+                "welcomed",
+                "treated",
+                "promised"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 12,
+            "paragraph": "The Velaryon fleet lingered overlong in Whispering Sound, waiting for Lord Redwyne and his promised galleys. Alyn Oakenfist enjoyed the hospitality of the Hightower, explored the ancient wynds and ways of Oldtown, and visited the Citadel, where he spent days poring over ancient charts and studying dusty Valyrian treatises about warship design and tactics for battle at sea. At the Starry Sept, he received the blessing of the High Septon, who traced a seven-pointed star upon his brow in holy oil, and sent him forth to bring down the Warrior\u2019s wroth upon the ironmen and their Drowned God. Lord Velaryon was still at Oldtown when word of Queen Jaehaera\u2019s death reached the city, followed within a few short days by the announcement of the king\u2019s betrothal to Myrielle Peake. By that time, he had become close to Lady Sam as well as to Lord Lyonel, though whether he had any part in the writing of her infamous letter remains a matter of conjecture. It is known, however, that he dispatched letters to his own lady wife on Driftmark whilst at the Hightower. We do not know the contents.",
+            "valid": 1.0,
+            "characters": [
+                "Alyn Oakenfist",
+                "Lord Redwyne",
+                "High Septon",
+                "Queen Jaehaera",
+                "King's betrothal to Myrielle Peake",
+                "Lady Sam",
+                "Lord Lyonel"
+            ],
+            "places": [
+                "Whispering Sound",
+                "Oldtown",
+                "Citadel",
+                "Starry Sept",
+                "Hightower",
+                "Driftmark"
+            ],
+            "events": [
+                "Received the blessing of the High Septon"
+            ],
+            "verbs": [
+                "lingered",
+                "enjoyed",
+                "explored",
+                "visited",
+                "pored over ancient charts and studying dusty Valyrian treatises about warship design and tactics for battle at sea.",
+                "received the blessing of the High Septon.",
+                "dispatched letters to his own lady wife on Driftmark."
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 13,
+            "paragraph": "Oakenfist was still a young man in 133 AC, and young men are not known for their patience. Finally he decided that he would wait no longer for Lord Redwyne, and gave the order to sail. Oldtown cheered as the Velaryon ships raised their sails and lowered their oars, sliding down the Whispering Sound one by one. Twenty war galleys of House Hightower followed, commanded by Ser Leo Costayne, a grizzled seafarer known as the Sea Lion.",
+            "valid": 1.0,
+            "characters": [
+                "Oakenfist",
+                "Lord Redwyne",
+                "Ser Leo Costayne"
+            ],
+            "places": [
+                "Oldtown",
+                "Whispering Sound"
+            ],
+            "events": [
+                "raise sails and lower oars"
+            ],
+            "verbs": [
+                "wait",
+                "give order to sail"
+            ],
+            "adjectives": [
+                "young",
+                "patient",
+                "grizzled"
+            ]
+        },
+        {
+            "paragraph_id": 14,
+            "paragraph": "Off the singing cliffs of Blackcrown where twisted towers and wind- carved stones whistled above the waves, the fleet turned north into the Sunset Sea, creeping up the western coast past Bandallon. As they passed the mouth of the Mander, the men of the Shield Islands sent forth their own galleys to join them: three ships each from Greyshield and Southshield, four from Greenshield, six from Oakenshield. Before they could move much farther north, however, another storm came down on them. One ship went down, and three more were so badly damaged that they could not proceed. Lord Velaryon regrouped the fleet off Crakehall, where the lady of the castle rowed out to meet him. It was from her that his lordship first heard of the great ball to be held on Maiden\u2019s Day.",
+            "valid": 1.0,
+            "characters": [
+                "Lord Velaryon"
+            ],
+            "places": [
+                "Blackcrown",
+                "Bandallon",
+                "Mander",
+                "Greyshield",
+                "Southshield",
+                "Greenshield",
+                "Oakenshield",
+                "Crakehall"
+            ],
+            "events": [
+                "fleet turned north into the Sunset Sea",
+                "mouth of the Mander",
+                "storm came down on them",
+                "ship went down",
+                "three more were so badly damaged that they could not proceed",
+                "great ball to be held on Maiden\u2019s Day"
+            ],
+            "verbs": [
+                "whistled",
+                "creeping up",
+                "sent forth their own galleys to join them",
+                "regrouped the fleet off Crakehall"
+            ],
+            "adjectives": [
+                "singing cliffs of Blackcrown",
+                "twisted towers and wind-carved stones"
+            ]
+        },
+        {
+            "paragraph_id": 15,
+            "paragraph": "Word had reached Fair Isle as well, and we are told that Lord Dalton Greyjoy even toyed with the idea of sending one of his sisters to vie for the queen\u2019s crown. \u201cAn iron maid upon the Iron Throne,\u201d he said, \u201cwhat could be more fitting?\u201d The Red Kraken had more immediate concerns, however. Long forewarned of the coming of Alyn Oakenfist, he had gathered his power to receive him. Hundreds of longships had assembled in the waters south of Fair Isle, and more off Feastfires, Kayce, and Lannisport. After he sent \u201cthat boy\u201d down to the halls of the Drowned God at the bottom of the sea, the Red Kraken proclaimed, he would take his own fleet back the way that Oakenfist had come, raise his banner over the Shields, sack Oldtown and Sunspear, and claim Driftmark for his own. (Though Greyjoy was not quite three years older than his foe, he never called him anything but \u201cthat boy.\u201d) He might even take Lady Baela for a salt wife, the Lord of the Iron Islands told his captains, laughing. \u201c \u2019Tis true, I have two-and-twenty salt wives, but not a one with silver hair.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Lord Dalton Greyjoy",
+                "Alyn Oakenfist",
+                "Red Kraken",
+                "Lady Baela"
+            ],
+            "places": [
+                "Fair Isle",
+                "Feastfires",
+                "Kayce",
+                "Lannisport",
+                "Shields",
+                "Oldtown",
+                "Sunspear",
+                "Driftmark"
+            ],
+            "events": [
+                "vie for the queen's crown",
+                "gathered his power to receive him",
+                "hundreds of longships assembled in the waters south of Fair Isle and more off Feastfires, Kayce, and Lannisport",
+                "send 'that boy' down to the halls of the Drowned God at the bottom of the sea",
+                "raise his banner over the Shields, sack Oldtown and Sunspear, and claim Driftmark for his own"
+            ],
+            "verbs": [
+                "reach",
+                "toyed with idea of sending one of his sisters to vie for queen's crown ",
+                "warned coming Alyn Oakenfist ",
+                "gathered power to receive him ",
+                "assembled longships in waters south Fair Isle ",
+                "sent 'that boy' down halls Drowned God bottom sea ",
+                "raise banner over Shields ",
+                "sack Oldtown Sunspear ",
+                "claim Driftmark own ",
+                "take Lady Baela salt wife"
+            ],
+            "adjectives": [
+                "iron maid upon Iron Throne fitting?",
+                "immediate concerns"
+            ]
+        },
+        {
+            "paragraph_id": 16,
+            "paragraph": "So much of history tells of the deeds of kings and queens, high lords, noble knights, holy septons, and wise maesters that it is easy to forget the common folk who shared these times with the great and the mighty. Yet from time to time some ordinary man or woman, blessed with neither birth nor wealth nor wit nor wisdom nor skill at arms, will somehow rise up and by some simple act or whispered word change the destiny of kingdoms. So it was on Fair Isle in that fateful year of 133 AC.",
+            "valid": 1.0,
+            "characters": [
+                "kings",
+                "queens",
+                "high lords",
+                "noble knights",
+                "holy septons",
+                "wise maesters",
+                "ordinary man or woman"
+            ],
+            "places": [
+                "Fair Isle"
+            ],
+            "events": [
+                "change the destiny of kingdoms"
+            ],
+            "verbs": [
+                "tells",
+                "forget",
+                "rise up",
+                "whispered"
+            ],
+            "adjectives": [
+                "fateful"
+            ]
+        },
+        {
+            "paragraph_id": 17,
+            "paragraph": "Lord Dalton Greyjoy did indeed possess two-and-twenty salt wives. Four were back on Pyke; two of those had borne him children. The others were women of the west, taken during his conquests, amongst them two of the late Lord Farman\u2019s daughters, the widow of the Knight of Kayce, even a Lannister (a Lannister of Lannisport, not a Lannister of Casterly Rock). The rest were girls of humbler birth, the daughters of simple fisherfolk, traders, or men-at-arms who had somehow caught his eye, oft as not after he had slain their fathers, brothers, husbands, or other male protectors. One bore the name of Tess. Her name is all we truly know of her. Was she thirteen or thirty? Pretty or plain? A widow or a virgin? Where did Lord Greyjoy find her, and how long had she been amongst his salt wives? Did she despise him for a reaver and a raper, or love him so fiercely she went mad with jealousy?",
+            "valid": 1.0,
+            "characters": [
+                "Lord Dalton Greyjoy",
+                "Lord Farman",
+                "Knight of Kayce",
+                "Lannister of Lannisport",
+                "Lannister of Casterly Rock"
+            ],
+            "places": [
+                "Pyke",
+                "Kayce",
+                "Lannisport",
+                "Casterly Rock"
+            ],
+            "events": [
+                "conquests"
+            ],
+            "verbs": [
+                "possess",
+                "borne",
+                "taken",
+                "slain"
+            ],
+            "adjectives": [
+                "two-and-twenty",
+                "humble",
+                "simple"
+            ]
+        },
+        {
+            "paragraph_id": 18,
+            "paragraph": "We do not know. Accounts differ so markedly that Tess must remain forever a mystery in the annals of history. All that is known for a certainty is that on a rainy, windswept night at Faircastle, as the longships gathered below, Lord Dalton had his pleasure of her, and afterward, as he slept, Tess slipped his dagger from its sheath and opened his throat from ear to ear, then threw herself naked and bloody into the hungry sea below.",
+            "valid": 1.0,
+            "characters": [
+                "Tess",
+                "Lord Dalton"
+            ],
+            "places": [
+                "Faircastle"
+            ],
+            "events": [
+                "opened his throat from ear to ear",
+                "threw herself naked and bloody into the hungry sea below"
+            ],
+            "verbs": [
+                "remain",
+                "gathered",
+                "had his pleasure of her",
+                "slipped",
+                "opened",
+                "threw"
+            ],
+            "adjectives": [
+                "rainy",
+                "windswept",
+                "longships",
+                "hungry"
+            ]
+        },
+        {
+            "paragraph_id": 19,
+            "paragraph": "And so perished the Red Kraken of Pyke on the eve of his greatest battle\u2026slain not by the sword of a foe, but by his own dagger, in the hand of one of his own wives.",
+            "valid": 1.0,
+            "characters": [
+                "Red Kraken",
+                "Pyke"
+            ],
+            "places": [
+                "Pyke"
+            ],
+            "events": [
+                "perished",
+                "slain"
+            ],
+            "verbs": [
+                "perished",
+                "slain"
+            ],
+            "adjectives": [
+                "greatest"
+            ]
+        },
+        {
+            "paragraph_id": 20,
+            "paragraph": "Nor did his conquests long survive him. As word of his death spread, the fleet he had assembled to meet Alyn Oakenfist began to dissolve, as captain after captain slipped away for home. Dalton Greyjoy had never taken a rock wife, so his only heirs were two young sons born of the salt wives he had left on Pyke, three sisters, and several cousins, each more grasping and ambitious than the last. By law, the Seastone Chair passed to the eldest of his salt sons, but the boy Toron was not yet six and his mother, as a salt wife, could not hope to act as regent for him as a rock wife might have. A struggle for power was inevitable, a truth the ironborn captains saw well as they raced back toward their isles.",
+            "valid": 1.0,
+            "characters": [
+                "Dalton Greyjoy",
+                "Alyn Oakenfist",
+                "Toron"
+            ],
+            "places": [
+                "Pyke"
+            ],
+            "events": [
+                "struggle for power"
+            ],
+            "verbs": [
+                "conquests",
+                "spread",
+                "assembled",
+                "slipped away",
+                "passed"
+            ],
+            "adjectives": [
+                "grasping",
+                "ambitious"
+            ]
+        },
+        {
+            "paragraph_id": 21,
+            "paragraph": "Meanwhile, the smallfolk of Fair Isle and such knights as still remained on the island rose up in red rebellion. The ironmen who had lingered when their kinsmen fled were dragged from their beds and hacked to death or set upon on the docks, their ships swarmed over and set ablaze. In the space of three days, hundreds of reavers suffered ends as cruel, bloody, and sudden as those they had inflicted on their prey, until only Faircastle remained in the ironborn hands. The garrison, composed in large part of the Red Kraken\u2019s close companions and brothers-in-battle, held out stubbornly under the sly Alester Wynch and the roaring giant Gunthor Goodbrother, until the latter slew the former in a quarrel over Lord Farman\u2019s daughter Lysa, one of the salt widows.",
+            "valid": 1.0,
+            "characters": [
+                "Alester Wynch",
+                "Gunthor Goodbrother",
+                "Lord Farman"
+            ],
+            "places": [
+                "Fair Isle",
+                "Faircastle"
+            ],
+            "events": [
+                "red rebellion",
+                "dragged from their beds and hacked to death or set upon on the docks",
+                "sly Alester Wynch and the roaring giant Gunthor Goodbrother held out stubbornly until the latter slew the former in a quarrel over Lord Farman\u2019s daughter Lysa"
+            ],
+            "verbs": [
+                "rose up",
+                "dragged",
+                "hacked to death",
+                "set ablaze",
+                "suffered",
+                "held out stubbornly",
+                "slew"
+            ],
+            "adjectives": [
+                "smallfolk",
+                "ironmen",
+                "cruel",
+                "bloody",
+                "sudden"
+            ]
+        },
+        {
+            "paragraph_id": 22,
+            "paragraph": "And so it came to pass that when Alyn Velaryon arrived at last to deliver the west from the ironmen of the isles, he found himself without a foe. Fair Isle was free, the longships had fled, the fighting was done. As the Lady Baela passed beneath the walls of Lannisport, the bells of the city pealed in welcome. Thousands rushed from the gates to line the shore, cheering. Lady Johanna herself emerged from Casterly Rock to present Oakenfist with a seahorse wrought in gold and other tokens of Lannister esteem.",
+            "valid": 1.0,
+            "characters": [
+                "Alyn Velaryon",
+                "Lady Baela",
+                "Lady Johanna",
+                "Oakenfist"
+            ],
+            "places": [
+                "Fair Isle",
+                "Lannisport",
+                "Casterly Rock"
+            ],
+            "events": [
+                "deliver the west from the ironmen of the isles",
+                "passed beneath the walls of Lannisport",
+                "cheering",
+                "present Oakenfist with a seahorse wrought in gold and other tokens of Lannister esteem"
+            ],
+            "verbs": [
+                "arrived",
+                "had fled",
+                "was done",
+                "pealed",
+                "rushed",
+                "lined",
+                "emerged",
+                "presented"
+            ],
+            "adjectives": [
+                "last",
+                "free",
+                "welcome"
+            ]
+        },
+        {
+            "paragraph_id": 23,
+            "paragraph": "Days of celebration followed. Lord Alyn was anxious to take on provisions and depart on his long voyage home, but the westermen were loath to see him go. With their own fleet destroyed, they remained vulnerable should the ironmen return under the Red Kraken\u2019s successor, whoever he might be. Lady Johanna even went so far as to propose an attack upon the Iron Islands themselves; she would provide as many swords and spears as might be required, Lord Velaryon need only deliver them to the isles. \u201cWe should put every man of them to the sword,\u201d her ladyship declared, \u201cand sell their wives and children to the slavers of the east. Let the seagulls and the crabs claim those worthless rocks.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Lord Alyn",
+                "Lady Johanna",
+                "Lord Velaryon"
+            ],
+            "places": [
+                "Iron Islands"
+            ],
+            "events": [
+                "long voyage home"
+            ],
+            "verbs": [
+                "depart",
+                "remained",
+                "propose",
+                "provide",
+                "deliver",
+                "put",
+                "sell"
+            ],
+            "adjectives": [
+                "anxious",
+                "loath",
+                "vulnerable",
+                "worthless"
+            ]
+        },
+        {
+            "paragraph_id": 24,
+            "paragraph": "Oakenfist would have none of it, but to please his hosts, he did agree that the Sea Lion, Leo Costayne, would remain at Lannisport with a third of the fleet until such time as the Lannisters, the Farmans, and the other lords of the west could rebuild sufficient warships of their own to defend against any return of the ironmen. Then he raised his sails once more and took the remainder of his fleet back out to sea, returning from whence he\u2019d come.",
+            "valid": 1.0,
+            "characters": [
+                "Oakenfist",
+                "Leo Costayne"
+            ],
+            "places": [
+                "Lannisport"
+            ],
+            "events": [
+                "return of the ironmen"
+            ],
+            "verbs": [
+                "agree",
+                "remain",
+                "rebuild",
+                "raise",
+                "take"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 25,
+            "paragraph": "Of their voyage home, we need say little. Near the mouth of the Mander, the Redwyne fleet was finally sighted, hurrying north, but they turned about after breaking bread with Lord Velaryon on the Lady Baela. His lordship made a brief visit to the Arbor, as Lord Redwyne\u2019s guest, and a longer one at Oldtown, where he renewed his friendships with Lord Lyonel Hightower and Lady Sam, sat with the scribes and maesters of the Citadel so they might set down the details of his voyage, was feted by the masters of the seven guilds, and received yet another blessing from the High Septon. Again he sailed along the parched, dry coasts of Dorne, this time beating eastward. Princess Aliandra was pleased at his return to Sunspear, and insisted on hearing every detail of his adventures, to the fury of her siblings and jealous suitors.",
+            "valid": 1.0,
+            "characters": [
+                "Redwyne",
+                "Lord Velaryon",
+                "Lady Baela",
+                "Lord Lyonel Hightower",
+                "Lady Sam",
+                "High Septon",
+                "Princess Aliandra"
+            ],
+            "places": [
+                "Mouth of the Mander",
+                "The Arbor",
+                "Oldtown",
+                "Citadel",
+                "Sunspear"
+            ],
+            "events": [
+                "Voyage Home",
+                "Breaking Bread with Lord Velaryon on the Lady Baela",
+                "Brief Visit to The Arbor",
+                "Longer Visit at Oldtown"
+            ],
+            "verbs": [
+                "Sighted",
+                "Turned About",
+                "Renewed His Friendships",
+                "Set Down Details of Voyage",
+                "Feted by Masters of Seven Guilds Received Blessing from High Septon ",
+                "Beating Eastward"
+            ],
+            "adjectives": [
+                "Finally Sighted, Hurrying North, Parched, Dry"
+            ]
+        },
+        {
+            "paragraph_id": 26,
+            "paragraph": "It was from her that Lord Oakenfist learned that Dorne had joined the Daughters\u2019 War, making alliance with Tyrosh and Lys against Racallio Ryndoon\u2026and it was at her court at Sunspear, during the Maiden\u2019s Day feast (the very day that a thousand maidens were parading before Aegon III in King\u2019s Landing), that his lordship was approached by a certain Drazenko Rogare, one of the envoys that Lys had sent to Aliandra\u2019s court, who begged a private word. Curious, Lord Alyn agreed to listen, and the two men stepped out into the yard, where Drazenko leaned so close that his lordship said, \u201cI feared he meant to kiss me.\u201d Instead he whispered something in the admiral\u2019s ear, a secret that changed the course of Westerosi history. The next day, Lord Velaryon returned to Lady Baela and gave the command to raise sail\u2026for Lys.",
+            "valid": 1.0,
+            "characters": [
+                "Lord Oakenfist",
+                "Dorne",
+                "Tyrosh",
+                "Lys",
+                "Racallio Ryndoon",
+                "Aegon III",
+                "Drazenko Rogare",
+                "Aliandra's court",
+                "Lord Alyn",
+                "Lord Velaryon",
+                "Lady Baela"
+            ],
+            "places": [
+                "Sunspear",
+                "King's Landing",
+                "Lys"
+            ],
+            "events": [
+                "Maiden's Day feast"
+            ],
+            "verbs": [
+                "learned",
+                "joined",
+                "making alliance with",
+                "approached by",
+                "listen to",
+                "whispered something in the admiral's ear,",
+                "changed the course of Westerosi history.",
+                "raise sail"
+            ],
+            "adjectives": [
+                "private"
+            ]
+        },
+        {
+            "paragraph_id": 27,
+            "paragraph": "His reasons, and what befell him in the Free City, we shall reveal in due time, but for the nonce let us turn our gaze back on King\u2019s Landing. Hope and good feeling reigned over the Red Keep as the new year dawned. Though younger than her predecessor, Queen Daenaera was a happier child, and her sunny nature did much to lighten the king\u2019s gloom\u2026for a while, at the least. Aegon III was seen about the court more often than had been his wont, and even left the castle on three occasions to show his bride such sights as the city offered (though he refused to take her to the Dragonpit, where Lady Rhaena\u2019s young dragon, Morning, made her lair). His Grace seemed to take a new interest in his studies, and Mushroom was oft summoned to entertain the king and queen at supper (\u201cThe sound of the queen\u2019s laughter was like music to this fool, so sweet that even the king was known to smile\u201d). Even Gareth Long, the Red Keep\u2019s despised master- at-arms, made note of a change. \u201cWe no longer have to beat the bastard boy as often as before,\u201d he told the Hand. \u201cThe boy has never lacked for strength nor speed. Now at last he is showing some modicum of skill.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "King Aegon III",
+                "Queen Daenaera",
+                "Lady Rhaena",
+                "Mushroom",
+                "Gareth Long"
+            ],
+            "places": [
+                "Free City",
+                "King's Landing",
+                "Red Keep",
+                "Dragonpit"
+            ],
+            "events": [
+                "new year dawned"
+            ],
+            "verbs": [
+                "reveal",
+                "reigned",
+                "lighten",
+                "refused",
+                "summoned",
+                "showed",
+                "take",
+                "beat"
+            ],
+            "adjectives": [
+                "happy",
+                "sunny",
+                "gloomy",
+                "sweet"
+            ]
+        },
+        {
+            "paragraph_id": 28,
+            "paragraph": "The young king\u2019s new interest in the world even extended to the rule of his kingdom. Aegon III began to attend the council. Though he seldom spoke, his presence heartened Grand Maester Munkun, and seemed to please Lord Mooton and Lord Rowan. Ser Marston Waters of the Kingsguard seemed discomfited by His Grace\u2019s attendance, however, and Lord Peake took it for a rebuke. Whenever Aegon made so bold as to ask a question, Munkun tells us, the Hand would bristle and accuse him of wasting the council\u2019s time, or inform him that such weighty matters were beyond the understanding of a child. Unsurprisingly, before very long His Grace began to absent himself from the meetings, as before.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon III",
+                "Grand Maester Munkun",
+                "Lord Mooton",
+                "Lord Rowan",
+                "Ser Marston Waters",
+                "Kingsguard",
+                "Lord Peake"
+            ],
+            "places": [],
+            "events": [
+                "attend the council"
+            ],
+            "verbs": [
+                "extended",
+                "heartened",
+                "seemed",
+                "discomfited",
+                "took",
+                "asked",
+                "wasting",
+                "inform"
+            ],
+            "adjectives": [
+                "young",
+                "new"
+            ]
+        },
+        {
+            "paragraph_id": 29,
+            "paragraph": "Sour and suspicious by nature, and possessed of overweening pride, Unwin Peake was a most unhappy man by 134 AC. The Maiden\u2019s Day Ball had been a humiliation, and he took the king\u2019s rejection of his daughter, Myrielle, in favor of Daenaera as a personal affront. Never fond of Lady Baela, he now had reason to mislike her sister Rhaena as well; both of them, he was convinced, were working against him, most like at the behest of Baela\u2019s husband, the insolent and rebellious Oakenfist. The twins had deliberately and with malice aforethought wrecked his own plans to secure the succession, he told his own loyalists, and by seeing to it that the king took to wife a six-year-old they had ensured that the child Baela carried would be next in line to the Iron Throne.",
+            "valid": 1.0,
+            "characters": [
+                "Unwin Peake",
+                "Myrielle",
+                "Daenaera",
+                "Lady Baela",
+                "Rhaena",
+                "Oakenfist"
+            ],
+            "places": [
+                "Iron Throne"
+            ],
+            "events": [
+                "Maiden's Day Ball"
+            ],
+            "verbs": [
+                "humiliation",
+                "rejection",
+                "mislike",
+                "working",
+                "wrecked",
+                "ensured"
+            ],
+            "adjectives": [
+                "sour",
+                "suspicious",
+                "overweening",
+                "unhappy",
+                "insolent",
+                "rebellious"
+            ]
+        },
+        {
+            "paragraph_id": 30,
+            "paragraph": "\u201cIf the child is a boy, His Grace will never live long enough to sire an heir of his own body,\u201d Peake said to Marston Waters once, in Mushroom\u2019s presence. Shortly thereafter, Baela Velaryon was brought to childbed and delivered of a healthy baby girl. She named the child Laena after her mother. Yet even this did not long mollify the King\u2019s Hand, for less than a fortnight later, the leading elements of the Velaryon fleet returned to King\u2019s Landing bearing a cryptic message: Oakenfist had sent them on ahead whilst he set sail for Lys to secure \u201ca treasure beyond price.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Peake",
+                "Marston Waters",
+                "Baela Velaryon",
+                "Laena",
+                "Oakenfist"
+            ],
+            "places": [
+                "King's Landing",
+                "Lys"
+            ],
+            "events": [
+                "sire an heir of his own body",
+                "delivered of a healthy baby girl",
+                "set sail for Lys to secure 'a treasure beyond price'"
+            ],
+            "verbs": [
+                "said",
+                "mollify",
+                "returned",
+                "sent"
+            ],
+            "adjectives": [
+                "cryptic"
+            ]
+        },
+        {
+            "paragraph_id": 31,
+            "paragraph": "These words inflamed Lord Peake\u2019s suspicions. What was this treasure? How did Lord Velaryon mean to \u201csecure\u201d it? With a sword? Was he about to start a war with Lys, as he had with Braavos? The Hand had sent the rash young admiral around the whole of Westeros to rid the court of him, yet here he was about to descend on them once more, \u201cdripping with undeserved acclaim\u201d and mayhaps vast wealth as well. (Gold was ever a sore point for Unwin Peake, whose own house was land poor, rich in stone and soil and pride, yet chronically short of coin.) The smallfolk saw Oakenfist as a hero, his lordship knew, the man who had humbled the proud Sealord of Braavos and the Red Kraken of Pyke, whilst he himself was resented and reviled. Even within the Red Keep, there were many who hoped that the regents might remove Lord Peake as King\u2019s Hand, and replace him with Alyn Velaryon.",
+            "valid": 1.0,
+            "characters": [
+                "Lord Peake",
+                "Lord Velaryon",
+                "Lys",
+                "Braavos",
+                "Unwin Peake",
+                "Oakenfist",
+                "Sealord of Braavos",
+                "Red Kraken of Pyke",
+                "Alyn Velaryon"
+            ],
+            "places": [
+                "Westeros",
+                "Red Keep"
+            ],
+            "events": [
+                "rid the court of him",
+                "humbled the proud Sealord of Braavos and the Red Kraken of Pyke"
+            ],
+            "verbs": [
+                "inflamed",
+                "secure",
+                "descend",
+                "driping with undeserved acclaim"
+            ],
+            "adjectives": [
+                "rash",
+                "vast"
+            ]
+        },
+        {
+            "paragraph_id": 32,
+            "paragraph": "The excitement occasioned by Oakenfist\u2019s return was palpable, however, so all the Hand could do was seethe. When Lady Baela\u2019s sails were first seen across the waters of Blackwater Bay, with the rest of the Velaryon fleet appearing from the morning mists behind her, every bell in King\u2019s Landing commenced to toll. Thousands crowded onto the city walls to cheer the hero, just as they had at Lannisport half a year before, whilst thousands more rushed out the River Gate to line the shores. But when the king expressed the wish to go to the docks \u201cto thank my good-brother for his service,\u201d the Hand forbade it, insisting it would not be fitting for His Grace to go to Lord Velaryon, that the admiral must come to the Red Keep to abase himself before the Iron Throne.",
+            "valid": 1.0,
+            "characters": [
+                "Oakenfist",
+                "Lady Baela",
+                "King's Landing",
+                "Lannisport",
+                "His Grace"
+            ],
+            "places": [
+                "Blackwater Bay",
+                "River Gate",
+                "Red Keep"
+            ],
+            "events": [
+                "return of Oakenfist"
+            ],
+            "verbs": [
+                "seethe",
+                "seen",
+                "toll",
+                "crowded",
+                "cheer",
+                "expressed",
+                "forbade"
+            ],
+            "adjectives": [
+                "palpable"
+            ]
+        },
+        {
+            "paragraph_id": 33,
+            "paragraph": "In this, as in the matter of Aegon\u2019s betrothal to Myrielle Peake, Lord Unwin found himself overruled by the other regents. Over his strenuous objections, King Aegon and Queen Daenera descended from the castle in their litter, accompanied by Lady Baela and her newborn daughter; her sister Lady Rhaena with her lord husband, Corwyn Corbray; Grand Maester Munkun; Septon Bernard; the regents Manfryd Mooton and Thaddeus Rowan; the knights of the Kingsguard; and many other notables eager to meet Lady Baela at the docks.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon",
+                "Myrielle Peake",
+                "Lord Unwin",
+                "Daenera",
+                "Lady Baela",
+                "Rhaena",
+                "Corwyn Corbray",
+                "Grand Maester Munkun",
+                "Septon Bernard",
+                "Manfryd Mooton",
+                "Thaddeus Rowan"
+            ],
+            "places": [
+                "castle",
+                "docks"
+            ],
+            "events": [
+                "betrothal"
+            ],
+            "verbs": [
+                "overruled",
+                "descended"
+            ],
+            "adjectives": [
+                "strenuous"
+            ]
+        },
+        {
+            "paragraph_id": 34,
+            "paragraph": "The morning was bright and cold, the chronicles tell us. There, before the eyes of tens of thousands, Lord Alyn Oakenfist beheld his daughter, Laena, for the first time. After kissing his lady wife, he took the child from her and held her high for all the crowd to see, as the cheers fell like thunder. Only then did he return the girl to her mother\u2019s arms and bend his knee before the king and queen. Queen Daenaera, blushing prettily and stammering just a little, hung about his neck a heavy golden chain studded with sapphires, \u201cb-blue as the sea where my lord has won his victories.\u201d Then King Aegon III bade the admiral rise with the words, \u201cWe are glad to have you safe home, my brother.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Lord Alyn Oakenfist",
+                "Laena",
+                "Queen Daenaera",
+                "King Aegon III"
+            ],
+            "places": [],
+            "events": [
+                "kissing his lady wife",
+                "held her high for all the crowd to see",
+                "return the girl to her mother's arms and bend his knee before the king and queen"
+            ],
+            "verbs": [
+                "beheld",
+                "took",
+                "cheers fell like thunder",
+                "hung about his neck a heavy golden chain studded with sapphires",
+                "bade the admiral rise"
+            ],
+            "adjectives": [
+                "bright",
+                "cold",
+                "heavy",
+                "golden",
+                "studded with sapphires",
+                "blue"
+            ]
+        },
+        {
+            "paragraph_id": 35,
+            "paragraph": "Mushroom says that Oakenfist was laughing as he climbed back to his feet. \u201cSire,\u201d he replied, \u201cyou have honored me with your sister\u2019s hand, and I am proud to be your brother by marriage. Yet I can never be your brother by blood. But there is one who is.\u201d Then with a flamboyant gesture, Lord Alyn summoned forth the treasure he had brought from Lys. Down from the Lady Baela emerged a pale young woman of surpassing beauty, arm in arm with a richly clad boy near the king\u2019s own age, his features hidden beneath the cowl of his embroidered cloak.",
+            "valid": 1.0,
+            "characters": [
+                "Mushroom",
+                "Oakenfist",
+                "Lord Alyn",
+                "Lady Baela"
+            ],
+            "places": [
+                "Lys"
+            ],
+            "events": [
+                "summoned forth the treasure he had brought from Lys"
+            ],
+            "verbs": [
+                "climbed",
+                "honored",
+                "summoned"
+            ],
+            "adjectives": [
+                "laughing",
+                "proud",
+                "flamboyant",
+                "pale",
+                "surpassing",
+                "beauty",
+                "richly"
+            ]
+        },
+        {
+            "paragraph_id": 36,
+            "paragraph": "Lord Unwin Peake could no longer contain himself. \u201cWho is this?\u201d he demanded, pushing forward. \u201cWho are you?\u201d The boy threw back his cowl. As the sunlight glittered on the silver-gold hair beneath, King Aegon III began to weep, throwing himself upon this boy in a fierce embrace. Oakenfist\u2019s \u201ctreasure\u201d was Viserys Targaryen, the king\u2019s lost brother, the youngest son of Queen Rhaenyra and Prince Daemon, presumed dead since the Battle of the Gullet, and missing for nigh unto five years.",
+            "valid": 1.0,
+            "characters": [
+                "Lord Unwin Peake",
+                "King Aegon III",
+                "Viserys Targaryen",
+                "Queen Rhaenyra",
+                "Prince Daemon"
+            ],
+            "places": [
+                "Gullet"
+            ],
+            "events": [
+                "Battle of the Gullet"
+            ],
+            "verbs": [
+                "contain",
+                "demanded",
+                "threw back",
+                "glittered",
+                "weeped",
+                "throwing himself upon"
+            ],
+            "adjectives": [
+                "fierce",
+                "silver-gold"
+            ]
+        },
+        {
+            "paragraph_id": 37,
+            "paragraph": "In 129 AC, it will be recalled that Queen Rhaenyra had sent her two youngest sons to Pentos to keep them from harm\u2019s way, only to have the ship taking them across the narrow sea sail into the teeth of a war fleet from the Triarchy. Whilst Prince Aegon had escaped on his dragon, Stormcloud, Prince Viserys had been taken. The Battle of the Gullet soon followed, and when no word was heard of the young prince afterward, he was presumed dead. No one could even say for a certainty which ship he had been on.",
+            "valid": 1.0,
+            "characters": [
+                "Queen Rhaenyra",
+                "Prince Aegon",
+                "Stormcloud",
+                "Prince Viserys"
+            ],
+            "places": [
+                "Pentos",
+                "Narrow Sea",
+                "Triarchy"
+            ],
+            "events": [
+                "Battle of the Gullet"
+            ],
+            "verbs": [
+                "sail",
+                "followed",
+                "heard",
+                "presumed"
+            ],
+            "adjectives": [
+                "young"
+            ]
+        },
+        {
+            "paragraph_id": 38,
+            "paragraph": "But though many thousands died in the Gullet, Viserys Targaryen was not one of them. The ship carrying the young princeling had survived the battle and limped back home to Lys, where Viserys found himself a captive of the grand admiral of the Triarchy, Sharako Lohar. Defeat had left Sharako in disgrace, however, and the Lyseni soon found himself besieged by enemies old and new, eager to bring him down. Desperate for coin and allies, he sold the boy to a certain magister of that city named Bambarro Bazanne, in return for Viserys\u2019s weight in gold and a promise of support. The subsequent murder of the disgraced admiral brought the tensions and rivalries amongst the Three Daughters to the surface, and long-simmering resentments flared into violence with a series of murders that soon led to open war. Amidst the chaos that followed, Magister Bambarro thought it prudent to keep his prize hidden away for the nonce, lest the boy be wrested away by one of his fellow Lyseni, or rivals from another city.",
+            "valid": 1.0,
+            "characters": [
+                "Viserys Targaryen",
+                "Sharako Lohar",
+                "Bambarro Bazanne"
+            ],
+            "places": [
+                "Gullet",
+                "Lys"
+            ],
+            "events": [
+                "battle",
+                "murder of the disgraced admiral",
+                "open war"
+            ],
+            "verbs": [
+                "died",
+                "survived",
+                "found himself a captive",
+                "eager to bring him down",
+                "sold the boy",
+                "thought it prudent to keep his prize hidden away"
+            ],
+            "adjectives": [
+                "many thousands",
+                "young princeling",
+                "desperate for coin and allies"
+            ]
+        },
+        {
+            "paragraph_id": 39,
+            "paragraph": "Viserys was well treated during his captivity. Though forbidden to leave the grounds of Bambarro\u2019s manse, he had his own suite of rooms, shared meals with the magister and his family, had tutors to instruct him in languages, literature, mathematics, history, and music, even a master-at-arms to teach him swordsmanship, at which art he soon excelled. It is widely believed (though never proved) that Bambarro\u2019s intent was to wait out the Dance of the Dragons, and then either ransom Prince Viserys back to his mother (should Rhaenyra emerge triumphant) or sell his head to his uncle (should Aegon II prove the victor).",
+            "valid": 1.0,
+            "characters": [
+                "Viserys",
+                "Bambarro"
+            ],
+            "places": [
+                "Bambarro's manse"
+            ],
+            "events": [
+                "Dance of the Dragons"
+            ],
+            "verbs": [
+                "excelled",
+                "wait",
+                "ransom",
+                "sell"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 40,
+            "paragraph": "As Lys suffered a series of shattering defeats in the Daughters\u2019 War, however, these plans went awry. Bambarro Bazanne died in the Disputed Lands in 132 AC when the sellsword company he was leading against Tyrosh turned against him over a matter of back pay. Upon his death, it was discovered that he had been enormously in debt, whereupon his creditors seized his manse. His wife and children were sold into slavery, and his furnishings, clothing, books, and other valuables, including the captive princeling, passed into the hands of another nobleman, Lysandro Rogare.",
+            "valid": 1.0,
+            "characters": [
+                "Lys",
+                "Bambarro Bazanne",
+                "Tyrosh",
+                "Lysandro Rogare"
+            ],
+            "places": [
+                "Disputed Lands"
+            ],
+            "events": [
+                "Daughters' War"
+            ],
+            "verbs": [
+                "suffered",
+                "died",
+                "seized",
+                "sold"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 41,
+            "paragraph": "Lysandro was the patriarch of a rich and powerful banking and trading dynasty whose bloodlines could be traced back to Valyria before the Doom. Amongst many other holdings, the Rogares owned a famous pillow house, the Perfumed Garden. Viserys Targaryen was so striking that it is said Lysandro Rogare contemplated putting him to work as a courtesan\u2026until the boy identified himself. Once he knew he had a prince in hand, the magister quickly revised his plans. Instead of selling the prince\u2019s favors, he married him to his youngest daughter, the Lady Larra Rogare, who would become known in the histories of Westeros as Larra of Lys.",
+            "valid": 1.0,
+            "characters": [
+                "Lysandro",
+                "Viserys Targaryen",
+                "Larra Rogare"
+            ],
+            "places": [
+                "Valyria",
+                "Perfumed Garden"
+            ],
+            "events": [
+                "Doom"
+            ],
+            "verbs": [
+                "traced",
+                "owned",
+                "contemplated",
+                "revised",
+                "married"
+            ],
+            "adjectives": [
+                "rich",
+                "powerful",
+                "famous",
+                "striking"
+            ]
+        },
+        {
+            "paragraph_id": 42,
+            "paragraph": "The chance encounter between Alyn Velaryon and Drazenko Rogare at Sunspear had provided a perfect opportunity to effect the return of Prince Viserys to his brother\u2026but it is not in the nature of any Lyseni to make a gift of anything that might be sold, so it was first necessary that Oakenfist come to Lys and agree to terms with Lysandro Rogare. \u201cThe realm might have been better served had it been Lord Alyn\u2019s mother at that table rather than Lord Alyn,\u201d Mushroom observes, rightly. Oakenfist was no haggler. To secure the prince, his lordship agreed that the Iron Throne would pay a ransom of one hundred thousand golden dragons, agree not to take up arms against House Rogare or its interests for a hundred years, entrust the Rogare Bank of Lys with such funds as were presently held by the Iron Bank of Braavos, grant lordships to three of Lysandro\u2019s younger sons, and\u2026 above all\u2026swear upon his honor that the marriage between Viserys Targaryen and Larra Rogare would not be set aside, for any cause. To all of this Lord Alyn Velaryon had agreed, and affixed his sign and seal.",
+            "valid": 1.0,
+            "characters": [
+                "Alyn Velaryon",
+                "Drazenko Rogare",
+                "Prince Viserys",
+                "Lysandro Rogare",
+                "Mushroom",
+                "Oakenfist"
+            ],
+            "places": [
+                "Sunspear",
+                "Lys"
+            ],
+            "events": [
+                "chance encounter"
+            ],
+            "verbs": [
+                "effect",
+                "make",
+                "haggler",
+                "secure",
+                "pay",
+                "agree",
+                "entrust",
+                "grant",
+                "swear"
+            ],
+            "adjectives": [
+                "perfect"
+            ]
+        },
+        {
+            "paragraph_id": 43,
+            "paragraph": "Prince Viserys had been seven when he was taken from the Gay Abandon. He was twelve on his return in 134 AC. His wife, the beautiful young woman who had walked arm in arm with him from the Lady Baela, was nineteen, seven years his senior. Though two years younger than the king, Viserys was in certain ways more mature than his elder brother. Aegon III had never shown any carnal interest in either of his queens (understandably in the case of Queen Daenaera, who was yet a child), but Viserys had already consummated his own marriage, as he confided proudly to Grand Maester Munkun during the feast held to welcome him home.",
+            "valid": 1.0,
+            "characters": [
+                "Prince Viserys",
+                "Aegon III",
+                "Queen Daenaera",
+                "Grand Maester Munkun"
+            ],
+            "places": [
+                "Gay Abandon",
+                "Lady Baela"
+            ],
+            "events": [
+                "return in 134 AC"
+            ],
+            "verbs": [
+                "taken",
+                "walked",
+                "consummated"
+            ],
+            "adjectives": [
+                "beautiful young woman",
+                "proudly"
+            ]
+        },
+        {
+            "paragraph_id": 44,
+            "paragraph": "The return of his brother from the dead worked a wondrous change in Aegon III, Munkun tells us. His Grace had never truly forgiven himself for leaving Viserys to his fate when he fled the Gay Abandon on dragonback before the Battle of the Gullet. Though only nine at the time, Aegon came from a long line of warriors and heroes and had been raised on stories of their bold deeds and daring exploits, none of which included fleeing from a battle whilst abandoning your little brother to death. Down deep, the Broken King felt himself unworthy to sit the Iron Throne. He had not been able to save his brother, his mother, or his little queen from grisly deaths. How could he presume to save a kingdom?",
+            "valid": 1.0,
+            "characters": [
+                "Aegon III",
+                "Viserys",
+                "Munkun"
+            ],
+            "places": [
+                "Gay Abandon",
+                "Gullet"
+            ],
+            "events": [
+                "return of his brother from the dead"
+            ],
+            "verbs": [
+                "forgiven",
+                "fled",
+                "raised",
+                "abandoning",
+                "presume",
+                "save"
+            ],
+            "adjectives": [
+                "wondrous",
+                "long",
+                "bold",
+                "daring",
+                "grisly"
+            ]
+        },
+        {
+            "paragraph_id": 45,
+            "paragraph": "Viserys\u2019s return did much to lessen the king\u2019s loneliness as well. As a boy, Aegon had worshipped his three elder half-brothers, but it was Viserys who shared his bedchamber, his lessons, and his games. \u201cSome part of the king had died with his brother in the Gullet,\u201d wrote Munkun. \u201cIt is plain to see that Aegon\u2019s affection for Gaemon Palehair was born of his desire to replace the little brother he had lost, but only when Viserys was restored to him did Aegon seem once more alive and whole.\u201d Prince Viserys once again became King Aegon\u2019s constant companion, as he had been when they were boys together on Dragonstone, whilst Gaemon Palehair was cast aside and forgotten, and even Queen Daenaera was neglected.",
+            "valid": 1.0,
+            "characters": [
+                "Viserys",
+                "Aegon",
+                "Munkun",
+                "Gaemon Palehair",
+                "Daenaera"
+            ],
+            "places": [
+                "Gullet"
+            ],
+            "events": [],
+            "verbs": [
+                "lessen",
+                "worshipped",
+                "shared",
+                "died",
+                "see",
+                "replace",
+                "restored",
+                "became",
+                "cast aside",
+                "forgotten",
+                "neglected"
+            ],
+            "adjectives": [
+                "elder",
+                "little"
+            ]
+        },
+        {
+            "paragraph_id": 46,
+            "paragraph": "The return of the lost prince resolved the question of succession as well. As the king\u2019s brother, Viserys was the undisputed heir apparent, ahead of any child born to Baela Velaryon or Rhaena Corbray, or the twins themselves. King Aegon\u2019s choice of a girl of six as his second wife no longer seemed so worrisome. Prince Viserys was a lively, likely young lad, possessed of great charm and boundless vitality. Though not as tall, as strong, or as handsome as his brother, he struck all who met him as more clever and more curious than the king\u2026and his own wife was no child, but a beautiful young woman well into her childbearing years. Let Aegon have his child-bride; Larra of Lys was like to give Viserys children sooner rather than later, thereby securing the dynasty.",
+            "valid": 1.0,
+            "characters": [
+                "Viserys",
+                "Baela Velaryon",
+                "Rhaena Corbray",
+                "Aegon",
+                "Larra of Lys"
+            ],
+            "places": [
+                "Lys"
+            ],
+            "events": [
+                "return of the lost prince"
+            ],
+            "verbs": [
+                "resolved",
+                "seemed",
+                "struck",
+                "give"
+            ],
+            "adjectives": [
+                "undisputed",
+                "lively",
+                "likely",
+                "great",
+                "boundless",
+                "clever",
+                "curious"
+            ]
+        },
+        {
+            "paragraph_id": 47,
+            "paragraph": "For all these reasons, king and court and city rejoiced at the prince\u2019s coming, and Lord Alyn Velaryon became more beloved than ever for delivering Viserys from his captivity in Lys. Their joy was not shared by the King\u2019s Hand, however. Whilst Lord Unwin declared himself delighted by the return of the king\u2019s brother, he was furious at the price Oakenfist had agreed to pay for him. The young admiral had no authority to consent to such \u201cruinous terms,\u201d Peake insisted; only the regents and the Hand were empowered to speak for the Iron Throne, not any \u201cfool with a fleet.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "king",
+                "court",
+                "city",
+                "prince",
+                "Lord Alyn Velaryon",
+                "Lord Unwin",
+                "Oakenfist"
+            ],
+            "places": [
+                "Lys"
+            ],
+            "events": [
+                "coming"
+            ],
+            "verbs": [
+                "rejoiced",
+                "became",
+                "delivering",
+                "declared",
+                "agreed",
+                "consent",
+                "empowered"
+            ],
+            "adjectives": [
+                "beloved",
+                "ruinous"
+            ]
+        },
+        {
+            "paragraph_id": 48,
+            "paragraph": "Law and tradition were on his side, Grand Maester Munkun admitted when the Hand brought his grievances to the council\u2026but the king and the smallfolk felt otherwise, and it would have been the height of folly to repudiate Lord Alyn\u2019s pact. The other regents concurred. They voted new honors for Oakenfist, confirmed the legitimacy of Prince Viserys\u2019s marriage to Lady Larra, agreed to pay her father the ransom in ten annual payments, and moved a vastly greater sum of gold from Braavos to Lys.",
+            "valid": 1.0,
+            "characters": [
+                "Grand Maester Munkun",
+                "Hand",
+                "Lord Alyn",
+                "Oakenfist",
+                "Prince Viserys",
+                "Lady Larra"
+            ],
+            "places": [
+                "Braavos",
+                "Lys"
+            ],
+            "events": [
+                "grievances to the council",
+                "pact",
+                "voted new honors for Oakenfist",
+                "confirmed the legitimacy of Prince Viserys\u2019s marriage to Lady Larra",
+                "agreed to pay her father the ransom in ten annual payments"
+            ],
+            "verbs": [
+                "were on his side",
+                "brought his grievances to the council",
+                "repudiate Lord Alyn's pact",
+                "concurred",
+                "moved a vastly greater sum of gold from Braavos to Lys"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 49,
+            "paragraph": "For Lord Unwin Peake, this seemed yet another humiliating rebuke. Coming so close on the heels of the Maiden\u2019s Day Cattle Show and the king\u2019s repudiation of his daughter, Myrielle, in favor of the child Daenaera, it was more than his pride could endure. Mayhaps his lordship thought he could bend his fellow regents to his will by threatening to resign as King\u2019s Hand. Instead the council accepted his resignation with alacrity, and appointed the bluff, honest, and well- regarded Lord Thaddeus Rowan in his place.",
+            "valid": 1.0,
+            "characters": [
+                "Lord Unwin Peake",
+                "Myrielle",
+                "Daenaera",
+                "Lord Thaddeus Rowan"
+            ],
+            "places": [],
+            "events": [
+                "Maiden\u2019s Day Cattle Show"
+            ],
+            "verbs": [
+                "humiliating",
+                "rebuke",
+                "repudiation",
+                "endure",
+                "bend",
+                "resign",
+                "accepted",
+                "appointed"
+            ],
+            "adjectives": [
+                "humiliating",
+                "close",
+                "bluff",
+                "honest",
+                "well-regarded"
+            ]
+        },
+        {
+            "paragraph_id": 50,
+            "paragraph": "Unwin Peake removed himself to his seat at Starpike to brood upon the wrongs he felt he had suffered, though his aunt the Lady Clarice, his uncle Gedmund Peake the Great-Axe, Gareth Long, Victor Risley, Lucas Leygood, George Graceford, Septon Bernard, and his many other appointments did not follow him, but continued to serve in their respective offices, as did his bastard brother Ser Mervyn Flowers and his nephew Ser Amaury Peake, for Sworn Brothers of the Kingsguard serve for life. Lord Unwin even bequeathed Tessario and his Fingers to his successor; the king had his guards, he declared, and so must the Hand.",
+            "valid": 1.0,
+            "characters": [
+                "Unwin Peake",
+                "Lady Clarice",
+                "Gedmund Peake the Great-Axe",
+                "Gareth Long",
+                "Victor Risley",
+                "Lucas Leygood",
+                "George Graceford",
+                "Septon Bernard",
+                "Ser Mervyn Flowers",
+                "Ser Amaury Peake"
+            ],
+            "places": [
+                "Starpike"
+            ],
+            "events": [],
+            "verbs": [
+                "removed",
+                "brood",
+                "followed",
+                "served",
+                "bequeathed"
+            ],
+            "adjectives": [
+                "wrongs"
+            ]
+        }
+    ]
+}

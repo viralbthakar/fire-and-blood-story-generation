@@ -1,0 +1,1999 @@
+{
+    "13-The_Dying_of_the_Dragons_The_Blacks_and_the_Greens": [
+        {
+            "paragraph_id": 0,
+            "paragraph": "The Dance of the Dragons is the flowery name bestowed upon the savage internecine struggle for the Iron Throne of Westeros fought between two rival branches of House Targaryen during the years 129 to 131 AC. To characterize the dark, turbulent, bloody doings of this period as a \u201cdance\u201d strikes us as grotesquely inappropriate. No doubt the phrase originated with some singer. \u201cThe Dying of the Dragons\u201d would be altogether more fitting, but tradition, time, and Grand Maester Munkun have burned the more poetic usage into the pages of history, so we must dance along with the rest.",
+            "valid": 1.0,
+            "characters": [
+                "House Targaryen"
+            ],
+            "places": [
+                "Westeros"
+            ],
+            "events": [
+                "The Dance of the Dragons"
+            ],
+            "verbs": [
+                "dying",
+                "burned",
+                "dance"
+            ],
+            "adjectives": [
+                "savage",
+                "internecine",
+                "dark",
+                "turbulent",
+                "bloody",
+                "grotesquely",
+                "inappropriate",
+                "poetic"
+            ]
+        },
+        {
+            "paragraph_id": 1,
+            "paragraph": "There were two principal claimants to the Iron Throne upon the death of King Viserys I Targaryen: his daughter Rhaenyra, the only surviving child of his first marriage, and Aegon, his eldest son by his second wife. Amidst the chaos and carnage brought on by their rivalry, other would-be kings would stake claims as well, strutting about like mummers on a stage for a fortnight or a moon\u2019s turn, only to fall as swiftly as they had arisen.",
+            "valid": 1.0,
+            "characters": [
+                "King Viserys I Targaryen",
+                "Rhaenyra",
+                "Aegon"
+            ],
+            "places": [
+                "Iron Throne"
+            ],
+            "events": [],
+            "verbs": [
+                "stake",
+                "strutting"
+            ],
+            "adjectives": [
+                "principal",
+                "surviving",
+                "chaos",
+                "carnage"
+            ]
+        },
+        {
+            "paragraph_id": 2,
+            "paragraph": "The Dance split the Seven Kingdoms in two, as lords, knights, and smallfolk declared for one side or the other and took up arms against one another. Even House Targaryen itself was divided, when the kith, kin, and children of each of the claimants became embroiled in the fighting. Over the two years of struggle, a terrible toll was taken on the great lords of Westeros, together with their bannermen, knights, and smallfolk. Whilst the dynasty survived, the end of the fighting saw Targaryen power much diminished, and the world\u2019s last dragons vastly reduced in number.",
+            "valid": 1.0,
+            "characters": [
+                "House Targaryen",
+                "lords",
+                "knights",
+                "smallfolk"
+            ],
+            "places": [
+                "Seven Kingdoms",
+                "Westeros"
+            ],
+            "events": [
+                "The Dance"
+            ],
+            "verbs": [
+                "split",
+                "declared",
+                "took up arms against one another",
+                "became embroiled in the fighting",
+                "survived",
+                "diminished"
+            ],
+            "adjectives": [
+                "great",
+                "terrible",
+                "last"
+            ]
+        },
+        {
+            "paragraph_id": 3,
+            "paragraph": "The Dance was a war unlike any other ever fought in the long history of the Seven Kingdoms. Though armies marched and met in savage battle, much of the slaughter took place on water, and\u2026especially\u2026in the air, as dragon fought dragon with tooth and claw and flame. It was a war marked by stealth, murder, and betrayal as well, a war fought in shadows and stairwells, council chambers and castle yards with knives and lies and poison.",
+            "valid": 1.0,
+            "characters": [
+                "Seven Kingdoms"
+            ],
+            "places": [],
+            "events": [
+                "The Dance"
+            ],
+            "verbs": [
+                "marched",
+                "met",
+                "slaughter",
+                "fought",
+                "marked",
+                "fought"
+            ],
+            "adjectives": [
+                "savage",
+                "stealth",
+                "murder",
+                "betrayal",
+                "shadows"
+            ]
+        },
+        {
+            "paragraph_id": 4,
+            "paragraph": "Long simmering, the conflict burst into the open on the third day of the third moon of 129 AC, when the ailing, bedridden King Viserys I Targaryen closed his eyes for a nap in the Red Keep of King\u2019s Landing and died without waking. His body was discovered by a serving man at the hour of the bat, when it was the king\u2019s custom to take a cup of hippocras. The servant ran to inform Queen Alicent, whose apartments were on the floor below the king\u2019s.",
+            "valid": 1.0,
+            "characters": [
+                "King Viserys I Targaryen",
+                "Queen Alicent"
+            ],
+            "places": [
+                "Red Keep of King's Landing"
+            ],
+            "events": [
+                "closed his eyes for a nap",
+                "body was discovered by a serving man"
+            ],
+            "verbs": [
+                "simmering",
+                "burst",
+                "died",
+                "ran",
+                "inform"
+            ],
+            "adjectives": [
+                "ailing",
+                "bedridden"
+            ]
+        },
+        {
+            "paragraph_id": 5,
+            "paragraph": "Septon Eustace, writing on these events some years later, points out that the manservant delivered his dire tidings directly to the queen, and her alone, without raising a general alarum. Eustace does not believe this was wholly fortuitous; the king\u2019s death had been anticipated for some time, he argues, and Queen Alicent and her party, the so-called greens, had taken care to instruct all of Viserys\u2019s guards and servants in what to do when the day came.",
+            "valid": 1.0,
+            "characters": [
+                "Septon Eustace",
+                "Queen Alicent"
+            ],
+            "places": [],
+            "events": [
+                "king's death"
+            ],
+            "verbs": [
+                "delivered",
+                "raising",
+                "anticipated",
+                "instruct"
+            ],
+            "adjectives": [
+                "dire",
+                "fortuitous"
+            ]
+        },
+        {
+            "paragraph_id": 6,
+            "paragraph": "(The dwarf Mushroom suggests a more sinister scenario, whereby Queen Alicent hurried King Viserys on his way with a pinch of poison in his hippocras. It must be noted that Mushroom was not in King\u2019s Landing the night the king died, but rather on Dragonstone, in service with Princess Rhaenyra.)",
+            "valid": 1.0,
+            "characters": [
+                "Mushroom",
+                "Queen Alicent",
+                "King Viserys",
+                "Princess Rhaenyra"
+            ],
+            "places": [
+                "King's Landing",
+                "Dragonstone"
+            ],
+            "events": [
+                "hurried King Viserys on his way with a pinch of poison in his hippocras"
+            ],
+            "verbs": [
+                "suggests",
+                "noted",
+                "died"
+            ],
+            "adjectives": [
+                "sinister"
+            ]
+        },
+        {
+            "paragraph_id": 7,
+            "paragraph": "Queen Alicent went at once to the king\u2019s bedchamber, accompanied by Ser Criston Cole, Lord Commander of the Kingsguard. Once they had confirmed that Viserys was dead, Her Grace ordered his room sealed and placed under guard. The serving man who had found the king\u2019s body was taken into custody, to make certain he did not spread the tale. Ser Criston returned to White Sword Tower and sent his brothers of the Kingsguard to summon the members of the king\u2019s small council. It was the hour of the owl.",
+            "valid": 1.0,
+            "characters": [
+                "Queen Alicent",
+                "Ser Criston Cole",
+                "Lord Commander of the Kingsguard",
+                "Viserys"
+            ],
+            "places": [
+                "king's bedchamber",
+                "White Sword Tower"
+            ],
+            "events": [
+                "confirm Viserys was dead",
+                "room sealed and placed under guard",
+                "serving man taken into custody"
+            ],
+            "verbs": [
+                "went",
+                "confirmed",
+                "ordered",
+                "sealed",
+                "placed",
+                "summoned"
+            ],
+            "adjectives": [
+                "small"
+            ]
+        },
+        {
+            "paragraph_id": 8,
+            "paragraph": "Then as now, the Sworn Brotherhood of the Kingsguard consisted of seven knights, men of proven loyalty and undoubted prowess who had taken solemn oaths to devote their lives to defending the king\u2019s person and kin. Only five of the white cloaks were in King\u2019s Landing at the time of Viserys\u2019s death; Ser Criston himself, Ser Arryk Cargyll, Ser Rickard Thorne, Ser Steffon Darklyn, and Ser Willis Fell. Ser Erryk Cargyll (twin to Ser Arryk) and Ser Lorent Marbrand, with Princess Rhaenyra on Dragonstone, remained unaware and uninvolved as their brothers-in-arms went forth into the night to rouse the members of the small council from their beds.",
+            "valid": 1.0,
+            "characters": [
+                "Ser Criston",
+                "Ser Arryk Cargyll",
+                "Ser Rickard Thorne",
+                "Ser Steffon Darklyn",
+                "Ser Willis Fell",
+                "Ser Erryk Cargyll",
+                "Ser Lorent Marbrand",
+                "Princess Rhaenyra"
+            ],
+            "places": [
+                "King's Landing",
+                "Dragonstone"
+            ],
+            "events": [
+                "Viserys\u2019s death"
+            ],
+            "verbs": [
+                "consisted",
+                "devote",
+                "rrouse"
+            ],
+            "adjectives": [
+                "Sworn",
+                "proven",
+                "undoubted"
+            ]
+        },
+        {
+            "paragraph_id": 9,
+            "paragraph": "The council convened in the queen\u2019s apartments within Maegor\u2019s Holdfast. Many accounts have come down to us of what was said and done that night. By far the most detailed and authoritative of them is Grand Maester Munkun\u2019s The Dance of the Dragons, A True Telling. Though Munkun\u2019s exhaustive history was not written until a generation later, and drew on many different sorts of materials, including maesters\u2019 chronicles, memoirs, stewards\u2019 records, and interviews with one hundred forty-seven surviving witnesses to the great events of these times, his account of the inner workings of the court relies upon the confessions of Grand Maester Orwyle, as set down before his execution. Unlike Mushroom and Septon Eustace, whose versions derive from rumors, hearsay, and family legend, the Grand Maester was present at the meeting and took part in the council\u2019s deliberations and decisions\u2026though it must be recognized that at the time he wrote, Orwyle was most anxious to show himself in a favorable light and absolve himself of any blame for what was to follow. Munkun\u2019s True Telling therefore paints his predecessor in perhaps too favorable a light.",
+            "valid": 1.0,
+            "characters": [
+                "queen",
+                "Grand Maester Munkun",
+                "Grand Maester Orwyle",
+                "Mushroom",
+                "Septon Eustace"
+            ],
+            "places": [
+                "Maegor's Holdfast"
+            ],
+            "events": [
+                "convened in the queen\u2019s apartments within Maegor\u2019s Holdfast"
+            ],
+            "verbs": [
+                "said",
+                "done",
+                "wrote",
+                "took part in the council\u2019s deliberations and decisions"
+            ],
+            "adjectives": [
+                "many",
+                "detailed",
+                "authoritative",
+                "exhaustive",
+                "different sorts of materials",
+                "confessions",
+                "favorable light"
+            ]
+        },
+        {
+            "paragraph_id": 10,
+            "paragraph": "Gathering in the queen\u2019s chambers as the body of her lord husband grew cold above were Queen Alicent herself; her father, Ser Otto Hightower, Hand of the King; Ser Criston Cole, Lord Commander of the Kingsguard; Grand Maester Orwyle; Lord Lyman Beesbury, master of coin, a man of eighty; Ser Tyland Lannister, master of ships, brother to the Lord of Casterly Rock; Larys Strong, called Larys Clubfoot, Lord of Harrenhal, master of whisperers; and Lord Jasper Wylde, called Ironrod, master of laws. Grand Maester Munken dubs this gathering \u201cthe green council\u201d in his True Telling.",
+            "valid": 1.0,
+            "characters": [
+                "Queen Alicent",
+                "Ser Otto Hightower",
+                "Ser Criston Cole",
+                "Grand Maester Orwyle",
+                "Lord Lyman Beesbury",
+                "Ser Tyland Lannister",
+                "Larys Strong",
+                "Lord Jasper Wylde",
+                "Grand Maester Munken"
+            ],
+            "places": [
+                "the queen's chambers"
+            ],
+            "events": [
+                "Gathering in the queen\u2019s chambers"
+            ],
+            "verbs": [
+                "dubs"
+            ],
+            "adjectives": [
+                "cold"
+            ]
+        },
+        {
+            "paragraph_id": 11,
+            "paragraph": "Grand Maester Orwyle opened the meeting by reviewing the customary tasks and procedures required at the death of a king. He said, \u201cSepton Eustace should be summoned to perform the last rites and pray for the king\u2019s soul. A raven must needs be sent to Dragonstone at once to inform Princess Rhaenyra of her father\u2019s passing. Mayhaps Her Grace the queen would care to write the message, so as to soften these sad tidings with some words of condolence? The bells are always rung to announce the death of a king, someone should see to that, and of course we must begin to make our preparations for Queen Rhaenyra\u2019s coronation\u2014\u201d Ser Otto Hightower cut him off. \u201cAll this must needs wait,\u201d he declared, \u201cuntil the question of succession is settled.\u201d As the King\u2019s Hand, he was empowered to speak with the king\u2019s voice, even to sit the Iron Throne in the king\u2019s absence. Viserys had granted him the authority to rule over the Seven Kingdoms, and \u201cuntil such time as our new king is crowned,\u201d that rule would continue.",
+            "valid": 1.0,
+            "characters": [
+                "Grand Maester Orwyle",
+                "Septon Eustace",
+                "Princess Rhaenyra",
+                "Ser Otto Hightower",
+                "Viserys"
+            ],
+            "places": [
+                "Dragonstone"
+            ],
+            "events": [
+                "death of a king",
+                "last rites and pray for the king\u2019s soul",
+                "announce the death of a king",
+                "question of succession is settled",
+                "new king is crowned"
+            ],
+            "verbs": [
+                "opened",
+                "summoned",
+                "sent",
+                "care to write",
+                "see to that",
+                "make preparations",
+                "cut off",
+                "granted"
+            ],
+            "adjectives": [
+                "customary tasks and procedures required at the death of a king"
+            ]
+        },
+        {
+            "paragraph_id": 12,
+            "paragraph": "\u201cUntil our new queen is crowned,\u201d someone said. In Grand Maester Munkun\u2019s account, the words are Orwyle\u2019s, spoken softly, no more than a quibble. But Mushroom and Septon Eustace insist it was Lord Beesbury who spoke up, and in a waspish tone. \u201cKing,\u201d insisted Queen Alicent. \u201cThe Iron Throne by rights must pass to His Grace\u2019s eldest trueborn son.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Grand Maester Munkun",
+                "Orwyle",
+                "Mushroom",
+                "Septon Eustace",
+                "Lord Beesbury",
+                "Queen Alicent"
+            ],
+            "places": [
+                "Iron Throne"
+            ],
+            "events": [],
+            "verbs": [
+                "said",
+                "spoken",
+                "insist",
+                "pass"
+            ],
+            "adjectives": [
+                "softly",
+                "waspish"
+            ]
+        },
+        {
+            "paragraph_id": 13,
+            "paragraph": "The discussion that followed lasted nigh unto dawn, Grand Maester Munkun tells us. Mushroom and Septon Eustace concur. In their accounts, only Lord Beesbury spoke on behalf of Princess Rhaenyra. The ancient master of coin, who had served King Viserys for the majority of his reign, and his grandfather, Jaehaerys the Old King, before him, reminded the council that Rhaenyra was older than her brothers and had more Targaryen blood, that the late king had chosen her as his successor, that he had repeatedly refused to alter the succession despite the pleadings of Queen Alicent and her greens, that hundreds of lords and landed knights had done obeisance to the princess in 105 AC, and sworn solemn oaths to defend her rights. (Grand Maester Orwyle\u2019s account differs only in that he puts many of these arguments into his own mouth rather than Beesbury\u2019s, but subsequent events suggest that was not so, as we shall see.)",
+            "valid": 1.0,
+            "characters": [
+                "Grand Maester Munkun",
+                "Mushroom",
+                "Septon Eustace",
+                "Lord Beesbury",
+                "Princess Rhaenyra",
+                "King Viserys",
+                "Jaehaerys the Old King",
+                "Queen Alicent",
+                "Grand Maester Orwyle"
+            ],
+            "places": [],
+            "events": [
+                "discussion"
+            ],
+            "verbs": [
+                "followed",
+                "tells",
+                "concur",
+                "spoke",
+                "reminded",
+                "refused",
+                "altered",
+                "pleadings",
+                "done obeisance to the princess in 105 AC, and sworn solemn oaths to defend her rights."
+            ],
+            "adjectives": [
+                "nigh unto dawn"
+            ]
+        },
+        {
+            "paragraph_id": 14,
+            "paragraph": "But these words fell on ears made of stone. Ser Tyland pointed out that many of the lords who had sworn to defend the succession of Princess Rhaenyra were long dead. \u201cIt has been twenty-four years,\u201d he said. \u201cI myself swore no such oath. I was a child at the time.\u201d Ironrod, the master of laws, cited the Great Council of 101 and the Old King\u2019s choice of Baelon rather than Rhaenys in 92, then discoursed at length about Aegon the Conqueror and his sisters, and the hallowed Andal tradition wherein the rights of a trueborn son always came before the rights of a mere daughter. Ser Otto reminded them that Rhaenyra\u2019s husband was none other than Prince Daemon, and \u201cwe all know that one\u2019s nature. Make no mistake, should Rhaenyra ever sit the Iron Throne, it will be Lord Flea Bottom who rules us, a king consort as cruel and unforgiving as Maegor ever was. My own head will be the first cut off, I do not doubt, but your queen, my daughter, will soon follow.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Ser Tyland",
+                "Ironrod",
+                "Ser Otto"
+            ],
+            "places": [
+                "Great Council of 101"
+            ],
+            "events": [
+                "Princess Rhaenyra's succession",
+                "Old King's choice of Baelon in 92",
+                "Aegon the Conqueror and his sisters"
+            ],
+            "verbs": [
+                "sworn",
+                "cited",
+                "discoursed",
+                "reminded"
+            ],
+            "adjectives": [
+                "long dead",
+                "trueborn",
+                "mere",
+                "cruel",
+                "unforgiving"
+            ]
+        },
+        {
+            "paragraph_id": 15,
+            "paragraph": "Queen Alicent echoed him. \u201cNor will they spare my children,\u201d she declared. \u201cAegon and his brothers are the king\u2019s trueborn sons, with a better claim to the throne than her brood of bastards. Daemon will find some pretext to put them all to death. Even Helaena and her little ones. One of these Strongs put out Aemond\u2019s eye, never forget. He was a boy, aye, but the boy is the father to the man, and bastards are monstrous by nature.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Queen Alicent",
+                "Aegon",
+                "Daemon",
+                "Helaena",
+                "Aemond"
+            ],
+            "places": [],
+            "events": [],
+            "verbs": [
+                "echoed",
+                "declared",
+                "find",
+                "put out",
+                "forget"
+            ],
+            "adjectives": [
+                "trueborn",
+                "better",
+                "little",
+                "monstrous"
+            ]
+        },
+        {
+            "paragraph_id": 16,
+            "paragraph": "Ser Criston Cole spoke up. Should the princess reign, he reminded them, Jacaerys Velaryon would rule after her. \u201cSeven save this realm if we seat a bastard on the Iron Throne.\u201d He spoke of Rhaenyra\u2019s wanton ways and the infamy of her husband. \u201cThey will turn the Red Keep into a brothel. No man\u2019s daughter will be safe, nor any man\u2019s wife. Even the boys\u2026we know what Laenor was.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Ser Criston Cole",
+                "Jacaerys Velaryon",
+                "Rhaenyra",
+                "Laenor"
+            ],
+            "places": [
+                "Iron Throne",
+                "Red Keep"
+            ],
+            "events": [],
+            "verbs": [
+                "reign",
+                "seat",
+                "speak",
+                "turn"
+            ],
+            "adjectives": [
+                "wanton"
+            ]
+        },
+        {
+            "paragraph_id": 17,
+            "paragraph": "It is not recorded that Lord Larys Strong spoke a word during this debate, but that was not unusual. Though glib of tongue when need be, the master of whisperers hoarded his words like a miser hoarding coins, preferring to listen rather than talk.",
+            "valid": 1.0,
+            "characters": [
+                "Lord Larys Strong"
+            ],
+            "places": [],
+            "events": [
+                "debate"
+            ],
+            "verbs": [
+                "spoke",
+                "hoarded",
+                "listen",
+                "talk"
+            ],
+            "adjectives": [
+                "glib"
+            ]
+        },
+        {
+            "paragraph_id": 18,
+            "paragraph": "\u201cIf we do this,\u201d Grand Maester Orwyle cautioned the council, according to the True Telling, \u201cit must surely lead to war. The princess will not meekly stand aside, and she has dragons.\u201d \u201cAnd friends,\u201d Lord Beesbury declared. \u201cMen of honor, who will not forget the vows they swore to her and her father. I am an old man, but not so old that I will sit here meekly whilst the likes of you plot to steal her crown.\u201d And so saying, he rose to go. As to what happened next, our sources differ. Grand Maester Orwyle tells us that Lord Beesbury was seized at the door by the command of Ser Otto Hightower and escorted to the dungeons. Confined to a black cell, he would in time perish of a chill whilst awaiting trial.",
+            "valid": 1.0,
+            "characters": [
+                "Grand Maester Orwyle",
+                "Lord Beesbury",
+                "Ser Otto Hightower"
+            ],
+            "places": [],
+            "events": [
+                "seized at the door",
+                "escorted to the dungeons",
+                "confined to a black cell"
+            ],
+            "verbs": [
+                "cautioned",
+                "plot",
+                "rose",
+                "perish"
+            ],
+            "adjectives": [
+                "meekly"
+            ]
+        },
+        {
+            "paragraph_id": 19,
+            "paragraph": "Septon Eustace tells it elsewise. In his account, Ser Criston Cole forced Lord Beesbury back into his seat and opened his throat with a dagger. Mushroom charges Ser Criston with his lordship\u2019s death as well, but in his version Cole grasped the old man by the back of his collar and flung him out a window, to die impaled upon the iron spikes in the dry moat below. All three chronicles agree on one particular: the first blood shed in the Dance of the Dragons belonged to Lord Lyman Beesbury, master of coin and lord treasurer of the Seven Kingdoms.",
+            "valid": 1.0,
+            "characters": [
+                "Septon Eustace",
+                "Ser Criston Cole",
+                "Lord Beesbury",
+                "Mushroom"
+            ],
+            "places": [],
+            "events": [
+                "Dance of the Dragons"
+            ],
+            "verbs": [
+                "tells",
+                "forced",
+                "opened",
+                "charges",
+                "grasped",
+                "flung",
+                "died"
+            ],
+            "adjectives": [
+                "elsewise",
+                "old"
+            ]
+        },
+        {
+            "paragraph_id": 20,
+            "paragraph": "No further dissent was heard after the death of Lord Beesbury. The rest of the night was spent making plans for the new king\u2019s coronation (it must be done quickly, all agreed), and drawing up lists of possible allies and potential enemies, should Princess Rhaenyra refuse to accept King Aegon\u2019s ascension. With the princess in confinement on Dragonstone, about to give birth, Queen Alicent\u2019s greens enjoyed an advantage; the longer Rhaenyra remained ignorant of the king\u2019s death, the slower she would be to move. \u201cMayhaps the whore will die in childbirth,\u201d Queen Alicent is reported to have said (according to Mushroom).",
+            "valid": 1.0,
+            "characters": [
+                "Lord Beesbury",
+                "King Aegon",
+                "Princess Rhaenyra",
+                "Queen Alicent",
+                "Mushroom"
+            ],
+            "places": [
+                "Dragonstone"
+            ],
+            "events": [
+                "coronation"
+            ],
+            "verbs": [
+                "heard",
+                "spent",
+                "agreed",
+                "refuse",
+                "remained",
+                "said"
+            ],
+            "adjectives": [
+                "further",
+                "quickly",
+                "possible",
+                "potential",
+                "enjoyed",
+                "longer",
+                "slower"
+            ]
+        },
+        {
+            "paragraph_id": 21,
+            "paragraph": "No ravens flew that night. No bells rang. Those servants who knew of the king\u2019s passing were sent to the dungeons. Ser Criston Cole was given the task of taking into custody such blacks as remained at court, those lords and knights who might be inclined to favor Princess Rhaenyra. \u201cDo them no violence, unless they resist,\u201d Ser Otto Hightower commanded. \u201cSuch men as bend the knee and swear fealty to King Aegon shall suffer no harm at our hands.\u201d \u201cAnd those who will not?\u201d asked Grand Maester Orwyle. \u201cAre traitors,\u201d said Ironrod, \u201cand must die a traitor\u2019s death.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Ser Criston Cole",
+                "Ser Otto Hightower",
+                "Grand Maester Orwyle",
+                "Ironrod"
+            ],
+            "places": [
+                "court"
+            ],
+            "events": [
+                "king's passing"
+            ],
+            "verbs": [
+                "flew",
+                "rang",
+                "sent",
+                "given",
+                "take into custody",
+                "bend the knee",
+                "swear fealty",
+                "suffer no harm",
+                "die a traitor's death"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 22,
+            "paragraph": "Lord Larys Strong, master of whisperers, then spoke for the first and only time. \u201cLet us be the first to swear,\u201d he said, \u201clest there be traitors here amongst us.\u201d Drawing his dagger, the Clubfoot drew it across his palm. \u201cA blood oath,\u201d he urged, \u201cto bind us all together, brothers unto death.\u201d And so each of the conspirators slashed their palms and clasped hands with one another, swearing brotherhood. Queen Alicent alone amongst them was excused from the oath, on account of her womanhood.",
+            "valid": 1.0,
+            "characters": [
+                "Lord Larys Strong",
+                "Clubfoot",
+                "Queen Alicent"
+            ],
+            "places": [],
+            "events": [
+                "blood oath"
+            ],
+            "verbs": [
+                "spoke",
+                "swear",
+                "drawing",
+                "urged",
+                "slashed",
+                "clasped"
+            ],
+            "adjectives": [
+                "first",
+                "only",
+                "traitors",
+                "brotherhood"
+            ]
+        },
+        {
+            "paragraph_id": 23,
+            "paragraph": "Dawn was breaking over the city before Queen Alicent dispatched the Kingsguard to bring her sons Aegon and Aemond to the council. (Prince Daeron, the youngest and gentlest of her children, was in Oldtown, serving as Lord Hightower\u2019s squire.) One-eyed Prince Aemond, nineteen, was found in the armory, donning plate and mail for his morning practice in the castle yard. \u201cIs Aegon king?\u201d he asked Ser Willis Fell, \u201cor must we kneel and kiss the old whore\u2019s cunny?\u201d Princess Helaena was breaking her fast with her children when the Kingsguard came to her\u2026but when asked the whereabouts of Prince Aegon, her brother and husband, she said only, \u201cHe is not in my bed, you may be sure. Feel free to search beneath the blankets.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Queen Alicent",
+                "Aegon",
+                "Aemond",
+                "Prince Daeron",
+                "Lord Hightower",
+                "Ser Willis Fell",
+                "Princess Helaena"
+            ],
+            "places": [
+                "city",
+                "Oldtown",
+                "armory",
+                "castle yard"
+            ],
+            "events": [
+                "breaking of dawn",
+                "dispatching of Kingsguard"
+            ],
+            "verbs": [
+                "donning",
+                "breaking",
+                "asked",
+                "searching"
+            ],
+            "adjectives": [
+                "gentlest",
+                "one-eyed"
+            ]
+        },
+        {
+            "paragraph_id": 24,
+            "paragraph": "Prince Aegon was \u201cat his revels,\u201d Munkun says in his True Telling, vaguely. The Testimony of Mushroom claims Ser Criston found the young king-to-be drunk and naked in a Flea Bottom rat pit, where two guttersnipes with filed teeth were biting and tearing at each other for his amusement whilst a girl who could not have been more than twelve pleasured his member with her mouth. Let us put that ugly picture down to Mushroom being Mushroom, however, and consider instead the words of Septon Eustace.",
+            "valid": 1.0,
+            "characters": [
+                "Prince Aegon",
+                "Munkun",
+                "Ser Criston",
+                "Mushroom",
+                "Septon Eustace"
+            ],
+            "places": [
+                "Flea Bottom"
+            ],
+            "events": [],
+            "verbs": [
+                "revels",
+                "found",
+                "biting",
+                "tearing",
+                "pleasured"
+            ],
+            "adjectives": [
+                "vaguely",
+                "drunk",
+                "naked"
+            ]
+        },
+        {
+            "paragraph_id": 25,
+            "paragraph": "Though the good septon admits Prince Aegon was with a paramour when he was found, he insists the girl was the daughter of a wealthy trader, and well cared for besides. Moreover, the prince at first refused to be a part of his mother\u2019s plans. \u201cMy sister is the heir, not me,\u201d he says in Eustace\u2019s account. \u201cWhat sort of brother steals his sister\u2019s birthright?\u201d Only when Ser Criston convinced him that the princess must surely execute him and his brothers should she don the crown did Aegon waver. \u201cWhilst any trueborn Targaryen yet lives, no Strong can ever hope to sit the Iron Throne,\u201d Cole said. \u201cRhaenyra has no choice but to take your heads if she wishes her bastards to rule after her.\u201d It was this, and only this, that persuaded Aegon to accept the crown that the small council was offering him, insists our gentle septon.",
+            "valid": 1.0,
+            "characters": [
+                "Prince Aegon",
+                "paramour",
+                "daughter",
+                "Ser Criston",
+                "Cole"
+            ],
+            "places": [],
+            "events": [],
+            "verbs": [
+                "admits",
+                "insists",
+                "says",
+                "convinced",
+                "hopes",
+                "wishes",
+                "persuaded",
+                "accept"
+            ],
+            "adjectives": [
+                "good",
+                "wealthy",
+                "trueborn"
+            ]
+        },
+        {
+            "paragraph_id": 26,
+            "paragraph": "Whilst the knights of the Kingsguard were seeking after Queen Alicent\u2019s sons, other messengers summoned the Commander of the City Watch and his captains (there were seven, each commanding one of the city gates) to the Red Keep. Five were judged sympathetic to Prince Aegon\u2019s cause when questioned. The other two, along with their commander, were deemed untrustworthy, and found themselves in chains. Ser Luthor Largent, the most fearsome of the \u201cleal five,\u201d was made the new commander of the gold cloaks. A bull of a man, nigh on seven feet tall, Largent was rumored to have once killed a warhorse with a single punch. Ser Otto being a prudent man, however, he took care to name his own son Ser Gwayne Hightower (the queen\u2019s brother) as Largent\u2019s second, instructing him to keep a wary eye on Ser Luthor for any signs of disloyalty.",
+            "valid": 1.0,
+            "characters": [
+                "Queen Alicent",
+                "Prince Aegon",
+                "Ser Luthor Largent",
+                "Ser Otto",
+                "Ser Gwayne Hightower"
+            ],
+            "places": [
+                "Red Keep"
+            ],
+            "events": [
+                "summoned the Commander of the City Watch and his captains",
+                "Five were judged sympathetic to Prince Aegon\u2019s cause when questioned",
+                "The other two, along with their commander, were deemed untrustworthy, and found themselves in chains",
+                "Ser Luthor Largent was made the new commander of the gold cloaks"
+            ],
+            "verbs": [
+                "seeking",
+                "summoned",
+                "judged",
+                "deemed",
+                "made"
+            ],
+            "adjectives": [
+                "fearsome",
+                "prudent"
+            ]
+        },
+        {
+            "paragraph_id": 27,
+            "paragraph": "Ser Tyland Lannister was named master of coin in place of the late Lord Beesbury, and acted at once to seize the royal treasury. The Crown\u2019s gold was divided into four parts. One part was entrusted to the care of the Iron Bank of Braavos for safekeeping, another sent under strong guard to Casterly Rock, a third to Oldtown. The remaining wealth was to be used for bribes and gifts, and to hire sellswords if needed. To take Ser Tyland\u2019s place as master of ships, Ser Otto looked to the Iron Islands, dispatching a raven to Dalton Greyjoy, the Red Kraken, the daring and bloodthirsty sixteen-year-old Lord Reaper of Pyke, offering him the admiralty and a seat on the council for his allegiance.",
+            "valid": 1.0,
+            "characters": [
+                "Tyland Lannister",
+                "Lord Beesbury",
+                "Iron Bank of Braavos",
+                "Casterly Rock",
+                "Oldtown",
+                "Ser Otto",
+                "Dalton Greyjoy",
+                "Red Kraken"
+            ],
+            "places": [
+                "Braavos",
+                "Casterly Rock",
+                "Oldtown",
+                "Pyke"
+            ],
+            "events": [
+                "seize the royal treasury",
+                "divide the Crown's gold into four parts"
+            ],
+            "verbs": [
+                "named",
+                "acted",
+                "entrusted",
+                "sent",
+                "used",
+                "hire",
+                "dispatching"
+            ],
+            "adjectives": [
+                "late",
+                "strong",
+                "daring",
+                "bloodthirsty"
+            ]
+        },
+        {
+            "paragraph_id": 28,
+            "paragraph": "A day passed, then another. Neither septons nor silent sisters were summoned to the bedchamber where King Viserys lay, swollen and rotting. No bells rang. Ravens flew, but not to Dragonstone. They went instead to Oldtown, to Casterly Rock, to Riverrun, to Highgarden, and to many other lords and knights whom Queen Alicent had cause to think might be sympathetic to her son.",
+            "valid": 1.0,
+            "characters": [
+                "King Viserys",
+                "Queen Alicent"
+            ],
+            "places": [
+                "Oldtown",
+                "Casterly Rock",
+                "Riverrun",
+                "Highgarden"
+            ],
+            "events": [
+                "summoned to the bedchamber"
+            ],
+            "verbs": [
+                "passed",
+                "were summoned",
+                "rang",
+                "flew"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 29,
+            "paragraph": "The annals of the Great Council of 101 were brought forth and examined, and note was made of which lords had spoken for Viserys, and which for Rhaenys, Laena, or Laenor. The lords assembled had favored the male claimant over the female by twenty to one, but there had been dissenters, and those same houses were most like to lend Princess Rhaenyra their support should it come to war. The princess would have the Sea Snake and his fleets, Ser Otto judged, and like as not the other lords of the eastern shores as well: Lords Bar Emmon, Massey, Celtigar, and Crabb most like, perhaps even the Evenstar of Tarth. All were lesser powers, save for the Velaryons. The northmen were a greater concern: Winterfell had spoken for Rhaenys at Harrenhal, as had Lord Stark\u2019s bannermen, Dustin of Barrowton and Manderly of White Harbor. Nor could House Arryn be relied upon, for the Eyrie was presently ruled by a woman, Lady Jeyne, the Maiden of the Vale, whose own rights might be called into question should Princess Rhaenyra be put aside.",
+            "valid": 1.0,
+            "characters": [
+                "Viserys",
+                "Rhaenys",
+                "Laena",
+                "Laenor",
+                "Sea Snake",
+                "Ser Otto",
+                "Lords Bar Emmon",
+                "Massey",
+                "Celtigar",
+                "Crabb",
+                "Evenstar of Tarth",
+                "Lord Stark",
+                "Dustin of Barrowton",
+                "Manderly of White Harbor",
+                "House Arryn",
+                "Lady Jeyne"
+            ],
+            "places": [
+                "Great Council of 101",
+                "Harrenhal",
+                "Winterfell",
+                "Barrowton",
+                "White Harbor",
+                "Eyrie"
+            ],
+            "events": [
+                "examined annals of Great Council"
+            ],
+            "verbs": [
+                "spoken for Viserys, favored male claimant, lent support, have fleets"
+            ],
+            "adjectives": [
+                "greater concern, lesser powers"
+            ]
+        },
+        {
+            "paragraph_id": 30,
+            "paragraph": "The greatest danger was deemed to be Storm\u2019s End, for House Baratheon had always been staunch in support of the claims of Princess Rhaenys and her children. Though old Lord Boremund had died, his son Borros was even more belligerent than his father, and the lesser storm lords would surely follow wherever he led. \u201cThen we must see that he leads them to our king,\u201d Queen Alicent declared. Whereupon she sent for her second son.",
+            "valid": 1.0,
+            "characters": [
+                "Storm\u2019s End",
+                "House Baratheon",
+                "Princess Rhaenys",
+                "Lord Boremund",
+                "Borros"
+            ],
+            "places": [
+                "Storm\u2019s End"
+            ],
+            "events": [],
+            "verbs": [
+                "deemed",
+                "had",
+                "follow",
+                "declared",
+                "sent"
+            ],
+            "adjectives": [
+                "greatest",
+                "staunch",
+                "old",
+                "belligerent"
+            ]
+        },
+        {
+            "paragraph_id": 31,
+            "paragraph": "Thus it was not a raven who took flight for Storm\u2019s End that day, but Vhagar, oldest and largest of the dragons of Westeros. On her back rode Prince Aemond Targaryen, with a sapphire in the place of his missing eye. \u201cYour purpose is to win the hand of one of Lord Baratheon\u2019s daughters,\u201d his grandsire Ser Otto told him, before he flew. \u201cAny of the four will do. Woo her and wed her, and Lord Borros will deliver the stormlands for your brother. Fail\u2014\u201d \u201cI will not fail,\u201d Prince Aemond blustered. \u201cAegon will have Storm\u2019s End, and I will have this girl.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Vhagar",
+                "Prince Aemond Targaryen",
+                "Ser Otto",
+                "Lord Baratheon",
+                "Lord Borros"
+            ],
+            "places": [
+                "Storm's End",
+                "Westeros"
+            ],
+            "events": [
+                "took flight for Storm\u2019s End that day"
+            ],
+            "verbs": [
+                "took flight",
+                "woo",
+                "wed",
+                "deliver"
+            ],
+            "adjectives": [
+                "oldest",
+                "largest",
+                "missing",
+                "blustered"
+            ]
+        },
+        {
+            "paragraph_id": 32,
+            "paragraph": "By the time Prince Aemond took his leave, the stink from the dead king\u2019s bedchamber had wafted all through Maegor\u2019s Holdfast, and many wild tales and rumors were spreading through the court and castle. The dungeons under the Red Keep had swallowed up so many men suspected of disloyalty that even the High Septon had begun to wonder at these disappearances, and sent word from the Starry Sept of Oldtown asking after some of the missing. Ser Otto Hightower, as methodical a man as ever served as Hand, wanted more time to make preparations, but Queen Alicent knew they could delay no longer. Prince Aegon had grown weary of secrecy. \u201cAm I a king or no?\u201d he demanded of his mother. \u201cIf I am king, then crown me.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Prince Aemond",
+                "King",
+                "High Septon",
+                "Ser Otto Hightower",
+                "Queen Alicent",
+                "Prince Aegon"
+            ],
+            "places": [
+                "Maegor's Holdfast",
+                "Red Keep",
+                "Oldtown"
+            ],
+            "events": [
+                "took his leave",
+                "spread wild tales and rumors",
+                "swallowed up men suspected of disloyalty",
+                "sent word from the Starry Sept of Oldtown asking after some of the missing",
+                "wanted more time to make preparations",
+                "demanded if he was king or no"
+            ],
+            "verbs": [
+                "wafted",
+                "spreading",
+                "swallowed up",
+                "sent word from the Starry Sept of Oldtown asking after some of the missing",
+                "wanted more time to make preparations"
+            ],
+            "adjectives": [
+                "dead king's bedchamber had wafted all through Maegor\u2019s Holdfast, and many wild tales and rumors were spreading through the court and castle.",
+                "methodical"
+            ]
+        },
+        {
+            "paragraph_id": 33,
+            "paragraph": "The bells began to ring on the tenth day of the third moon of 129 AC, tolling the end of a reign. Grand Maester Orwyle was at last allowed to send forth his ravens, and the black birds took to the air by the hundreds, spreading the word of Aegon\u2019s ascension to every far corner of the realm. The silent sisters were sent for, to prepare the corpse for burning, and riders went forth on pale horses to spread the word to the people of King\u2019s Landing, crying \u201cKing Viserys is dead, long live King Aegon.\u201d Hearing the cries, Munkun writes, some wept whilst others cheered, but most of the smallfolk stared in silence, confused and wary, and now and again a voice cried out, \u201cLong live our queen.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Grand Maester Orwyle",
+                "Aegon",
+                "Viserys",
+                "Munkun"
+            ],
+            "places": [
+                "King's Landing"
+            ],
+            "events": [
+                "the end of a reign",
+                "Aegon's ascension",
+                "prepare the corpse for burning"
+            ],
+            "verbs": [
+                "ringing",
+                "sending forth",
+                "spreading the word",
+                "crying"
+            ],
+            "adjectives": [
+                "silent",
+                "pale"
+            ]
+        },
+        {
+            "paragraph_id": 34,
+            "paragraph": "Meanwhile, hurried preparations were made for the coronation. The Dragonpit was chosen as the site. Under its mighty dome were stone benches sufficient to seat eighty thousand, and the pit\u2019s thick walls, strong roof, and towering bronze doors made it defensible, should traitors attempt to disrupt the ceremony.",
+            "valid": 1.0,
+            "characters": [],
+            "places": [
+                "Dragonpit"
+            ],
+            "events": [
+                "coronation"
+            ],
+            "verbs": [
+                "preparations",
+                "made",
+                "chosen",
+                "seat",
+                "defensible"
+            ],
+            "adjectives": [
+                "hurried",
+                "mighty",
+                "sufficient",
+                "thick",
+                "strong",
+                "towering"
+            ]
+        },
+        {
+            "paragraph_id": 35,
+            "paragraph": "On the appointed day Ser Criston Cole placed the iron-and-ruby crown of Aegon the Conqueror upon the brow of the eldest son of King Viserys and Queen Alicent, proclaiming him Aegon of House Targaryen, Second of His Name, King of the Andals, the Rhoynar, and the First Men, Lord of the Seven Kingdoms, and Protector of the Realm. His mother, Queen Alicent, beloved of the smallfolk, placed her own crown upon the head of her daughter, Helaena, Aegon\u2019s wife and sister. After kissing her cheeks, the mother knelt before the daughter, bowed her head, and said, \u201cMy Queen.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Ser Criston Cole",
+                "Aegon the Conqueror",
+                "King Viserys",
+                "Queen Alicent",
+                "Aegon of House Targaryen",
+                "Second of His Name, King of the Andals, the Rhoynar, and the First Men, Lord of the Seven Kingdoms, and Protector of the Realm.",
+                "Helaena"
+            ],
+            "places": [
+                "Seven Kingdoms"
+            ],
+            "events": [
+                "placed iron-and-ruby crown upon brow",
+                "placed own crown upon head",
+                "kneeled before daughter",
+                "bowed head"
+            ],
+            "verbs": [
+                "proclaimed",
+                "placed",
+                "kissed",
+                "said"
+            ],
+            "adjectives": [
+                "appointed",
+                "beloved"
+            ]
+        },
+        {
+            "paragraph_id": 36,
+            "paragraph": "How many came to see the crowning remains a matter of dispute. Grand Maester Munkun, drawing upon Orwyle, tells us that more than a hundred thousand smallfolk jammed into the Dragonpit, their cheers so loud they shook the very walls, whilst Mushroom says the stone benches were half-filled. With the High Septon in Oldtown, too old and frail to journey to King\u2019s Landing, it fell to Septon Eustace to anoint King Aegon\u2019s brow with holy oils, and bless him in the seven names of god.",
+            "valid": 1.0,
+            "characters": [
+                "Grand Maester Munkun",
+                "Orwyle",
+                "Mushroom",
+                "High Septon",
+                "Septon Eustace",
+                "King Aegon"
+            ],
+            "places": [
+                "Dragonpit",
+                "Oldtown",
+                "King's Landing"
+            ],
+            "events": [
+                "crowning"
+            ],
+            "verbs": [
+                "jammed",
+                "cheers",
+                "shook",
+                "filled",
+                "anoint",
+                "bless"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 37,
+            "paragraph": "A few of those in attendance, with sharper eyes than most, might have noticed that there were but four white cloaks in attendance on the new king, not five as heretofore. Aegon II had suffered his first defections the night before, when Ser Steffon Darklyn of the Kingsguard had slipped from the city with his squire, two stewards, and four guardsmen. Under the cover of darkness they made their way out a postern gate to where a fisherman\u2019s skiff awaited to take them to Dragonstone. They brought with them a stolen crown: a band of yellow gold ornamented with seven gems of different colors. This was the crown King Viserys had worn, and the Old King Jaehaerys before him. When Prince Aegon had decided to wear the iron-and-ruby crown of his namesake, the Conqueror, Queen Alicent had ordered Viserys\u2019s crown locked away, but the steward entrusted with the task had made off with it instead.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon II",
+                "Ser Steffon Darklyn",
+                "squire",
+                "stewards",
+                "guardsmen",
+                "King Viserys",
+                "Old King Jaehaerys",
+                "Prince Aegon",
+                "Conqueror",
+                "Queen Alicent"
+            ],
+            "places": [
+                "city",
+                "postern gate",
+                "Dragonstone"
+            ],
+            "events": [
+                "defections"
+            ],
+            "verbs": [
+                "noticed",
+                "slipped",
+                "made their way out",
+                "brought with them"
+            ],
+            "adjectives": [
+                "sharpers eyes than most",
+                "white cloaks",
+                "stolen crown"
+            ]
+        },
+        {
+            "paragraph_id": 38,
+            "paragraph": "After the coronation, the remaining Kingsguard escorted Aegon to his mount, a splendid creature with gleaming golden scales and pale pink wing membranes. \u201cSunfyre\u201d was the name given this dragon of the golden dawn. Munkun tells us the king flew thrice around the city before landing inside the walls of the Red Keep. Ser Arryk Cargyll led His Grace into the torchlit throne room, where Aegon II mounted the steps of the Iron Throne before a thousand lords and knights. Shouts rang through the hall.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon",
+                "Munkun",
+                "Ser Arryk Cargyll"
+            ],
+            "places": [
+                "Red Keep"
+            ],
+            "events": [
+                "coronation"
+            ],
+            "verbs": [
+                "escorted",
+                "given",
+                "flew",
+                "mounted",
+                "shouts"
+            ],
+            "adjectives": [
+                "splendid",
+                "gleaming",
+                "golden",
+                "pale pink",
+                "torchlit"
+            ]
+        },
+        {
+            "paragraph_id": 39,
+            "paragraph": "On Dragonstone, no cheers were heard. Instead, screams echoed through the halls and stairwells of Sea Dragon Tower, down from the queen\u2019s apartments where Rhaenyra Targaryen strained and shuddered in her third day of labor. The child had not been due for another turn of the moon, but the tidings from King\u2019s Landing had driven the princess into a black fury, and her rage seemed to bring on the birth, as if the babe inside her were angry too, and fighting to get out. The princess shrieked curses all through her labor, calling down the wrath of the gods upon her half-brothers and their mother, the queen, and detailing the torments she would inflict upon them before she would let them die. She cursed the child inside her too, Mushroom tells us, clawing at her swollen belly as Maester Gerardys and her midwife tried to restrain her and shouting, \u201cMonster, monster, get out, get out, GET OUT!\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Rhaenyra Targaryen",
+                "Mushroom"
+            ],
+            "places": [
+                "Dragonstone",
+                "Sea Dragon Tower",
+                "King's Landing"
+            ],
+            "events": [
+                "labor"
+            ],
+            "verbs": [
+                "strained",
+                "shuddered",
+                "cursed",
+                "clawing",
+                "restrain",
+                "shouting"
+            ],
+            "adjectives": [
+                "black fury",
+                "angry"
+            ]
+        },
+        {
+            "paragraph_id": 40,
+            "paragraph": "When the babe at last came forth, she proved indeed a monster: a stillborn girl, twisted and malformed, with a hole in her chest where her heart should have been, and a stubby, scaled tail. Or so Mushroom describes her. The dwarf tells us that it was he who carried the little thing to the yard for burning. The dead girl had been named Visenya, Princess Rhaenyra announced the next day, when milk of the poppy had blunted the edge of her pain. \u201cShe was my only daughter, and they killed her. They stole my crown and murdered my daughter, and they shall answer for it.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "babe",
+                "monster",
+                "Mushroom",
+                "dwarf",
+                "Visenya",
+                "Princess Rhaenyra"
+            ],
+            "places": [
+                "yard"
+            ],
+            "events": [
+                "burning"
+            ],
+            "verbs": [
+                "came forth",
+                "proved",
+                "carried",
+                "announced",
+                "killed",
+                "stole",
+                "murdered",
+                "shall answer"
+            ],
+            "adjectives": [
+                "stillborn",
+                "twisted",
+                "malformed"
+            ]
+        },
+        {
+            "paragraph_id": 41,
+            "paragraph": "And so the Dance began, as the princess called a council of her own. \u201cThe black council,\u201d the True Telling names that gathering on Dragonstone, setting it against the \u201cgreen council\u201d of King\u2019s Landing. Rhaenyra herself presided, seated between her uncle and husband, Prince Daemon, and her trusted counselor, Maester Gerardys. Her three sons were present with them, though none had reached the age of manhood (Jace was fourteen, Luke thirteen, Joffrey eleven). Two Kingsguard stood with them: Ser Erryk Cargyll, twin to Ser Arryk, and the westerman, Ser Lorent Marbrand.",
+            "valid": 1.0,
+            "characters": [
+                "Rhaenyra",
+                "Prince Daemon",
+                "Maester Gerardys",
+                "Jace",
+                "Luke",
+                "Joffrey",
+                "Ser Erryk Cargyll",
+                "Ser Arryk",
+                "Ser Lorent Marbrand"
+            ],
+            "places": [
+                "Dragonstone",
+                "King's Landing"
+            ],
+            "events": [
+                "The black council"
+            ],
+            "verbs": [
+                "called",
+                "presided",
+                "stood"
+            ],
+            "adjectives": [
+                "own",
+                "true",
+                "trusted"
+            ]
+        },
+        {
+            "paragraph_id": 42,
+            "paragraph": "Thirty knights, a hundred crossbowmen, and three hundred men-at- arms made up the rest of Dragonstone\u2019s garrison. That had always been deemed sufficient for a fortress of such strength. \u201cAs an instrument of conquest, however, our army leaves something to be desired,\u201d Prince Daemon observed sourly.",
+            "valid": 1.0,
+            "characters": [
+                "Prince Daemon"
+            ],
+            "places": [
+                "Dragonstone"
+            ],
+            "events": [],
+            "verbs": [
+                "made up",
+                "deemed",
+                "observed"
+            ],
+            "adjectives": [
+                "thirty",
+                "hundred",
+                "three hundred",
+                "sufficient",
+                "strong",
+                "sourly"
+            ]
+        },
+        {
+            "paragraph_id": 43,
+            "paragraph": "A dozen lesser lords, bannermen and vassals to Dragonstone, sat at the black council as well: Celtigar of Claw Isle, Staunton of Rook\u2019s Rest, Massey of Stonedance, Bar Emmon of Sharp Point, and Darklyn of Duskendale amongst them. But the greatest lord to pledge his strength to the princess was Corlys Velaryon of Driftmark. Though the Sea Snake had grown old, he liked to say that he was clinging to life \u201clike a drowning sailor clinging to the wreckage of a sunken ship. Mayhaps the Seven have preserved me for this one last fight.\u201d With Lord Corlys came his wife, Princess Rhaenys, five-and-fifty, her face lean and lined, her black hair streaked with white, yet fierce and fearless as she had been at two-and-twenty. \u201cThe Queen Who Never Was,\u201d Mushroom calls her. (\u201cWhat did Viserys ever have that she did not? A little sausage? Is that all it takes to be a king? Let Mushroom rule, then. My sausage is thrice the size of his.\u201d)",
+            "valid": 1.0,
+            "characters": [
+                "Celtigar",
+                "Staunton",
+                "Massey",
+                "Bar Emmon",
+                "Darklyn",
+                "Corlys Velaryon",
+                "Princess Rhaenys",
+                "Mushroom"
+            ],
+            "places": [
+                "Dragonstone",
+                "Claw Isle",
+                "Rook\u2019s Rest",
+                "Stonedance",
+                "Sharp Point",
+                "Duskendale",
+                "Driftmark"
+            ],
+            "events": [],
+            "verbs": [
+                "pledge",
+                "clinging"
+            ],
+            "adjectives": [
+                "lesser",
+                "old",
+                "lean",
+                "lined",
+                "black"
+            ]
+        },
+        {
+            "paragraph_id": 44,
+            "paragraph": "Those who sat at the black council counted themselves loyalists, but knew full well that King Aegon II would name them traitors. Each had already received a summons from King\u2019s Landing, demanding they present themselves at the Red Keep to swear oaths of loyalty to the new king. All their hosts combined could not match the power the Hightowers alone could field. Aegon\u2019s greens enjoyed other advantages as well. Oldtown, King\u2019s Landing, and Lannisport were the largest and richest cities in the realm; all three were held by greens. Every visible symbol of legitimacy belonged to Aegon. He sat the Iron Throne. He lived in the Red Keep. He wore the Conqueror\u2019s crown, wielded the Conqueror\u2019s sword, and had been anointed by a septon of the Faith before the eyes of tens of thousands. Grand Maester Orwyle sat in his councils, and the Lord Commander of the Kingsguard had placed the crown upon his princely head. And he was male, which in the eyes of many made him the rightful king, his half-sister the usurper.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon II",
+                "Hightowers",
+                "Aegon's greens",
+                "Oldtown",
+                "King's Landing",
+                "Lannisport",
+                "Grand Maester Orwyle",
+                "Lord Commander of the Kingsguard"
+            ],
+            "places": [
+                "black council",
+                "Red Keep",
+                "Iron Throne"
+            ],
+            "events": [
+                "swear oaths of loyalty"
+            ],
+            "verbs": [
+                "counted",
+                "received",
+                "match",
+                "enjoyed",
+                "held",
+                "sat",
+                "lived",
+                "wielded",
+                "anointed"
+            ],
+            "adjectives": [
+                "loyalists",
+                "summonses",
+                "powerfull",
+                "richest"
+            ]
+        },
+        {
+            "paragraph_id": 45,
+            "paragraph": "Against all that, Rhaenyra\u2019s advantages were few. Some older lords might yet recall the oaths they had sworn when she was made Princess of Dragonstone and named her father\u2019s heir. There had been a time when she had been well loved by highborn and commons alike, when they had cheered her as the Realm\u2019s Delight. Many a young lord and noble knight had sought her favor then\u2026though how many would still fight for her, now that she was a woman wed, her body aged and thickened by six childbirths, was a question none could answer. Though her half-brother had looted their father\u2019s treasury, the princess had at her disposal the wealth of House Velaryon, and the Sea Snake\u2019s fleets gave her superiority at sea. And her consort, Prince Daemon, tried and tempered in the Stepstones, had more experience of warfare than all their foes combined. Last, but far from least, Rhaenyra had her dragons. \u201cAs does Aegon,\u201d Maester Gerardys pointed out.",
+            "valid": 1.0,
+            "characters": [
+                "Rhaenyra",
+                "Prince Daemon",
+                "Aegon",
+                "Maester Gerardys"
+            ],
+            "places": [
+                "Dragonstone",
+                "Stepstones"
+            ],
+            "events": [],
+            "verbs": [
+                "sworn",
+                "cheered",
+                "fought",
+                "looted"
+            ],
+            "adjectives": [
+                "older",
+                "well loved",
+                "highborn",
+                "noble",
+                "young",
+                "thickened"
+            ]
+        },
+        {
+            "paragraph_id": 46,
+            "paragraph": "\u201cWe have more,\u201d said Princess Rhaenys, the Queen Who Never Was, who had been a dragonrider longer than all of them. \u201cAnd ours are larger and stronger, but for Vhagar. Dragons thrive best here on Dragonstone.\u201d She enumerated for the council. King Aegon had his Sunfyre. A splendid beast, though young. Aemond One-Eye rode Vhagar, and the peril posed by Queen Visenya\u2019s mount could not be gainsaid. Queen Helaena\u2019s mount was Dreamfyre, the she-dragon who had once borne the Old King\u2019s sister Rhaena through the clouds. Prince Daeron\u2019s dragon was Tessarion, with her wings dark as cobalt and her claws and crest and belly scales as bright as beaten copper. \u201cThat makes four dragons of fighting size,\u201d said Rhaenys. Queen Helaena\u2019s twins had their own dragons too, but no more than hatchlings; the usurper\u2019s youngest son, Maelor, was possessed only of an egg. Against that, Prince Daemon had Caraxes and Princess Rhaenyra Syrax, both huge and formidable beasts. Caraxes especially was fearsome, and no stranger to blood and fire after the Stepstones.",
+            "valid": 1.0,
+            "characters": [
+                "Princess Rhaenys",
+                "Queen Who Never Was",
+                "King Aegon",
+                "Aemond One-Eye",
+                "Queen Visenya",
+                "Queen Helaena",
+                "Prince Daeron",
+                "Rhaena",
+                "Helaena's twins",
+                "Prince Daemon",
+                "Princess Rhaenyra"
+            ],
+            "places": [
+                "Dragonstone"
+            ],
+            "events": [],
+            "verbs": [
+                "thrive",
+                "enumerated",
+                "posed"
+            ],
+            "adjectives": [
+                "splendid",
+                "perilous",
+                "formidable"
+            ]
+        },
+        {
+            "paragraph_id": 47,
+            "paragraph": "Rhaenyra\u2019s three sons by Laenor Velaryon were all dragonriders; Vermax, Arrax, and Tyraxes were thriving, and growing larger every year. Aegon the Younger, eldest of Rhaenyra\u2019s two sons by Prince Daemon, commanded the young dragon Stormcloud, though he had yet to mount him; his little brother, Viserys, went everywhere with his egg. Rhaenys\u2019s own she-dragon, Meleys the Red Queen, had grown lazy, but remained fearsome when roused. Prince Daemon\u2019s twins by Laena Velaryon might yet be dragonriders too. Baela\u2019s dragon, the slender pale green Moondancer, would soon be large enough to bear the girl upon her back\u2026and though her sister Rhaena\u2019s egg had hatched a broken thing that died within hours of emerging from the egg, Syrax had recently produced another clutch. One of her eggs had been given to Rhaena, and it was said that the girl slept with it every night, and prayed for a dragon to match her sister\u2019s.",
+            "valid": 1.0,
+            "characters": [
+                "Rhaenyra",
+                "Laenor Velaryon",
+                "Vermax",
+                "Arrax",
+                "Tyraxes",
+                "Aegon the Younger",
+                "Stormcloud",
+                "Viserys",
+                "Meleys the Red Queen",
+                "Prince Daemon",
+                "Laena Velaryon",
+                "Baela",
+                "Moondancer",
+                "Rhaena",
+                "Syrax"
+            ],
+            "places": [],
+            "events": [],
+            "verbs": [
+                "thriving",
+                "growing larger",
+                "commanding",
+                "mounting him"
+            ],
+            "adjectives": [
+                "lazy",
+                "fearsome"
+            ]
+        },
+        {
+            "paragraph_id": 48,
+            "paragraph": "Moreover, six other dragons made their lairs in the smoky caverns of the Dragonmont above the castle. There was Silverwing, Good Queen Alysanne\u2019s mount of old; Seasmoke, the pale grey beast that had been the pride and passion of Ser Laenor Velaryon; hoary old Vermithor, unridden since the death of King Jaehaerys. And behind the mountain dwelled three wild dragons, never claimed nor ridden by any man, living or dead. The smallfolk had named them Sheepstealer, Grey Ghost, and the Cannibal. \u201cFind riders to master Silverwing, Vermithor, and Seasmoke, and we will have nine dragons against Aegon\u2019s four. Mount and fly their wild kin, and we will number twelve, even without Stormcloud,\u201d Princess Rhaenys pointed out. \u201cThat is how we shall win this war.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Alysanne",
+                "Laenor Velaryon",
+                "Jaehaerys",
+                "Rhaenys"
+            ],
+            "places": [
+                "Dragonmont",
+                "castle"
+            ],
+            "events": [
+                "war"
+            ],
+            "verbs": [
+                "made",
+                "dwelled",
+                "named",
+                "find",
+                "master",
+                "fly",
+                "win"
+            ],
+            "adjectives": [
+                "smoky",
+                "pale grey",
+                "hoary old"
+            ]
+        },
+        {
+            "paragraph_id": 49,
+            "paragraph": "Lords Celtigar and Staunton agreed. Aegon the Conqueror and his sisters had proved that knights and armies could not stand against fire and blood. Celtigar urged the princess to fly against King\u2019s Landing at once, and reduce the city to ash and bone. \u201cAnd how will that serve us, my lord?\u201d the Sea Snake demanded of him. \u201cWe want to rule the city, not burn it to the ground.\u201d \u201cIt will never come to that,\u201d Celtigar insisted. \u201cThe usurper will have no choice but to oppose us with his own dragons. Our nine must surely overwhelm his four.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Lords Celtigar",
+                "Staunton",
+                "Aegon the Conqueror",
+                "his sisters",
+                "Sea Snake"
+            ],
+            "places": [
+                "King's Landing"
+            ],
+            "events": [],
+            "verbs": [
+                "fly",
+                "reduce",
+                "rule",
+                "burn",
+                "oppose"
+            ],
+            "adjectives": [
+                "ash and bone"
+            ]
+        },
+        {
+            "paragraph_id": 50,
+            "paragraph": "\u201cAt what cost?\u201d Princess Rhaenyra wondered. \u201cMy sons would be riding three of those dragons, I remind you. And it would not be nine against four. I will not be strong enough to fly for some time yet. And who is to ride Silverwing, Vermithor, and Seasmoke? You, my lord? I hardly think so. It will be five against four, and one of their four will be Vhagar. That is no advantage.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Princess Rhaenyra",
+                "Lord"
+            ],
+            "places": [],
+            "events": [],
+            "verbs": [
+                "riding",
+                "fly",
+                "ride"
+            ],
+            "adjectives": [
+                "strong"
+            ]
+        },
+        {
+            "paragraph_id": 51,
+            "paragraph": "Surprisingly, Prince Daemon agreed with his wife. \u201cIn the Stepstones, my enemies learned to run and hide when they saw Caraxes\u2019s wings or heard his roar\u2026but they had no dragons of their own. It is no easy thing for a man to be a dragonslayer. But dragons can kill dragons, and have. Any maester who has ever studied the history of Valyria can tell you that. I will not throw our dragons against the usurper\u2019s unless I have no other choice. There are other ways to use them, better ways.\u201d Then the prince laid his own strategies before the black council. Rhaenyra must have a coronation of her own, to answer Aegon\u2019s. Afterward they would send out ravens, calling on the lords of the Seven Kingdoms to declare their allegiance to their true queen.",
+            "valid": 1.0,
+            "characters": [
+                "Prince Daemon",
+                "Caraxes",
+                "Rhaenyra"
+            ],
+            "places": [
+                "Stepstones",
+                "Valyria"
+            ],
+            "events": [
+                "coronation"
+            ],
+            "verbs": [
+                "run",
+                "hide",
+                "kill",
+                "use",
+                "send"
+            ],
+            "adjectives": [
+                "true"
+            ]
+        },
+        {
+            "paragraph_id": 52,
+            "paragraph": "\u201cWe must fight this war with words before we go to battle,\u201d the prince declared. The lords of the great houses held the key to victory, Daemon insisted; their bannermen and vassals would follow where they led. Aegon the Usurper had won the allegiance of the Lannisters of Casterly Rock, and Lord Tyrell of Highgarden was a mewling boy in swaddling clothes whose mother, acting as his regent, would most like align the Reach with her over-mighty bannermen, the Hightowers\u2026but the rest of the realm\u2019s great lords had yet to declare.",
+            "valid": 1.0,
+            "characters": [
+                "the prince",
+                "Daemon",
+                "Aegon the Usurper",
+                "Lannisters of Casterly Rock",
+                "Lord Tyrell of Highgarden",
+                "Hightowers"
+            ],
+            "places": [
+                "Casterly Rock",
+                "Highgarden"
+            ],
+            "events": [
+                "fight this war with words before we go to battle"
+            ],
+            "verbs": [
+                "hold",
+                "follow",
+                "align",
+                "declare"
+            ],
+            "adjectives": [
+                "great",
+                "mewling"
+            ]
+        },
+        {
+            "paragraph_id": 53,
+            "paragraph": "\u201cStorm\u2019s End will stand with us,\u201d Princess Rhaenys said. She herself was of that blood on her mother\u2019s side, and the late Lord Boremund had always been the staunchest of friends. Prince Daemon had good reason to hope that the Maid of the Vale might bring the Eyrie to their side as well. Aegon would surely seek the support of Pyke, he judged; only with the support of the Iron Islands could Aegon hope to surpass the strength of House Velaryon at sea. But the ironmen were notoriously fickle, and Dalton Greyjoy loved blood and battle; he might easily be persuaded to support the princess.",
+            "valid": 1.0,
+            "characters": [
+                "Princess Rhaenys",
+                "Lord Boremund",
+                "Prince Daemon",
+                "Aegon",
+                "Pyke",
+                "Dalton Greyjoy"
+            ],
+            "places": [
+                "Storm's End",
+                "Vale",
+                "Eyrie",
+                "Iron Islands"
+            ],
+            "events": [],
+            "verbs": [
+                "stand",
+                "bring",
+                "persuade"
+            ],
+            "adjectives": [
+                "staunchest",
+                "fickle"
+            ]
+        },
+        {
+            "paragraph_id": 54,
+            "paragraph": "The North was too remote to be of much import in the fight, the council judged; by the time the Starks gathered their banners and marched south, the war might well be over. Which left only the riverlords, a notoriously quarrelsome lot ruled over, in name at least, by House Tully of Riverrun. \u201cWe have friends in the riverlands,\u201d the prince said, \u201cthough not all of them dare show their colors yet. We need a place where they can gather, a toehold on the mainland large enough to house a sizable host, and strong enough to hold against whatever forces the usurper can send against us.\u201d He showed the lords a map. \u201cHere. Harrenhal.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Starks",
+                "House Tully of Riverrun",
+                "Prince"
+            ],
+            "places": [
+                "North",
+                "Riverlands",
+                "Harrenhal"
+            ],
+            "events": [
+                "Fight"
+            ],
+            "verbs": [
+                "Gather",
+                "March",
+                "Show",
+                "Gather",
+                "Hold"
+            ],
+            "adjectives": [
+                "Remote",
+                "Quarrelsome",
+                "Sizable",
+                "Strong"
+            ]
+        },
+        {
+            "paragraph_id": 55,
+            "paragraph": "And so it was decided. Prince Daemon would lead the assault on Harrenhal, riding Caraxes. Princess Rhaenyra would remain on Dragonstone until she had recovered her strength. The Velaryon fleet would close off the Gullet, sallying forth from Dragonstone and Driftmark to block all shipping entering or leaving Blackwater Bay. \u201cWe do not have the strength to take King\u2019s Landing by storm,\u201d Prince Daemon said, \u201cno more than our foes could hope to capture Dragonstone. But Aegon is a green boy, and green boys are easily provoked. Mayhaps we can goad him into a rash attack.\u201d The Sea Snake would command the fleet, whilst Princess Rhaenys flew overhead to keep their foes from attacking their ships with dragons. Meanwhile, ravens would go forth to Riverrun, the Eyrie, Pyke, and Storm\u2019s End, to gain the allegiance of their lords.",
+            "valid": 1.0,
+            "characters": [
+                "Prince Daemon",
+                "Princess Rhaenyra",
+                "Aegon"
+            ],
+            "places": [
+                "Harrenhal",
+                "Dragonstone",
+                "Driftmark",
+                "Blackwater Bay",
+                "Riverrun",
+                "The Eyrie",
+                "Pyke",
+                "Storm's End"
+            ],
+            "events": [
+                "assault on Harrenhal",
+                "block all shipping entering or leaving Blackwater Bay",
+                "command the fleet"
+            ],
+            "verbs": [
+                "decided",
+                "lead",
+                "remain",
+                "close off",
+                "sallying forth from Dragonstone and Driftmark to block all shipping entering or leaving Blackwater Bay.",
+                "do not have the strength to take King\u2019s Landing by storm,",
+                "goad him into a rash attack.",
+                "command the fleet.",
+                "fly overhead to keep their foes from attacking their ships with dragons.",
+                "go forth to Riverrun, the Eyrie, Pyke, and Storm\u2019s End, to gain the allegiance of their lords."
+            ],
+            "adjectives": [
+                "green"
+            ]
+        },
+        {
+            "paragraph_id": 56,
+            "paragraph": "Then up spoke the queen\u2019s eldest son, Jacaerys. \u201cWe should bear those messages,\u201d he said. \u201cDragons will win the lords over quicker than ravens.\u201d His brother Lucerys agreed, insisting that he and Jace were men, or near enough to make no matter. \u201cOur uncle calls us Strongs, but when the lords see us on dragonback they will know that for a lie. Only Targaryens ride dragons.\u201d Mushroom tells us that the Sea Snake grumbled at this, insisting that the three boys were Velaryons, yet he smiled as he said it, with pride in his voice. Even young Joffrey chimed in, offering to mount his own dragon, Tyraxes, and join his brothers.",
+            "valid": 1.0,
+            "characters": [
+                "Jacaerys",
+                "Lucerys",
+                "Mushroom",
+                "Sea Snake",
+                "Joffrey"
+            ],
+            "places": [],
+            "events": [],
+            "verbs": [
+                "bear",
+                "win",
+                "see",
+                "ride"
+            ],
+            "adjectives": [
+                "eldest",
+                "near enough"
+            ]
+        },
+        {
+            "paragraph_id": 57,
+            "paragraph": "Princess Rhaenyra forbade that; Joff was but eleven. But Jacaerys was fourteen, Lucerys thirteen; bold and handsome lads, skilled in arms, who had long served as squires. \u201cIf you go, you go as messengers, not as knights,\u201d she told them. \u201cYou must take no part in any fighting.\u201d Not until both boys had sworn solemn oaths upon a copy of The Seven-Pointed Star would Her Grace consent to using them as her envoys. It was decided that Jace, being the older of the two, would take the longer, more dangerous task, flying first to the Eyrie to treat with the Lady of the Vale, then to White Harbor to win over Lord Manderly, and lastly to Winterfell to meet with Lord Stark. Luke\u2019s mission would be shorter and safer; he was to fly to Storm\u2019s End, where it was expected that Borros Baratheon would give him a warm welcome.",
+            "valid": 1.0,
+            "characters": [
+                "Princess Rhaenyra",
+                "Joff",
+                "Jacaerys",
+                "Lucerys"
+            ],
+            "places": [
+                "Eyrie",
+                "White Harbor",
+                "Winterfell",
+                "Storm's End"
+            ],
+            "events": [
+                "flying first to the Eyrie to treat with the Lady of the Vale",
+                "then to White Harbor to win over Lord Manderly",
+                "lastly to Winterfell to meet with Lord Stark",
+                "fly to Storm's End"
+            ],
+            "verbs": [
+                "forbade",
+                "sworn",
+                "decided",
+                "take",
+                "go",
+                "win"
+            ],
+            "adjectives": [
+                "eleven",
+                "fourteen",
+                "thirteen",
+                "bold",
+                "handsome"
+            ]
+        },
+        {
+            "paragraph_id": 58,
+            "paragraph": "A hasty coronation was held the next day. The arrival of Ser Steffon Darklyn, late of Aegon\u2019s Kingsguard, was an occasion of much joy on Dragonstone, especially when it was learned that he and his fellow loyalists (\u201cturncloaks,\u201d Ser Otto would name them, when offering a reward for their capture) had brought the stolen crown of King Jaehaerys the Conciliator. Three hundred sets of eyes looked on as Prince Daemon Targaryen placed the Old King\u2019s crown on the head of his wife, proclaiming her Rhaenyra of House Targaryen, First of Her Name, Queen of the Andals, the Rhoynar, and the First Men. The prince claimed for himself the style Protector of the Realm, and Rhaenyra named her eldest son, Jacaerys, the Prince of Dragonstone and heir to the Iron Throne.",
+            "valid": 1.0,
+            "characters": [
+                "Ser Steffon Darklyn",
+                "Ser Otto",
+                "Prince Daemon Targaryen",
+                "King Jaehaerys the Conciliator",
+                "Rhaenyra of House Targaryen",
+                "Jacaerys"
+            ],
+            "places": [
+                "Dragonstone"
+            ],
+            "events": [
+                "hasty coronation"
+            ],
+            "verbs": [
+                "held",
+                "brought",
+                "placed",
+                "proclaimed",
+                "named",
+                "claimed"
+            ],
+            "adjectives": [
+                "loyalists",
+                "stolen",
+                "old"
+            ]
+        },
+        {
+            "paragraph_id": 59,
+            "paragraph": "Her first act as queen was to declare Ser Otto Hightower and Queen Alicent traitors and rebels. \u201cAs for my half-brothers and my sweet sister, Helaena,\u201d she announced, \u201cthey have been led astray by the counsel of evil men. Let them come to Dragonstone, bend the knee, and ask my forgiveness, and I shall gladly spare their lives and take them back into my heart, for they are of my own blood, and no man or woman is as accursed as the kinslayer.\u201d Word of Rhaenyra\u2019s coronation reached the Red Keep the next day, to the great displeasure of Aegon II. \u201cMy half-sister and my uncle are guilty of high treason,\u201d the young king declared. \u201cI want them attainted, I want them arrested, and I want them dead.\u201d Cooler heads on the green council wished to parley. \u201cThe princess must be made to see that her cause is hopeless,\u201d Grand Maester Orwyle said. \u201cBrother should not war against sister. Send me to her, that we may talk and reach an amicable accord.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Ser Otto Hightower",
+                "Queen Alicent",
+                "Helaena",
+                "Rhaenyra",
+                "Aegon II",
+                "Grand Maester Orwyle"
+            ],
+            "places": [
+                "Dragonstone",
+                "Red Keep"
+            ],
+            "events": [
+                "coronation"
+            ],
+            "verbs": [
+                "declare",
+                "announced",
+                "reach",
+                "parley",
+                "attainted",
+                "arrested",
+                "dead",
+                "wished",
+                "send"
+            ],
+            "adjectives": [
+                "sweet"
+            ]
+        },
+        {
+            "paragraph_id": 60,
+            "paragraph": "Aegon would not hear of it. Septon Eustace tells us that His Grace accused the Grand Maester of disloyalty and spoke of having him thrown into a black cell \u201cwith your black friends.\u201d But when the two queens\u2014his mother, Queen Alicent, and his wife, Queen Helaena\u2014 spoke in favor of Orwyle\u2019s proposal, the truculent king gave way reluctantly. So Grand Maester Orwyle was dispatched across Blackwater Bay under a peace banner, leading a retinue that included Ser Arryk Cargyll of the Kingsguard and Ser Gwayne Hightower of the gold cloaks, along with a score of scribes and septons, amongst them Eustace.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon",
+                "Septon Eustace",
+                "Queen Alicent",
+                "Queen Helaena",
+                "Grand Maester Orwyle",
+                "Ser Arryk Cargyll",
+                "Ser Gwayne Hightower"
+            ],
+            "places": [
+                "Blackwater Bay"
+            ],
+            "events": [],
+            "verbs": [
+                "hear",
+                "accused",
+                "thrown",
+                "spoke",
+                "gave way",
+                "dispatched"
+            ],
+            "adjectives": [
+                "truculent"
+            ]
+        },
+        {
+            "paragraph_id": 61,
+            "paragraph": "The terms offered by the king were generous, Munkun declares in his True Telling. If the princess would acknowledge him as king and make obeisance before the Iron Throne, Aegon II would confirm her in her possession of Dragonstone, and allow the island and castle to pass to her son Jacaerys upon her death. Her second son, Lucerys, would be recognized as the rightful heir to Driftmark, and the lands and holdings of House Velaryon; her boys by Prince Daemon, Aegon the Younger and Viserys, would be given places of honor at court, the former as the king\u2019s squire, the latter as his cupbearer. Pardons would be granted to those lords and knights who had conspired treasonously with her against their true king.",
+            "valid": 1.0,
+            "characters": [
+                "Munkun",
+                "Aegon II",
+                "Princess",
+                "Jacaerys",
+                "Lucerys",
+                "Driftmark",
+                "House Velaryon",
+                "Aegon the Younger",
+                "Viserys",
+                "Prince Daemon"
+            ],
+            "places": [
+                "Iron Throne",
+                "Dragonstone",
+                "Driftmark"
+            ],
+            "events": [],
+            "verbs": [
+                "acknowledge",
+                "make obeisance",
+                "pass",
+                "recognize",
+                "given places of honor at court"
+            ],
+            "adjectives": [
+                "generous"
+            ]
+        },
+        {
+            "paragraph_id": 62,
+            "paragraph": "Rhaenyra heard these terms in stony silence, then asked Orwyle if he remembered her father, King Viserys. \u201cOf course, Your Grace,\u201d the maester answered. \u201cPerhaps you can tell us who he named as his heir and successor,\u201d the queen said, her crown upon her head. \u201cYou, Your Grace,\u201d Orwyle replied. And Rhaenyra nodded and said, \u201cWith your own tongue you admit I am your lawful queen. Why then do you serve my half-brother, the pretender?\u201d Munkun tells us that Orwyle gave a long and erudite reply, citing Andal law and the Great Council of 101. Mushroom claims he stammered and voided his bladder. Whichever is true, his answer did not satisfy Princess Rhaenyra.",
+            "valid": 1.0,
+            "characters": [
+                "Rhaenyra",
+                "Orwyle",
+                "King Viserys",
+                "Queen",
+                "Munkun",
+                "Mushroom"
+            ],
+            "places": [],
+            "events": [
+                "Great Council of 101"
+            ],
+            "verbs": [
+                "heard",
+                "remembered",
+                "named",
+                "admit",
+                "serve"
+            ],
+            "adjectives": [
+                "stony",
+                "lawful"
+            ]
+        },
+        {
+            "paragraph_id": 63,
+            "paragraph": "\u201cA Grand Maester should know the law and serve it,\u201d she told Orwyle. \u201cYou are no Grand Maester, and you bring only shame and dishonor to that chain you wear.\u201d As Orwyle protested feebly, Rhaenyra\u2019s knights stripped his chain of office from his neck and forced him to his knees whilst the princess bestowed the chain upon her own man, Maester Gerardys, \u201ca true and leal servant of the realm and its laws.\u201d As she sent Orwyle and the other envoys on their way, Rhaenyra said, \u201cTell my half-brother that I will have my throne, or I will have his head.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Rhaenyra",
+                "Orwyle",
+                "Maester Gerardys"
+            ],
+            "places": [],
+            "events": [
+                "striped his chain of office from his neck",
+                "bestowed the chain upon her own man"
+            ],
+            "verbs": [
+                "know",
+                "serve",
+                "bring",
+                "protest",
+                "striped",
+                "bestowed"
+            ],
+            "adjectives": [
+                "Grand Maester",
+                "true",
+                "leal"
+            ]
+        },
+        {
+            "paragraph_id": 64,
+            "paragraph": "Long after the Dance was done, the singer Luceon of Tarth would compose a sad ballad called \u201cFarewell, My Brother,\u201d still sung today. The song purports to relate the last meeting between Ser Arryk Cargyll and his twin, Ser Erryk, as Orwyle\u2019s party was boarding the ship that would carry them back to King\u2019s Landing. Ser Arryk had sworn his sword to Aegon, Ser Erryk to Rhaenyra. In the song, each brother tries to persuade the other to change sides; failing, they exchange declarations of love and part, knowing that when next they meet it will be as enemies. It is possible that such a farewell did indeed take place that day on Dragonstone; however, none of our sources make mention of such.",
+            "valid": 1.0,
+            "characters": [
+                "Luceon",
+                "Ser Arryk Cargyll",
+                "Ser Erryk",
+                "Orwyle",
+                "Aegon",
+                "Rhaenyra"
+            ],
+            "places": [
+                "Tarth",
+                "King's Landing",
+                "Dragonstone"
+            ],
+            "events": [
+                "Dance",
+                "last meeting between Ser Arryk Cargyll and his twin, Ser Erryk"
+            ],
+            "verbs": [
+                "compose",
+                "relate",
+                "persuade",
+                "change sides",
+                "exchange declarations of love and part"
+            ],
+            "adjectives": [
+                "sad"
+            ]
+        },
+        {
+            "paragraph_id": 65,
+            "paragraph": "Aegon II was two-and-twenty, quick to anger and slow to forgive. Rhaenyra\u2019s refusal to accept his rule enraged him. \u201cI offered her an honorable peace, and the whore spat in my face,\u201d he declared. \u201cWhat happens next is on her own head.\u201d What happened next was war.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon II",
+                "Rhaenyra"
+            ],
+            "places": [],
+            "events": [
+                "war"
+            ],
+            "verbs": [
+                "refuse",
+                "offered",
+                "spat"
+            ],
+            "adjectives": [
+                "two-and-twenty",
+                "quick",
+                "slow",
+                "honorable"
+            ]
+        }
+    ]
+}

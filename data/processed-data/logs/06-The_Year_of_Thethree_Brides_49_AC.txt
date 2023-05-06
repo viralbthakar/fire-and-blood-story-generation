@@ -1,0 +1,6 @@
+[1m› [4mProcessig File 06-The_Year_of_Thethree_Brides_49_AC.txt[0m
+    › Extracting Context for Paragraph 0
+    › Extracting Context for Paragraph 1
+    › Extracting Context for Paragraph 2
+    › Extracting Context for Paragraph 3
+    › Extracting Context for Paragraph 4

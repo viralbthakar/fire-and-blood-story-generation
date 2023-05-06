@@ -1,0 +1,78 @@
+[1m› [4mProcessig File 18-The_Dying_of_the_Dragons_The_Short_Sad_Reign_of_Aegon_II.txt[0m
+    › Extracting Context for Paragraph 0
+    › Extracting Context for Paragraph 1
+    › Extracting Context for Paragraph 2
+    › Extracting Context for Paragraph 3
+    › Extracting Context for Paragraph 4
+    › Extracting Context for Paragraph 5
+    › Extracting Context for Paragraph 6
+    › Extracting Context for Paragraph 7
+    › Extracting Context for Paragraph 8
+    › Extracting Context for Paragraph 9
+    › Extracting Context for Paragraph 10
+    › Extracting Context for Paragraph 11
+    › Extracting Context for Paragraph 12
+    › Extracting Context for Paragraph 13
+    › Extracting Context for Paragraph 14
+    › Extracting Context for Paragraph 15
+    › Extracting Context for Paragraph 16
+    › Extracting Context for Paragraph 17
+    › Extracting Context for Paragraph 18
+    › Extracting Context for Paragraph 19
+    › Extracting Context for Paragraph 20
+    › Extracting Context for Paragraph 21
+    › Extracting Context for Paragraph 22
+    › Extracting Context for Paragraph 23
+    › Extracting Context for Paragraph 24
+    › Invalid JSON Response for Paragraph 24
+    › 
+
+{"characters": ["King", "Queen", "Lord Grover Tully", "Elmo", "Benjicot Blackwood", "Black Aly", "Lady Sabitha Frey", "Lord Hugo Vance","Lord Jorah Mallister","Lord Roland Darry","Humfrey Bracken"], 
+"places": ["King's Landing","Winterfell","Barrowton","White Harbor","Riverlands","Second Tumbleton","Raventree","Twins","Wayfarer's Rest,","Seagard, Darry, Stone Hedge"], 
+"events": ["campaign proved a grave mistake"], 
+"verbs": ["gathering", "called to war once more"], 
+"adjectives":["late queen’s men against the king.", "aged and bedridden Lord Grover Tully had finally died (of apoplexy from having his house fight against the rightful king at Second Tumbleton, Mushroom says)", "seasoned warrior at three-and-ten; his fierce young aunt, Black Aly,", "merciless and grasping Lady of the Twins; Lord Hugo Vance of Wayfarer’s Rest;"],}
+    › Extracting Context for Paragraph 25
+    › Extracting Context for Paragraph 26
+    › Extracting Context for Paragraph 27
+    › Extracting Context for Paragraph 28
+    › Extracting Context for Paragraph 29
+    › Extracting Context for Paragraph 30
+    › Extracting Context for Paragraph 31
+    › Extracting Context for Paragraph 32
+    › Extracting Context for Paragraph 33
+    › Extracting Context for Paragraph 34
+    › Extracting Context for Paragraph 35
+    › Extracting Context for Paragraph 36
+    › Extracting Context for Paragraph 37
+    › Extracting Context for Paragraph 38
+    › Extracting Context for Paragraph 39
+    › Extracting Context for Paragraph 40
+    › Extracting Context for Paragraph 41
+    › Extracting Context for Paragraph 42
+    › Extracting Context for Paragraph 43
+    › Extracting Context for Paragraph 44
+    › Extracting Context for Paragraph 45
+    › Extracting Context for Paragraph 46
+    › Extracting Context for Paragraph 47
+    › Extracting Context for Paragraph 48
+    › Extracting Context for Paragraph 49
+    › Extracting Context for Paragraph 50
+    › Extracting Context for Paragraph 51
+    › Extracting Context for Paragraph 52
+    › Extracting Context for Paragraph 53
+    › Extracting Context for Paragraph 54
+    › Extracting Context for Paragraph 55
+    › Extracting Context for Paragraph 56
+    › Extracting Context for Paragraph 57
+    › Extracting Context for Paragraph 58
+    › Extracting Context for Paragraph 59
+    › Extracting Context for Paragraph 60
+    › Extracting Context for Paragraph 61
+    › Extracting Context for Paragraph 62
+    › Extracting Context for Paragraph 63
+    › Extracting Context for Paragraph 64
+    › Extracting Context for Paragraph 65
+    › Extracting Context for Paragraph 66
+    › Extracting Context for Paragraph 67
+    › Extracting Context for Paragraph 68

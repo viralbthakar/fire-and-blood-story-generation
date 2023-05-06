@@ -1,0 +1,1376 @@
+{
+    "05-Prince_into_King_The_Ascension_of_Jaehaerys_I": [
+        {
+            "paragraph_id": 0,
+            "paragraph": "Jaehaerys I Targaryen ascended the Iron Throne in 48 AC at the age of fourteen and would rule the Seven Kingdoms for the next fifty- five years, until his death of natural causes in 103 AC. In the later years of his reign, and during the reign of his successor, he was called the Old King, for obvious reasons, but Jaehaerys was a young and vigorous man for far longer than he was an aged and feeble one, and more thoughtful scholars speak of him reverently as \u201cthe Conciliator.\u201d Archmaester Umbert, writing a century later, famously declared that Aegon the Dragon and his sisters conquered the Seven Kingdoms (six of them, at least), but it was Jaehaerys the Conciliator who truly made them one.",
+            "valid": 1.0,
+            "characters": [
+                "Jaehaerys I Targaryen",
+                "Aegon the Dragon"
+            ],
+            "places": [
+                "Iron Throne",
+                "Seven Kingdoms"
+            ],
+            "events": [
+                "ascended the Iron Throne",
+                "conquered the Seven Kingdoms"
+            ],
+            "verbs": [
+                "ascended",
+                "ruled",
+                "called",
+                "wrote",
+                "declared",
+                "conquered"
+            ],
+            "adjectives": [
+                "young",
+                "vigorous",
+                "aged",
+                "feeble",
+                "thoughtful",
+                "reverently"
+            ]
+        },
+        {
+            "paragraph_id": 1,
+            "paragraph": "His was no easy task, for his immediate predecessors had undone much of what the Conqueror had built, Aenys through weakness and indecision, Maegor with his bloodlust and cruelty. The realm that Jaehaerys inherited was impoverished, war-torn, lawless, and riven with division and mistrust, whilst the new king himself was a green boy with no experience of rule.",
+            "valid": 1.0,
+            "characters": [
+                "Jaehaerys",
+                "Conqueror",
+                "Aenys",
+                "Maegor"
+            ],
+            "places": [],
+            "events": [],
+            "verbs": [
+                "undone",
+                "built",
+                "inherited",
+                "was"
+            ],
+            "adjectives": [
+                "easy",
+                "weakness",
+                "indecision",
+                "bloodlust",
+                "cruelty",
+                "impoverished",
+                "war-torn",
+                "lawless",
+                "riven",
+                "division",
+                "mistrust",
+                "green"
+            ]
+        },
+        {
+            "paragraph_id": 2,
+            "paragraph": "Even his claim to the Iron Throne was not wholly beyond question. Although Jaehaerys was the only surviving son of King Aenys I, his older brother Aegon had claimed the kingship before him. Aegon the Uncrowned had died at the Battle Beneath the Gods Eye whilst trying to unseat his uncle Maegor, but not before taking to wife his sister Rhaena and siring two daughters, the twins Aerea and Rhaella. If Maegor the Cruel were accounted only a usurper with no right to rule, as certain maesters argued, then Prince Aegon had been the true king, and the succession by rights should pass to his elder daughter, Aerea, not his younger brother.",
+            "valid": 1.0,
+            "characters": [
+                "Jaehaerys",
+                "Aenys I",
+                "Aegon",
+                "Maegor",
+                "Rhaena",
+                "Aerea",
+                "Rhaella"
+            ],
+            "places": [
+                "Battle Beneath the Gods Eye"
+            ],
+            "events": [],
+            "verbs": [
+                "unseat"
+            ],
+            "adjectives": [
+                "surviving",
+                "uncrowned"
+            ]
+        },
+        {
+            "paragraph_id": 3,
+            "paragraph": "The sex of the twins weighed against them, however, as did their age; the girls were but six at Maegor\u2019s death. Furthermore, accounts left us by contemporaries suggest that Princess Aerea was a timid child when young, much given to tears and bed-wetting, whilst Rhaella, the bolder and more robust of the pair, was a novice serving at the Starry Sept and promised to the Faith. Neither seemed to have the makings of a queen; their own mother, Queen Rhaena, conceded as much when she agreed that the crown should go to her brother Jaehaerys rather than her daughters.",
+            "valid": 1.0,
+            "characters": [
+                "Maegor",
+                "Aerea",
+                "Rhaella",
+                "Jaehaerys",
+                "Rhaena"
+            ],
+            "places": [
+                "Starry Sept"
+            ],
+            "events": [
+                "Maegor's death"
+            ],
+            "verbs": [
+                "weighed",
+                "suggested",
+                "conceded"
+            ],
+            "adjectives": [
+                "timid",
+                "bold",
+                "robust"
+            ]
+        },
+        {
+            "paragraph_id": 4,
+            "paragraph": "Some suggested that Rhaena herself might have the strongest claim to the crown, as the firstborn child of King Aenys and Queen Alyssa. There were even some who whispered that it was Queen Rhaena who had somehow contrived to free the realm from Maegor the Cruel, though by what means she might have arranged his death after fleeing King\u2019s Landing on her dragon, Dreamfyre, has never been successfully established. Her sex told against her, however. \u201cThis is not Dorne,\u201d Lord Rogar Baratheon said when the notion was put to him, \u201cand Rhaena is not Nymeria.\u201d Moreover, the twice-widowed queen had come to loathe King\u2019s Landing and the court, and wished only to return to Fair Isle, where she had found a measure of peace before her uncle had made her one of his Black Brides.",
+            "valid": 1.0,
+            "characters": [
+                "Rhaena",
+                "King Aenys",
+                "Queen Alyssa",
+                "Maegor the Cruel",
+                "Lord Rogar Baratheon",
+                "Nymeria"
+            ],
+            "places": [
+                "King's Landing",
+                "Fair Isle"
+            ],
+            "events": [
+                "contrived to free the realm from Maegor the Cruel"
+            ],
+            "verbs": [
+                "whispered",
+                "arranged",
+                "loathe"
+            ],
+            "adjectives": [
+                "strongest",
+                "firstborn",
+                "twice-widowed"
+            ]
+        },
+        {
+            "paragraph_id": 5,
+            "paragraph": "Prince Jaehaerys was still a year and a half shy of manhood when he first ascended the Iron Throne. Thus it was determined that his mother, the Dowager Queen Alyssa, would act as regent for him, whilst Lord Rogar served as his Hand and the Protector of the Realm. Let it not be thought, however, that Jaehaerys was merely a figurehead. Right from the first, the boy king insisted upon having a voice in all decisions made in his name.",
+            "valid": 1.0,
+            "characters": [
+                "Prince Jaehaerys",
+                "Dowager Queen Alyssa",
+                "Lord Rogar"
+            ],
+            "places": [
+                "Iron Throne"
+            ],
+            "events": [
+                "ascended the Iron Throne"
+            ],
+            "verbs": [
+                "insisted"
+            ],
+            "adjectives": [
+                "shy",
+                "figurehead"
+            ]
+        },
+        {
+            "paragraph_id": 6,
+            "paragraph": "Even as the mortal remains of Maegor I Targaryen were consigned to a funeral pyre, his young successor faced his first crucial decision: how to deal with his uncle\u2019s remaining supporters. By the time Maegor was found dead upon the Iron Throne, most of the great houses of the realm and many lesser lords had abandoned him\u2026but most is not all. Many of those whose lands and castles were near King\u2019s Landing and the crownlands had stood with Maegor until the very hour of his death, amongst them the Lords Rosby and Towers, the last men to see the king alive. Others who had rallied to his banners included the Lords Stokeworth, Massey, Harte, Bywater, Darklyn, Rollingford, Mallery, Bar Emmon, Byrch, Staunton, and Buckwell.",
+            "valid": 1.0,
+            "characters": [
+                "Maegor I Targaryen",
+                "his young successor",
+                "Lords Rosby and Towers",
+                "Lords Stokeworth, Massey, Harte, Bywater, Darklyn, Rollingford, Mallery, Bar Emmon, Byrch, Staunton and Buckwell"
+            ],
+            "places": [
+                "King's Landing",
+                "the crownlands"
+            ],
+            "events": [
+                "consigned to a funeral pyre"
+            ],
+            "verbs": [
+                "deal with",
+                "abandoned him",
+                "rallied to his banners"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 7,
+            "paragraph": "In the chaos that had followed the discovery of Maegor\u2019s body, Lord Rosby drank a cup of hemlock to join his king in death. Buckwell and Rollingford took ship for Pentos, whilst most of the others fled to their own castles and strongholds. Only Darklyn and Staunton had the courage to remain with Lord Towers to yield up the Red Keep when Prince Jaehaerys and his sisters, Rhaena and Alysanne, descended upon the castle on their dragons. The court chronicles tell us that as the young prince slid from the back of Vermithor, these \u201cthree leal lords\u201d bent their knees before him to lay their swords at his feet, hailing him as king.",
+            "valid": 1.0,
+            "characters": [
+                "Maegor",
+                "Lord Rosby",
+                "Buckwell",
+                "Rollingford",
+                "Darklyn",
+                "Staunton",
+                "Lord Towers",
+                "Prince Jaehaerys",
+                "Rhaena",
+                "Alysanne"
+            ],
+            "places": [
+                "Pentos",
+                "Red Keep"
+            ],
+            "events": [
+                "discovery of Maegor's body",
+                "drank a cup of hemlock to join his king in death",
+                "took ship for Pentos",
+                "fled to their own castles and strongholds",
+                "descended upon the castle on their dragons"
+            ],
+            "verbs": [
+                "yield up",
+                "slid from the back of Vermithor",
+                "bent their knees before him to lay their swords at his feet, hailing him as king"
+            ],
+            "adjectives": [
+                "leal"
+            ]
+        },
+        {
+            "paragraph_id": 8,
+            "paragraph": "\u201cYou come late to the feast,\u201d Prince Jaehaerys reportedly told them, though in a mild tone, \u201cand these same blades helped slay my brother Aegon beneath the Gods Eye.\u201d At his command, the three were immediately put in chains, though some of the prince\u2019s party called for them to be executed on the spot. In the black cells they were soon joined by the King\u2019s Justice, the Lord Confessor, the Chief Gaoler, the Commander of the City Watch, and the four knights of the Kingsguard who had remained beside King Maegor.",
+            "valid": 1.0,
+            "characters": [
+                "Prince Jaehaerys",
+                "Aegon",
+                "King's Justice",
+                "Lord Confessor",
+                "Chief Gaoler",
+                "Commander of the City Watch",
+                "four knights of the Kingsguard"
+            ],
+            "places": [
+                "Gods Eye"
+            ],
+            "events": [
+                "put in chains"
+            ],
+            "verbs": [
+                "come late to the feast",
+                "helped slay",
+                "were immediately put in chains",
+                "were soon joined by"
+            ],
+            "adjectives": [
+                "mild"
+            ]
+        },
+        {
+            "paragraph_id": 9,
+            "paragraph": "A fortnight later, Lord Rogar Baratheon and Queen Alyssa arrived at King\u2019s Landing with their host, and hundreds more were seized and imprisoned. Be they knights, squires, stewards, septons, or serving men, the charge against them was the same; they were accused of having aided and abetted Maegor Targaryen in usurping the Iron Throne and in all the crimes, cruelties, and misrule that followed. Not even women were exempt; those ladies of noble birth who had attended the Black Brides were arrested as well, together with a score of lowborn trulls named as Maegor\u2019s whores.",
+            "valid": 1.0,
+            "characters": [
+                "Lord Rogar Baratheon",
+                "Queen Alyssa",
+                "Maegor Targaryen"
+            ],
+            "places": [
+                "King's Landing"
+            ],
+            "events": [
+                "usurping the Iron Throne"
+            ],
+            "verbs": [
+                "seized",
+                "imprisoned",
+                "accused",
+                "attended",
+                "arrested"
+            ],
+            "adjectives": [
+                "noble",
+                "lowborn"
+            ]
+        },
+        {
+            "paragraph_id": 10,
+            "paragraph": "With the dungeons of the Red Keep full to bursting, the question arose as to what should be done with the prisoners. If Maegor were to be counted as usurper, then his entire reign was unlawful and those who had supported him were guilty of treason and must needs be put to death. Such was the course urged by Queen Alyssa. The Dowager Queen had lost two sons to Maegor\u2019s cruelty and was of no mind to grant the men who had carried out his edicts even the dignity of a trial. \u201cWhen my boy Viserys was tortured and slain, these men stood by silently and spoke no word of protest,\u201d she said. \u201cWhy should we listen to them now?\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Maegor",
+                "Queen Alyssa",
+                "Dowager Queen",
+                "Viserys"
+            ],
+            "places": [
+                "Red Keep"
+            ],
+            "events": [],
+            "verbs": [
+                "urged",
+                "lost",
+                "tortured",
+                "slain",
+                "stood by silently",
+                "spoke"
+            ],
+            "adjectives": [
+                "full to bursting",
+                "unlawful",
+                "guilty",
+                "cruelty"
+            ]
+        },
+        {
+            "paragraph_id": 11,
+            "paragraph": "Against her fury stood Lord Rogar Baratheon, Hand of the King and Protector of the Realm. Whilst his lordship agreed that Maegor\u2019s men were surely deserving of punishment, he pointed out that should their captives be executed, the usurper\u2019s remaining loyalists would be disinclined to bend the knee. Lord Rogar would have no choice but to march on their castles one by one and winkle each man out of his stronghold with steel and fire. \u201cIt can be done, but at what cost?\u201d he asked. \u201cIt would be a bloody business, one that might harden hearts against us.\u201d Let Maegor\u2019s men stand trial and confess their treason, the Protector urged. Those found guilty of the worst crimes could be put to death; for the remainder, let them tender hostages to ensure their future loyalty, and surrender some of their lands and castles.",
+            "valid": 1.0,
+            "characters": [
+                "Lord Rogar Baratheon",
+                "Maegor"
+            ],
+            "places": [
+                "Kingdom",
+                "castles"
+            ],
+            "events": [
+                "execution",
+                "march on their castles one by one and winkle each man out of his stronghold with steel and fire"
+            ],
+            "verbs": [
+                "stood",
+                "agreed",
+                "pointed out",
+                "have no choice but to march on their castles one by one and winkle each man out of his stronghold with steel and fire.",
+                "asked.",
+                "urged.",
+                "put to death; for the remainder, let them tender hostages to ensure their future loyalty, and surrender some of their lands and castles."
+            ],
+            "adjectives": [
+                "fury",
+                "loyalists",
+                "bloody",
+                "harden"
+            ]
+        },
+        {
+            "paragraph_id": 12,
+            "paragraph": "The wisdom of Lord Rogar\u2019s approach was plain to most of the young king\u2019s other supporters, yet his views might not have prevailed had not Jaehaerys himself taken a hand. Though only ten-and-four, the boy king proved from the first that he would not be content to sit by meekly whilst others ruled in his name. With his maester, his sister Alysanne, and a handful of young knights by his side, Jaehaerys climbed the Iron Throne and summoned his lords to attend him. \u201cThere will be no trials, no torture, and no executions,\u201d he announced to them. \u201cThe realm must see that I am not my uncle. I shall not begin my reign by bathing in blood. Some came to my banners early, some late. Let the rest come now.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Lord Rogar",
+                "Jaehaerys",
+                "Alysanne",
+                "young knights"
+            ],
+            "places": [
+                "Iron Throne"
+            ],
+            "events": [
+                "summoned his lords to attend him"
+            ],
+            "verbs": [
+                "climbed",
+                "announced",
+                "come"
+            ],
+            "adjectives": [
+                "meekly",
+                "early",
+                "late"
+            ]
+        },
+        {
+            "paragraph_id": 13,
+            "paragraph": "Jaehaerys as yet had neither been crowned nor anointed, and was still shy of his majority; his pronouncement therefore had no legal force, nor did he have the authority to overrule his council and regent. Yet such was the power of his words, and the determination he displayed as he sat looking down upon them all from the Iron Throne, that Lords Baratheon and Velaryon at once gave the prince their support, and the rest soon followed. Only his sister Rhaena dared say him nay. \u201cThey will cheer you as the crown is placed upon your head,\u201d she said, \u201cas once they cheered our uncle, and before him our father.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Jaehaerys",
+                "Lords Baratheon",
+                "Velaryon",
+                "Rhaena"
+            ],
+            "places": [
+                "Iron Throne"
+            ],
+            "events": [],
+            "verbs": [
+                "crowned",
+                "anointed",
+                "overrule",
+                "displayed",
+                "gave",
+                "followed",
+                "said",
+                "cheered"
+            ],
+            "adjectives": [
+                "shy",
+                "legal",
+                "power",
+                "determination"
+            ]
+        },
+        {
+            "paragraph_id": 14,
+            "paragraph": "In the end, the question rested with the regent\u2026and whilst Queen Alyssa desired vengeance for her own sake, she was loath to go against her son\u2019s wishes. \u201cIt would make him seem weak,\u201d she is reported to have said to Lord Rogar, \u201cand he must never seem weak. That was his father\u2019s downfall.\u201d And thus it was that most of Maegor\u2019s men were spared.",
+            "valid": 1.0,
+            "characters": [
+                "Queen Alyssa",
+                "Lord Rogar",
+                "Maegor"
+            ],
+            "places": [],
+            "events": [
+                "vengeance"
+            ],
+            "verbs": [
+                "rested",
+                "desired",
+                "said",
+                "was spared"
+            ],
+            "adjectives": [
+                "loath",
+                "weak"
+            ]
+        },
+        {
+            "paragraph_id": 15,
+            "paragraph": "In the days that followed, the dungeons of King\u2019s Landing were emptied. After being given food and drink and clean raiment, the captives were escorted to the throne room seven at a time. There, before the eyes of gods and men, they renounced their allegiance to Maegor and did homage to his nephew Jaehaerys from their knees, whereupon the young king bade each man rise, granted him pardon, and restored his lands and titles. It must not be thought that the accused escaped without punishment, however. Lords and knights alike were compelled to send a son to court to serve the king and stand as hostages; from those who had no sons, a daughter was required. The wealthiest of Maegor\u2019s lords surrendered certain lands as well, Towers, Darklyn, and Staunton amongst them. Others purchased their pardons with gold.",
+            "valid": 1.0,
+            "characters": [
+                "Maegor",
+                "Jaehaerys"
+            ],
+            "places": [
+                "King's Landing",
+                "throne room"
+            ],
+            "events": [
+                "emptied dungeons",
+                "renounced allegiance",
+                "granted pardon",
+                "compelled to send a son/daughter to court"
+            ],
+            "verbs": [
+                "followed",
+                "given",
+                "escorted",
+                "renounced",
+                "did homage",
+                "bade each man rise",
+                "restored lands and titles",
+                "surrendered certain lands"
+            ],
+            "adjectives": [
+                "clean"
+            ]
+        },
+        {
+            "paragraph_id": 16,
+            "paragraph": "The royal clemency did not extend to all. Maegor\u2019s headsman, gaolers, and confessors were all adjudged to be guilty of abetting Tyanna of the Tower in the torture and death of Prince Viserys, who had so briefly been Maegor\u2019s heir and hostage. Their heads were delivered to Queen Alyssa, together with the hands they had dared raise against the blood of the dragon. Her Grace pronounced herself \u201cwell pleased\u201d with the tokens.",
+            "valid": 1.0,
+            "characters": [
+                "Maegor",
+                "Tyanna of the Tower",
+                "Prince Viserys",
+                "Queen Alyssa"
+            ],
+            "places": [
+                "Tower"
+            ],
+            "events": [
+                "royal clemency",
+                "torture and death"
+            ],
+            "verbs": [
+                "extend",
+                "adjudged",
+                "delivered",
+                "raised",
+                "pronounced"
+            ],
+            "adjectives": [
+                "royal",
+                "guilty",
+                "briefly"
+            ]
+        },
+        {
+            "paragraph_id": 17,
+            "paragraph": "One other man also lost his head: Ser Maladon Moore, a Kingsguard knight, who was accused of having held Ceryse Hightower, Maegor\u2019s first queen, whilst his Sworn Brother, Ser Owen Bush, removed her tongue, during which Her Grace\u2019s struggles caused the blade to slip, bringing about her death. (Ser Maladon, it should be noted, insisted the whole tale was a fabrication, and said Queen Ceryse died of \u201cshrewishness.\u201d He did, however, admit to delivering Tyanna of the Tower to King Maegor\u2019s hands and standing witness as he slew her, so he had a queen\u2019s blood on his hands regardless.)",
+            "valid": 1.0,
+            "characters": [
+                "Ser Maladon Moore",
+                "Ceryse Hightower",
+                "Ser Owen Bush",
+                "Her Grace",
+                "Tyanna of the Tower"
+            ],
+            "places": [],
+            "events": [
+                "having held Ceryse Hightower, Maegor\u2019s first queen, whilst his Sworn Brother, Ser Owen Bush, removed her tongue",
+                "Queen Ceryse died of \u201cshrewishness.\u201d",
+                "delivering Tyanna of the Tower to King Maegor\u2019s hands and standing witness as he slew her"
+            ],
+            "verbs": [
+                "lost",
+                "held",
+                "removed",
+                "struggles",
+                "slip",
+                "admitted"
+            ],
+            "adjectives": [
+                "Kingsguard"
+            ]
+        },
+        {
+            "paragraph_id": 18,
+            "paragraph": "Five of Maegor\u2019s Seven yet survived. Two of those, Ser Olyver Bracken and Ser Raymund Mallery, had played a part in the late king\u2019s fall by turning their cloaks and going over to Jaehaerys, but the boy king observed rightly that in doing so they had broken their vows to defend the king\u2019s life with their own. \u201cI will have no oathbreakers at my court,\u201d he proclaimed. All five Kingsguard were therefore sentenced to death but at the urging of Princess Alysanne, it was agreed that they might be spared if they would exchange their white cloaks for black by joining the Night\u2019s Watch. Four of the five accepted this clemency and departed for the Wall; along with Ser Olyver and Ser Raymund, the turncloaks, went Ser Jon Tollett and Ser Symond Crayne.",
+            "valid": 1.0,
+            "characters": [
+                "Maegor",
+                "Ser Olyver Bracken",
+                "Ser Raymund Mallery",
+                "Jaehaerys",
+                "Kingsguard",
+                "Princess Alysanne",
+                "Ser Jon Tollett",
+                "Ser Symond Crayne"
+            ],
+            "places": [
+                "Wall"
+            ],
+            "events": [
+                "king's fall"
+            ],
+            "verbs": [
+                "survived",
+                "played",
+                "turned",
+                "proclaimed",
+                "sentenced",
+                "exchange",
+                "accepted",
+                "departed"
+            ],
+            "adjectives": [
+                "late"
+            ]
+        },
+        {
+            "paragraph_id": 19,
+            "paragraph": "The fifth Kingsguard, Ser Harrold Langward, demanded a trial by battle. Jaehaerys granted his wish and offered to face Ser Harrold himself in single combat, but in this he was overruled by the Queen Regent. Instead a young knight from the stormlands was sent forth as the Crown\u2019s champion. Ser Gyles Morrigen, the man chosen, was a nephew to Damon the Devout, the Grand Captain of the Warrior\u2019s Sons, who had led them in their Trial of Seven against Maegor. Eager to prove his house\u2019s loyalty to the new king, Ser Gyles made short work of the elderly Ser Harrold, and was named Lord Commander of Jaehaerys\u2019s Kingsguard soon after.",
+            "valid": 1.0,
+            "characters": [
+                "Ser Harrold Langward",
+                "Jaehaerys",
+                "Ser Gyles Morrigen",
+                "Damon the Devout"
+            ],
+            "places": [],
+            "events": [
+                "trial by battle",
+                "single combat",
+                "Trial of Seven"
+            ],
+            "verbs": [
+                "demanded",
+                "offered",
+                "sent forth",
+                "prove"
+            ],
+            "adjectives": [
+                "fifth",
+                "young",
+                "elderly"
+            ]
+        },
+        {
+            "paragraph_id": 20,
+            "paragraph": "Meanwhile, word of the prince\u2019s clemency spread throughout the realm. One by one, the remainder of King Maegor\u2019s adherents dismissed their hosts, left their castles, and made the journey to King\u2019s Landing to swear fealty. Some did so reluctantly, fearing that Jaehaerys might prove to be as weak and feckless a king as his father\u2026 but as Maegor had left no heirs of the body, there was no plausible rival around whom opposition might gather. Even the most fervent of Maegor\u2019s supporters were won over once they met Jaehaerys, for he was all a prince should be; fair-spoken, open-handed, and as chivalrous as he was courageous. Grand Maester Benifer (newly returned from his self-imposed exile in Pentos) wrote that he was \u201clearned as a maester and pious as a septon,\u201d and whilst some of that may be discounted as flattery, there was truth to it as well. Even his mother, Queen Alyssa, is reported to have called Jaehaerys \u201cthe best of my three sons.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Prince",
+                "King Maegor",
+                "Jaehaerys",
+                "Grand Maester Benifer",
+                "Queen Alyssa"
+            ],
+            "places": [
+                "King's Landing",
+                "Pentos"
+            ],
+            "events": [
+                "swear fealty"
+            ],
+            "verbs": [
+                "spread",
+                "dismissed",
+                "left",
+                "made the journey to",
+                "fearing",
+                "won over",
+                "met",
+                "wrote",
+                "called"
+            ],
+            "adjectives": [
+                "clemency",
+                "reluctantly",
+                "weak and feckless a king",
+                "open-handed",
+                "chivalrous as he was courageous",
+                "learned as a maester and pious as a septon"
+            ]
+        },
+        {
+            "paragraph_id": 21,
+            "paragraph": "It must not be thought that the reconciliation of the lords brought peace to Westeros overnight. King Maegor\u2019s efforts to exterminate the Poor Fellows and the Warrior\u2019s Sons had set many pious men and women against him, and against House Targaryen. Whilst he had collected the heads of hundreds of Stars and Swords, hundreds more remained at large, and tens of thousands of lesser lords, landed knights, and smallfolk sheltered them, fed them, and gave them aid and comfort wherever they could. Ragged Silas and Dennis the Lame commanded roving bands of Poor Fellows who came and went like wraiths, vanishing into the greenwood whenever threatened. North of the Golden Tooth, the Red Dog of the Hills, Ser Joffrey Doggett, moved between the westerlands and riverlands at will, with the support and connivance of Lady Lucinda, the pious wife of the Lord of Riverrun. Ser Joffrey, who had taken upon himself the mantle of the Grand Captain of the Warrior\u2019s Sons, had announced his intention to restore that once-proud order to its former glory, and was recruiting knights to its banners.",
+            "valid": 1.0,
+            "characters": [
+                "King Maegor",
+                "House Targaryen",
+                "Silas",
+                "Dennis the Lame",
+                "Ser Joffrey Doggett",
+                "Lady Lucinda"
+            ],
+            "places": [
+                "Westeros",
+                "Golden Tooth"
+            ],
+            "events": [
+                "reconciliation of the lords"
+            ],
+            "verbs": [
+                "exterminate",
+                "collected",
+                "remained",
+                "sheltered",
+                "fed",
+                "gave",
+                "vanishing",
+                "moved",
+                "recruiting"
+            ],
+            "adjectives": [
+                "pious",
+                "ragged"
+            ]
+        },
+        {
+            "paragraph_id": 22,
+            "paragraph": "Yet the greatest threat was in the south, where Septon Moon and his followers camped beneath the walls of Oldtown, defended by Lord Oakheart and Lord Rowan and their knights. A massive hulk of a man, Moon had been blessed with a thunderous voice and an imposing physical presence. Though his Poor Fellows had proclaimed him \u201cthe true High Septon,\u201d this septon (if indeed he was such) was no picture of piety. He boasted proudly that The Seven-Pointed Star was the only book he had ever read, and many questioned even that, for he had never been known to quote from that holy tome, and no man had ever seen him read nor write.",
+            "valid": 1.0,
+            "characters": [
+                "Septon Moon",
+                "Lord Oakheart",
+                "Lord Rowan"
+            ],
+            "places": [
+                "Oldtown"
+            ],
+            "events": [],
+            "verbs": [
+                "camped",
+                "boasted",
+                "read",
+                "write"
+            ],
+            "adjectives": [
+                "massive",
+                "thunderous",
+                "imposing"
+            ]
+        },
+        {
+            "paragraph_id": 23,
+            "paragraph": "Barefoot, bearded, and possessed of immense fervor, the \u201cPoorest Fellow\u201d could speak for hours, and often did\u2026and what he spoke about was sin. \u201cI am a sinner,\u201d were the words with which Septon Moon began every sermon, and so he was. A creature of immense appetites, a glutton and a drunkard renowned for his lechery, Moon lay each night with a different woman, impregnating so many of them that his acolytes began to say that his seed could make a barren woman fertile. Such was the ignorance and folly of his followers that this tale became widely believed; husbands began to offer him their wives and mothers their daughters. Septon Moon never refused such offers, and after a time some of the hedge knights and men-at-arms amongst his rabble began to paint images of the \u201cCock o\u2019 the Moon\u201d on their shields, and a brisk trade grew up in clubs, pendants, and staffs carved to resemble Moon\u2019s member. A touch with the head of these talismans was believed to bestow prosperity and good fortune.",
+            "valid": 1.0,
+            "characters": [
+                "Septon Moon"
+            ],
+            "places": [],
+            "events": [],
+            "verbs": [
+                "speak",
+                "began",
+                "lay",
+                "impregnating",
+                "said",
+                "believed",
+                "offered",
+                "refused",
+                "painted",
+                "carved",
+                "bestow"
+            ],
+            "adjectives": [
+                "barefoot",
+                "bearded",
+                "immense",
+                "fervor",
+                "sinful",
+                "gluttonous",
+                "drunkard",
+                "renowned",
+                "barren"
+            ]
+        },
+        {
+            "paragraph_id": 24,
+            "paragraph": "Every day Septon Moon went forth to denounce the sins of House Targaryen and the Lickspittle who permitted their abominations, whilst inside Oldtown the true Father of the Faithful had become a virtual prisoner in his own palace, unable to set forth outside the confines of the Starry Sept. Though Lord Hightower had closed his gates against Septon Moon and his followers and refused to allow them entrance to his city, he showed no eagerness to take up arms against them, despite repeated entreaties from His High Holiness. When pressed for reasons, his lordship cited a distaste for shedding pious blood, but many claimed the real reason was his unwillingness to offer battle to Lords Oakheart and Rowan, who had granted Moon their protection. His reluctance earned him the name Lord Donnel the Delayer from the maesters of the Citadel.",
+            "valid": 1.0,
+            "characters": [
+                "Septon Moon",
+                "House Targaryen",
+                "Lickspittle",
+                "Father of the Faithful",
+                "Lord Hightower"
+            ],
+            "places": [
+                "Oldtown",
+                "Starry Sept"
+            ],
+            "events": [],
+            "verbs": [
+                "denounce",
+                "set forth",
+                "closed his gates against",
+                "refused to allow them entrance to his city",
+                "pressed for reasons",
+                "cited a distaste for shedding pious blood",
+                "earned him the name Lord Donnel the Delayer"
+            ],
+            "adjectives": [
+                "virtual prisoner in his own palace",
+                "repeated entreaties from His High Holiness",
+                "real reason was his unwillingness"
+            ]
+        },
+        {
+            "paragraph_id": 25,
+            "paragraph": "The long conflict between King Maegor and the Faith had made it imperative that Jaehaerys be anointed king by the High Septon, Lord Rogar and the Queen Regent agreed. Before that could happen, however, Septon Moon and his ragged horde must needs be dealt with, so the prince could travel safely to Oldtown. It had been hoped that the news of Maegor\u2019s death would be sufficient to persuade Moon\u2019s followers to disperse, and some had done just that\u2026but no more than a few hundred in a host that numbered close to five thousand. \u201cWhat can the death of one dragon matter when another rises up to take its place?\u201d Septon Moon declared to his throng. \u201cWesteros will not be clean again until all the Targaryens have been slain or driven back into the sea.\u201d Every day he preached anew, calling upon Lord Hightower to deliver Oldtown to him, calling upon the High Lickspittle to leave the Starry Sept and face the wroth of the Poor Fellows he had betrayed, calling upon the smallfolk of the realm to rise up. (And every night he sinned anew.)",
+            "valid": 1.0,
+            "characters": [
+                "King Maegor",
+                "Jaehaerys",
+                "High Septon",
+                "Lord Rogar",
+                "Queen Regent",
+                "Septon Moon",
+                "Lord Hightower",
+                "High Lickspittle"
+            ],
+            "places": [
+                "Oldtown"
+            ],
+            "events": [
+                "anointed king"
+            ],
+            "verbs": [
+                "dealt with",
+                "disperse",
+                "preached",
+                "sinned"
+            ],
+            "adjectives": [
+                "long",
+                "ragged",
+                "sufficient"
+            ]
+        },
+        {
+            "paragraph_id": 26,
+            "paragraph": "Across the realm in King\u2019s Landing, Jaehaerys and his counselors considered how to rid the realm of this scourge. The boy king and his sisters, Rhaena and Alysanne, all had dragons, and some felt the best way to deal with Septon Moon was the way Aegon the Conqueror and his sisters had dealt with the Two Kings on the Field of Fire. Jaehaerys had no taste for such slaughter, however, and his mother, Queen Alyssa, flatly forbade it, reminding them of the fate of Rhaenys Targaryen and her dragon in Dorne. Lord Rogar, the King\u2019s Hand, said, with some reluctance, that he would lead his own host across the Reach and disperse Moon\u2019s men by force of arms\u2026though it would mean pitting his stormlanders, and whatever other forces he might gather, against Lords Rowan and Oakheart and their knights and men- at-arms, as well as the Poor Fellows. \u201cLike as not, we will win,\u201d the Protector said, \u201cbut not without cost.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Jaehaerys",
+                "Rhaena",
+                "Alysanne",
+                "Septon Moon",
+                "Aegon the Conqueror",
+                "Rhaenys Targaryen",
+                "Lord Rogar",
+                "Queen Alyssa",
+                "Lords Rowan and Oakheart",
+                "Poor Fellows"
+            ],
+            "places": [
+                "King's Landing",
+                "Field of Fire",
+                "Reach"
+            ],
+            "events": [],
+            "verbs": [
+                "rid",
+                "deal with",
+                "disperse"
+            ],
+            "adjectives": [
+                "scourge",
+                "reluctance"
+            ]
+        },
+        {
+            "paragraph_id": 27,
+            "paragraph": "Mayhaps the gods were listening, for even as the king and council argued  in  King\u2019s  Landing  the  problem  was  resolved  in  a  most unexpected way. Dusk was falling outside of Oldtown when Septon Moon retired to his tent for his evening meal, exhausted by a day of preaching. As always he was guarded by his Poor Fellows, huge strapping axemen with unshorn beards, but when a comely young woman presented herself at the septon\u2019s tent with a flagon of wine that she wished to give to His Holiness in return for his help, they admitted her at once. They knew what sort of help the woman required; the sort that would put a babe inside her belly.",
+            "valid": 1.0,
+            "characters": [
+                "king",
+                "council",
+                "Septon Moon",
+                "Poor Fellows",
+                "comely young woman"
+            ],
+            "places": [
+                "King's Landing",
+                "Oldtown"
+            ],
+            "events": [
+                "arguing in King's Landing",
+                "retired to his tent for his evening meal"
+            ],
+            "verbs": [
+                "listening",
+                "resolved",
+                "preaching",
+                "admitted",
+                "required"
+            ],
+            "adjectives": [
+                "unexpected",
+                "exhausted",
+                "huge strapping axemen",
+                "unshorn beards",
+                "comely"
+            ]
+        },
+        {
+            "paragraph_id": 28,
+            "paragraph": "A short time passed, during which the men outside the tent heard only occasional gusts of laughter from Septon Moon, inside. But then, suddenly, there was a groan, and a woman\u2019s shriek, followed by a bellow of rage. The tent flap was thrown open and the woman burst out, half-naked and barefoot, and dashed away wide-eyed and terrified before any of the Poor Fellows could think to stop her. Septon Moon himself followed a moment later, naked, roaring, and drenched in blood. He was holding his neck, and blood was leaking between his fingers and dripping down into his beard from where his throat had been slit open.",
+            "valid": 1.0,
+            "characters": [
+                "Septon Moon",
+                "woman"
+            ],
+            "places": [
+                "outside the tent"
+            ],
+            "events": [
+                "occasional gusts of laughter",
+                "groan",
+                "woman's shriek",
+                "bellow of rage",
+                "tent flap was thrown open",
+                "woman burst out, half-naked and barefoot",
+                "Septon Moon followed a moment later, naked, roaring, and drenched in blood"
+            ],
+            "verbs": [
+                "heard",
+                "dash away",
+                "think to stop her",
+                "holding his neck",
+                "leaking between his fingers",
+                "dripping down into his beard"
+            ],
+            "adjectives": [
+                "short time passed",
+                "suddenly",
+                "terrified"
+            ]
+        },
+        {
+            "paragraph_id": 29,
+            "paragraph": "It is said that Moon staggered through half the camp, lurching from campfire to campfire in pursuit of the doxy who had cut him. Finally even his great strength failed him; he collapsed and died as his acolytes pressed around him, wailing their grief. Of his slayer there was no sign; she had vanished into the night, never to be seen again. Angry Poor Fellows tore the camp apart for a day and a night in search of her, knocking over tents, seizing dozens of women, and beating any man who tried to stand in their way\u2026but the hunt came up empty. Septon Moon\u2019s own guards could not even agree on what his killer had looked like.",
+            "valid": 1.0,
+            "characters": [
+                "Moon",
+                "doxy",
+                "acolytes",
+                "Poor Fellows",
+                "Septon Moon's own guards"
+            ],
+            "places": [
+                "camp"
+            ],
+            "events": [
+                "collapsed and died",
+                "vanished into the night",
+                "torn the camp apart",
+                "knocking over tents",
+                "seizing dozens of women",
+                "beating any man"
+            ],
+            "verbs": [
+                "staggered",
+                "lurching",
+                "failed him",
+                "pressed around him",
+                "wailing their grief",
+                "vanished into the night",
+                "tore the camp apart",
+                "knocking over tents",
+                "seizing dozens of women",
+                "beating any man"
+            ],
+            "adjectives": [
+                "half the camp",
+                "great strength"
+            ]
+        },
+        {
+            "paragraph_id": 30,
+            "paragraph": "The guards did recall that the woman had brought a flagon of wine with her as a gift for the septon. Half the wine still remained in the flagon when the tent was searched, and four of the Poor Fellows shared it as the sun was coming up, after carrying the corpse of their prophet back to his own bed. All four were dead before noon. The wine had been laced with poison.",
+            "valid": 1.0,
+            "characters": [
+                "guards",
+                "woman",
+                "septon",
+                "Poor Fellows"
+            ],
+            "places": [
+                "tent"
+            ],
+            "events": [
+                "bringing a flagon of wine as a gift",
+                "searching the tent",
+                "sharing the wine",
+                "carrying the corpse back to his own bed"
+            ],
+            "verbs": [
+                "recall",
+                "remained",
+                "shared",
+                "laced"
+            ],
+            "adjectives": [
+                "flagon of wine",
+                "poison"
+            ]
+        },
+        {
+            "paragraph_id": 31,
+            "paragraph": "In the aftermath of Moon\u2019s death, the ragged host that he had led to Oldtown began to disintegrate. Some of his followers had already slipped away when word of King Maegor\u2019s death and Prince Jaehaerys\u2019s ascension reached them. Now that trickle became a flood.",
+            "valid": 1.0,
+            "characters": [
+                "Moon",
+                "King Maegor",
+                "Prince Jaehaerys"
+            ],
+            "places": [
+                "Oldtown"
+            ],
+            "events": [
+                "death",
+                "ascension"
+            ],
+            "verbs": [
+                "led",
+                "slipped away",
+                "reached",
+                "became"
+            ],
+            "adjectives": [
+                "ragged"
+            ]
+        },
+        {
+            "paragraph_id": 32,
+            "paragraph": "Before the septon\u2019s corpse had even begun to stink, a dozen rivals had come forward to claim his mantle, and fights began to break out amongst their respective followers. It might have been thought that Moon\u2019s men would turn to the two lords amongst them for leadership, but nothing could be further from the truth. The Poor Fellows especially were no respectors of nobility\u2026and the reluctance of Lords Rowan and Oakheart to commit their knights and men-at-arms to an assault on the walls of Oldtown had made them suspicious of the two lords.",
+            "valid": 1.0,
+            "characters": [
+                "septon",
+                "Moon",
+                "Lords Rowan",
+                "Oakheart"
+            ],
+            "places": [
+                "Oldtown"
+            ],
+            "events": [
+                "fights breaking out amongst followers"
+            ],
+            "verbs": [
+                "come forward",
+                "claim",
+                "break out",
+                "turn to",
+                "commit",
+                "assault"
+            ],
+            "adjectives": [
+                "dozen",
+                "respective",
+                "Poor Fellows",
+                "nobility",
+                "reluctance"
+            ]
+        },
+        {
+            "paragraph_id": 33,
+            "paragraph": "The possession of Moon\u2019s mortal remains became itself a bone of contention between two of his would-be successors, the Poor Fellow known as Rob the Starvling and a certain Lorcas, called Lorcas the Learned, who boasted of having committed all of The Seven-Pointed Star to memory. Lorcas claimed to have had a vision that Moon would yet deliver Oldtown into the hands of his followers, even after death. After seizing the septon\u2019s body from Rob the Starvling, this \u201clearned\u201d fool strapped it atop a destrier, naked, bloody, and rotting, to storm the gates of Oldtown.",
+            "valid": 1.0,
+            "characters": [
+                "Rob the Starvling",
+                "Lorcas the Learned"
+            ],
+            "places": [
+                "Oldtown"
+            ],
+            "events": [
+                "seizing the septon's body from Rob the Starvling",
+                "storming the gates of Oldtown"
+            ],
+            "verbs": [
+                "possession",
+                "boasted",
+                "claimed",
+                "strapped"
+            ],
+            "adjectives": [
+                "mortal",
+                "certain",
+                "Seven-Pointed",
+                "Starvling",
+                "Learned",
+                "visionary",
+                "naked",
+                "bloody",
+                "rotting"
+            ]
+        },
+        {
+            "paragraph_id": 34,
+            "paragraph": "Fewer than a hundred men joined in the attack, however, and most of them died beneath a rain of arrows, spears, and stones before they got within a hundred yards of the city walls. Those who did reach the walls were drenched in boiling oil or set afire with burning pitch, Lorcas the Learned himself amongst them. When all his men were dead or dying, a dozen of Lord Hightower\u2019s boldest knights rode forth from a sally port, seized Septon Moon\u2019s body, and removed his head. Tanned and stuffed, it would later be presented to the High Septon in the Starry Sept as a gift.",
+            "valid": 1.0,
+            "characters": [
+                "Lorcas the Learned",
+                "Lord Hightower"
+            ],
+            "places": [
+                "city walls",
+                "Starry Sept"
+            ],
+            "events": [
+                "attack",
+                "rain of arrows, spears, and stones",
+                "drenched in boiling oil or set afire with burning pitch"
+            ],
+            "verbs": [
+                "joined",
+                "got",
+                "presented"
+            ],
+            "adjectives": [
+                "fewer than a hundred",
+                "boldest"
+            ]
+        },
+        {
+            "paragraph_id": 35,
+            "paragraph": "The abortive attack proved to be the last gasp of Septon Moon\u2019s crusade. Lord Rowan decamped within the hour, with all his knights and men-at-arms. Lord Oakheart followed the next day. The remainder of the host, hedge knights and Poor Fellows and camp followers and tradesmen, streamed away in all directions (looting and pillaging every farm, village, and holdfast in their path as they went). Fewer than four hundred remained of the five thousand that Septon Moon had brought to Oldtown when Lord Donnel the Delayer at last bestirred himself and rode forth in force to slaughter the stragglers.",
+            "valid": 1.0,
+            "characters": [
+                "Septon Moon",
+                "Lord Rowan",
+                "Lord Oakheart",
+                "Lord Donnel the Delayer"
+            ],
+            "places": [
+                "Oldtown"
+            ],
+            "events": [
+                "abortive attack",
+                "looting and pillaging"
+            ],
+            "verbs": [
+                "decamped",
+                "followed",
+                "streamed away",
+                "bestirred himself",
+                "rode forth"
+            ],
+            "adjectives": [
+                "last gasp",
+                "all directions",
+                "fewer than four hundred",
+                "five thousand"
+            ]
+        },
+        {
+            "paragraph_id": 36,
+            "paragraph": "Moon\u2019s murder removed the last major obstacle to the accession of Jaehaerys Targaryen to the Iron Throne, but from that day to this, debate has raged as to who was responsible for his death. No one truly believed that the woman who attempted to poison the \u201csinful septon\u201d and ended by cutting his throat was acting on her own. Plainly she was but a catspaw\u2026but whose? Did the boy king himself send her forth, or was she mayhaps an agent of his Hand, Rogar Baratheon, or his mother, the Queen Regent? Some came to believe that the woman was one of the Faceless Men, the infamous guild of sorcerer-assassins from Braavos. In support of this claim, they cited her sudden disappearance, the way she seemed to \u201cmelt into the night\u201d after the murder, and the fact that Septon Moon\u2019s guards could not agree on what she looked like.",
+            "valid": 1.0,
+            "characters": [
+                "Jaehaerys Targaryen",
+                "Rogar Baratheon",
+                "Queen Regent",
+                "Faceless Men"
+            ],
+            "places": [
+                "Braavos"
+            ],
+            "events": [
+                "Moon's murder"
+            ],
+            "verbs": [
+                "believed",
+                "attempted",
+                "ended",
+                "sent",
+                "came to believe",
+                "disappearance",
+                "melt into the night"
+            ],
+            "adjectives": [
+                "last major obstacle",
+                "sinful septon",
+                "own",
+                "catspaw"
+            ]
+        },
+        {
+            "paragraph_id": 37,
+            "paragraph": "Wiser men and those more familiar with the ways of the Faceless Men give this theory little credence. The very clumsiness of Moon\u2019s murder speaks against it being their work, for the Faceless Men take great care to make their killings appear as natural deaths. It is a point of pride with them, the very cornerstone of their art. Slitting a man\u2019s throat and leaving him to stagger forth into the night screaming of murder is beneath them. Most scholars today believe that the killer was no more than a camp follower, acting at the behest of either Lord Rowan or Lord Oakheart, or mayhaps the both of them. Though neither dared desert Moon whilst he lived, the alacrity with which the two lords abandoned his cause after his death suggests that their grievance had been with Maegor, not with House Targaryen\u2026and, indeed, both men would soon return to Oldtown, penitent and obedient, to bend the knee before Prince Jaehaerys at his coronation.",
+            "valid": 1.0,
+            "characters": [
+                "Wiser men",
+                "Faceless Men",
+                "Moon",
+                "Lord Rowan",
+                "Lord Oakheart",
+                "Maegor",
+                "House Targaryen",
+                "Prince Jaehaerys"
+            ],
+            "places": [
+                "Oldtown"
+            ],
+            "events": [
+                "Moon's murder"
+            ],
+            "verbs": [
+                "give",
+                "take",
+                "slitting",
+                "stagger",
+                "dared",
+                "abandoned",
+                "returned",
+                "bend"
+            ],
+            "adjectives": [
+                "clumsy",
+                "natural"
+            ]
+        },
+        {
+            "paragraph_id": 38,
+            "paragraph": "With the way to Oldtown clear and safe once more, that coronation took place in the Starry Sept in the waning days of the 48th year After the Conquest. The High Septon\u2014the High Lickspittle that Septon Moon had hoped to displace\u2014anointed the young king himself, and placed his father Aenys\u2019s crown upon his head. Seven days of feasting followed, during which hundreds of lords great and small came to bend their knees and swear their swords to Jaehaerys. Amongst those in attendance were his sisters, Rhaena and Alysanne; his young nieces, Aerea and Rhaella; his mother, the Queen Regent Alyssa; the King\u2019s Hand, Rogar Baratheon; Ser Gyles Morrigen, the Lord Commander of the Kingsguard; Grand Maester Benifer; the assembled archmaesters of the Citadel\u2026and one man no one could have expected to see: Ser Joffrey Doggett, the Red Dog of the Hills, self-proclaimed Grand Captain of the outlawed Warrior\u2019s Sons. Doggett had arrived in the company of Lord and Lady Tully of Riverrun\u2026not in chains, as most might have expected, but with a safe conduct bearing the king\u2019s own seal.",
+            "valid": 1.0,
+            "characters": [
+                "Jaehaerys",
+                "Septon Moon",
+                "High Septon",
+                "Aenys",
+                "Rhaena",
+                "Alysanne",
+                "Aerea",
+                "Rhaella",
+                "Alyssa",
+                "Rogar Baratheon",
+                "Ser Gyles Morrigen",
+                "Lord Commander of the Kingsguard",
+                "Grand Maester Benifer",
+                "Ser Joffrey Doggett",
+                "Red Dog of the Hills",
+                "Grand Captain of the Warrior's Sons",
+                "Lord and Lady Tully"
+            ],
+            "places": [
+                "Oldtown",
+                "Starry Sept"
+            ],
+            "events": [
+                "coronation"
+            ],
+            "verbs": [
+                "anointed",
+                "swear their swords to Jaehaerys ",
+                "bend their knees"
+            ],
+            "adjectives": [
+                "safe clear once more"
+            ]
+        },
+        {
+            "paragraph_id": 39,
+            "paragraph": "Grand Maester Benifer wrote afterward that the meeting between the boy king and the outlaw knight \u201cset the table\u201d for all of Jaehaerys\u2019s reign to follow. When Ser Joffrey and Lady Lucinda urged him to undo his uncle Maegor\u2019s decrees and reinstate the Swords and Stars, Jaehaerys refused firmly. \u201cThe Faith has no need of swords,\u201d he declared. \u201cThey have my protection. The protection of the Iron Throne.\u201d He did, however, rescind the bounties that Maegor had promised for the heads of Warrior\u2019s Sons and Poor Fellows. \u201cI shall not wage war against my own people,\u201d he said, \u201cbut neither shall I tolerate treason and rebellion.\u201d \u201cI rose against your uncle just as you did,\u201d replied the Red Dog of the Hills, defiant. \u201cYou did,\u201d Jaehaerys allowed, \u201cand you fought bravely, no man can deny. The Warrior\u2019s Sons are no more and your vows to them are at an end, but your service need not be. I have a place for you.\u201d And with these words, the young king shocked the court by offering Ser Joffrey a place by his side as a knight of the Kingsguard. A hush fell then, Grand Maester Benifer tells us, and when the Red Dog drew his longsword there were some who feared he might be about to attack the king with it\u2026but instead the knight went to one knee, bowed his head, and laid his blade at Jaehaerys\u2019s feet. It is said that there were tears upon his cheeks.",
+            "valid": 1.0,
+            "characters": [
+                "Grand Maester Benifer",
+                "Jaehaerys",
+                "Ser Joffrey",
+                "Lady Lucinda",
+                "Maegor",
+                "Red Dog of the Hills"
+            ],
+            "places": [
+                "Iron Throne"
+            ],
+            "events": [
+                "meeting between the boy king and the outlaw knight",
+                "rescind the bounties that Maegor had promised for the heads of Warrior\u2019s Sons and Poor Fellows",
+                "offering Ser Joffrey a place by his side as a knight of the Kingsguard",
+                "laid his blade at Jaehaerys\u2019s feet"
+            ],
+            "verbs": [
+                "wrote",
+                "urged",
+                "refused",
+                "rescinded",
+                "wage war against my own people",
+                "rose against your uncle just as you did",
+                "fought bravely",
+                "tolerate treason and rebellion",
+                "have a place for you",
+                "shocked court by offering Ser Joffrey a place by his side as a knight of the Kingsguard",
+                "draw longsword there were some who feared he might be about to attack king with it but instead went to one knee, bowed head, laid blade at Jaehaerys\u2019s feet"
+            ],
+            "adjectives": [
+                "outlaw knight set table for all reign to follow ",
+                "young king shocked court"
+            ]
+        },
+        {
+            "paragraph_id": 40,
+            "paragraph": "Nine days after the coronation, the young king departed Oldtown for King\u2019s Landing. Most of his court traveled with him in what became a grand pageant across the Reach\u2026but his sister Rhaena stayed with them only as far as Highgarden, where she mounted her dragon, Dreamfyre, to return to Fair Isle and Lord Farman\u2019s castle above the sea, taking her leave not only of the king, but of her daughters. Rhaella, a novice sworn to the Faith, had remained at the Starry Sept, whilst her twin, Aerea, continued on with the king to the Red Keep, where she was to serve as a cupbearer and companion to the Princess Alysanne.",
+            "valid": 1.0,
+            "characters": [
+                "king",
+                "Rhaena",
+                "Dreamfyre",
+                "Rhaella",
+                "Aerea",
+                "Princess Alysanne"
+            ],
+            "places": [
+                "Oldtown",
+                "King's Landing",
+                "Highgarden",
+                "Fair Isle",
+                "Starry Sept",
+                "Red Keep"
+            ],
+            "events": [
+                "coronation"
+            ],
+            "verbs": [
+                "departed",
+                "traveled",
+                "mounted",
+                "returned",
+                "remained"
+            ],
+            "adjectives": [
+                "grand"
+            ]
+        },
+        {
+            "paragraph_id": 41,
+            "paragraph": "Yet a curious thing befell Queen Rhaena\u2019s girls after the king\u2019s coronation, it was observed. The twins had ever been mirror images of each other in appearance, but not in temperament. Whereas Rhaella was said to be a bold and willful child and a terror to the septas who had been given charge of her, Aerea had been known as a shy, timid creature, much given to tears and fears. \u201cShe is frightened of horses, dogs, boys with loud voices, men with beards, and dancing, and she is terrified of dragons,\u201d Grand Maester Benifer wrote when Aerea first came to court.",
+            "valid": 1.0,
+            "characters": [
+                "Queen Rhaena",
+                "Rhaella",
+                "Aerea",
+                "Grand Maester Benifer"
+            ],
+            "places": [
+                "court"
+            ],
+            "events": [
+                "king's coronation"
+            ],
+            "verbs": [
+                "observed",
+                "said",
+                "written"
+            ],
+            "adjectives": [
+                "curious",
+                "bold",
+                "willful",
+                "shy",
+                "timid"
+            ]
+        },
+        {
+            "paragraph_id": 42,
+            "paragraph": "That was before Maegor\u2019s fall and Jaehaerys\u2019s coronation, however. Afterward, the girl who remained at Oldtown devoted herself to prayer and study, and never again required chastisement, whereas the girl who returned to King\u2019s Landing proved to be lively, quick-witted, and adventurous, and was soon spending half her days in the kennels, the stables, and the dragon yards. Though nothing was ever proved, it was widely believed that someone\u2014Queen Rhaena herself, mayhaps, or her mother, Queen Alyssa\u2014had used the occasion of the king\u2019s coronation to switch the twins. If so, no one was inclined to question the deception, for until such time as Jaehaerys sired an heir of the body, Princess Aerea (or the girl who now bore that name) was the heir to the Iron Throne.",
+            "valid": 1.0,
+            "characters": [
+                "Maegor",
+                "Jaehaerys",
+                "Oldtown",
+                "King's Landing",
+                "Queen Rhaena",
+                "Queen Alyssa",
+                "Princess Aerea"
+            ],
+            "places": [
+                "Oldtown",
+                "King's Landing"
+            ],
+            "events": [
+                "fall",
+                "coronation"
+            ],
+            "verbs": [
+                "devoted",
+                "required",
+                "proved",
+                "believed",
+                "used",
+                "switched"
+            ],
+            "adjectives": [
+                "lively",
+                "quick-witted",
+                "adventurous"
+            ]
+        },
+        {
+            "paragraph_id": 43,
+            "paragraph": "All reports agree that the king\u2019s return from Oldtown to King\u2019s Landing was a triumph. Ser Joffrey rode by his side, and all along the route they were hailed by cheering throngs. Here and there Poor Fellows appeared, gaunt unwashed fellows with long beards and great axes, to beg for the same clemency that had been granted the Red Dog. This Jaehaerys granted them, on the condition that they agreed to journey north and join the Night\u2019s Watch at the Wall. Hundreds swore to do so, amongst them no less a personage than Rob the Starvling. \u201cWithin a moon\u2019s turn of being crowned,\u201d Grand Maester Benifer wrote, \u201cKing Jaehaerys had reconciled the Iron Throne to the Faith and put an end to the bloodshed that had troubled the reigns of his uncle and father.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Ser Joffrey",
+                "Poor Fellows",
+                "Rob the Starvling",
+                "Grand Maester Benifer",
+                "King Jaehaerys"
+            ],
+            "places": [
+                "Oldtown",
+                "King's Landing"
+            ],
+            "events": [
+                "king's return from Oldtown to King's Landing was a triumph"
+            ],
+            "verbs": [
+                "hailed",
+                "begged",
+                "swore",
+                "reconciled"
+            ],
+            "adjectives": [
+                "triumph",
+                "clemency",
+                "gaunt",
+                "unwashed",
+                "long"
+            ]
+        }
+    ]
+}

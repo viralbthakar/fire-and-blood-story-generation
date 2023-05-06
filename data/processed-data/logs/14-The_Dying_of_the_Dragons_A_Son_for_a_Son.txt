@@ -1,0 +1,6 @@
+[1m› [4mProcessig File 14-The_Dying_of_the_Dragons_A_Son_for_a_Son.txt[0m
+    › Extracting Context for Paragraph 0
+    › Extracting Context for Paragraph 1
+    › Extracting Context for Paragraph 2
+    › Extracting Context for Paragraph 3
+    › Extracting Context for Paragraph 4

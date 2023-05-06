@@ -1,0 +1,65 @@
+[1m› [4mProcessig File 08-A_Time_of_Testing_The_Realm_Remade.txt[0m
+    › Extracting Context for Paragraph 0
+    › Extracting Context for Paragraph 1
+    › Extracting Context for Paragraph 2
+    › Extracting Context for Paragraph 3
+    › Extracting Context for Paragraph 4
+    › Extracting Context for Paragraph 5
+    › Extracting Context for Paragraph 6
+    › Extracting Context for Paragraph 7
+    › Extracting Context for Paragraph 8
+    › Extracting Context for Paragraph 9
+    › Extracting Context for Paragraph 10
+    › Extracting Context for Paragraph 11
+    › Extracting Context for Paragraph 12
+    › Extracting Context for Paragraph 13
+    › Extracting Context for Paragraph 14
+    › Extracting Context for Paragraph 15
+    › Extracting Context for Paragraph 16
+    › Extracting Context for Paragraph 17
+    › Invalid JSON Response for Paragraph 17
+    › ”
+
+{
+"characters": ["Jaehaerys", "Aerea", "Rhaella"], 
+"places": ["Iron Throne"], 
+"events": [], 
+"verbs": ["go", "spoke", "wished", "do", "suggested", "send", "remove"], 
+"adjectives": ["dear"]}
+    › Extracting Context for Paragraph 18
+    › Extracting Context for Paragraph 19
+    › Extracting Context for Paragraph 20
+    › Extracting Context for Paragraph 21
+    › Extracting Context for Paragraph 22
+    › Extracting Context for Paragraph 23
+    › Extracting Context for Paragraph 24
+    › Extracting Context for Paragraph 25
+    › Extracting Context for Paragraph 26
+    › Extracting Context for Paragraph 27
+    › Extracting Context for Paragraph 28
+    › Extracting Context for Paragraph 29
+    › Extracting Context for Paragraph 30
+    › Extracting Context for Paragraph 31
+    › Extracting Context for Paragraph 32
+    › Extracting Context for Paragraph 33
+    › Extracting Context for Paragraph 34
+    › Extracting Context for Paragraph 35
+    › Extracting Context for Paragraph 36
+    › Extracting Context for Paragraph 37
+    › Extracting Context for Paragraph 38
+    › Extracting Context for Paragraph 39
+    › Extracting Context for Paragraph 40
+    › Extracting Context for Paragraph 41
+    › Extracting Context for Paragraph 42
+    › Extracting Context for Paragraph 43
+    › Extracting Context for Paragraph 44
+    › Extracting Context for Paragraph 45
+    › Extracting Context for Paragraph 46
+    › Extracting Context for Paragraph 47
+    › Extracting Context for Paragraph 48
+    › Extracting Context for Paragraph 49
+    › Extracting Context for Paragraph 50
+    › Extracting Context for Paragraph 51
+    › Extracting Context for Paragraph 52
+    › Extracting Context for Paragraph 53
+    › Extracting Context for Paragraph 54

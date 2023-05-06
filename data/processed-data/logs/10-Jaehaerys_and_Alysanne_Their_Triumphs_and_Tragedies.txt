@@ -1,0 +1,208 @@
+[1m› [4mProcessig File 10-Jaehaerys_and_Alysanne_Their_Triumphs_and_Tragedies.txt[0m
+    › Extracting Context for Paragraph 0
+    › Extracting Context for Paragraph 1
+    › Extracting Context for Paragraph 2
+    › Extracting Context for Paragraph 3
+    › Extracting Context for Paragraph 4
+    › Extracting Context for Paragraph 5
+    › Extracting Context for Paragraph 6
+    › Extracting Context for Paragraph 7
+    › Extracting Context for Paragraph 8
+    › Extracting Context for Paragraph 9
+    › Extracting Context for Paragraph 10
+    › Extracting Context for Paragraph 11
+    › Extracting Context for Paragraph 12
+    › Extracting Context for Paragraph 13
+    › Extracting Context for Paragraph 14
+    › Extracting Context for Paragraph 15
+    › Extracting Context for Paragraph 16
+    › Extracting Context for Paragraph 17
+    › Extracting Context for Paragraph 18
+    › Extracting Context for Paragraph 19
+    › Extracting Context for Paragraph 20
+    › Extracting Context for Paragraph 21
+    › Extracting Context for Paragraph 22
+    › Extracting Context for Paragraph 23
+    › Extracting Context for Paragraph 24
+    › Extracting Context for Paragraph 25
+    › Extracting Context for Paragraph 26
+    › Extracting Context for Paragraph 27
+    › Extracting Context for Paragraph 28
+    › Extracting Context for Paragraph 29
+    › Extracting Context for Paragraph 30
+    › Extracting Context for Paragraph 31
+    › Extracting Context for Paragraph 32
+    › Extracting Context for Paragraph 33
+    › Extracting Context for Paragraph 34
+    › Extracting Context for Paragraph 35
+    › Extracting Context for Paragraph 36
+    › Extracting Context for Paragraph 37
+    › Extracting Context for Paragraph 38
+    › Extracting Context for Paragraph 39
+    › Extracting Context for Paragraph 40
+    › Extracting Context for Paragraph 41
+    › Extracting Context for Paragraph 42
+    › Extracting Context for Paragraph 43
+    › Extracting Context for Paragraph 44
+    › Extracting Context for Paragraph 45
+    › Extracting Context for Paragraph 46
+    › Extracting Context for Paragraph 47
+    › Extracting Context for Paragraph 48
+    › Extracting Context for Paragraph 49
+    › Extracting Context for Paragraph 50
+    › Extracting Context for Paragraph 51
+    › Extracting Context for Paragraph 52
+    › Extracting Context for Paragraph 53
+    › Extracting Context for Paragraph 54
+    › Extracting Context for Paragraph 55
+    › Extracting Context for Paragraph 56
+    › Extracting Context for Paragraph 57
+    › Invalid JSON Response for Paragraph 57
+    › ”
+
+{"characters":["Barth", "princess"], "places":[], "events":["perished"], "verbs":["wrote", "slept", "believed", "befell", "preach"], "adjectives":["merciful", "justly", 	"blind","uncaring","monstrous","evil"]}
+    › Extracting Context for Paragraph 58
+    › Invalid JSON Response for Paragraph 58
+    › ”
+
+{"characters":["Grand Maester Benifer", "king", "queen", "her mother"], "places":["Citadel"], "events":[], "verbs":["know","want","saw","experienced","lay dying","set down"], "adjectives":["faithless", "poor"]}
+    › Extracting Context for Paragraph 59
+    › Invalid JSON Response for Paragraph 59
+    › ”
+
+{"characters":["Princess Aerea"], "places":[], "events":["died of a fever"], "verbs":["burning", "thrust", "bulged", "sunk", "moving", "twisting", "searching","whispered","begged"], 
+"adjectives":["broadly true","hot","gaunt","starved","swellings","cracked","bleeding"]}
+    › Extracting Context for Paragraph 60
+    › Invalid JSON Response for Paragraph 60
+    › ”
+
+{"characters": ["maester", "child"], "places": [], "events": ["fever", "cooking from within", "skin resembling pork cracklings", "things moving within her", "eyes cooking and bursting"],  "verbs": ["powerless against her fever",  "grew darker and darker","issued","ceased to speak","burst"],  "adjectives":["horror","commonplace","poor","thin","obscenely"]}
+    › Extracting Context for Paragraph 61
+    › Extracting Context for Paragraph 62
+    › Extracting Context for Paragraph 63
+    › Invalid JSON Response for Paragraph 63
+    › ”
+
+{"characters":["Aerea Targaryen", "Queen Rhaena", "King's Landing", "Queen Alysanne", "Lord Rego"], 
+"places":["Dragonstone", "Fair Isle", "Oldtown","Westeros","Essos","Free Cities"], 
+"events":["fleeing Dragonstone"], 
+"verbs":["put aside","flew","proved wrong","looked to","found at","took this to mean that the princess had flown east"], 
+"adjectives":[]}
+    › Extracting Context for Paragraph 64
+    › Invalid JSON Response for Paragraph 64
+    › ”
+
+{"characters":["Aerea Targaryen", "Queen Rhaena", "Princess Aerea", "her father"], "places":["mother's castle"], "events":["slipped from her mother's castle", "chose Balerion as her mount"], "verbs":["offer", "asked", "slipped", "chose"], 
+"adjectives":["certain","wrong","shy","tractable","fearsome"]}
+    › Extracting Context for Paragraph 65
+    › Invalid JSON Response for Paragraph 65
+    › ”
+
+{"characters":["The princess", "King's Landing", "twin sister", "Lady Elissa Farman", "Aerea", "Balerion"], 
+"places":["Oldtown"], 
+"events":[], 
+"verbs":["fly","suspected","seek","take","leap","bend"], 
+"adjectives":["fierce"]}
+    › Extracting Context for Paragraph 66
+    › Invalid JSON Response for Paragraph 66
+    › ”
+
+{"characters": ["Aegon", "Vhagar", "Meraxes", "Balerion", "Aenar the Exile", "Daenys the Dreamer"], 
+"places": ["Dragonstone"], 
+"events": ["conquest"], 
+"verbs": ["recall","hatched","died","lived","knew"], 
+"adjectives":["largest","oldest","youngest","growing","fiercer","willful"]}
+    › Extracting Context for Paragraph 67
+    › Invalid JSON Response for Paragraph 67
+    › ”
+
+{"characters":["poor doomed child", "Valyrians", "Aerea Targaryen", "Balerion"], "places":["Valyria", "Westeros"], "events":["returned to King's Landing"], "verbs":["clinging","took","went","surmise","died"], "adjectives":["poor","doomed","wroth","enormous","fearsome"]}
+    › Extracting Context for Paragraph 68
+    › Extracting Context for Paragraph 69
+    › Extracting Context for Paragraph 70
+    › Extracting Context for Paragraph 71
+    › Extracting Context for Paragraph 72
+    › Extracting Context for Paragraph 73
+    › Extracting Context for Paragraph 74
+    › Extracting Context for Paragraph 75
+    › Extracting Context for Paragraph 76
+    › Extracting Context for Paragraph 77
+    › Extracting Context for Paragraph 78
+    › Extracting Context for Paragraph 79
+    › Extracting Context for Paragraph 80
+    › Extracting Context for Paragraph 81
+    › Extracting Context for Paragraph 82
+    › Extracting Context for Paragraph 83
+    › Extracting Context for Paragraph 84
+    › Extracting Context for Paragraph 85
+    › Extracting Context for Paragraph 86
+    › Extracting Context for Paragraph 87
+    › Extracting Context for Paragraph 88
+    › Extracting Context for Paragraph 89
+    › Extracting Context for Paragraph 90
+    › Extracting Context for Paragraph 91
+    › Extracting Context for Paragraph 92
+    › Extracting Context for Paragraph 93
+    › Extracting Context for Paragraph 94
+    › Extracting Context for Paragraph 95
+    › Extracting Context for Paragraph 96
+    › Extracting Context for Paragraph 97
+    › Extracting Context for Paragraph 98
+    › Extracting Context for Paragraph 99
+    › Extracting Context for Paragraph 100
+    › Extracting Context for Paragraph 101
+    › Extracting Context for Paragraph 102
+    › Extracting Context for Paragraph 103
+    › Extracting Context for Paragraph 104
+    › Extracting Context for Paragraph 105
+    › Extracting Context for Paragraph 106
+    › Extracting Context for Paragraph 107
+    › Extracting Context for Paragraph 108
+    › Extracting Context for Paragraph 109
+    › Extracting Context for Paragraph 110
+    › Extracting Context for Paragraph 111
+    › Extracting Context for Paragraph 112
+    › Extracting Context for Paragraph 113
+    › Extracting Context for Paragraph 114
+    › Extracting Context for Paragraph 115
+    › Extracting Context for Paragraph 116
+    › Extracting Context for Paragraph 117
+    › Extracting Context for Paragraph 118
+    › Extracting Context for Paragraph 119
+    › Extracting Context for Paragraph 120
+    › Extracting Context for Paragraph 121
+    › Invalid JSON Response for Paragraph 121
+    › ”
+
+{"characters":["queen", "girl", "blacksmith", "boy", "lord"], "places":["tower"], "events":["wedding"], "verbs":["said","gave","were","carried","enjoyed"], "adjectives":["pretty"]}
+    › Extracting Context for Paragraph 122
+    › Invalid JSON Response for Paragraph 122
+    › ”
+
+{"characters":["her", "apprentice boy", "lord", "wife", "girl"], 
+"places":["Mole's Town"], 
+"events":["maidenhead gone","raising hand against wife","carrying lord's child","beat it out of her","made way to Mole's Town"], 
+"verbs":["gone","borne","raise","became plain","called","decided","live as one","made way"], 
+"adjectives":["sad", "ruined"]}
+    › Extracting Context for Paragraph 123
+    › Extracting Context for Paragraph 124
+    › Extracting Context for Paragraph 125
+    › Extracting Context for Paragraph 126
+    › Extracting Context for Paragraph 127
+    › Extracting Context for Paragraph 128
+    › Extracting Context for Paragraph 129
+    › Extracting Context for Paragraph 130
+    › Extracting Context for Paragraph 131
+    › Extracting Context for Paragraph 132
+    › Extracting Context for Paragraph 133
+    › Extracting Context for Paragraph 134
+    › Extracting Context for Paragraph 135
+    › Extracting Context for Paragraph 136
+    › Extracting Context for Paragraph 137
+    › Extracting Context for Paragraph 138
+    › Extracting Context for Paragraph 139
+    › Extracting Context for Paragraph 140
+    › Invalid JSON Response for Paragraph 140
+    ›  The Stark family gathered at Winterfell, their ancient castle.
+
+{"characters": ["Stark family"], "places": ["Winterfell"], "events": ["gathered"], "verbs": ["coming", "gathered"], "adjectives": ["winter", "ancient"]}

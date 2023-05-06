@@ -1,0 +1,1248 @@
+{
+    "02-Reign_of_the_Dragon_The_Wars_of_King_Aegon_I": [
+        {
+            "paragraph_id": 0,
+            "paragraph": "The long reign of King Aegon I Targaryen (1 AC\u201337 AC) was by and large a peaceful one\u2026in his later years, especially. But before the Dragon\u2019s Peace, as the last two decades of his kingship were later called by the maesters of the Citadel, came the Dragon\u2019s wars, the last of which was as cruel and bloody a conflict as any ever fought in Westeros.",
+            "valid": 1.0,
+            "characters": [
+                "King Aegon I Targaryen"
+            ],
+            "places": [
+                "Westeros"
+            ],
+            "events": [
+                "Dragon's Peace",
+                "Dragon's wars"
+            ],
+            "verbs": [
+                "reign",
+                "called"
+            ],
+            "adjectives": [
+                "long",
+                "peaceful",
+                "later",
+                "cruel",
+                "bloody"
+            ]
+        },
+        {
+            "paragraph_id": 1,
+            "paragraph": "Though the Wars of Conquest were said to have ended when Aegon was crowned and anointed by the High Septon in the Starry Sept of Oldtown, not all of Westeros had yet submitted to his rule.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon",
+                "High Septon"
+            ],
+            "places": [
+                "Westeros",
+                "Oldtown",
+                "Starry Sept"
+            ],
+            "events": [
+                "Wars of Conquest"
+            ],
+            "verbs": [
+                "submitted"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 2,
+            "paragraph": "In the Bite, the lords of the Three Sisters had taken advantage of the chaos of Aegon\u2019s Conquest to declare themselves a free nation and crown Lady Marla of House Sunderland their queen. As the Arryn fleet had largely been destroyed during the Conquest, the king commanded his Warden of the North, Torrhen Stark of Winterfell, to end the Sistermen\u2019s Rebellion, and a northern army departed from White Harbor on a fleet of hired Braavosi galleys, under the command of Ser Warrick Manderly. The sight of his sails, and the sudden appearance of Queen Visenya and Vhagar in the skies above Sisterton, took the heart out of the Sistermen; they promptly deposed Queen Marla in favor of her younger brother. Steffon Sunderland renewed his fealty to the Eyrie, bent the knee to Queen Visenya, and gave his sons over as hostages for his good behavior, one to be fostered with the Manderlys, the other with the Arryns. His sister, the deposed queen, was exiled and imprisoned. After five years, her tongue was removed, and she spent the remainder of her life with the silent sisters, tending to the noble dead.",
+            "valid": 1.0,
+            "characters": [
+                "Lady Marla of House Sunderland",
+                "Torrhen Stark of Winterfell",
+                "Ser Warrick Manderly",
+                "Queen Visenya",
+                "Vhagar",
+                "Steffon Sunderland"
+            ],
+            "places": [
+                "Three Sisters",
+                "Aegon's Conquest",
+                "White Harbor",
+                "Sisterton",
+                "Eyrie"
+            ],
+            "events": [
+                "declared themselves a free nation and crown Lady Marla of House Sunderland their queen.",
+                "the Arryn fleet had largely been destroyed during the Conquest.",
+                "a northern army departed from White Harbor on a fleet of hired Braavosi galleys, under the command of Ser Warrick Manderly.",
+                "the sight of his sails, and the sudden appearance of Queen Visenya and Vhagar in the skies above Sisterton, took the heart out of the Sistermen; they promptly deposed Queen Marla in favor of her younger brother.",
+                "Steffon Sunderland renewed his fealty to the Eyrie, bent the knee to Queen Visenya, and gave his sons over as hostages for his good behavior, one to be fostered with the Manderlys, the other with the Arryns.",
+                "his sister, the deposed queen was exiled and imprisoned. After five years her tongue was removed."
+            ],
+            "verbs": [
+                "taken advantage",
+                "destroyed",
+                "departed",
+                "appearance",
+                "promptly deposed",
+                "renewed",
+                "fostered"
+            ],
+            "adjectives": [
+                "free nation",
+                "sudden"
+            ]
+        },
+        {
+            "paragraph_id": 3,
+            "paragraph": "On the other side of Westeros, the Iron Islands were in chaos. House Hoare had ruled the ironmen for long centuries, only to be extinguished in a single night when Aegon unleashed Balerion\u2019s fires on Harrenhal. Though Harren the Black and his sons perished in those flames, Qhorin Volmark of Harlaw, whose grandmother had been a younger sister of Harren\u2019s grandsire, declared himself the rightful heir \u201cof the black line,\u201d and assumed the kingship.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon",
+                "Balerion",
+                "Harren the Black",
+                "Qhorin Volmark"
+            ],
+            "places": [
+                "Westeros",
+                "Iron Islands",
+                "Harrenhal"
+            ],
+            "events": [
+                "House Hoare extinguished in a single night"
+            ],
+            "verbs": [
+                "rule",
+                "perish",
+                "declared",
+                "assumed"
+            ],
+            "adjectives": [
+                "long centuries",
+                "rightful"
+            ]
+        },
+        {
+            "paragraph_id": 4,
+            "paragraph": "Not all ironborn accepted his claim, however. On Old Wyk, under the bones of Nagga the Sea Dragon, the priests of the Drowned God placed a driftwood crown on the head of one of their own, the barefoot holy man Lodos, who proclaimed himself the living son of the Drowned God and was said to be able to work miracles. Other claimants arose on Great Wyk, Pyke, and Orkmont, and for more than a year their adherents battled one another on land and sea. It was said that the waters between the islands were so choked with corpses that krakens appeared by the hundreds, drawn by the blood.",
+            "valid": 1.0,
+            "characters": [
+                "Lodos"
+            ],
+            "places": [
+                "Old Wyk",
+                "Great Wyk",
+                "Pyke",
+                "Orkmont"
+            ],
+            "events": [
+                "placed a driftwood crown on the head of one of their own"
+            ],
+            "verbs": [
+                "accepted",
+                "proclaimed",
+                "battled"
+            ],
+            "adjectives": [
+                "barefoot",
+                "holy"
+            ]
+        },
+        {
+            "paragraph_id": 5,
+            "paragraph": "Aegon Targaryen put an end to the fighting. He descended on the islands in 2 AC, riding Balerion. With him came the war fleets of the Arbor, Highgarden, and Lannisport, and even a few longships from Bear Island dispatched by Torrhen Stark. The ironmen, their numbers diminished by a year of fratricidal war, put up little resistance\u2026indeed, many hailed the coming of the dragons. King Aegon slew Qhorin Volmark with Blackfyre, but allowed his infant son to inherit his father\u2019s lands and castle. On Old Wyk, the priest-king Lodos, purported son of the Drowned God, called upon the krakens of the deep to rise and drag down the invaders\u2019 ships. When that failed to happen, Lodos filled his robes with stones and walked into the sea, \u201cto seek my father\u2019s counsel.\u201d Thousands followed. Their bloated, crab- eaten bodies washed up on the shores of Old Wyk for years to come.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon Targaryen",
+                "Balerion",
+                "Torrhen Stark",
+                "Qhorin Volmark",
+                "Blackfyre",
+                "Lodos"
+            ],
+            "places": [
+                "Islands",
+                "Arbor",
+                "Highgarden",
+                "Lannisport",
+                "Bear Island",
+                "Old Wyk"
+            ],
+            "events": [
+                "Fratricidal War"
+            ],
+            "verbs": [
+                "Descended",
+                "Riding",
+                "Allowed",
+                "Called",
+                "Failed",
+                "Walked"
+            ],
+            "adjectives": [
+                "Infant"
+            ]
+        },
+        {
+            "paragraph_id": 6,
+            "paragraph": "Afterward, the issue arose as to who should rule the Iron Islands for the king. It was suggested that the ironmen be made vassals of the Tullys of Riverrun or the Lannisters of Casterly Rock. Some even urged that they be given over to Winterfell. Aegon listened to each claim, but in the end decided that he would allow the ironborn to choose their own lord paramount. To no one\u2019s surprise, they chose one of their own: Vickon Greyjoy, Lord Reaper of Pyke. Lord Vickon did homage to King Aegon, and the Dragon departed with his fleets.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon",
+                "Vickon Greyjoy"
+            ],
+            "places": [
+                "Iron Islands",
+                "Riverrun",
+                "Casterly Rock",
+                "Winterfell",
+                "Pyke"
+            ],
+            "events": [
+                "choose their own lord paramount"
+            ],
+            "verbs": [
+                "arose",
+                "suggested",
+                "urged",
+                "listened",
+                "chose",
+                "did homage"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 7,
+            "paragraph": "Greyjoy\u2019s writ extended only to the Iron Islands, however; he renounced all claim to the lands House Hoare had seized upon the mainland. Aegon granted the ruined castle of Harrenhal and its domains to Ser Quenton Qoherys, his master-at-arms on Dragonstone, but required him to accept Lord Edmyn Tully of Riverrun as his liege lord. The new-made Lord Quenton had two strong sons and a plump grandson to assure the succession, but as his first wife had been carried off by spotted fever three years earlier, he further agreed to take one of Lord Tully\u2019s daughters as his bride.",
+            "valid": 1.0,
+            "characters": [
+                "Greyjoy",
+                "Aegon",
+                "Ser Quenton Qoherys",
+                "Lord Edmyn Tully",
+                "Lord Quenton"
+            ],
+            "places": [
+                "Iron Islands",
+                "House Hoare",
+                "Harrenhal",
+                "Dragonstone",
+                "Riverrun"
+            ],
+            "events": [
+                "seized upon the mainland"
+            ],
+            "verbs": [
+                "extended",
+                "renounced",
+                "granted",
+                "accepted",
+                "assure",
+                "took"
+            ],
+            "adjectives": [
+                "ruined",
+                "strong",
+                "plump"
+            ]
+        },
+        {
+            "paragraph_id": 8,
+            "paragraph": "With the submission of the Three Sisters and the Iron Islands, all of Westeros south of the Wall was now ruled by Aegon Targaryen, save Dorne alone. So it was to Dorne that the Dragon next turned his attention. Aegon first attempted to win the Dornishmen with words, dispatching a delegation of high lords, maesters, and septons to Sunspear to treat with Princess Meria Martell, the so-called Yellow Toad of Dorne, and persuade her of the advantages of joining her realm to his. Their negotiations continued for the best part of a year, but achieved nothing.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon Targaryen",
+                "Meria Martell"
+            ],
+            "places": [
+                "Westeros",
+                "The Wall",
+                "Dorne",
+                "Sunspear"
+            ],
+            "events": [
+                "submission of the Three Sisters and the Iron Islands"
+            ],
+            "verbs": [
+                "ruled",
+                "dispatching",
+                "treat",
+                "persuade",
+                "negotiations"
+            ],
+            "adjectives": [
+                "high",
+                "so-called"
+            ]
+        },
+        {
+            "paragraph_id": 9,
+            "paragraph": "The start of the First Dornish War is generally fixed at 4 AC, when Rhaenys Targaryen returned to Dorne. This time she came with fire and blood, just as she had threatened. Riding Meraxes, the queen descended out of a clear blue sky and set the Planky Town ablaze, the fires leaping from boat to boat until the whole mouth of the Greenblood was choked with burning flotsam, and the pillar of smoke could be seen as far away as Sunspear. The denizens of the floating town took to the river for refuge from the flames, so fewer than a hundred died in the attack, and most of those from drowning rather than dragonfire. But first blood had been shed.",
+            "valid": 1.0,
+            "characters": [
+                "Rhaenys Targaryen"
+            ],
+            "places": [
+                "Planky Town",
+                "Greenblood",
+                "Sunspear"
+            ],
+            "events": [
+                "First Dornish War"
+            ],
+            "verbs": [
+                "returned",
+                "descended",
+                "set",
+                "leaping",
+                "choked",
+                "took",
+                "died",
+                "shed"
+            ],
+            "adjectives": [
+                "clear",
+                "blue",
+                "burning"
+            ]
+        },
+        {
+            "paragraph_id": 10,
+            "paragraph": "Elsewhere, Orys Baratheon led one thousand picked knights up the Boneway, whilst Aegon himself marched through the Prince\u2019s Pass at the head of an army thirty thousand strong, led by near two thousand mounted knights and three hundred lords and bannermen. Lord Harlan Tyrell, the Warden of the South, was heard to say that they had more than enough power to smash any Dornish army that tried to stand before them, even without Aegon and Balerion.",
+            "valid": 1.0,
+            "characters": [
+                "Orys Baratheon",
+                "Aegon",
+                "Harlan Tyrell"
+            ],
+            "places": [
+                "Boneway",
+                "Prince's Pass"
+            ],
+            "events": [],
+            "verbs": [
+                "led",
+                "marched",
+                "heard",
+                "smash"
+            ],
+            "adjectives": [
+                "picked",
+                "mounted",
+                "enough"
+            ]
+        },
+        {
+            "paragraph_id": 11,
+            "paragraph": "No doubt he had the right of that, but the issue was never proved, for the Dornishmen never offered battle. Instead they withdrew before King Aegon\u2019s host, burning their crops in the field and poisoning every well. The invaders found the Dornish watchtowers in the Red Mountains slighted and abandoned. In the high passes, Aegon\u2019s vanguard found its way barred by a wall of sheep carcasses, shorn of all wool and too rotted to eat. The king\u2019s army was already running short of food and fodder by the time they emerged from the Prince\u2019s Pass to face the Dornish sands. There Aegon divided his forces, sending Lord Tyrell south against Uthor Uller, Lord of the Hellholt, whilst he himself turned eastward, to besiege Lord Fowler in his mountain fastness Skyreach.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon",
+                "Tyrell",
+                "Uthor Uller",
+                "Fowler"
+            ],
+            "places": [
+                "Red Mountains",
+                "Prince's Pass",
+                "Hellholt",
+                "Skyreach"
+            ],
+            "events": [
+                "withdrawing before King Aegon's host",
+                "burning crops in the field and poisoning wells",
+                "slighting watchtowers",
+                "barring way with wall of sheep carcasses"
+            ],
+            "verbs": [
+                "offered",
+                "withdrew",
+                "found",
+                "sent"
+            ],
+            "adjectives": [
+                "right",
+                "short",
+                "high"
+            ]
+        },
+        {
+            "paragraph_id": 12,
+            "paragraph": "It was the second year of autumn, and winter was thought to be close at hand. In that season, the invaders hoped, the heat in the deserts would be less, water more plentiful. But the Dornish sun proved unrelenting as Lord Tyrell marched toward Hellholt. In such heat, men drink more, and every waterhole and oasis in the army\u2019s path had been poisoned. Horses began to die, more every day, followed by their riders. The proud knights discarded their banners, their shields, their very armor. Lord Tyrell lost a quarter of his men and almost all his horses to the Dornish sands, and when at last he reached the Hellholt, he found it abandoned.",
+            "valid": 1.0,
+            "characters": [
+                "Lord Tyrell"
+            ],
+            "places": [
+                "Hellholt",
+                "Dornish sands"
+            ],
+            "events": [
+                "invaders hoped",
+                "horses began to die",
+                "knights discarded their banners, shields and armor"
+            ],
+            "verbs": [
+                "march",
+                "drink",
+                "discarded"
+            ],
+            "adjectives": [
+                "second",
+                "autumn",
+                "winter",
+                "unrelenting",
+                "proud"
+            ]
+        },
+        {
+            "paragraph_id": 13,
+            "paragraph": "Orys Baratheon\u2019s attack fared little better. His horses struggled on the stony slopes of the narrow, twisting passes, but many balked completely when they reached the steepest sections of the road, where the Dornish had chiseled steps into the mountains. Boulders rained down on the Hand\u2019s knights from above, the work of defenders the stormlanders never saw. Where the Boneway crossed the river Wyl, Dornish archers suddenly appeared as the column was making its way across a bridge, and arrows rained down by the thousands. When Lord Orys ordered his men to fall back, a massive rockfall cut off their retreat. With no way forward and no way back, the stormlanders were butchered like hogs in a pen. Orys Baratheon himself was spared, along with a dozen other lords thought worth the ransom, but they found themselves captives of Wyl of Wyl, the savage mountain lord called Widow-lover.",
+            "valid": 1.0,
+            "characters": [
+                "Orys Baratheon"
+            ],
+            "places": [
+                "stony slopes",
+                "narrow, twisting passes",
+                "Boneway",
+                "river Wyl"
+            ],
+            "events": [
+                "attack",
+                "boulders rained down on the Hand's knights from above",
+                "arrows rained down by the thousands",
+                "massive rockfall cut off their retreat"
+            ],
+            "verbs": [
+                "struggled",
+                "balked",
+                "chiseled",
+                "appeared",
+                "rained down",
+                "ordered",
+                "fall back",
+                "butchered"
+            ],
+            "adjectives": [
+                "stony",
+                "narrow",
+                "twisting",
+                "massive"
+            ]
+        },
+        {
+            "paragraph_id": 14,
+            "paragraph": "King Aegon himself had more success. Marching eastward through the foothills, where runoff from the heights provided water and game was plentiful in the valleys, he took the castle Skyreach by storm, won Yronwood after a brief siege. The Lord of the Tor had recently died, and his steward surrendered without a fight. Farther east, Lord Toland of Ghost Hill sent forth his champion to challenge the king to single combat. Aegon accepted and slew the man, only to discover afterward that he had not been Toland\u2019s champion, but his fool. Lord Toland himself was gone.",
+            "valid": 1.0,
+            "characters": [
+                "King Aegon",
+                "Lord of the Tor",
+                "Lord Toland"
+            ],
+            "places": [
+                "Skyreach",
+                "Yronwood",
+                "Ghost Hill"
+            ],
+            "events": [
+                "stormed Skyreach",
+                "brief siege at Yronwood",
+                "challenged to single combat"
+            ],
+            "verbs": [
+                "marching",
+                "surrendered",
+                "accepted",
+                "slew"
+            ],
+            "adjectives": [
+                "eastward",
+                "runoff",
+                "plentiful",
+                "recently"
+            ]
+        },
+        {
+            "paragraph_id": 15,
+            "paragraph": "As was Meria Martell, the Princess of Dorne, when King Aegon descended upon Sunspear on Balerion, to find his sister Rhaenys there before him. After burning the Planky Town, she had taken Lemonwood, Spottswood, and Stinkwater, accepting obeisances from old women and children, but nowhere finding an actual enemy. Even the shadow city outside the walls of Sunspear was half-deserted, and none of those who remained would admit to any knowledge of the whereabouts of the Dornish lords and princess. \u201cThe Yellow Toad has melted into the sands,\u201d Queen Rhaenys told King Aegon.",
+            "valid": 1.0,
+            "characters": [
+                "Meria Martell",
+                "King Aegon",
+                "Rhaenys"
+            ],
+            "places": [
+                "Dorne",
+                "Sunspear",
+                "Planky Town",
+                "Lemonwood",
+                "Spottswood",
+                "Stinkwater"
+            ],
+            "events": [
+                "descended upon Sunspear on Balerion",
+                "burning the Planky Town",
+                "taken Lemonwood, Spottswood, and Stinkwater"
+            ],
+            "verbs": [
+                "accepting",
+                "admit",
+                "melted"
+            ],
+            "adjectives": [
+                "actual",
+                "half-deserted"
+            ]
+        },
+        {
+            "paragraph_id": 16,
+            "paragraph": "Aegon\u2019s answer was a declaration of victory. In the great hall at Sunspear, he gathered together what dignitaries remained and told them that Dorne was now part of the realm, that henceforth they would be his leal subjects, that their former lords were rebels and outlaws. Rewards were offered for their heads, particularly that of the Yellow Toad, Princess Meria Martell. Lord Jon Rosby was named Castellan of Sunspear and Warden of the Sands, to rule Dorne in the king\u2019s name. Stewards and castellans were named for all the other lands and castles the Conqueror had taken. Then King Aegon and his host departed back the way they had come, west along the foothills and through the Prince\u2019s Pass.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon",
+                "Dorne",
+                "Meria Martell",
+                "Lord Jon Rosby"
+            ],
+            "places": [
+                "Sunspear",
+                "Prince's Pass"
+            ],
+            "events": [
+                "declaration of victory"
+            ],
+            "verbs": [
+                "gathered",
+                "told",
+                "offered",
+                "named",
+                "departed"
+            ],
+            "adjectives": [
+                "great",
+                "leal",
+                "rebel",
+                "outlaws"
+            ]
+        },
+        {
+            "paragraph_id": 17,
+            "paragraph": "They had hardly reached King\u2019s Landing before Dorne erupted behind them. Dornish spearmen appeared from nowhere, like desert flowers after a rain. Skyreach, Yronwood, the Tor, and Ghost Hill were all recaptured within a fortnight, their royal garrisons put to the sword. Aegon\u2019s castellans and stewards were allowed to die only after long torment. It was said that the Dornish lords had a wager over who could keep their captive alive the longest whilst dismembering them. Lord Rosby, Castellan of Sunspear and Warden of the Sands, had a kinder end than most. After the Dornishmen swarmed in from the shadow city to retake the castle, he was bound hand and foot, dragged to the top of the Spear Tower, and thrown from a window by none other than the aged Princess Meria herself.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon",
+                "Lord Rosby",
+                "Princess Meria"
+            ],
+            "places": [
+                "King's Landing",
+                "Skyreach",
+                "Yronwood",
+                "The Tor",
+                "Ghost Hill",
+                "Sunspear"
+            ],
+            "events": [
+                "Recaptured within a fortnight"
+            ],
+            "verbs": [
+                "Reached",
+                "Appeared",
+                "Put to the sword",
+                "Allowed to die",
+                "Dragged",
+                "Thrown from a window"
+            ],
+            "adjectives": [
+                "Dornish",
+                "Royal",
+                "Kinder"
+            ]
+        },
+        {
+            "paragraph_id": 18,
+            "paragraph": "Soon only Lord Tyrell and his host remained. King Aegon had left Tyrell behind when he departed. Hellholt, a strong castle on the river Brimstone, was thought to be well situated to deal with any revolts. But the  river  was  sulfurous,  and  the  fish  taken  from  it  made  the Highgardeners sick. House Qorgyle of Sandstone had never submitted, and Qorgyle spearmen cut down Tyrell\u2019s foraging parties and patrols whenever they strayed too far west. The Vaiths of Vaith did the same to the east. When word of the Defenestration of Sunspear reached the Hellholt, Lord Tyrell gathered his remaining strength and set off across the sands. His announced intention was to capture Vaith, march east along the river, retake Sunspear and the shadow city, and punish Lord Rosby\u2019s murderers. But somewhere east of the Hellholt amidst the red sands, Tyrell and his entire army disappeared. No man of them was ever seen again.",
+            "valid": 1.0,
+            "characters": [
+                "Lord Tyrell",
+                "King Aegon",
+                "House Qorgyle of Sandstone"
+            ],
+            "places": [
+                "Hellholt",
+                "Brimstone",
+                "Highgardeners",
+                "Vaiths of Vaith",
+                "Sunspear"
+            ],
+            "events": [
+                "Defenestration of Sunspear"
+            ],
+            "verbs": [
+                "remained",
+                "departed",
+                "thought",
+                "submitted",
+                "cut down",
+                "set off",
+                "capture",
+                "march",
+                "retake",
+                "punish"
+            ],
+            "adjectives": [
+                "strong",
+                "sulfurous"
+            ]
+        },
+        {
+            "paragraph_id": 19,
+            "paragraph": "Aegon Targaryen was not a man to accept defeat. The war would drag on for another seven years, though after 6 AC the fighting degenerated into an endless bloody series of atrocities, raids, and retaliations, broken up by long periods of inactivity, a dozen short truces, and numerous murders and assassinations.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon Targaryen"
+            ],
+            "places": [],
+            "events": [
+                "war",
+                "fighting",
+                "atrocities",
+                "raids",
+                "retaliations"
+            ],
+            "verbs": [
+                "accept",
+                "drag on",
+                "degenerated into",
+                "broken up by"
+            ],
+            "adjectives": [
+                "endless",
+                "bloody",
+                "short"
+            ]
+        },
+        {
+            "paragraph_id": 20,
+            "paragraph": "In 7 AC, Orys Baratheon and the other lords who had been taken captive on the Boneway were ransomed back to King\u2019s Landing for their weight in gold, but on their return it was found that the Widow- lover had lopped off each man\u2019s sword hand, so they might never again take up swords against Dorne. In retaliation, King Aegon himself descended on the mountain fastnesses of the Wyls with Balerion, and reduced half a dozen of their keeps and watchtowers to heaps of molten stone. The Wyls took refuge in caves and tunnels beneath their mountains, however, and the Widow-lover lived another twenty years.",
+            "valid": 1.0,
+            "characters": [
+                "Orys Baratheon",
+                "King Aegon"
+            ],
+            "places": [
+                "Boneway",
+                "King's Landing",
+                "Wyls"
+            ],
+            "events": [
+                "ransomed back to King's Landing for their weight in gold",
+                "lopped off each man's sword hand",
+                "reduced half a dozen of their keeps and watchtowers to heaps of molten stone"
+            ],
+            "verbs": [
+                "ransomed",
+                "lopped off",
+                "reduced"
+            ],
+            "adjectives": [
+                "captive",
+                "molten"
+            ]
+        },
+        {
+            "paragraph_id": 21,
+            "paragraph": "In 8 AC, a very dry year, Dornish raiders crossed the Sea of Dorne on ships provided by a pirate king from the Stepstones, attacking half a dozen towns and villages along the south shore of Cape Wrath and setting fires that spread through half the rainwood. \u201cFire for fire,\u201d Princess Meria is reported to have said.",
+            "valid": 1.0,
+            "characters": [
+                "Princess Meria"
+            ],
+            "places": [
+                "Sea of Dorne",
+                "Stepstones",
+                "Cape Wrath",
+                "Rainwood"
+            ],
+            "events": [
+                "Dornish raiders crossed the Sea of Dorne on ships provided by a pirate king from the Stepstones, attacking half a dozen towns and villages along the south shore of Cape Wrath and setting fires that spread through half the rainwood"
+            ],
+            "verbs": [
+                "crossed",
+                "attacking",
+                "setting"
+            ],
+            "adjectives": [
+                "dry"
+            ]
+        },
+        {
+            "paragraph_id": 22,
+            "paragraph": "This was not something the Targaryens would allow to go unanswered. Later that same year, Visenya Targaryen appeared in the skies of Dorne, and Vhagar\u2019s fires were loosed upon Sunspear, Lemonwood, Ghost Hill, and the Tor.",
+            "valid": 1.0,
+            "characters": [
+                "Visenya Targaryen"
+            ],
+            "places": [
+                "Dorne",
+                "Sunspear",
+                "Lemonwood",
+                "Ghost Hill",
+                "Tor"
+            ],
+            "events": [
+                "appeared in the skies of Dorne"
+            ],
+            "verbs": [
+                "allow",
+                "loosed"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 23,
+            "paragraph": "In 9 AC, Visenya returned again, this time with Aegon himself flying beside her, and Sandstone, Vaith, and the Hellholt burned.",
+            "valid": 1.0,
+            "characters": [
+                "Visenya",
+                "Aegon"
+            ],
+            "places": [
+                "Sandstone",
+                "Vaith",
+                "Hellholt"
+            ],
+            "events": [
+                "burned"
+            ],
+            "verbs": [
+                "returned",
+                "flying"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 24,
+            "paragraph": "The Dornish answer came the next year, when Lord Fowler led an army through the Prince\u2019s Pass and into the Reach, moving so swiftly that he was able to burn a dozen villages and capture the great border castle Nightsong before the marcher lords realized the foe was upon them. When word of the attack reached Oldtown, Lord Hightower sent his son Addam with a strong force to retake Nightsong, but the Dornish had anticipated just that thing. A second Dornish army under Ser Joffrey Dayne came down from Starfall and attacked the city. Oldtown\u2019s walls proved too strong for the Dornish to overcome, but Dayne burned fields, farms, and villages for twenty leagues around the city, and slew Lord Hightower\u2019s younger son, Garmon, when the boy led a sortie against him. Ser Addam Hightower reached Nightsong only to find that Lord Fowler had put the castle to the torch and its garrison to the sword. Lord Caron and his wife and children had been carried back to Dorne as captives. Rather than pursue, Ser Addam returned at once to Oldtown to relieve the city, but Ser Joffrey and his army had melted back into the mountains as well.",
+            "valid": 1.0,
+            "characters": [
+                "Lord Fowler",
+                "Lord Hightower",
+                "Addam",
+                "Ser Joffrey Dayne",
+                "Garmon",
+                "Ser Addam Hightower",
+                "Lord Caron"
+            ],
+            "places": [
+                "Prince's Pass",
+                "Reach",
+                "Oldtown",
+                "Nightsong",
+                "Starfall"
+            ],
+            "events": [
+                "attack on Nightsong",
+                "sortie against Ser Joffrey Dayne"
+            ],
+            "verbs": [
+                "led",
+                "moved",
+                "realized",
+                "retake",
+                "overcome",
+                "burned",
+                "slew"
+            ],
+            "adjectives": [
+                "great"
+            ]
+        },
+        {
+            "paragraph_id": 25,
+            "paragraph": "Old Lord Manfred Hightower died soon after. Ser Addam succeeded his father as the Lord of the High Tower, as Oldtown cried out for vengeance. King Aegon flew Balerion to Highgarden to take counsel with his Warden of the South, but Theo Tyrell, the young lord, was most reluctant to contemplate another invasion of Dorne after the fate that had befallen his father.",
+            "valid": 1.0,
+            "characters": [
+                "Lord Manfred Hightower",
+                "Ser Addam",
+                "King Aegon",
+                "Theo Tyrell"
+            ],
+            "places": [
+                "Oldtown",
+                "High Tower",
+                "Highgarden",
+                "Dorne"
+            ],
+            "events": [
+                "died soon after",
+                "succeeded his father as the Lord of the High Tower",
+                "flew Balerion to Highgarden to take counsel with his Warden of the South"
+            ],
+            "verbs": [
+                "died",
+                "succeeded",
+                "flew",
+                "contemplate"
+            ],
+            "adjectives": [
+                "old",
+                "young"
+            ]
+        },
+        {
+            "paragraph_id": 26,
+            "paragraph": "Once again the king unleashed his dragons against Dorne. Aegon himself fell upon Skyreach, vowing to make the Fowler seat \u201ca second Harrenhal.\u201d Visenya and Vhagar brought fire and blood to Starfall. And Rhaenys and Meraxes returned once more to the Hellholt\u2026where tragedy struck. The Targaryen dragons, bred and trained to battle, had flown through storms of spears and arrows on many occasions, and suffered little harm. The scales of a full-grown dragon were harder than steel, and even those arrows that struck home seldom penetrated enough to do more than enrage the great beasts. But as Meraxes banked above the Hellholt, a defender atop the castle\u2019s highest tower triggered a scorpion, and a yard-long iron bolt caught the queen\u2019s dragon in the right eye. Meraxes did not die at once, but came crashing to earth in mortal agony, destroying the tower and a large section of the Hellholt\u2019s curtain wall in her death throes.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon",
+                "Visenya",
+                "Vhagar",
+                "Rhaenys",
+                "Meraxes"
+            ],
+            "places": [
+                "Dorne",
+                "Skyreach",
+                "Starfall",
+                "Hellholt"
+            ],
+            "events": [
+                "unleashed dragons against Dorne",
+                "fell upon Skyreach",
+                "brought fire and blood to Starfall",
+                "returned to the Hellholt",
+                "crashing to earth in mortal agony"
+            ],
+            "verbs": [
+                "unleashed",
+                "fell",
+                "brought",
+                "returned",
+                "triggered",
+                "caught",
+                "did not die at once,",
+                "came crashing to earth"
+            ],
+            "adjectives": [
+                "second Harrenhal"
+            ]
+        },
+        {
+            "paragraph_id": 27,
+            "paragraph": "Whether Rhaenys Targaryen outlived her dragon remains a matter of dispute. Some say that she lost her seat and fell to her death, others that she was crushed beneath Meraxes in the castle yard. A few accounts claim the queen survived her dragon\u2019s fall, only to die a slow death by torment in the dungeons of the Ullers. The true circumstances of her demise will likely never be known, but Rhaenys Targaryen, sister and wife to King Aegon I, perished at the Hellholt in Dorne in the 10th year After the Conquest.",
+            "valid": 1.0,
+            "characters": [
+                "Rhaenys Targaryen",
+                "Aegon I"
+            ],
+            "places": [
+                "Hellholt in Dorne"
+            ],
+            "events": [
+                "lost her seat and fell to her death",
+                "crushed beneath Meraxes in the castle yard",
+                "died a slow death by torment in the dungeons of the Ullers"
+            ],
+            "verbs": [
+                "outlived",
+                "perished"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 28,
+            "paragraph": "The next two years were the years of the Dragon\u2019s Wroth. Every castle in Dorne was burned thrice over, as Balerion and Vhagar returned time and time again. The sands around the Hellholt were fused into glass in places, so hot was Balerion\u2019s fiery breath. The Dornish lords were forced into hiding, but even that did not buy them safety. Lord Fowler, Lord Vaith, Lady Toland, and four successive Lords of the Hellholt were murdered, one after the other, for the Iron Throne had offered a lord\u2019s ransom in gold for the head of any Dornish lord. Only two of the killers lived to collect their rewards, however, and the Dornishmen took their reprisals, repaying blood with blood. Lord Connington of Griffin\u2019s Roost was killed whilst hunting, Lord Mertyns of Mistwood poisoned with his whole household by a cask of Dornish wine, Lord Fell smothered in a brothel in King\u2019s Landing.",
+            "valid": 1.0,
+            "characters": [
+                "Balerion",
+                "Vhagar",
+                "Lord Fowler",
+                "Lord Vaith",
+                "Lady Toland",
+                "Lords of the Hellholt",
+                "Lord Connington",
+                "Lord Mertyns",
+                "Lord Fell"
+            ],
+            "places": [
+                "Dorne",
+                "Hellholt",
+                "Griffin's Roost",
+                "Mistwood",
+                "King's Landing"
+            ],
+            "events": [
+                "Dragon's Wroth"
+            ],
+            "verbs": [
+                "burned",
+                "returned",
+                "forced into hiding",
+                "murdered",
+                "collecting rewards",
+                "repaying blood with blood",
+                "killed",
+                "poisoned",
+                "smothered"
+            ],
+            "adjectives": [
+                "fused"
+            ]
+        },
+        {
+            "paragraph_id": 29,
+            "paragraph": "Nor were the Targaryens themselves exempt. The king was attacked thrice, and would have fallen on two of those occasions but for his guards. Queen Visenya was set upon one night in King\u2019s Landing. Two of her escorts were slain before Visenya herself cut down the last attacker with Dark Sister.",
+            "valid": 1.0,
+            "characters": [
+                "Targaryens",
+                "king",
+                "Queen Visenya"
+            ],
+            "places": [
+                "King's Landing"
+            ],
+            "events": [
+                "attacked thrice"
+            ],
+            "verbs": [
+                "were exempt",
+                "was set upon",
+                "were slain",
+                "cut down"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 30,
+            "paragraph": "The most infamous act of that bloody age occurred in 12 AC, when Wyl of Wyl, the Widow-lover, arrived uninvited at the wedding of Ser Jon Cafferen, heir to Fawnton, to Alys Oakheart, daughter to the Lord of Old Oak. Admitted through a postern gate by a treacherous servant, the Wyl attackers slew Lord Oakheart and most of the wedding guests, then made the bride look on as they gelded her husband. Afterward they took turns raping Lady Alys and her handmaids, then carried them off and sold them to a Myrish slaver.",
+            "valid": 1.0,
+            "characters": [
+                "Wyl of Wyl",
+                "Ser Jon Cafferen",
+                "Alys Oakheart",
+                "Lord Oakheart"
+            ],
+            "places": [
+                "Fawnton",
+                "Old Oak"
+            ],
+            "events": [
+                "wedding"
+            ],
+            "verbs": [
+                "arrived",
+                "slayed",
+                "gelded",
+                "raped",
+                "carried off",
+                "sold"
+            ],
+            "adjectives": [
+                "bloody",
+                "uninvited",
+                "treacherous"
+            ]
+        },
+        {
+            "paragraph_id": 31,
+            "paragraph": "By then Dorne was a smoking desert, beset by famine, plague, and blight. \u201cA blasted land,\u201d traders from the Free Cities called it. Yet House Martell still remained Unbowed, Unbent, Unbroken, as their words avowed. One Dornish knight, brought before Queen Visenya as a captive, insisted that Meria Martell would sooner see her people dead than slaves to House Targaryen. Visenya replied that she and her brother would be glad to oblige the princess.",
+            "valid": 1.0,
+            "characters": [
+                "Dorne",
+                "House Martell",
+                "Queen Visenya",
+                "Meria Martell",
+                "House Targaryen"
+            ],
+            "places": [
+                "Free Cities"
+            ],
+            "events": [],
+            "verbs": [
+                "smoking",
+                "beset",
+                "called",
+                "avowed",
+                "brought",
+                "insisted",
+                "see",
+                "oblige"
+            ],
+            "adjectives": [
+                "blasted",
+                "unbowed",
+                "unbent",
+                "unbroken"
+            ]
+        },
+        {
+            "paragraph_id": 32,
+            "paragraph": "Age and ill health finally did what dragons and armies could not. In 13 AC, Meria Martell, the Yellow Toad of Dorne, died abed (whilst having intimate relations with a stallion, her enemies insisted). Her son Nymor succeeded her as Lord of Sunspear and Prince of Dorne. Sixty years old, his health already failing, the new Dornish prince had no appetite for further slaughter. He began his reign by sending a delegation to King\u2019s Landing, to return the skull of the dragon Meraxes and offer King Aegon terms of peace. His own heir, his daughter Deria, led the embassy.",
+            "valid": 1.0,
+            "characters": [
+                "Meria Martell",
+                "Nymor",
+                "Aegon",
+                "Deria"
+            ],
+            "places": [
+                "Dorne",
+                "Sunspear",
+                "King's Landing"
+            ],
+            "events": [
+                "died abed",
+                "return the skull of the dragon Meraxes"
+            ],
+            "verbs": [
+                "succeeded",
+                "offered",
+                "led"
+            ],
+            "adjectives": [
+                "ill",
+                "intimate",
+                "failing"
+            ]
+        },
+        {
+            "paragraph_id": 33,
+            "paragraph": "Prince Nymor\u2019s peace proposals encountered strong opposition in King\u2019s Landing. Queen Visenya was hard set against them. \u201cNo peace without submission,\u201d she declared, and her friends on the king\u2019s council echoed her words. Orys Baratheon, who had grown bent and bitter in his later years, argued for sending Princess Deria back to her father less a hand. Lord Oakheart sent a raven, suggesting that the Dornish girl be sold into \u201cthe meanest brothel in King\u2019s Landing, till every beggar in the city has had his pleasure of her.\u201d Aegon Targaryen dismissed all such proposals; Princess Deria had come as an envoy under a banner of peace and would suffer no harm under his roof, he vowed.",
+            "valid": 1.0,
+            "characters": [
+                "Prince Nymor",
+                "Queen Visenya",
+                "Orys Baratheon",
+                "Lord Oakheart",
+                "Aegon Targaryen",
+                "Princess Deria"
+            ],
+            "places": [
+                "King's Landing"
+            ],
+            "events": [
+                "peace proposals"
+            ],
+            "verbs": [
+                "opposition",
+                "declared",
+                "argued",
+                "suggesting",
+                "dismissed"
+            ],
+            "adjectives": [
+                "strong",
+                "hard set against",
+                "bent and bitter"
+            ]
+        },
+        {
+            "paragraph_id": 34,
+            "paragraph": "The king was weary of war, all men agreed, but granting the Dornishmen peace without submission would be tantamount to saying that his beloved sister Rhaenys had died in vain, that all the blood and death had been for naught. The lords of his small council further cautioned that any such peace could be seen as a sign of weakness and might encourage fresh rebellions, which would then need to be put down. Aegon knew that the Reach, the stormlands, and the marches had suffered grievously during the fighting, and would neither forgive nor forget. Even in King\u2019s Landing, the king dared not let the Dornish outside the Aegonfort without a strong escort, for fear that the smallfolk of the city would tear them to pieces. For all these reasons, Grand Maester Lucan wrote later, the king was on the point of refusing the Dornish proposals and continuing the war.",
+            "valid": 1.0,
+            "characters": [
+                "king",
+                "Dornishmen",
+                "Rhaenys",
+                "lords",
+                "small council",
+                "Aegon",
+                "Reach",
+                "stormlands",
+                "marches",
+                "Grand Maester Lucan"
+            ],
+            "places": [
+                "King's Landing",
+                "Aegonfort"
+            ],
+            "events": [
+                "war",
+                "peace without submission"
+            ],
+            "verbs": [
+                "agreeing",
+                "cautioned",
+                "forgive",
+                "forget",
+                "dared not let"
+            ],
+            "adjectives": [
+                "beloved",
+                "fresh"
+            ]
+        },
+        {
+            "paragraph_id": 35,
+            "paragraph": "It was then that Princess Deria presented the king with a sealed letter from her father. \u201cFor your eyes only, Your Grace.\u201d",
+            "valid": 1.0,
+            "characters": [
+                "Princess Deria",
+                "king"
+            ],
+            "places": [],
+            "events": [
+                "presented the king with a sealed letter"
+            ],
+            "verbs": [
+                "presented"
+            ],
+            "adjectives": [
+                "sealed"
+            ]
+        },
+        {
+            "paragraph_id": 36,
+            "paragraph": "King Aegon read Prince Nymor\u2019s words in open court, stone-faced and silent, whilst seated on the Iron Throne. When he rose afterward, men said, his hand was dripping blood. He burned the letter and never spoke of it again, but that night he mounted Balerion and flew off across the waters of Blackwater Bay, to Dragonstone upon its smoking mountain. When he returned the next morning, Aegon Targaryen agreed to the terms proposed by Nymor. Soon thereafter he signed a treaty of eternal peace with Dorne.",
+            "valid": 1.0,
+            "characters": [
+                "King Aegon",
+                "Prince Nymor"
+            ],
+            "places": [
+                "Iron Throne",
+                "Blackwater Bay",
+                "Dragonstone"
+            ],
+            "events": [
+                "read Prince Nymor\u2019s words in open court",
+                "burned the letter",
+                "flew off across the waters of Blackwater Bay, to Dragonstone upon its smoking mountain.",
+                "signed a treaty of eternal peace with Dorne."
+            ],
+            "verbs": [
+                "read",
+                "said",
+                "mounted",
+                "flew",
+                "returned",
+                "agreed",
+                "signed"
+            ],
+            "adjectives": [
+                "open",
+                "stone-faced",
+                "silent",
+                "dripping blood"
+            ]
+        },
+        {
+            "paragraph_id": 37,
+            "paragraph": "To this day, no one can say with certainty what might have been in Deria\u2019s letter. Some claim it was a simple plea from one father to another, heartfelt words that touched King Aegon\u2019s heart. Others insist it was a list of all those lords and noble knights who had lost their lives during the war. Certain septons even went so far as to suggest that the missive was ensorceled, that it had been written by the Yellow Toad before her death, using a vial of Queen Rhaenys\u2019s own blood for ink, so that the king would be helpless to resist its malign magic.",
+            "valid": 1.0,
+            "characters": [
+                "Deria",
+                "King Aegon",
+                "Yellow Toad",
+                "Queen Rhaenys"
+            ],
+            "places": [],
+            "events": [
+                "war"
+            ],
+            "verbs": [
+                "say",
+                "claim",
+                "insist",
+                "suggest"
+            ],
+            "adjectives": [
+                "simple",
+                "heartfelt",
+                "noble",
+                "malign"
+            ]
+        },
+        {
+            "paragraph_id": 38,
+            "paragraph": "Grand Maester Clegg, who came to King\u2019s Landing many years later, concluded that Dorne no longer had the strength to fight. Driven by desperation, Clegg suggested, Prince Nymor might have threatened that, should his peace be refused, he would engage the Faceless Men of Braavos to kill King Aegon\u2019s son and heir, Queen Rhaenys\u2019s boy, Aenys, then but six years old. It may be so\u2026but no man will ever truly know.",
+            "valid": 1.0,
+            "characters": [
+                "Grand Maester Clegg",
+                "Prince Nymor",
+                "King Aegon",
+                "Queen Rhaenys",
+                "Aenys"
+            ],
+            "places": [
+                "King's Landing",
+                "Dorne",
+                "Braavos"
+            ],
+            "events": [],
+            "verbs": [
+                "come",
+                "fight",
+                "threatened",
+                "engage",
+                "kill"
+            ],
+            "adjectives": [
+                "many",
+                "desperate"
+            ]
+        },
+        {
+            "paragraph_id": 39,
+            "paragraph": "Thus ended the First Dornish War (4\u201313 AC).",
+            "valid": 1.0,
+            "characters": [],
+            "places": [],
+            "events": [
+                "First Dornish War"
+            ],
+            "verbs": [
+                "ended"
+            ],
+            "adjectives": []
+        },
+        {
+            "paragraph_id": 40,
+            "paragraph": "The Yellow Toad of Dorne had done what Harren the Black, the Two Kings, and Torrhen Stark could not; she had defeated Aegon Targaryen and his dragons. Yet north of the Red Mountains, her tactics earned her only scorn. \u201cDornish courage\u201d became a mocking name for cowardice amongst the lords and knights of Aegon\u2019s kingdoms. \u201cThe toad hops into her hole when threatened,\u201d wrote one scribe. Another said,  \u201cMeria  fought  like  a  woman,  with  lies  and  treachery  and witchery.\u201d The Dornish \u201cvictory\u201d (if victory it was) was seen to be dishonorable, and the survivors of the fight, and the sons and brothers of those who had fallen, promised one another that another day would come, and with it a reckoning.",
+            "valid": 1.0,
+            "characters": [
+                "The Yellow Toad of Dorne",
+                "Harren the Black",
+                "Two Kings",
+                "Torrhen Stark",
+                "Aegon Targaryen"
+            ],
+            "places": [
+                "Red Mountains"
+            ],
+            "events": [
+                "Dornish courage"
+            ],
+            "verbs": [
+                "hoped",
+                "fought"
+            ],
+            "adjectives": [
+                "scornful",
+                "mocking",
+                "cowardice",
+                "dishonorable"
+            ]
+        },
+        {
+            "paragraph_id": 41,
+            "paragraph": "Their vengeance would need to wait for a future generation, and the accession of a younger, more bloodthirsty king. Though he would sit the Iron Throne for another twenty-four years, the Dornish conflict was Aegon the Conqueror\u2019s last war.",
+            "valid": 1.0,
+            "characters": [
+                "Aegon the Conqueror"
+            ],
+            "places": [
+                "Iron Throne"
+            ],
+            "events": [
+                "Dornish conflict"
+            ],
+            "verbs": [
+                "wait",
+                "sit",
+                "conquer"
+            ],
+            "adjectives": [
+                "future",
+                "younger",
+                "bloodthirsty"
+            ]
+        }
+    ]
+}

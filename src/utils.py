@@ -58,7 +58,8 @@ def get_context_data(paragraph, api_key):
         max_tokens=2048,
         top_p=1.0,
         frequency_penalty=0.8,
-        presence_penalty=0.8
+        presence_penalty=0.8,
+        temperature=0.0
     )
     if is_json(response["choices"][0]["text"]):
         return json.loads(response["choices"][0]["text"]), 1.0, response
