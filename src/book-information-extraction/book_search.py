@@ -25,7 +25,7 @@ class Search:
         for genre in genre_list:
             print(genre)
             try:
-                OL_req = requests.get(f'http://openlibrary.org/subjects/{genre}.json?&limit=1')
+                OL_req = requests.get(f'http://openlibrary.org/subjects/{genre}.json?&limit=20')
             except:
                 raise Exception(ConnectionRefusedError)
             OL_req_dict = json.loads(OL_req.text)

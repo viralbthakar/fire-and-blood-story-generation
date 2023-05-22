@@ -295,3 +295,19 @@ def combine_multiple_text_files(data_path):
             with open(f, "rb") as infile:
                 outfile.write(infile.read())
     return os.path.join(data_path, "combined.txt")
+
+def extract_paragraphs(data_path):
+    with open(data_path) as f:
+        lines = f.readlines()
+
+    paragraph = ''
+    for line in lines:
+        if line.isspace():  # is it an empty line?
+            if paragraph:
+                yield paragraph
+                paragraph = ''
+            else:
+                continue
+        else:
+            paragraph += ' ' + line.strip()
+    yield paragraph

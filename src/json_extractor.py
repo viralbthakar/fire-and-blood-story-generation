@@ -2,7 +2,7 @@ import json
 import os
 import utils
 import argparse
-##This file attempts to create a text file with a schema like:
+##This file attempts to extract a model's generated data from a json file, and create a text file with a schema like:
 ## paragraph 1
 ## paragraph 2
 ## paragraph 3

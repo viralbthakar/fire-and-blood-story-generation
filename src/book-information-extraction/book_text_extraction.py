@@ -1,7 +1,7 @@
 import re
 import os
 
-BASE_PATH = "data/book/"
+BASE_PATH = "data/books/"
 class ChapterExtractor: #This class is meant to split a given text(str) into chapters
     def __init__(self, text:str):
         self.text = text #Actual book text 
@@ -54,7 +54,7 @@ def write_to_file(chapter_files_dict:dict, title:str):
         #For each chapter, write it's text to a file named from the chapter number, in the title drectory
         for chapter in chapter_files_dict: 
             print(f"Writing to file: {chapter}")
-            with open(f"data/{title}/{chapter}", "w") as file:
+            with open(f"{BASE_PATH}{title}/{chapter}", "w") as file:
                 file.write(chapter_files_dict[chapter])
     
 class ParagraphExtractor:
@@ -65,7 +65,7 @@ class ParagraphExtractor:
     def extract_paragraphs(self):
         quoted_text = re.compile(r'“.*”') #Delimeter for quoted text
         #Store the lines of the current file, so we can parse them into paragraphs
-        with open(f"data/{self.title}/{self.data_path}", "r") as f:
+        with open(f"{BASE_PATH}{self.title}/{self.data_path}", "r") as f:
             lines = f.readlines()
 
         paragraph = '' #Text containg current paragraph
@@ -97,13 +97,12 @@ class ParagraphExtractor:
     def generate_all_paragraphs(self):
 
         #Let's create new cleaned chapter files, with proper paragraphs
-        #But let's also add to our json file, where eahc book will have a chapters key, with a list of the clean chapter directories
-        with open(f"data/{self.title}/{self.data_path}_cleaned.txt", "w+") as file:
+        #But let's also add to our json file, where each book will have a "chapters" key, assoc with a list of the clean chapter directories
+        with open(f"{BASE_PATH}{self.title}/{self.data_path}_cleaned.txt", "w+") as file:
             for i in self.extract_paragraphs():
-                print("WRITING")
                 file.write(i)
                 file.write("\n")
-        yield f"data/books/{self.title}/{self.data_path}_cleaned.txt"
+        yield f"{BASE_PATH}{self.title}/{self.data_path}_cleaned.txt"
 
 
         

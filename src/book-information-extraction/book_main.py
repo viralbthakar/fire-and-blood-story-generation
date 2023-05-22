@@ -7,7 +7,7 @@ import book_search
 #In this file, we will take books from a given search and extract their paragraphs.
 #Specifically, it creates N*C text files, where N is the amount of text files, and C is the total amount of chapters found in each book
 #Each book will have a folder created for it, and this will contain c+1 files, c chapter files, and 1 text file of the whole book
-
+BASE_PATH = "data/books/"
 
 if __name__ == "__main__":
 
@@ -28,7 +28,7 @@ if __name__ == "__main__":
             p_extractor.extract_paragraphs()
             for path in p_extractor.generate_all_paragraphs():
                 m.book_dict[book]["chapters"].append(path)
-            os.remove(f"data/{title}/{file}")
+            os.remove(f"{BASE_PATH}{title}/{file}")
     with open("new_data.json", "w") as json_file:
             json.dump(m.book_dict, json_file)
     
